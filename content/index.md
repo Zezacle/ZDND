@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: ZD&D Homepage
 ---
 
 This is a blank Quartz installation.
