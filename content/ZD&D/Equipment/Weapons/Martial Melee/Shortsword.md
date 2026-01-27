@@ -8,8 +8,8 @@ tags:
 **Damage:** 1d6 piercing
 **Mastery:** [[Vex]]
 **Properties:** 
-- [[Defensive]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
 - [[Finesse]]
-- [[ZD&D/Glossary/Properties/Weapon/Light]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Light]]
 
 ![[shortsword.webp|300]]

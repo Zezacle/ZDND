@@ -8,11 +8,11 @@ tags:
 **Properties:** [[Versatile]]
 - One-Handed
 	- 1d8 slashing
-	- [[Vicious]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Vicious]]
 - [[Two-Handed]]
 	- 1d10 slashing
-	- [[Siege]]
-	- [[Vicious]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Vicious]]
 
 **Attunement:** Required
 

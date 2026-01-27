@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Turtlefolk
-
 Turtlefolk are a calm and solitary race of Beastfolk. They once wandered the wilds of [[Vanaheim]] observing the realm and practicing a peaceful way of life.
 
 ## Turtlefolk Features

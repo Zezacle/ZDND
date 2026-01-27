@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[Topple]]
 **Properties:** 
 - [[Heavy]]
-- [[Siege]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
 - [[Two-Handed]]
 
 **Attunement:** Required

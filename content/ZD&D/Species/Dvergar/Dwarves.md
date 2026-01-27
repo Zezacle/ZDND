@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Dwarves
-
 A Dwarf is a stout kind of Dvergar, most at home in the caverns and mines of [[Svartalfheim]]. They are a hardy bunch of proud manual laborers, known to be exquisite smiths and miners.
 
 ## Dwarven Features

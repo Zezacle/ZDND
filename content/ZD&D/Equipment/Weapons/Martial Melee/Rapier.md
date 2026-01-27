@@ -10,8 +10,8 @@ tags:
 **Properties:** 
 - *Special:*
 	- **Deftness Required.** When making an attack with this weapon, you must use your Dexterity for the attack and damage modifiers.
-- [[Defensive]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
 - [[Finesse]]
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[rapier.png|300]]

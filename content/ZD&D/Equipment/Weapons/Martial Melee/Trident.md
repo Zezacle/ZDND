@@ -9,11 +9,11 @@ tags:
 **Properties:** [[Versatile]]
 - One-Handed
 	- 1d6 piercing
-	- [[Aquatic]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Aquatic]]
 	- [[Thrown]] (20/60)
 - [[Two-Handed]]
 	- 3d2 piercing
-	- [[Aquatic]]
-	- [[Quick]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Aquatic]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[trident.png|300]]

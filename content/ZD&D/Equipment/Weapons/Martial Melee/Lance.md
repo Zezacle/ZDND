@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[Topple]]
 **Properties:** 
 - [[Heavy]]
-- [[Long]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Long]]
 - [[Two-Handed]] (unless mounted)
 
 ![[lance.jpg|300]]

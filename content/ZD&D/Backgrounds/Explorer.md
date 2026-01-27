@@ -1,6 +1,6 @@
 You were always fascinated with what was on the horizon. You set out one day to explore what lies beyond the edge of the map, learning self-sufficiency and a hearty respect for nature. The years of living beyond society have made you tough and worldly, and always ready to explore new places.
 
-**Feat:** [[Tough]]
+**Feat:** [[ZD&D/Feats/01) Origin Feats/Tough|Tough]]
 **Skill Proficiencies:** [[Athletics]] and [[Survival]]
 **Tool Proficiency:** [[Cartographer's Tools]]
 **Equipment:** *Choose A or B*

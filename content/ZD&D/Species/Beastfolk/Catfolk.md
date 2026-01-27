@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Catfolk
-
 Catfolk are a wide variety of Humanoid felines with appearances resembling many feline species such as Cats, Lions, Tigers, Lynxes and more.
 
 ## Catfolk Features

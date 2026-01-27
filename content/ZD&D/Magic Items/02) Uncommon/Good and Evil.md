@@ -14,7 +14,7 @@ tags:
 **Mastery:** [[Vex]] 
 **Weight:** 0.5 lb.
 **Damage:** 1d4 Radiant
-**Properties:** [[Finesse]], [[ZD&D/Glossary/Properties/Weapon/Light]]
+**Properties:** [[Finesse]], [[ZD&D/Glossary/Properties/Weapon Properties/Light]]
 
 #### Evil
 *Weapon (Knuckles)*
@@ -22,5 +22,5 @@ tags:
 **Mastery:** [[Sap]] 
 **Weight:** 0.5 lb.
 **Damage:** 1d4 Necrotic
-**Properties:** [[Finesse]], [[ZD&D/Glossary/Properties/Weapon/Light]]
+**Properties:** [[Finesse]], [[ZD&D/Glossary/Properties/Weapon Properties/Light]]
 

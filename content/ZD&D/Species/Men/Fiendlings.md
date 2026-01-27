@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Fiendlings
-
 Sometimes the Fiends of [[Muspelheim]] will attempt to impart their chaos upon mortal races. Men are the most susceptible to this meddling, with successful incursions into the souls of the unborn leading to the birth of persons known as Fiendlings. Fiendlings can possibly share a variety of anatomical features with fiends such as horns, tails, goat legs or exotic skin colors.
 
 ## Fiendling Features

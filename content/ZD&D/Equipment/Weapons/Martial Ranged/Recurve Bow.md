@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[Vex]]
 **Properties:** 
 - [[Ammunition]] (60/300; [[Arrows|Arrow]])
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 - [[Two-Handed]]
 
 ![[bow_recurve.webp|300]]

@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Halflings
-
 Halflings are a sociable and communal race. Due to their small stature, they are well versed in the art of the silvered tongue as well as disappearing acts. Every city of Men has a community of Halflings, often using their allocated spaces to the most.
 
 ## Halfling Features

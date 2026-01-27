@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Goliaths
-
 Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants - favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
 
 ## Goliath Features

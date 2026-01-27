@@ -8,10 +8,10 @@ aliases:
 *Martial Melee, 25 GP, 2 lb.*
 
 **Damage:** 1d6 slashing
-**Mastery:** [[Offhand]]
+**Mastery:** [[ZD&D/Glossary/Properties/Weapon Properties/Mastery/Offhand]]
 **Properties:**
 - [[Finesse]]
 - [[04) Backlink Glossary/Properties/Light|Light]]
-- [[Tripping]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Tripping]]
 
 ![[hooksword.webp|300]]

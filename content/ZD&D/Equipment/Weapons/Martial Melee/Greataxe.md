@@ -9,8 +9,8 @@ tags:
 **Mastery:** [[Cleave]]
 **Properties:** 
 - [[Heavy]]
-- [[Siege]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
 - [[Two-Handed]]
-- [[Vicious]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Vicious]]
 
 ![[greataxe.png|300]]

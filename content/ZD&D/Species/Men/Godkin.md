@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Godkin
-
 Mortal relatives of the Vanir and Aesir, Godkin are touched by the Gods' power. 
 
 ## Godkin Features

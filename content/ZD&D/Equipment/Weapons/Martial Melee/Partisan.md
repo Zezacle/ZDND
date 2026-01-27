@@ -12,6 +12,6 @@ tags:
 	- [[Reach]]
 - [[Two-Handed]]
 	- 2d4 slashing
-	- [[Quick]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[partisan.webp|300]]

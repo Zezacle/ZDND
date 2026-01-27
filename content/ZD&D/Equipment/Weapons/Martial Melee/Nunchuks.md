@@ -8,10 +8,10 @@ tags:
 **Damage:** 1d6 bludgeoning
 **Mastery:** [[Vex]]
 **Properties:**
-- [[Defensive]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
 - [[Finesse]]
-- [[Non-Lethal]]
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Non-Lethal]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 
 ![[nunchuks.jpg|300]]

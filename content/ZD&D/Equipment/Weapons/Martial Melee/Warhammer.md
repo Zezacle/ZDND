@@ -10,10 +10,10 @@ tags:
 - One-Handed
 	- 1d10 bludgeoning
 	- [[Heavy]]
-	- [[Siege]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
 - [[Two-Handed]]
 	- 1d12 bludgeoning
 	- [[Heavy]]
-	- [[Siege]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
 
 ![[warhammer.jpg|300]]

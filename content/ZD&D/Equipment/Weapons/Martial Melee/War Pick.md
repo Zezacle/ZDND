@@ -13,6 +13,6 @@ tags:
 	- 1d4 piercing
 	- *Special:* 
 		- **Hole Punch.** This weapon ignores worn armor. Creatures hit by it are treated as having an [[Armor Class]] equal to 10 + their Dexterity modifier. If they would have Natural Armor, then they can add their Constitution modifier as well.
-	- [[Siege]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Siege]]
 
 ![[warpick.webp|300]]

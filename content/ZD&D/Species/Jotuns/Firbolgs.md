@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Firbolgs
-
 Firbolgs are a peaceful race of the warm valleys of [[Jotunheim]]. These reclusive giants wander their territories protecting the flora and fauna from malicious actors with their magic. They have cow-like ears and large noses.
 
 ## Firbolg Features

@@ -8,4 +8,4 @@ You gain the following benefits.
 
 **Firing in Melee.** Being within 5 feet of an enemy doesn't impose [[Disadvantage]] on your attack rolls with crossbows.
 
-**Dual Wielding.** When you make the extra attack of the [[ZD&D/Glossary/Properties/Weapon/Light]] property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the [[ZD&D/Glossary/Properties/Weapon/Light]] property and you aren't already adding that modifier to the damage.
+**Dual Wielding.** When you make the extra attack of the [[ZD&D/Glossary/Properties/Weapon Properties/Light]] property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the [[ZD&D/Glossary/Properties/Weapon Properties/Light]] property and you aren't already adding that modifier to the damage.

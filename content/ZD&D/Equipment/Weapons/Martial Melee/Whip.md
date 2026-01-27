@@ -8,12 +8,12 @@ tags:
 **Damage:** 1 slashing
 **Mastery:** [[04) Backlink Glossary/Properties/Mastery/Slow|Slow]]
 **Properties:** 
-- [[Disarming]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Disarming]]
 - [[Finesse]]
 - [[04) Backlink Glossary/Properties/Light|Light]]
-- [[Non-Lethal]]
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Non-Lethal]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 - [[Reach]]
-- [[Tripping]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Tripping]]
 
 ![[whip.avif|300]]

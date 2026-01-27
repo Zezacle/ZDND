@@ -8,6 +8,6 @@ tags:
 **Damage:** 1d8 slashing
 **Mastery:** [[Graze]]
 **Properties:**
-- [[Defensive]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
 
 ![[armingsword.jpg|300]]

@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Lizardfolk
-
 Lizardfolk are a large carnivorous race with no qualms hunting other Beastfolk for food. A majority of Beastfolk avoid the Lizardfolk clans. Some orphaned eggs have been raised outside the clans and have learned to integrate with other cultures rather well. Lizardfolk resemble humanoid versions of a variety of Lizard-like reptiles.
 
 ## Lizardfolk Features

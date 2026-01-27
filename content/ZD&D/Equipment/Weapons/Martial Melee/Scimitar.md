@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[Nick]]
 **Properties:** 
 - [[Finesse]]
-- [[ZD&D/Glossary/Properties/Weapon/Light]]
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Light]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[scimitar.jpg|300]]

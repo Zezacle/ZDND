@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Dragonborn
-
 Brief Descript
 
 ## Dragonborn Features

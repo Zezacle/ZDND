@@ -8,7 +8,7 @@ tags:
 **Damage:** 1d6 piercing
 **Mastery:** [[04) Backlink Glossary/Properties/Mastery/Slow|Slow]]
 **Properties:** 
-- [[Aquatic]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Aquatic]]
 - [[04) Backlink Glossary/Properties/Light|Light]]
 - [[Thrown]] (30/90)
 

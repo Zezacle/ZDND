@@ -12,7 +12,7 @@ aliases:
 **Properties:** 
 - [[Ammunition]] (30/90; [[Bullets, Sling|Bullet]])
 - [[Finesse]]
-- [[Non-Lethal]]
-- [[Sluggish]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Non-Lethal]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Sluggish]]
 
 ![[sling.jpg|300]]

@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Grae Elves
-
 A Grae Elf is a ground dwelling elf of monochromatic skin and shorter stature. Despite their name, Grae is not a reference to their gray skin tones, and means "Low" in Old Elvish, their tongue of choice. The Grae Elf population is the smallest of the Elven races, but they are feared. Many Grae are skilled warriors or battlemages.
 
 ## Grae Elf Features

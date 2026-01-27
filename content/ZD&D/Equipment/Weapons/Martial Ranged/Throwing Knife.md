@@ -8,7 +8,7 @@ aliases:
 *Martial Ranged, 1 GP*
 
 **Damage:** 1d4 piercing
-**Mastery:** [[Offhand]]
+**Mastery:** [[ZD&D/Glossary/Properties/Weapon Properties/Mastery/Offhand]]
 **Properties:**
 - *Special:*
 	- **Quick Draw.** Whenever you make a ranged weapon attack with a throwing knife, you may draw a throwing knife before or after making the attack.

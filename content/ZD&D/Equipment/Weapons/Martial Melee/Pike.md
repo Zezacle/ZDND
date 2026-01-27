@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[Push]]
 **Properties:** 
 - [[Heavy]]
-- [[Long]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Long]]
 - [[Two-Handed]]
 
 ![[pike.png|300]]

@@ -1,7 +1,7 @@
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-You gain proficiency with [[Knuckles]] and [[Offensive Gauntlets]].
+You gain proficiency with [[Knuckles]] and [[Punching Gauntlet|Punching Gauntlets]].
 
-Damage Rolls you make with [[Unarmed Strike|Unarmed Strikes]], [[Knuckles]] and [[Offensive Gauntlets]] can benefit from both your Strength and Dexterity modifiers.
+Damage Rolls you make with [[Unarmed Strike|Unarmed Strikes]], [[Knuckles]] and [[Punching Gauntlet|Punching Gauntlets]] can benefit from both your Strength and Dexterity modifiers.
 
-At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature [[04) Backlink Glossary/Conditions/Grappled]] by you.
+If both of your hands are empty or holding [[Knuckles]] or [[Punching Gauntlet|Punching Gauntlets]] you gain a +1 bonus to your [[Evasion Class]].

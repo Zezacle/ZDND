@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Rodentians
-
 The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. They are a prideful clan of surprising bravery.
 
 ## Rodentian Features
@@ -17,7 +15,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 - **Weight:** 35lbs - 50lbs *(16kg - 22kg)*
 - **Speed:** 30ft *(6 sq.)*, [[Climbing]] 20ft *(4 sq.)*
 
-**Ability Score Increase.** Your Dexterity score increases by 2, and your Charisma score increases by 1.
+**Ability Score Increase.** Your Dexterity score increases by 2, and your Constitution score increases by 1.
 
 **Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[ZD&D/Glossary/Rules/Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 

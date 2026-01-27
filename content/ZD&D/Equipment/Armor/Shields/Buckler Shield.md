@@ -13,5 +13,5 @@ tags:
 - **Weapon.** A [[Buckler Shield]] is also a weapon, with the following properties:
 	- 1d4 bludgeoning
 	- [[04) Backlink Glossary/Properties/Light|Light]]
-	- [[Defensive]]
-	- **Mastery:** [[Offhand]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
+	- **Mastery:** [[ZD&D/Glossary/Properties/Weapon Properties/Mastery/Offhand]]

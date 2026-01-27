@@ -8,7 +8,7 @@ tags:
 **Damage:** 1d10 slashing
 **Mastery:** [[Cleave]]
 **Properties:** 
-- [[Disarming]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Disarming]]
 - [[Heavy]]
 - [[Reach]]
 - [[Two-Handed]]

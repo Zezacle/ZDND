@@ -2,12 +2,13 @@ You were raised in a castle, surrounded by wealth, power, and privilege. Your fa
 
 **Feat:** [[Skilled]]
 **Skill Proficiencies:** [[History]] and [[Persuasion]]
-**Tool Proficiency:** Choose one kind of [[Gaming Sets|Gaming Set]]
+**Tool Proficiency:** [[Calligrapher's Supplies]]
 **Equipment:** *Choose A or B*
 - A
-	- [[Gaming Sets|Gaming Set]]
+	- [[Calligrapher's Supplies]]
+	- Signet Ring
 	- [[Fine Clothes]]
 	- [[Perfume]]
-	- 29 GP
-- B
 	- 50 GP
+- B
+	- 70 GP

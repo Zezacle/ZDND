@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Orcs
-
 An Orc is a muscular brute with green or gray skin and prominent tusks protruding from their lower jaw. Considered by scholars as the "youngest" species in the Collapsed Realms, Orcs are a tribal species once native to the bogs and plains that rested in the center of [[Svartalfheim]].
 
 ## Orc Features

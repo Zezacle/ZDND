@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Fae Elves
-
 A Fae Elf or 'High Elf' is the elegant and intelligent people that once ruled [[Alfheim|Alfheim's]] surface. Easily identified by their long, light colored hair and cream colored skin, these elves are well versed in old magic and various disciplines of art.
 
 ## Fae Elf Features
@@ -17,7 +15,7 @@ A Fae Elf or 'High Elf' is the elegant and intelligent people that once ruled [[
 - **Weight:** 100lbs - 200lbs *(45kg - 90kg)*
 - **Speed:** 30ft *(6 sq.)*
 
-**Ability Score Increase.** Your Intelligence score increases by 2, and your Dexterity score increases by 1.
+**Ability Score Increase.** Your Intelligence score increases by 2, and your Wisdom score increases by 1.
 
 **Astute.** If you are not already proficient in either the [[Arcana]] and [[Insight]] skills, you have [[Half Proficiency]] in those skills.
 

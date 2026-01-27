@@ -11,7 +11,7 @@ tags:
 - *Special:* This weapon deals an additional damage depending on what kind of mace it is. This property cannot be changed once decided.
 	- **Morningstar:** + 1d4 piercing
 	- **Flanged Mace:** + 1d4 slashing
-- [[Vicious]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Vicious]]
 
 #### Morningstar
 ![[macespiked.jpg|300]]

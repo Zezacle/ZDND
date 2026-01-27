@@ -13,6 +13,6 @@ tags:
 	- [[Thrown]] (20/60)
 - [[Two-Handed]]
 	- 1d8 piercing
-	- [[Quick]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[spear.png|300]]

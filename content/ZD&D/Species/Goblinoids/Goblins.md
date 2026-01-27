@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Goblin
-
 Goblins are a small and prolific race known for ambushing travelers and stealing pilfering everything in sight. Short stature, green skin and long pointed ears, Goblins are a cunning and nimble race that rely on their Goblinoid brethren for survival.
 
 ## Goblin Features

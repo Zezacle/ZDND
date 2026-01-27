@@ -12,6 +12,6 @@ tags:
 	- [[Finesse]]
 - [[Two-Handed]]
 	- 1d10 slashing
-	- [[Defensive]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Defensive]]
 
 ![[longsword.webp|300]]

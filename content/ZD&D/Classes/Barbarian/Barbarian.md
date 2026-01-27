@@ -9,7 +9,7 @@
 | **Skill Proficiencies**        | *Choose 2:* [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]] or [[Survival]]                                                                               |
 | **Weapon Proficiencies**       | Simple and Martial [[Weapons]]                                                                                                                                                             |
 | **Armor Training**             | Light Armor, Medium Armor and Shields                                                                                                                                                      |
-| **Starting Equipment**         | *Choose A or B:* (A) [[ZD&D/Equipment/Weapons/Martial Melee/Greataxe\|Greataxe]], 4x [[ZD&D/Equipment/Weapons/Simple Melee/Handaxe\|Handaxe]], [[Explorer_s Pack]] and 15 GP; or (B) 75 GP |
+| **Starting Equipment**         | *Choose A or B:* (A) [[ZD&D/Equipment/Weapons/Martial Melee/Greataxe\|Greataxe]], 4x [[ZD&D/Equipment/Weapons/Simple Melee/Handaxe\|Handaxe]], [[Explorer's Pack]] and 15 GP; or (B) 75 GP |
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm's fury, and a sea's turmoil.
 
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.

@@ -10,7 +10,7 @@ tags:
 - One-Handed
 	- 1d8 bludgeoning
 	- [[Heavy]]
-	- [[Sluggish]]
+	- [[ZD&D/Glossary/Properties/Weapon Properties/Sluggish]]
 - [[Two-Handed]]
 	- 1d10 bludgeoning
 	- [[Heavy]]

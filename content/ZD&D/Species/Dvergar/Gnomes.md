@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Gnomes
-
 A Gnome is a Dvergar touched by magic. They are smaller and weaker than their Dwarvish cousins, but share their creative drive. They have a knack for understanding magic and mechanisms, making them excellent engineers of any discipline.
 
 ## Gnomish Features

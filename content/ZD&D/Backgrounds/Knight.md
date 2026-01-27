@@ -2,12 +2,13 @@ You spent your youth apprenticing under a knight as a page and later as a squire
 
 **Feat:** [[Skilled]]
 **Skill Proficiencies:** [[Animal Handling]] and [[Persuasion]]
-**Tool Proficiency:** Choose one [[Musical Instruments|Musical Instrument]]
+**Tool Proficiency:** Choose one kind of [[Gaming Sets|Gaming Set]]
 **Equipment:** *Choose A or B*
 - A
-	- [[Musical Instruments|Musical Instrument]] (same as above)
+	- [[Gaming Sets|Gaming Set]] (same as above)
+	- [[Arming Sword]]
 	- [[Traveler's Clothes]]
-	- [[Gaming Sets|Gaming Set]]
-	- 30 GP
+	- Papers of Knighthood
+	- 37 GP
 - B
 	- 50 GP

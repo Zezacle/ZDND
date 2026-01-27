@@ -2,8 +2,6 @@
 tags:
   - lore
 ---
-# Mortae Elves
-
 A Mortae Elf or 'Middle Elf' is identifiable by their tall stature, shorter elven ears and diverse skin and hair tones, from dark to pale, similar to Men. Otherwise known as 'Wood Elves,' the Mortae are dexterous hunters, skilled at navigating the dense canopies of their home forests.
 
 ## Mortae Elf Features

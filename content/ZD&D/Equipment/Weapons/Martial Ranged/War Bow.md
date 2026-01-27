@@ -13,7 +13,7 @@ tags:
 	- **Ranged Great Weapon.** You have [[Disadvantage]] on attack rolls against creatures within 20 feet of you.
 - [[Ammunition]] (150/600; [[Heavy Arrow]])
 - [[Heavy]]
-- [[Sluggish]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Sluggish]]
 - [[Two-Handed]]
 
 ![[bow_war.jpg|300]]

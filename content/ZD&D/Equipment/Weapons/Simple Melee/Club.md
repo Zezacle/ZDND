@@ -9,7 +9,7 @@ tags:
 **Mastery:** [[04) Backlink Glossary/Properties/Mastery/Slow|Slow]]
 **Properties:** 
 - [[04) Backlink Glossary/Properties/Light|Light]]
-- [[Non-Lethal]]
-- [[Quick]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Non-Lethal]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Quick]]
 
 ![[club.jpg|300]]

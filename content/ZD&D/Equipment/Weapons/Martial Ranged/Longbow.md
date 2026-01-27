@@ -11,7 +11,7 @@ tags:
 - [[Ammunition]] (100/400; [[Arrows|Arrow]])
 - [[Finesse]]
 - [[Heavy]]
-- [[Sluggish]]
+- [[ZD&D/Glossary/Properties/Weapon Properties/Sluggish]]
 - [[Two-Handed]]
 
 ![[bow_long.jpg|300]]

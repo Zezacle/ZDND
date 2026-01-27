@@ -6,7 +6,7 @@ tags:
 *Simple Melee, 1 GP, 2 lb.*
 
 **Damage:** 1d4 bludgeoning
-**Mastery:** [[Offhand]]
+**Mastery:** [[ZD&D/Glossary/Properties/Weapon Properties/Mastery/Offhand]]
 **Properties:** 
 - [[04) Backlink Glossary/Properties/Light|Light]]
 - [[Thrown]] (10/30)
