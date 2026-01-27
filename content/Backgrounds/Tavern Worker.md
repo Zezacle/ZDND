@@ -1,3 +1,7 @@
+---
+title: '"<% tp.file.title %>"'
+draft: false
+---
 #### Tavern Worker
 You spent many years working a tavern as a server, offering drinks to adventurers and drunkards alike. Your time dealing with so many travelers taught you how to read people and how to flatter them. You also learned about various types of alcohol and how to make them. Finally, when all else failed, you learned how to defend yourself in a bar brawl.
 

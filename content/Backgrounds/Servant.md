@@ -1,3 +1,7 @@
+---
+title: '"<% tp.file.title %>"'
+draft: false
+---
 #### Servant
 Dutiful and hardworking, you've lived a life beneath the notice of those whose lives you make easier. A good servant has many talents, but being quiet and unobtrusive allows you to exercise them without drawing undo attention.
 
