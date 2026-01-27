@@ -1,5 +1,6 @@
 ---
 draft: false
+title: ph
 ---
 #### Explorer
 You were always fascinated with what was on the horizon. You set out one day to explore what lies beyond the edge of the map, learning self-sufficiency and a hearty respect for nature. The years of living beyond society have made you tough and worldly, and always ready to explore new places.

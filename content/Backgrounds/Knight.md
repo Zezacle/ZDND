@@ -1,5 +1,6 @@
 ---
 draft: false
+title: ph
 ---
 #### Knight
 You spent your youth apprenticing under a knight as a page and later as a squire, and learning the arts of horsemanship, politics, and chivalry. The work was hard, but you learned much about both the court and the battlefield. Eventually, you were dubbed a knight, rewarded with the title “knight-errant”, and given the opportunity to spread glory in your liege’s name.
