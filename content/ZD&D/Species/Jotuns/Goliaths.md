@@ -21,7 +21,7 @@ Towering over most folk, goliaths are distant descendants of giants. Each goliat
 
 **Large Form.** Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have [[Advantage]] on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a [[Long Rest]].
 
-**Mountain Born.** You have [[Resistance]] to Cold damage. You have [[Advantage]] on Constitution saving throws against exposure to the elements.
+**Mountain Born.** You have [[ZD&D/Glossary/Rules/Resistance]] to Cold damage. You have [[Advantage]] on Constitution saving throws against exposure to the elements.
 
 **Powerful Build.** You have [[Advantage]] on any ability check you make to end the [[04) Backlink Glossary/Conditions/Grappled|Grappled]] condition. You also count as one size larger when determining your carrying capacity.
 

@@ -19,7 +19,7 @@ Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are
 
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Strength score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[ZD&D/Glossary/Rules/Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
 **Regimented.** You deal an extra 1d6 damage to a creature you hit with an attack while your are within 5 feet of an Allied Creature that isn't [[Incapacitated]]. This damage increases by 1d6 when you reach character levels 5 (2d6), 11 (3d6), and 17 (4d6).
 

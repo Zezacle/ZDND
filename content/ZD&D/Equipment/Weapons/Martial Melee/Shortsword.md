@@ -10,6 +10,6 @@ tags:
 **Properties:** 
 - [[Defensive]]
 - [[Finesse]]
-- [[Light]]
+- [[ZD&D/Glossary/Properties/Weapon/Light]]
 
 ![[shortsword.webp|300]]

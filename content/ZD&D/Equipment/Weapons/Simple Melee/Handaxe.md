@@ -8,7 +8,7 @@ tags:
 **Damage:** 1d6 slashing
 **Mastery:** [[Offhand]]
 **Properties:** 
-- [[Light]]
+- [[ZD&D/Glossary/Properties/Weapon/Light]]
 - [[Siege]]
 - [[Thrown]] (10/30)
 

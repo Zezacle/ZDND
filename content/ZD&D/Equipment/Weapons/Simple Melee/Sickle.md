@@ -8,7 +8,7 @@ tags:
 **Damage:** 1d4 slashing
 **Mastery:** [[Vex]]
 **Properties:** 
-- [[Light]]
+- [[ZD&D/Glossary/Properties/Weapon/Light]]
 - [[Vicious]]
 
 ![[sickle.webp|300]]

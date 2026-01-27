@@ -11,7 +11,7 @@ tags:
 - *Special:* 
 	- **Fist Weapon.** When you hit a target, you can **Shove** or **Grapple** instead of dealing damage similar to an [[Unarmed Strike]].
 	- **Worn Weapon.** When dual wielding two Punching Gauntlets, you gain +1 AC. Additionally, you have [[Advantage]] on saving throws against being disarmed while wielding this weapon.
-- [[Light]]
+- [[ZD&D/Glossary/Properties/Weapon/Light]]
 - [[Non-Lethal]]
 - [[Quick]]
 

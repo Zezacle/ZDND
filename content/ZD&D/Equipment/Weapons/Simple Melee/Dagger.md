@@ -10,7 +10,7 @@ tags:
 **Properties:** 
 - [[Aquatic]]
 - [[Finesse]]
-- [[Light]]
+- [[ZD&D/Glossary/Properties/Weapon/Light]]
 - [[Quick]]
 - [[Thrown]] (Range 10/30)
 

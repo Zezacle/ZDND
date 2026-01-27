@@ -19,7 +19,7 @@ Goblins are a small and prolific race known for ambushing travelers and stealing
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Constitution score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[ZD&D/Glossary/Rules/Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
 **Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 

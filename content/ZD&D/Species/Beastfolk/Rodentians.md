@@ -19,7 +19,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Charisma score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[ZD&D/Glossary/Rules/Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
 **Rodent's Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
 

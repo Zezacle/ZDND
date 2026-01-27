@@ -19,7 +19,7 @@ Mortal relatives of the Vanir and Aesir, Godkin are touched by the Gods' power.
 
 **Ability Score Increase.** Increase one ability score by 2, and increase a different one by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
-**Celestial Resistance.** You have [[Resistance]] to Necrotic damage and Radiant damage.
+**Celestial Resistance.** You have [[ZD&D/Glossary/Rules/Resistance]] to Necrotic damage and Radiant damage.
 
 **Glide of the Gods.** The divines carry you to safety from any height. When falling, your speed slows drastically as you approach the ground and you take no fall damage, even if you are [[Unconscious]]. You cannot benefit from this trait if you are over encumbered or carrying a Medium or larger creature.
 

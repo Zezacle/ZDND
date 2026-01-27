@@ -19,7 +19,7 @@ Brief Descript
 
 **Ability Score Increase.** Your Strength score increases by 2, and your Intelligence score increases by 1.
 
-**Draconic Ancestry.** Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage [[Resistance]] traits as well as your appearance.
+**Draconic Ancestry.** Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage [[ZD&D/Glossary/Rules/Resistance]] traits as well as your appearance.
 
 #### Draconic Ancestors
 | Draconic Ancestry  | Damage Type |
@@ -34,6 +34,6 @@ Brief Descript
 
 You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
-**Damage Resistance.** You have [[Resistance]] to the damage type determined by your Draconic Ancestry trait.
+**Damage Resistance.** You have [[ZD&D/Glossary/Rules/Resistance]] to the damage type determined by your Draconic Ancestry trait.
 
 **Scaled Skin.** When not wearing armor, you have an [[Armor Class|AC]] equal to 10 + your Dexterity modifier + your Constitution modifier. If you are using a shield, you can apply the shield’s bonus as normal.

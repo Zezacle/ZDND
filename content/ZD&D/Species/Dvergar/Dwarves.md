@@ -19,11 +19,11 @@ A Dwarf is a stout kind of Dvergar, most at home in the caverns and mines of [[S
 
 **Ability Score Increase.** Your Constitution score increases by 2, and your Strength score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[ZD&D/Glossary/Rules/Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
 **Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
-**Dwarven Resilience.** You have [[Resistance]] to [[Poison]] damage. You also have [[Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition.
+**Dwarven Resilience.** You have [[ZD&D/Glossary/Rules/Resistance]] to [[Poison]] damage. You also have [[Advantage]] on saving throws you make to avoid or end the [[Poisoned]] condition.
 
 **Stonecunning.** As a Bonus Action, you gain [[Tremorsense]] with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [[Tremorsense]]. The stone can be natural or worked.
 
