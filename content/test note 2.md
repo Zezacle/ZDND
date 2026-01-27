@@ -1,5 +1,5 @@
 ---
 title: unplublishable
-draft: true
+draft: false
 ---
 flkajd;lkfjaklsdf;alkdsf
