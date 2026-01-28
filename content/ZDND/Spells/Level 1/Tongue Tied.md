@@ -1,9 +1,10 @@
 ---
 tags:
+  - new
   - spell
-  - bard
-  - warlock
-  - wizard
+  - spell-list/bard
+  - spell-list/warlock
+  - spell-list/wizard
 school: Enchantment
 spell_level: "1"
 ---

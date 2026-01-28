@@ -1,10 +1,11 @@
 ---
 tags:
+  - new
   - spell
-  - cleric
-  - druid
-  - paladin
-  - warlock
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/paladin
+  - spell-list/warlock
 school: Evocation
 spell_level: "4"
 ---

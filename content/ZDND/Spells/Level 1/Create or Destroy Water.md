@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - cleric
-  - druid
+  - spell-list/cleric
+  - spell-list/druid
 school: Transmutation
 spell_level: "1"
 ---

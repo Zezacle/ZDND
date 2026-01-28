@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
+  - new
 ---
 #### [[Knuckles]] (1 GP)
 *Simple Melee, 1 GP*

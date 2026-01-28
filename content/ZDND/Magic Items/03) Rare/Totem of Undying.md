@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - magicitem
 ---
 #### [[Totem of Undying]]

@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 ---
 #### [[Partisan]] (5 GP)
 *Martial Melee, 5 GP, 3 lb.*

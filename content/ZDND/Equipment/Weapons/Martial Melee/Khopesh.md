@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 ---
 #### [[Khopesh]] (25 GP)
 *Martial Melee, 25 GP, 3 lb.*

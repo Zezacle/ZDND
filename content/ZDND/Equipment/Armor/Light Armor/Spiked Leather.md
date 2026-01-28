@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/light
+  - new
 ---
 #### [[Padded]] Armor (5 GP)
 *Light Armor (1 Minute to Don or Doff)*

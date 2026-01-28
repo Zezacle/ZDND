@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Maul]] (15 GP)
 *Martial Melee, 15 GP, 10 lb.*

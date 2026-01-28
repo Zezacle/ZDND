@@ -1,9 +1,10 @@
 ---
 tags:
+  - new
   - spell
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Evocation
 spell_level: "4"
 ---

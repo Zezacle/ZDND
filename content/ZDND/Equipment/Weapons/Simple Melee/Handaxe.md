@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
 ---
 #### [[Handaxe]] (2 GP)
 *Simple Melee, 2 GP, 2 lb.*

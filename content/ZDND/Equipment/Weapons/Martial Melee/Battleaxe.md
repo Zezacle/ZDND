@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Battleaxe]] (10 GP)
 *Martial Melee, 10 GP, 4 lb.*

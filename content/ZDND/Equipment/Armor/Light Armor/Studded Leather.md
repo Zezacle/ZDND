@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/light
 ---
 #### [[Studded Leather]] Armor (50 GP)
 *Light Armor (1 Minute to Don or Doff)*

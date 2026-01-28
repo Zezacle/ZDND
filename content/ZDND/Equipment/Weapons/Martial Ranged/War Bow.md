@@ -1,8 +1,9 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-ranged
+  - new
 ---
-#### [[Longbow]] (50 GP)
+#### [[War Bow]] (50 GP)
 *Martial Ranged, 50 GP, 5 lb.*
 
 **Damage:** 3d4 piercing

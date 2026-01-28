@@ -1,9 +1,9 @@
 ---
 tags:
   - spell
-  - artificer
-  - bard
-  - wizard
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/wizard
 school: Divination
 spell_level: "1"
 ---

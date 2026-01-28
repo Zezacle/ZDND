@@ -1,7 +1,8 @@
 ---
 tags:
+  - new
   - spell
-  - bard
+  - spell-list/bard
 school: Illusion
 spell_level: "1"
 ---

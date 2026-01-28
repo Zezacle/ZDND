@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - magicitem
 ---
 *Weapon (Battleaxe), Rare (Requires Attunement)*

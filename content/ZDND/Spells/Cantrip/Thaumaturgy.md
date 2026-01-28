@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - cleric
+  - spell-list/cleric
 school: Transmutation
 spell_level: "0"
 ---

@@ -1,10 +1,11 @@
 ---
 tags:
+  - new
   - spell
-  - cleric
-  - druid
-  - ranger
-  - wizard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/wizard
 school: Necromancy
 spell_level: "1"
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - ranger
+  - spell-list/ranger
 school: Divination
 spell_level: "1"
 ---

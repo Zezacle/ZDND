@@ -1,10 +1,11 @@
 ---
 tags:
+  - new
   - spell
-  - bard
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Illusion
 spell_level: "3"
 ---
@@ -13,7 +14,7 @@ spell_level: "3"
 **Casting Time:** Action
 **Range:** 30 feet
 **Components:** V, S, M (a drop of the caster's blood)
-**Duration:** Concentration, up to 10 minutes
+**Duration:** [[Concentration]], up to 10 minutes
 
 As you mutter the verbal components of the spell, the blood on your hands sizzles away to smoke, which manifests into a copy of yourself created from smoke and shadow in an unoccupied space with 30ft that you can see. The clone has a number of hit points equal to 3d4 + your Constitution modifier and an AC of 10 + your Dexterity modifier.
 

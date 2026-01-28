@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/tool
 ---
 **Ability:** X 
 **Weight:** # lb.

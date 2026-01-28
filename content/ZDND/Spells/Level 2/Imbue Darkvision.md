@@ -13,4 +13,4 @@ spell_level: "2"
 **Components:** V, S, M (a dried carrot)
 **Duration:** 8 hours
 
-For the duration, a willing creature you touch has Darkvision with a range of 120 feet.
+For the duration, a willing creature you touch has Darkvision with a range of 90 feet.

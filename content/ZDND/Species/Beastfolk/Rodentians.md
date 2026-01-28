@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/beastfolk
 ---
 The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. They are a prideful clan of surprising bravery.
 

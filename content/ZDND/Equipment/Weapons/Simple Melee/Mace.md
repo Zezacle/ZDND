@@ -1,11 +1,11 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
 ---
 #### [[Mace]] (5 GP)
 *Simple Melee, 5 GP, 4 lb.*
 
-**Damage:** 1d4 bludgeoning (+ 1d4 piercing *or* slashing )
+**Damage:** 1d4 bludgeoning (+ 1d4 piercing *or* slashing)
 **Mastery:** [[Sap]]
 **Properties:**
 - *Special:* This weapon deals an additional damage depending on what kind of mace it is. This property cannot be changed once decided.

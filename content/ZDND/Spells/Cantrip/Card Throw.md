@@ -1,14 +1,14 @@
 ---
 tags:
+  - new
   - spell
-  - bard
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/bard
+  - spell-list/warlock
+  - spell-list/wizard
 school: Evocation
 spell_level: "0"
 ---
-*Evocation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+*Evocation Cantrip (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action
 **Range:** 60 feet

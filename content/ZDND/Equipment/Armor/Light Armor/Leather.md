@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/light
 ---
 #### [[Leather]] Armor (30 GP)
 *Light Armor (1 Minute to Don or Doff)*

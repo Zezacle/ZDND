@@ -1,15 +1,16 @@
 ---
 tags:
+  - new
   - spell
-  - cleric
-  - sorcerer
-  - wizard
+  - spell-list/cleric
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Abjuration
 spell_level: "2"
 ---
 *Level 2 Abjuration (Cleric, Sorcerer, Wizard)*
 
-**Casting Time:** Reaction
+**Casting Time:** Reaction, which you take upon being damaged by a spell
 **Range:** Self
 **Components:** V, S
 **Duration:** Instantaneous

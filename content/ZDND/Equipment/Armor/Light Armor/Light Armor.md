@@ -1,4 +1,10 @@
-### Light Armor (1 Minute to Don or Doff)
+---
+aliases:
+  - Light
+tags:
+  - equipment/armor/light
+---
+### 1 Minute to Don or Doff
 
 | Cost  | Light Armor         |  Armor Class  | Weight |                 Properties |
 | ----- | ------------------- | :-----------: | :----: | -------------------------: |

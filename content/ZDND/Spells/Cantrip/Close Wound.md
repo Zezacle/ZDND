@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - bard
-  - cleric
-  - druid
-  - ranger
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/ranger
 school: Abjuration
 spell_level: "0"
 ---

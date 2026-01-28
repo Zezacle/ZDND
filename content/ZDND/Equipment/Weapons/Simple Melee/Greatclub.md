@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
 ---
 #### [[Greatclub]] (2 SP)
 *Simple Melee, 2 SP, 10 lb.*

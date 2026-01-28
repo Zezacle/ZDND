@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Halberd]] (20 GP)
 *Martial Melee, 20 GP, 6 lb.*

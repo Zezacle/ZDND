@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Pike]] (5 GP)
 *Martial Melee, 5 GP, 18 lb.*

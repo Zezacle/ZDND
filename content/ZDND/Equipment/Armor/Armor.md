@@ -1,5 +1,6 @@
-# Armor
-
+---
+draft: true
+---
 ### Light Armor (1 Minute to Don or Doff)
 
 | Cost  | Light Armor         |  Armor Class  | Weight |                 Properties |
@@ -35,5 +36,5 @@
 | Cost  | Shield             | AC  | EC  | Weight |                      Properties |
 | :---- | ------------------ | :-: | :-: | :----: | ------------------------------: |
 | 15 GP | [[Buckler Shield]] |  -  | +1  | 2 lb.  |                          Weapon |
-| 5 GP  | [[Round Shield]]   | +2  | +2  | 6 lb.  |                               - |
+| 5 GP  | [[Arm Shield]]   | +2  | +2  | 6 lb.  |                               - |
 | 15 GP | [[Tower Shield]]   | +2  | +2  | 15 lb. | Cover, Sluggish, [[Unstealthy]] |

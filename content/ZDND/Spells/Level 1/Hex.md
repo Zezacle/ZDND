@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - warlock
+  - spell-list/warlock
 school: Enchantment
 spell_level: "1"
 ---

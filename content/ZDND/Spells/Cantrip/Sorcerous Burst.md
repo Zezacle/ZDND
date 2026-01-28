@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - sorcerer
+  - spell-list/sorcerer
 school: Evocation
 spell_level: "0"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-ranged
 aliases:
   - Blowpipes
 ---

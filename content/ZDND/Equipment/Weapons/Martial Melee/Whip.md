@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Whip]] (2 GP)
 *Martial Melee, 2 GP, 2 lb.*

@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - cleric
+  - spell-list/cleric
 school: Evocation
 spell_level: "0"
 ---

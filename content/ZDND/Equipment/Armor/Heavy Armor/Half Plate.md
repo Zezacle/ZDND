@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Half Plate]] Armor (800 GP)
 *Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)*

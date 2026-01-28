@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Ringmail]] Armor (50 GP)
 *Medium Armor (5 Minutes to Don and 1 Minutes to Doff)*

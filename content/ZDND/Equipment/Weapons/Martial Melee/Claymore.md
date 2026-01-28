@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 ---
 #### [[Claymore]] (75 GP)
 *Martial Melee, 75 GP, 7 lb.*

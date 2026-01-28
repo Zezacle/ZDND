@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - artificer
+  - spell-list/artificer
 school: Transmutation
 spell_level: "2"
 ---

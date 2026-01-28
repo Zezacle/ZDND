@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/goblinoid
 ---
 With powerful long arms, Bugbears are the largest and most dangerous of the Goblinoids. They have an uncanny ability to hide in the most unexpected spaces.
 

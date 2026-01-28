@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/beastfolk
 ---
 Harefolk are large rabbits with powerful legs. Built for speed and dexterity, only magically enhanced creatures can keep pace with a Harefolk at full tilt.
 

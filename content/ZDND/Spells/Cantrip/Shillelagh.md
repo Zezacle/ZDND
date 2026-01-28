@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - druid
+  - spell-list/druid
 school: Transmutation
 spell_level: "0"
 ---

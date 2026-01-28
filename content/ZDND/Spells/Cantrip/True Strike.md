@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - bard
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Divination
 spell_level: "0"
 ---

@@ -1,4 +1,10 @@
-### Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
+---
+aliases:
+  - Heavy
+tags:
+  - equipment/armor/heavy
+---
+### 10 Minutes to Don and 5 Minutes to Doff
 
 | Cost    | Heavy Armor              |      Armor Class      | Weight | Str. Req. |                               Properties |
 | ------- | ------------------------ | :-------------------: | :----: | :-------: | ---------------------------------------: |

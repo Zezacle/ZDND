@@ -1,11 +1,11 @@
 ---
 tags:
   - spell
-  - bard
-  - druid
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/bard
+  - spell-list/druid
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Enchantment
 spell_level: "1"
 ---

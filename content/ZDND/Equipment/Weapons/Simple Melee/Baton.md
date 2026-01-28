@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
+  - new
 aliases:
   - Batons
 ---

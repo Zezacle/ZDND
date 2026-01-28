@@ -1,14 +1,15 @@
 ---
 tags:
+  - new
   - spell
-  - artificer
-  - bard
-  - cleric
-  - druid
-  - ranger
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Transmutation
 spell_level: "0"
 ---

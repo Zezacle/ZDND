@@ -1,8 +1,9 @@
 ---
 tags:
+  - new
   - magicitem
 ---
-*Weapon (Dagger, Shortsword), Uncommon*
+*Weapon (Dagger, Shortsword, Rapier), Uncommon*
 
 *A blade adorned with a cat's head for the pommel. The blade retracts into the hilt when not in use. It seems to attract cats...*
 

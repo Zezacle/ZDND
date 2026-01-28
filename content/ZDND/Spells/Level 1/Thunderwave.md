@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - bard
-  - druid
-  - sorcerer
-  - wizard
+  - spell-list/bard
+  - spell-list/druid
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Evocation
 spell_level: "1"
 ---

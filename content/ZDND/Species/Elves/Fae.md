@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/elf
 ---
 A Fae Elf or 'High Elf' is the elegant and intelligent people that once ruled [[Alfheim|Alfheim's]] surface. Easily identified by their long, light colored hair and cream colored skin, these elves are well versed in old magic and various disciplines of art.
 

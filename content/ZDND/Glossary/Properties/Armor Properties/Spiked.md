@@ -1,6 +1,7 @@
 ---
 tags:
-  - weaponproperty
+  - new
+  - property/armor
 ---
 [[Spiked]] armor deals 1d4 piercing damage to any creature that hits you with an [[Unarmed Strike]], Bite attack, or other attack that uses a part of their body to strike.
 

@@ -1,9 +1,9 @@
 ---
 tags:
   - spell
-  - artificer
-  - bard
-  - druid
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/druid
 school: Evocation
 spell_level: "1"
 ---

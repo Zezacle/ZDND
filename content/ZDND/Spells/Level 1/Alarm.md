@@ -1,9 +1,9 @@
 ---
 tags:
   - spell
-  - artificer
-  - ranger
-  - wizard
+  - spell-list/artificer
+  - spell-list/ranger
+  - spell-list/wizard
 school: Abjuration
 spell_level: "1"
 ---

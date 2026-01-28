@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/draconic
 ---
 Brief Descript
 

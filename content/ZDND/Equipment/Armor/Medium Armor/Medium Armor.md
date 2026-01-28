@@ -1,8 +1,10 @@
 ---
 aliases:
   - Medium
+tags:
+  - equipment/armor/heavy
 ---
-### Medium Armor (5 Minutes to Don and 1 Minute to Doff)
+### 5 Minutes to Don and 1 Minute to Doff
 
 | Cost   | Medium Armor      |      Armor Class      | Weight | Str. Req. |                                Properties |
 | ------ | ----------------- | :-------------------: | :----: | :-------: | ----------------------------------------: |

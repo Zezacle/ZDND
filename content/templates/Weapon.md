@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon
 ---
 *Type, # GP, # lb.*
 

@@ -1,11 +1,11 @@
 ---
 tags:
   - spell
-  - cleric
-  - druid
-  - paladin
-  - warlock
-  - wizard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/paladin
+  - spell-list/warlock
+  - spell-list/wizard
 school: Abjuration
 spell_level: "1"
 ---

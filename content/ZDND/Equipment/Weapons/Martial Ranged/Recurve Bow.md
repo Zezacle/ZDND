@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-ranged
+  - new
 ---
 #### Recurve Bow (30 GP)
 *Martial Ranged, 30 GP, 2 lb.*

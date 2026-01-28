@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
 ---
 #### [[Spear]] (1 GP)
 *Simple Melee, 1 GP, 3 lb.*

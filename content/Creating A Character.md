@@ -14,7 +14,7 @@ Open it with a PDF Editor of your choice:
 - Mozilla Firefox browser
 - Google Chrome browser
 
-> If you wish to Print out your sheet and use pen and paper, please make a .PDF as well and update it every now and then so that I have a copy.
+> If you wish to Print out your sheet and use pen and paper, please make a .PDF as well and update it every now and then so that your DM can have a copy.
 
 ## Step 2: Pick a Class
 
@@ -28,7 +28,7 @@ Don't forget to add all the stuff it grants like Equipment, Proficiencies, etc.
 | [[Barbarian]] | A rage-filled warrior. Get angry and smack 'em real hard.             | Strength             | Frontline Melee   | Rage               |
 | [[Bard]]      | A charismatic magician capable of manipulation, good and bad.         | Charisma             | Buffs + Debuffs   | Bardic Inspiration |
 | [[Cleric]]    | A holy warrior of a God. Bestow holy magic unto the masses.           | Wisdom               | Healing/Damage    | Channel Divinity   |
-| [[ZDND/Classes/Druid/Druid]]     | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility    | Wildshape          |
+| [[Druid]]     | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility    | Wildshape          |
 | [[Fighter]]   | A warrior trained in all kinds of fighting. Versatile and relentless. | Strength / Dexterity | Consistent Damage | Extra Everything   |
 | [[Monk]]      | A fighter of honed spirituality. Strike with magic and grace.         | Dexterity + Wisdom   | Nimble Melee      | Ki Points          |
 | [[Paladin]]   | A warrior who protects their friends and delivers righteous strikes.  | Strength + Charisma  | Tanking/Damage    | Divine Smite       |

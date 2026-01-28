@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 aliases:
   - Rope Darts
 ---

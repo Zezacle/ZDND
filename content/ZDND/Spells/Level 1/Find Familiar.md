@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - wizard
+  - spell-list/wizard
 school: Conjuration
 spell_level: "1"
 ---

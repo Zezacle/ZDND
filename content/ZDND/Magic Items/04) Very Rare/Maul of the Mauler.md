@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - new
   - magicitem
 ---
 *Weapon (Maul), Very Rare (Requires Attunement)*

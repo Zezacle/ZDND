@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/men
 ---
 Mortal relatives of the Vanir and Aesir, Godkin are touched by the Gods' power. 
 

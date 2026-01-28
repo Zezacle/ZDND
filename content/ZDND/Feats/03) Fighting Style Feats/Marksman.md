@@ -1,3 +1,0 @@
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
-
-You have a +1 bonus to attack rolls on ranged attacks and can make ranged attack rolls to your maximum range without [[Disadvantage]].

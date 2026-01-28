@@ -1,9 +1,10 @@
 ---
 tags:
+  - new
   - spell
-  - bard
-  - sorcerer
-  - warlock
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
 school: Abjuration
 spell_level: "3"
 ---

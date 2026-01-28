@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Scalemail]] Armor (100 GP)
 *Heavy Armor (10 Minutes to Don and 5 Minute to Doff)*

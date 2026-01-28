@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - artificer
-  - cleric
-  - sorcerer
-  - wizard
+  - spell-list/artificer
+  - spell-list/cleric
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Evocation
 spell_level: "0"
 ---

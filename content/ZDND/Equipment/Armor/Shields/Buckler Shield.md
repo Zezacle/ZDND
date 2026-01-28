@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/shield
+  - new
 ---
 #### [[Buckler Shield]] (15 GP)
 *Shield (Requires Shield Training)*

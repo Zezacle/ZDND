@@ -1,5 +1,3 @@
-# Species
-
 There are many different species of Sapient people within the Collapsed Realms. Each species has varying races, or groups divided by some difference in anatomy.
 
 ## List of Species & Races

@@ -1,11 +1,11 @@
 ---
 tags:
   - spell
-  - artificer
-  - druid
-  - ranger
-  - sorcerer
-  - wizard
+  - spell-list/artificer
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Transmutation
 spell_level: "1"
 ---

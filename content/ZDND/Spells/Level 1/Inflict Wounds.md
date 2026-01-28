@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - cleric
+  - spell-list/cleric
 school: Necromancy
 spell_level: "1"
 ---

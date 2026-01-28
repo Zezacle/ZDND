@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-ranged
 ---
 #### [[Longbow]] (20 GP)
 *Martial Ranged, 20 GP, 2 lb.*

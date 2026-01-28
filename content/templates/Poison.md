@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/poison
 ---
 *Contact, Ingested, Inhaled, or Injury Poison*
 

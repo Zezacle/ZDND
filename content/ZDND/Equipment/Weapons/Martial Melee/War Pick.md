@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[War Pick]] (5 GP)
 *Martial Melee, 5 GP, 2 lb.*

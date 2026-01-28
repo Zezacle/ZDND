@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - warlock
+  - spell-list/warlock
 school: Evocation
 spell_level: "0"
 ---

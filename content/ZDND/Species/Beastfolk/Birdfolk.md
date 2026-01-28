@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/beastfolk
 ---
 Birdfolk are a wide variety of Humanoid birds with appearances resembling many bird species such as Crows, Hawks, Owls and more.
 

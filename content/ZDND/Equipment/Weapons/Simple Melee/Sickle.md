@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
 ---
 #### Sickle (1 GP)
 *Simple Melee, 1 GP, 2 lb.*

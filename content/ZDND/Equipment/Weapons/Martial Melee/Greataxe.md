@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Greataxe]] (30 GP)
 *Martial Melee, 30 GP, 7 lb.*

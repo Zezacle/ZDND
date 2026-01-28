@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - druid
-  - ranger
+  - spell-list/druid
+  - spell-list/ranger
 school: Conjuration
 spell_level: "1"
 ---

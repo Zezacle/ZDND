@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor
 ---
 #### Armor (# GP)
 *Type (X to Don or Doff)*

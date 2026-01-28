@@ -1,5 +1,5 @@
 ---
 tags:
-  - weaponproperty
+  - property/weapon
 ---
-A Two-Handed weapon requires two hands when you attack with it.
+A [[Two-Handed]] weapon requires two hands when you attack with it.

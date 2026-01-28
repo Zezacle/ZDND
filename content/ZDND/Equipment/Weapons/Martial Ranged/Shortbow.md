@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-ranged
 ---
 #### Shortbow (10 GP)
 *Martial Ranged, 10 GP, 2 lb.*

@@ -1,15 +1,15 @@
 ---
 tags:
   - spell
-  - artificer
-  - bard
-  - cleric
-  - druid
-  - paladin
-  - ranger
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/paladin
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Divination
 spell_level: "1"
 ---

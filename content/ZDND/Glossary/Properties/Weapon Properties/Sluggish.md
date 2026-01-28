@@ -1,5 +1,6 @@
 ---
 tags:
-  - weaponproperty
+  - new
+  - property/weapon
 ---
-The first time you attack with a [[Sluggish]] weapon on your turn, it consumes some of your movement speed equal to the number in the parentheses. You can still attack with this weapon when your speed is 0.
+Each time you attack with a [[Sluggish]] weapon, it reduces your speed by 5 feet. You can still attack with this weapon when your speed is 0.

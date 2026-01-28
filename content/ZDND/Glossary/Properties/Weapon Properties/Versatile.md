@@ -1,5 +1,5 @@
 ---
 tags:
-  - weaponproperty
+  - property/weapon
 ---
-A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+A [[Versatile]] weapon can be used to strike in two main ways (usually One-Handed vs [[Two-Handed]]), changing its properties and/or its damage.

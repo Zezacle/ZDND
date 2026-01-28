@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/draconic
 ---
 A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their conclaves are often lead by Dragonborn. They are a curious and sociable race, but will always default to the loyalties of their nest. Kobolds are masters of the trap.
 

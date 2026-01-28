@@ -1,9 +1,9 @@
 ---
 tags:
   - spell
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Necromancy
 spell_level: "0"
 ---

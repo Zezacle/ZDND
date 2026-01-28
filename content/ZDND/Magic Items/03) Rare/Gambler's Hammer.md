@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - magicitem
 ---
 *Weapon (Light Hammer, Warhammer), Rare (Requires Attunement)*

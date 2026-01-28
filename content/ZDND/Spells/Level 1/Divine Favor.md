@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - paladin
+  - spell-list/paladin
 school: Transmutation
 spell_level: "1"
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Animal Hide]] Armor (15 GP)
 *Medium Armor (5 Minutes to Don and 1 Minute to Doff)*

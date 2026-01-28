@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - artificer
-  - cleric
+  - spell-list/artificer
+  - spell-list/cleric
 school: Abjuration
 spell_level: "1"
 ---

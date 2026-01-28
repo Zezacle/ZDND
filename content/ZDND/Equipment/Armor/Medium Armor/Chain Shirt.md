@@ -1,8 +1,8 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 aliases:
-  - Chain Shirt
+  - Chainmail Shirt
 ---
 #### [[Chain Shirt]] (100 GP)
 *Medium Armor (1 Minute to Don or Doff)*

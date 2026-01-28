@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - bard
-  - paladin
+  - spell-list/bard
+  - spell-list/paladin
 school: Enchantment
 spell_level: "1"
 ---

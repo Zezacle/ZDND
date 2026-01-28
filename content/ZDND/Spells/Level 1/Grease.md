@@ -1,9 +1,9 @@
 ---
 tags:
   - spell
-  - artificer
-  - sorcerer
-  - wizard
+  - spell-list/artificer
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Conjuration
 spell_level: "1"
 ---

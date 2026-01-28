@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/goblinoid
 ---
 Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are known for their well trained warbands and regimented militias. Often contracting out their services to malicious actors for their own gains. It is rare, but not unheard of to see a Hobgoblin separated from their Warband.
 

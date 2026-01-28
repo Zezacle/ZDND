@@ -1,5 +1,6 @@
 ---
 draft: true
+tags:
 ---
 
 Fill in Equipment

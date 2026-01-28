@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - artificer
-  - bard
-  - sorcerer
-  - wizard
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Illusion
 spell_level: "0"
 ---

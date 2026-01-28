@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Splint]] Armor (400 GP)
 *Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)*

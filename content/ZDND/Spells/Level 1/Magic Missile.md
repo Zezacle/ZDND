@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - sorcerer
-  - wizard
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Evocation
 spell_level: "1"
 ---

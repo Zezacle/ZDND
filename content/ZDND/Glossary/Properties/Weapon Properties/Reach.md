@@ -1,5 +1,5 @@
 ---
 tags:
-  - weaponproperty
+  - property/weapon
 ---
-A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [[Opportunity Attacks]] with it.
+A [[Reach]] weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [[Opportunity Attacks]] with it.

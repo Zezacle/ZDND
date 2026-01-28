@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Lance]] (5 GP)
 *Martial Melee, 5 GP, 6 lb.*

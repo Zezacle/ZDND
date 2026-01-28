@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 ---
 #### [[Swordbreaker]] (10 GP)
 *Martial Melee, 10 GP, 1 lb.*

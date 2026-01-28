@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Rapier]] (25 GP)
 *Martial Melee, 25 GP, 2 lb.*

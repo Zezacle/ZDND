@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - cleric
-  - paladin
+  - spell-list/cleric
+  - spell-list/paladin
 school: Abjuration
 spell_level: "1"
 ---

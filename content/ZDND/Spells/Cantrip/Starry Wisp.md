@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - bard
-  - druid
+  - spell-list/bard
+  - spell-list/druid
 school: Evocation
 spell_level: "0"
 ---

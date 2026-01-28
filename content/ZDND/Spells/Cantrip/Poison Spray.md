@@ -1,11 +1,11 @@
 ---
 tags:
   - spell
-  - artificer
-  - druid
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/artificer
+  - spell-list/druid
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Necromancy
 spell_level: "0"
 ---

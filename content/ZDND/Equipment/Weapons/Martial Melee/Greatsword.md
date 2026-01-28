@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Greatsword]] (50 GP)
 *Martial Melee, 50 GP, 6 lb.*

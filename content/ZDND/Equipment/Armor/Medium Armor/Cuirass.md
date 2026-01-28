@@ -1,6 +1,8 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
+alias:
+  - Breastplate
 ---
 #### [[Cuirass]] (400 GP)
 *Medium Armor (5 Minutes to Don and 1 Minute to Doff)*

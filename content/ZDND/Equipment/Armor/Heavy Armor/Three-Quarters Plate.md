@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Three-Quarters Plate]] Armor (1400 GP)
 *Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)*
@@ -9,7 +9,7 @@ tags:
 **Weight:** 65 lb.
 **Strength Requirement:** 15
 **Properties:**
-- *Special:* To convert [[Three-Quarters Plate]] to [[Full Plate]] Armor, all you need is to Don a Knight's Helmet worth 100 GP.
+- *Special:* To convert [[Three-Quarters Plate]] to [[Full Plate]] Armor, all you need is to Don an Armored Helmet worth 100 GP.
 - [[Hefty]]
 - [[Unstealthy]]
 

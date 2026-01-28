@@ -1,11 +1,12 @@
 ---
 tags:
+  - new
   - spell
-  - artificer
-  - cleric
-  - sorcerer
-  - warlock
-  - wizard
+  - spell-list/artificer
+  - spell-list/cleric
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Enchantment
 spell_level: "5"
 ---

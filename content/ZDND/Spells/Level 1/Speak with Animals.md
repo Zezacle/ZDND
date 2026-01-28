@@ -1,10 +1,10 @@
 ---
 tags:
   - spell
-  - bard
-  - druid
-  - ranger
-  - warlock
+  - spell-list/bard
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/warlock
 school: Divination
 spell_level: "1"
 ---

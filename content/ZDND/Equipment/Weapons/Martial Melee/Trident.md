@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
 ---
 #### [[Trident]] (5 GP)
 *Martial Melee, 5 GP, 4 lb.*

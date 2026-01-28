@@ -1,6 +1,6 @@
 ---
 tags:
-  - equipment
+  - equipment/armor/heavy
 ---
 #### [[Plate Harness]] (300 GP)
 *Medium Armor (5 Minutes to Don and 1 Minute to Doff)*

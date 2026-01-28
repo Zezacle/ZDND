@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - druid
+  - spell-list/druid
 school: Conjuration
 spell_level: "0"
 ---

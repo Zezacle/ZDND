@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/martial-melee
+  - new
 ---
 #### [[Nunchuks]] (5 SP)
 *Martial Melee, 5 SP, 1 lb.*

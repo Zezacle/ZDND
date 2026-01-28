@@ -1,6 +1,7 @@
 ---
 tags:
-  - equipment
+  - equipment/weapon/simple-melee
+  - new
 ---
 #### Arming Sword (10 GP)
 *Simple Melee, 10 GP, 2 lb.*

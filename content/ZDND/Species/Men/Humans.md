@@ -1,6 +1,5 @@
 ---
-tags:
-  - lore
+tags: species/men
 ---
 The Men of Midgard are a hearty and adaptable race of mortals, crafted by the Aesir in their image. Due to this history, a majority of devout worshippers of the Aesir are Men, and most Men hold some reverence of Odin and his kin. 
 
