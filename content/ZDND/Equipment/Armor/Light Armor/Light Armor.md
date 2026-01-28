@@ -1,8 +1,0 @@
-### Light Armor (1 Minute to Don or Doff)
-
-| Cost  | Light Armor         |  Armor Class  | Weight |                 Properties |
-| ----- | ------------------- | :-----------: | :----: | -------------------------: |
-| 5 GP  | [[Padded]]          | 11 + Dex mod. | 8 lb.  |             [[Cumbersome]] |
-| 30 GP | [[Leather]]         | 12 + Dex mod. | 10 lb. |                          - |
-| 50 GP | [[Studded Leather]] | 13 + Dex mod. | 13 lb. |                          - |
-| 55 GP | [[Spiked Leather]]  | 13 + Dex mod. | 14 lb. | [[Cumbersome]], [[Spiked]] |
