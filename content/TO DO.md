@@ -10,7 +10,7 @@ Fill in Classes + Subclasses
 
 Edit Class Equipment
 
-Polish [[Creating A Character]]
+Polish [[Creating a Character]]
 
 Figure out Spell lists
 - Automated??? Maybe??

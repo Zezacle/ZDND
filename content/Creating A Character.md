@@ -1,3 +1,7 @@
+---
+aliases:
+  - Create a Character
+---
 This page assumes you've made a 5e (2014/2024) character before. If you haven't talk to your party/DM for help or watch a YouTube video. All the basics apply, you just use this site instead of a book.
 
 ## Step 1: Your Character Sheet
