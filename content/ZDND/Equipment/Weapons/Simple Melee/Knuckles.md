@@ -2,6 +2,8 @@
 tags:
   - equipment/weapon/simple-melee
   - new
+aliases:
+  - Brass Knuckles
 ---
 #### [[Knuckles]] (1 GP)
 *Simple Melee, 1 GP*
