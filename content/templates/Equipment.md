@@ -4,4 +4,6 @@ tags:
 ---
 *Type (Note)*
 
+**Cost:** # GP
+
 Description

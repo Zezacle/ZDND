@@ -24,7 +24,7 @@ Don't forget to add all the stuff it grants like Equipment, Proficiencies, etc.
 | [[Barbarian]] | A rage-filled warrior. Get angry and smack 'em real hard.             | Strength             | Frontline Melee   | Rage               |
 | [[Bard]]      | A charismatic magician capable of manipulation, good and bad.         | Charisma             | Buffs + Debuffs   | Bardic Inspiration |
 | [[Cleric]]    | A holy warrior of a God. Bestow holy magic unto the masses.           | Wisdom               | Healing/Damage    | Channel Divinity   |
-| [[Druid]]     | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility    | Wildshape          |
+| [[ZDND/Classes/Druid/Druid]]     | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility    | Wildshape          |
 | [[Fighter]]   | A warrior trained in all kinds of fighting. Versatile and relentless. | Strength / Dexterity | Consistent Damage | Extra Everything   |
 | [[Monk]]      | A fighter of honed spirituality. Strike with magic and grace.         | Dexterity + Wisdom   | Nimble Melee      | Ki Points          |
 | [[Paladin]]   | A warrior who protects their friends and delivers righteous strikes.  | Strength + Charisma  | Tanking/Damage    | Divine Smite       |

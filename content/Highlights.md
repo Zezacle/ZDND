@@ -2,7 +2,7 @@ This is a list of all the major changes that I implement as part of my rules.
 
 ## Character Creation Changes
 
-### [[Species]]
+### [[templates/Species]]
 Some Species have been renamed and reorganized and most have new or different Racial Features. Most 5e Races persist.
 - **Darkvision** from all sources is halved and is removed from a number of races.
 - **Ability Score Increases:** Similar to 2014 rules, Races grant your ASIs (Backgrounds do not)
