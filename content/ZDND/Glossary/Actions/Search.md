@@ -2,7 +2,7 @@
 tags:
   - action
 ---
-When you take the Search action, you make a Wisdom check to discern something that isn’t obvious. The Search table suggests which skills are applicable when you take this action, depending on what you’re trying to detect.
+When you take the [[Search]] action, you make a Wisdom check to discern something that isn’t obvious. The Search table suggests which skills are applicable when you take this action, depending on what you’re trying to detect.
 ###### Search
 | Skill      | Thing to Detect                      |
 | ---------- | ------------------------------------ |

@@ -1,8 +1,7 @@
 ---
-draft: true
+draft: false
 tags:
 ---
-
 Fill in Equipment
 - Start with tools
 - Packs
@@ -14,7 +13,6 @@ Edit Class Equipment
 Polish [[Creating a Character]]
 
 Figure out Spell lists
-- Automated??? Maybe??
 
 Edit Level 2-9 Spells (oh god)
 - Add class tags

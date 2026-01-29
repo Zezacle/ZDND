@@ -5,7 +5,7 @@ tags:
 ### This is a list of all the major changes that I implement as part of my rules.
 Or you can [go here full a list](https://zezacle.github.io/ZDND/tags/new) of everything "new" :)
 
-# New Rules
+# Big Rules
 
 ## Evasion Class (EC)
 D&D 5e has an issue where high AC targets go multiple rounds without taking damage, and when they finally do get hit it has to be massive damage to have any kind of meaning. This binary system leads to necessary damage swings that feel bad for both DMs and Players. [[Evasion Class]] adds a third outcome: *Partial hits.*
@@ -23,6 +23,17 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 - [[Dual Wielder]] feat allows one of your two weapons to not have the [[Light]] property.
 - "Nick" weapon mastery replaced with [[Offhand]] which allows you to add your ability modifier to damage roll of your extra attack.
 
+## Action Changes
+- ACTIONS
+	- **[[Disarm]]:** Attempt to disarm a target.
+	- **[[Dodge]]**: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
+	- NEW **[[Brace]]**: Almost guarantee taking a hit, but reduce the damage and resist effects.
+- BONUS ACTIONS
+	- **[[Disengage]]:** Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
+	- **[[Feint Attack]]:** Attempt to fake an attack using [[Sleight of Hand]] to grant [[Advantage]] to an attack roll against your target.
+	- **[[Quick Toss]]:** Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
+
+
 # Character Creation Changes
 
 ## Species
@@ -35,12 +46,6 @@ Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
 - Backgrounds do not grant Ability Score Increases. (Moved back to Species)
 - Lucky feat replaced with [[Cautious]] feat.
 - MANY new Backgrounds.
-
-## Feats
-- New General Feats!
-	- [[Ever Ready]], [[One Man Army]], [[Magic Manipulator]] and [[Wild Artist]] more!
-- New and Improved Fighting Styles!
-	- [[Dirty Fighting]], [[Mariner]], [[Pugilism]] and more!
 
 # New Stuff!
 
@@ -55,6 +60,12 @@ Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
 - New [[Weapon Properties]]!
 	- [[Defensive]], [[Disarming]], [[Non-Lethal]], [[Quick]], [[Tripping]] and more!
 - Old weapons improved and rebalanced!
+
+## Feats
+- New General Feats!
+	- [[Ever Ready]], [[One Man Army]], [[Magic Manipulator]] and [[Wild Artist]] more!
+- New and improved Fighting Styles!
+	- [[Dirty Fighting]], [[Mariner]], [[Pugilism]] and more!
 
 ## Spells!
 - New [[Spells]]!
