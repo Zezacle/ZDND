@@ -2,7 +2,7 @@
 tags:
   - 
 ---
-### This is a list of all the major changes that I implement as part of my rules.
+**This is a list of all the major changes that I implement as part of my rules.**
 Or you can [go here full a list](https://zezacle.github.io/ZDND/tags/new) of everything "new" :)
 
 # Big Rules
@@ -24,14 +24,14 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 - "Nick" weapon mastery replaced with [[Offhand]] which allows you to add your ability modifier to damage roll of your extra attack.
 
 ## Action Changes
-- ACTIONS
-	- **[[Disarm]]:** Attempt to disarm a target.
-	- **[[Dodge]]**: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
-	- NEW **[[Brace]]**: Almost guarantee taking a hit, but reduce the damage and resist effects.
-- BONUS ACTIONS
-	- **[[Disengage]]:** Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
-	- **[[Feint Attack]]:** Attempt to fake an attack using [[Sleight of Hand]] to grant [[Advantage]] to an attack roll against your target.
-	- **[[Quick Toss]]:** Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
+- **ACTIONS**
+	- NEW [[Disarm]]: Attempt to make a target drop what they are holding, including weapons.
+	- [[Dodge]]: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
+	- NEW [[Brace]]: Almost guarantee taking a hit, but reduce the damage and resist effects.
+- **BONUS ACTIONS**
+	- [[Disengage]]: Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
+	- NEW [[Feint Attack]]: Attempt to fake an attack using [[Sleight of Hand]] to grant [[Advantage]] to an attack roll against your target.
+	- NEW [[Quick Toss]]: Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
 
 
 # Character Creation Changes
@@ -39,7 +39,7 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 ## Species
 Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
 - **Racial Features:** Lots of new ones and many changed. Some races rebalanced/diversified.
-- **[[Darkvision]]** from all sources is halved and is removed from a number of races.
+- [[Darkvision]] from all sources is halved and is removed from a number of races.
 - **Ability Score Increases:** Similar to 2014 rules, Races grant your ASIs (Backgrounds do not)
 
 ## Backgrounds

@@ -20,9 +20,9 @@ Goblins are a small and prolific race known for ambushing travelers and stealing
 
 **Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 
-**Goblin's Guile.** In place of an [[Opportunity Attacks|Opportunity Attack]], you can make a [[Sleight of Hand]] check to attempt to steal something from the target that is not in their hands.
+**Goblin's Guile.** You have [[Advantage]] on [[Sleight of Hand]] checks when you take the [[Feint Attack]] bonus action.
 
-**Nimble Escape.** You can take the [[Disengage]] or [[Hide]] action as a bonus action on each of your turns.
+**Nimble Escape.** You can take the [[Hide]] action as a bonus action on each of your turns. Additionally, when you take the [[Disengage]] bonus action, you can choose up to 2 targets.
 
 **Cover for the Cunning.** [[Three-Quarters Cover]] grants you the benefits of Full Cover and [[Half Cover]] the benefits of [[Three-Quarters Cover]].
 

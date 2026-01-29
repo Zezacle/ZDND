@@ -18,6 +18,6 @@ Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are
 
 **Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
-**Regimented.** You deal an extra 1d6 damage to a creature you hit with an attack while your are within 5 feet of an Allied Creature that isn't [[Incapacitated]]. This damage increases by 1d6 when you reach character levels 5 (2d6), 11 (3d6), and 17 (4d6).
+**Steadfast.** You can take the [[Brace]] action as a bonus action on each of your turns and while bracing, you can't be moved against your will.
 
 **Saving Face.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
