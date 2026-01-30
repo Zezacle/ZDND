@@ -13,4 +13,4 @@ I plan to turn this homepage into a hub to quickly navigate through everything y
 
 To read the major changes I made, visit the [[Highlights]] page.
 
-If you need to [[Creating a Character|Create a Character]] I have a page for that too! (wip)
+If you need to [[01) Creating a Character|Create a Character]] I have a page for that too! (wip)

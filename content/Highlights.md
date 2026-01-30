@@ -30,7 +30,6 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 	- NEW [[Brace]]: Almost guarantee taking a hit, but reduce the damage and resist effects.
 - **BONUS ACTIONS**
 	- [[Disengage]]: Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
-	- NEW [[Feint Attack]]: Attempt to fake an attack using [[Sleight of Hand]] to grant [[Advantage]] to an attack roll against your target.
 	- NEW [[Quick Toss]]: Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
 
 

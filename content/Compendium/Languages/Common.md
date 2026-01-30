@@ -2,7 +2,7 @@ With the melding of cultures in [[Midgard]], the old Languages mixed and were ev
 
 In the current age, it is rare to find a Sapient who isn't at least partially fluent in the Common tongue.
 
-**Medium:** Common Alphabet
-**Script:** Common (left-to-right)
+**Script:** Common Alphabet
+**Writing System:** Common (left-to-right)
 
 **Real World Analog:** English

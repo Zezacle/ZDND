@@ -70,7 +70,9 @@ The extra damage increases as you gain Rogue levels, as shown in the Sneak Attac
 
 ### Level 1: Thieves' Cant
 
-You know how to weave the code of thieves and criminals into plain words. You can speak in a language you are fluent in with a hidden meaning and only others who know Thieves' Cant can understand your hidden message. Additionally, you know the markings of thieves and can write them yourself. Such markings can denote danger, treasure, hiding spots and many other things.
+You know how to weave the code of thieves and criminals into plain words. You can speak in a language you are fluent in with a hidden meaning and only others who know [[Thieves' Cant]] can understand your hidden message. Additionally, you know the markings of thieves and can write them yourself. Such markings can denote danger, treasure, hiding spots and many other things. For example a town house might have a marking denoting that the owner doesn't like the local authorities and will shelter outlaws.
+
+Leaving these markings is a time-honored tradition for those who skirt the law.
 
 ### Level 1: Weapon Mastery
 

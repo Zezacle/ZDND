@@ -5,7 +5,7 @@ tags:
 Fill in Subclasses
 - Add Ginger's [Path of the Voice](https://docs.google.com/document/d/1eohsYpawGxfMeWOOUfdFuFO0umxcKsLLdnz8ITYFwPQ/edit?tab=t.0)
 
-Polish [[Creating a Character]]
+Polish [[01) Creating a Character]]
 
 Polish [[index|Homepage]]
 
@@ -21,3 +21,4 @@ Fill in Equipment
 - Packs
 
 Write up "Charter of the North" campaign brief
+- Make the hex map

@@ -2,7 +2,7 @@ Dvergarian is the language of [[Dwarves]], [[Gnomes]], and [[Orcs]]. It is harsh
 
 The Orcish Tribes adopted Dvergarian over the course of multiple centuries replacing their original embryonic tongue. Some words still persist in their dialect, but the language is otherwise similar enough.
 
-**Medium:** Dvergarian Runic Alphabet
-**Script:** Dvergarian (left-to-right)
+**Script:** Dvergarian Runic Alphabet
+**Writing System:** Dvergarian (left-to-right)
 
 **Real World Analog:** Russian

@@ -6,7 +6,7 @@ Firbolgs are a peaceful race of the warm valleys of [[Jotunheim]]. These reclusi
 ## Firbolg Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Jotun Tongue]]
+**Native Language:** [[Giant]]
 
 **Age:** 500 years, Mature at 50
 **Size:** Medium

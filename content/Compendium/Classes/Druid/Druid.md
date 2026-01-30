@@ -101,9 +101,9 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 ### Level 1: Druidic
 
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Speak with Animals]] spell prepared.
+You know [[Druidic]], the language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[Speak with Animals]] spell prepared.
 
-You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence ([[Investigation]]) check but can’t decipher it without magic.
+You can use [[Druidic]] to leave hidden messages. You and others who know [[Druidic]] automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence ([[Investigation]]) check but can’t decipher it without magic.
 
 ### Level 1: Primal Order
 
