@@ -1,5 +1,7 @@
 ---
 title: ZD&D Homepage
+aliases:
+  - Homepage
 ---
 
 Welcome to Zee's Homebrew Compendium! This is basically a Wiki for D&D 2024, but with all the changes and additions I use in my games!

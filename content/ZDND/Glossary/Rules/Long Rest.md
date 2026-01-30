@@ -1,6 +1,8 @@
 ---
 tags:
   - rule
+aliases:
+  - Long Rests
 ---
 A [[Long Rest]] is a period of extended downtime - at least 8 hours - available to any creature. During a [[Long Rest]], you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch. During sleep, you have the [[Unconscious]] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one. To start a Long Rest, you must have at least 1 [[Hit Points|Hit Point]]. 
 

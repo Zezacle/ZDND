@@ -1,7 +1,7 @@
 ---
 tags: species/draconic
 ---
-A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their conclaves are often lead by Dragonborn. They are a curious and sociable race, but will always default to the loyalties of their nest. Kobolds are masters of the trap.
+A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their conclaves are often lead by [[Dragonborn]]. They are a curious and sociable race, but will always default to the loyalties of their warren. Kobolds are masters of the trap.
 
 ## Kobold Features
 
@@ -18,9 +18,11 @@ A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their c
 
 **Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
 
-**Draconic Roar.** As a bonus action, you let out a draconic roar at your enemies within 10 feet of you. Until the end of your next turn, you and your allies have [[Advantage]] on attack rolls against any of those enemies who could hear the roar. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
+**Kobold's Breath.** As an Action, you can light a flammable object on fire within 5 feet. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [[Short Rest]]. This fire breath is too small to attack creatures with.
 
 **Pack Tactics.** You have [[Advantage]] on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't [[Incapacitated]].
+
+**Trap Sense.** You have an intuition for the best places to lay traps and therefore know when and where to look for them. Your [[Passive Perception]] is considered to have a +3 bonus against detecting traps.
 
 **Trapper.** You can create makeshift traps that will activate and damage foes. With 10 minutes of work, you can trap one 5-foot square. You can trap a number of contiguous squares equal to your proficiency bonus at a time. The DC to detect and/or escape your traps is 8 + your Proficiency Bonus + your Intelligence modifier.
 

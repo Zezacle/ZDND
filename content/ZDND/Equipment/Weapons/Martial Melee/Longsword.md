@@ -1,6 +1,8 @@
 ---
 tags:
   - equipment/weapon/martial-melee
+aliases:
+  - Longswords
 ---
 #### [[Longsword]] (15 GP)
 *Martial Melee, 15 GP, 3 lb.*

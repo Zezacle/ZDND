@@ -1,16 +1,15 @@
-# bard
-
 ###### Core Bard Traits
-|                                |                                                                                                                                                                                                                |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Primary Ability**            | Charisma                                                                                                                                                                                                       |
-| **Hit Point Die**              | d8 per Class level                                                                                                                                                                                             |
-| **Saving Throw Proficiencies** | Dexterity and Charisma                                                                                                                                                                                         |
-| **Skill Proficiencies**        | Choose any 3 skills                                                                                                                                                                                            |
-| **Tool Proficiencies**         | Choose any 3 [[Musical Instruments]]                                                                                                                                                                           |
-| **Weapon Proficiencies**       | Simple Weapons                                                                                                                                                                                                 |
-| **Armor Training**             | Light Armor                                                                                                                                                                                                    |
-| **Starting Equipment**         | *Choose A or B:* (A) [[Leather Armor]], 2x [[Dagger\|Dagger]], [[Musical Instruments\|Musical Instrument]] of your choice, [[Entertainer's Pack]], and 19 GP; or (B) 90 GP |
+|                                |                                                                                                                                                                            |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**            | Charisma                                                                                                                                                                   |
+| **Hit Point Die**              | d8 per Bard level                                                                                                                                                          |
+| **Saving Throw Proficiencies** | Dexterity and Charisma                                                                                                                                                     |
+| **Skill Proficiencies**        | Choose any 3 skills                                                                                                                                                        |
+| **Tool Proficiencies**         | Choose any 3 [[Musical Instruments]]                                                                                                                                       |
+| **Weapon Proficiencies**       | Simple Weapons                                                                                                                                                             |
+| **Armor Training**             | [[Light Armor]]                                                                                                                                                            |
+| **Starting Equipment**         | *Choose A or B:* (A) [[Leather]] Armor, 2x [[Dagger\|Dagger]], [[Musical Instruments\|Musical Instrument]] of your choice, [[Entertainer's Pack]], and 19 GP; or (B) 90 GP |
+
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
@@ -28,62 +27,61 @@ A Bard's life is spent traveling, gathering lore, telling stories, and living on
 - Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in [multiclassing](http://dnd2024.wikidot.com/class:multiclassing) to determine your available spell slots.
 
 ## Bard Class Features
-
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
 ###### Bard Features
-| Level | Proficiency<br>Bonus | Bard Features                         | Bardic Die |
-| :---: | :------------------: | ------------------------------------- | :--------: |
-|   1   |          +2          | Bardic Inspiration, Spellcasting      |     d6     |
-|   2   |          +2          | Expertise, Jack of all Trades         |     d6     |
-|   3   |          +2          | Bard Subclass                         |     d6     |
-|   4   |          +2          | [[Ability Score Improvement]] or Feat |     d6     |
-|   5   |          +3          | Font of Inspiration                   |     d8     |
-|   6   |          +3          | Subclass Feature                      |     d8     |
-|   7   |          +3          | Countercharm                          |     d8     |
-|   8   |          +3          | [[Ability Score Improvement]] or Feat |     d8     |
-|   9   |          +4          | Expertise                             |     d8     |
-|  10   |          +4          | Magical Secrets                       |    d10     |
-|  11   |          +4          | -                                     |    d10     |
-|  12   |          +4          | [[Ability Score Improvement]] or Feat |    d10     |
-|  13   |          +5          | -                                     |    d10     |
-|  14   |          +5          | Subclass Feature                      |    d10     |
-|  15   |          +5          | -                                     |    d12     |
-|  16   |          +5          | [[Ability Score Improvement]] or Feat |    d12     |
-|  17   |          +6          | -                                     |    d12     |
-|  18   |          +6          | Superior Inspiration                  |    d12     |
-|  19   |          +6          | Epic Boon                             |    d12     |
-|  20   |          +6          | Words of Creation                     |    d12     |
+| Level | Proficiency<br>Bonus | Class Features                   | Bardic Die |
+| :---: | :------------------: | -------------------------------- | :--------: |
+|   1   |          +2          | Bardic Inspiration, Spellcasting |     d6     |
+|   2   |          +2          | Expertise, Jack of all Trades    |     d6     |
+|   3   |          +2          | Bard Subclass                    |     d6     |
+|   4   |          +2          | General Feat                     |     d6     |
+|   5   |          +3          | Font of Inspiration              |     d8     |
+|   6   |          +3          | Subclass Feature                 |     d8     |
+|   7   |          +3          | Countercharm                     |     d8     |
+|   8   |          +3          | General Feat                     |     d8     |
+|   9   |          +4          | Expertise                        |     d8     |
+|  10   |          +4          | Magical Secrets                  |    d10     |
+|  11   |          +4          | -                                |    d10     |
+|  12   |          +4          | General Feat                     |    d10     |
+|  13   |          +5          | -                                |    d10     |
+|  14   |          +5          | Subclass Feature                 |    d10     |
+|  15   |          +5          | -                                |    d12     |
+|  16   |          +5          | General Feat                     |    d12     |
+|  17   |          +6          | -                                |    d12     |
+|  18   |          +6          | Superior Inspiration             |    d12     |
+|  19   |          +6          | Epic Boon                        |    d12     |
+|  20   |          +6          | Words of Creation                |    d12     |
 
-|Level|Cantrips|Prepared Spells|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|1|2|4|2|-|-|-|-|-|-|-|-|
-|2|2|5|3|-|-|-|-|-|-|-|-|
-|3|2|6|4|2|-|-|-|-|-|-|-|
-|4|3|7|4|3|-|-|-|-|-|-|-|
-|5|3|9|4|3|2|-|-|-|-|-|-|
-|6|3|10|4|3|3|-|-|-|-|-|-|
-|7|3|11|4|3|3|1|-|-|-|-|-|
-|8|3|12|4|3|3|2|-|-|-|-|-|
-|9|3|14|4|3|3|3|1|-|-|-|-|
-|10|4|15|4|3|3|3|2|-|-|-|-|
-|11|4|16|4|3|3|3|2|1|-|-|-|
-|12|4|16|4|3|3|3|2|1|-|-|-|
-|13|4|17|4|3|3|3|2|1|1|-|-|
-|14|4|17|4|3|3|3|2|1|1|-|-|
-|15|4|18|4|3|3|3|2|1|1|1|-|
-|16|4|18|4|3|3|3|2|1|1|1|-|
-|17|4|19|4|3|3|3|2|1|1|1|1|
-|18|4|20|4|3|3|3|3|1|1|1|1|
-|19|4|21|4|3|3|3|3|2|1|1|1|
-|20|4|22|4|3|3|3|3|2|2|1|1|
+| Level | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| :---: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   1   |    2     |        4        |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   2   |    2     |        5        |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   3   |    2     |        6        |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   4   |    3     |        7        |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   5   |    3     |        9        |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   6   |    3     |       10        |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   7   |    3     |       11        |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|   8   |    3     |       12        |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|   9   |    3     |       14        |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+|  10   |    4     |       15        |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|  11   |    4     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|  12   |    4     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|  13   |    4     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+|  14   |    4     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+|  15   |    4     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+|  16   |    4     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+|  17   |    4     |       19        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+|  18   |    4     |       20        |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+|  19   |    4     |       21        |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+|  20   |    4     |       22        |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 ### Level 1: Bardic Inspiration
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
 **Using Bardic Inspiration.** As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
-Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
+Once within the next hour when the creature fails a [[D20 Test]], the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
 **Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
@@ -123,11 +121,11 @@ At Bard level 9, you gain [[Expertise]] in two more of your skill proficiencies 
 
 You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
 
-For example, if you make a Strength (Athletics) check and lack [[Athletics]] proficiency, you can add half your Proficiency Bonus to the check.
+For example, if you make a Strength ([[Athletics]]) check and lack [[Athletics]] proficiency, you can add half your Proficiency Bonus to the check.
 
 ### Level 3: Bard Subclass
 
-You gain a Bard subclass of your choice. The [[College of Dance]], [[College of Glamour]], [[College of Lore]], or [[College of Valor]] subclasses. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
+You gain a Bard subclass of your choice: [[College of Dance]], [[College of Glamour]], [[College of Lore]], [[College of the Moon]] or [[College of Valor]]. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
 
 | Bard Colleges (Subclasses) |                                        |
 | -------------------------- | -------------------------------------- |
@@ -136,13 +134,13 @@ You gain a Bard subclass of your choice. The [[College of Dance]], [[College of 
 | [[College of Lore]]        | Plumb the Depths of Magical Knowledge. |
 | [[College of the Moon]]    | Inspire Allies with Primal Tales.      |
 | [[College of Valor]]       | Sing the Deeds of Ancient Heroes.      |
-### Level 4: Ability Score Improvement
+### Level 4: General Feat
 
-You gain the [[Ability Score Improvement]] feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Level 5: Font of Inspiration
 
-You now regain all your expended uses of Bardic Inspiration when you finish a Short or [[Long Rest]].
+You now regain all your expended uses of Bardic Inspiration when you finish a [[Short Rest|Short]] or [[Long Rest]].
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 

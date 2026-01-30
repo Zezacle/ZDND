@@ -1,6 +1,8 @@
 ---
 tags:
   - equipment/weapon/simple-melee
+aliases:
+  - Javelins
 ---
 #### [[Javelin]] (5 SP)
 *Simple Melee, 5 SP, 1 lb.*
