@@ -1,26 +1,30 @@
-###### Core Class Traits
+##### Core "Class" Traits
 |                                |                                                              |
 | ------------------------------ | ------------------------------------------------------------ |
 | **Primary Ability**            | X                                                            |
-| **Hit Point Die**              | D# per Class level                                           |
+| **Hit Point Die**              | D# per "Class" level                                           |
 | **Saving Throw Proficiencies** | X and Y                                                      |
 | **Skill Proficiencies**        | *Choose #:* Skill, Skill                                     |
 | **Weapon Proficiencies**       | X                                                            |
 | **Armor Training**             | X                                                            |
 | **Starting Equipment**         | *Choose A or B:* (A) Item, Item, Item, and # GP; or (B) # GP |
-Description
 
-### Becoming a Class
+Description 
+
+### Becoming a "Class"
 #### As a Level 1 Character
-- Gain all the traits Core Class Traits table
-- Gain the Class's level 1 features, which are listed in the Class Features table
+- Gain all the traits Core "Class" Traits table
+- Gain the "Class"'s level 1 features, which are listed in the "Class" Features table
 
 #### As a Multiclass Character
-- Gain the following traits from the Core Class Traits table: Hit Point Die, 
-- Gain the Class's level 1 features, which are listed in the Class Features table.
-## Class Class Features
-As a Class, you gain the following class features when you reach the specified Class levels. These features are listed in the Class Features table.
-###### Class Features
+- Gain the following traits from the Core "Class" Traits table: Hit Point Die, 
+- Gain the "Class"'s level 1 features, which are listed in the "Class" Features table.
+
+## "Class" Class Features
+As a "Class", you gain the following class features when you reach the specified "Class" levels. These features are listed in the "Class" Features table.
+
+##### "Class" Features
+
 | Level | Proficiency<br>Bonus | Class Features | Resource 1 | Resource 2 | Resource 3 |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 | :---: | :------------------: | -------------- | :--------: | :--------: | :--------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   1   |          +2          |                |            |            |            |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |

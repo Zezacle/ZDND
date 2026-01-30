@@ -5,8 +5,6 @@ tags:
 Fill in Subclasses
 - Add Ginger's [Path of the Voice](https://docs.google.com/document/d/1eohsYpawGxfMeWOOUfdFuFO0umxcKsLLdnz8ITYFwPQ/edit?tab=t.0)
 
-Edit Class Equipment
-
 Polish [[Creating a Character]]
 
 Polish [[index|Homepage]]
@@ -18,8 +16,8 @@ Edit Level 2-9 Spells (oh god)
 - Remove titles
 - add links
 
-[[Dungeon Crawl rules]]
-
 Fill in Equipment
 - Start with tools
 - Packs
+
+Write up "Charter of the North" campaign brief

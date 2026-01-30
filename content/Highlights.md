@@ -37,7 +37,7 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 # Character Creation Changes
 
 ## Species
-Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
+Some [[templates/Species]] have been renamed and reorganized. Most 5e Races persist.
 - **Racial Features:** Lots of new ones and many changed. Some races rebalanced/diversified.
 - [[Darkvision]] from all sources is halved and is removed from a number of races.
 - **Ability Score Increases:** Similar to 2014 rules, Races grant your ASIs (Backgrounds do not)
