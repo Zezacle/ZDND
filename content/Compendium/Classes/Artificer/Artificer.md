@@ -5,7 +5,7 @@
 | **Hit Point Die**                          | d8 per Artificer level                                                                                                      |
 | **Saving Throw Proficiencies**             | Constitution and Intelligence                                                                                               |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], [[Sleight of Hand]]       |
-| Toll Proficiencies                         | [[Thieves' Tools]], [[Tinker's Tools]], and one type of [[Artisan's Tools]] of your choice                                  |
+| **Tool Proficiencies**                     | [[Thieves' Tools]], [[Tinker's Tools]], and one type of [[Artisan's Tools]] of your choice                                  |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                                              |
 | **Armor Training**                         | [[Light Armor]], [[Medium Armor]], [[Shields]]                                                                              |
 | **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Light Hammer]], [[Dagger]], [[Thieves' Tools]], [[Tinker's Tools]], [[Dungeoneer's Pack]], and 8 GP |

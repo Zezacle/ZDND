@@ -20,7 +20,7 @@ Goblins are a small and prolific race known for ambushing travelers and stealing
 
 **Fury of the Small.** When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 
-**Goblin's Guile.** You have [[Advantage]] on [[Sleight of Hand]] checks to pickpocket.
+**Goblin's Guile.** If you are not already proficient in either the [[Sleight of Hand]] and [[Intimidation]] skills, you have [[Half Proficiency]] in those skills.
 
 **Nimble Escape.** You can take the [[Hide]] action as a bonus action on each of your turns. Additionally, when you take the [[Disengage]] bonus action, you can choose up to 2 targets.
 

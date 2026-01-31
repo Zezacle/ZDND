@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ff27349dca7c9c10","type":"file","file":"attachments/DunGen_29794444_original_medium_lq_furnished.jpg","x":1520,"y":-661,"width":1372,"height":1758},
+		{"id":"b2621d25fe38f34b","type":"text","text":"Goo Room 1:\nLoot \ntraps\netc\n","x":2672,"y":50,"width":193,"height":168},
+		{"id":"1de1280379a4e57a","type":"file","file":"Character.md","x":-320,"y":-620,"width":560,"height":540}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"7646ed05731b7c90"
+	}
+}

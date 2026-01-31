@@ -13,4 +13,12 @@ I plan to turn this homepage into a hub to quickly navigate through everything y
 
 To read the major changes I made, visit the [[Highlights]] page.
 
-If you need to [[01) Creating a Character|Create a Character]] I have a page for that too! (wip)
+If you need to [[00) Creating a Character|Create a Character]] I have a page for that too! (wip)
+
+
+|             |         |         |       |           |
+| ----------- | ------- | ------- | ----- | --------- |
+| Backgrounds | Species | Classes | Feats | Equipment |
+| Spells      |         |         |       |           |
+
+Last updated: 2026-31-1 morning

@@ -5,7 +5,7 @@ tags:
 ---
 Standard D&D 5e Resting rules are balanced around 6-8 encounters per day, which doesn't make sense in most stories that aren't constant dungeon crawls or brawls through the frontline of a battlefield. 
 
-[[Excursion Resting]] is a slowed down system of resting to heighten the resource drain inflicted upon players in stories where there is only 1-3 encounters per day. In short, a [[Short Rest]] or "Night's Rest" takes a whole night, and a [[Long Rest]] has specific criteria that needs to be met in order to be completed.
+[[Excursion Resting]] is a slowed down system of resting to heighten the resource drain inflicted upon players in stories where there is only 1-3 encounters per day. In short, a [[Short Rest]] or "Night's Rest" takes a whole night, and a [[Long Rest]] has specific criteria that needs to be met in order to be completed such as resting in a town or in a prolonged campsite.
 
 ## Excursion Resting Rules
 

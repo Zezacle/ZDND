@@ -5,7 +5,7 @@ tags:
 Fill in Subclasses
 - Add Ginger's [Path of the Voice](https://docs.google.com/document/d/1eohsYpawGxfMeWOOUfdFuFO0umxcKsLLdnz8ITYFwPQ/edit?tab=t.0)
 
-Polish [[01) Creating a Character]]
+Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
 
@@ -22,3 +22,17 @@ Fill in Equipment
 
 Write up "Charter of the North" campaign brief
 - Make the hex map
+
+Custom 2024 Character Sheet PDF??
+- Add Evasion Class
+- Simplify Hit Dice box
+- replace XP with milestones
+
+Custom Obsidian Vault for Character Management
+- Dark mode/sepia sheets
+- Include Compendium for wikilinks?
+
+Obsidian [[Custom Character Sheet.canvas|Custom Character Sheet]] via Canvas???
+
+
+REMAKE SANDERSSON IN NEW VAULT!!

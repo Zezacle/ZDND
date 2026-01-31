@@ -32,11 +32,16 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 	- [[Disengage]]: Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
 	- NEW [[Quick Toss]]: Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
 
+## Excursion Resting (Campaign Specific)
+Standard D&D 5e Resting rules are balanced around 6-8 encounters per day, which doesn't make sense in most stories that aren't constant dungeon crawls or brawls through the frontline of a battlefield. 
+
+[[Excursion Resting]] is a slowed down system of resting to heighten the resource drain inflicted upon players in stories where there is only 1-3 encounters per day. In short, a [[Short Rest]] or "Night's Rest" takes a whole night, and a [[Long Rest]] has specific criteria that needs to be met in order to be completed such as resting in a town or in a prolonged campsite.
+
 
 # Character Creation Changes
 
 ## Species
-Some [[templates/Species]] have been renamed and reorganized. Most 5e Races persist.
+Some [[Compendium/Species/Species|Species]] have been renamed and reorganized. Most 5e Races persist.
 - **Racial Features:** Lots of new ones and many changed. Some races rebalanced/diversified.
 - [[Darkvision]] from all sources is halved and is removed from a number of races.
 - **Ability Score Increases:** Similar to 2014 rules, Races grant your ASIs (Backgrounds do not)
