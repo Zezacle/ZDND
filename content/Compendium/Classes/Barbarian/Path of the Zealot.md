@@ -1,5 +1,3 @@
-# Path of the Zealot
-
 Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
 
 ### Level 3: Divine Fury

@@ -3,18 +3,20 @@ draft: false
 tags:
 ---
 Fill in Subclasses
-- Add Ginger's [Path of the Voice](https://docs.google.com/document/d/1eohsYpawGxfMeWOOUfdFuFO0umxcKsLLdnz8ITYFwPQ/edit?tab=t.0)
+- Refine [[Path of the Voice]] more(?)
 
 Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
 
-Figure out Spell lists
-
 Edit Level 2-9 Spells (oh god)
 - Add class tags
 - Remove titles
 - add links
+
+Figure out Spell lists?
+- Manual in separate note?
+- do bases work on site??????????????
 
 Fill in Equipment
 - Start with tools
@@ -27,12 +29,3 @@ Custom 2024 Character Sheet PDF??
 - Add Evasion Class
 - Simplify Hit Dice box
 - replace XP with milestones
-
-Custom Obsidian Vault for Character Management
-- Dark mode/sepia sheets
-- Include Compendium for wikilinks?
-
-Obsidian [[Custom Character Sheet.canvas|Custom Character Sheet]] via Canvas???
-
-
-REMAKE SANDERSSON IN NEW VAULT!!

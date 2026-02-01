@@ -1,5 +1,3 @@
-# Path of the Wild Heart
-
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 ### Level 3: Animal Speaker

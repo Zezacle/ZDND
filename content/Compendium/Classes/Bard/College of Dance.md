@@ -1,5 +1,3 @@
-# College of Dance
-
 Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.
 
 ### Level 3: Dazzling Footwork

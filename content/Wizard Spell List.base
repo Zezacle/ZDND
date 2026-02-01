@@ -1,0 +1,17 @@
+views:
+  - type: list
+    name: View
+    separator: tag
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("spell-list/wizard")
+    order:
+      - file.name
+      - spell_level
+      - school
+      - tags
+    sort:
+      - property: spell_level
+        direction: ASC

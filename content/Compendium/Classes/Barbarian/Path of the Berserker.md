@@ -1,5 +1,3 @@
-# Path of the Beserker
-
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
 
 ### Level 3: Frenzy
