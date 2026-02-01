@@ -3,6 +3,9 @@ tags:
   - spell
 school: Conjuration
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Create Food and Water
 *Level 3 Conjuration (Artificer, Cleric, Paladin)*

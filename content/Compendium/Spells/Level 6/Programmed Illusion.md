@@ -3,6 +3,9 @@ tags:
   - spell
 school: Illusion
 spell_level: "6"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Programmed Illusion
 

@@ -1,12 +1,15 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/bard
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
 school: Divination
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: false
 ---
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 

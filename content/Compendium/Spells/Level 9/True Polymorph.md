@@ -3,6 +3,9 @@ tags:
   - spell
 school: Transmutation
 spell_level: "9"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### True Polymorph
 

@@ -3,6 +3,9 @@ tags:
   - spell
 school: Evocation
 spell_level: "9"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Meteor Swarm
 

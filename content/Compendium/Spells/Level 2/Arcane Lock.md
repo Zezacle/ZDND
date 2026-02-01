@@ -1,11 +1,14 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/wizard
 school: Abjuration
 spell_level: "2"
+ritual: false
+material_component: true
+concentration: false
 ---
-#### Arcane Lock
-
 *Level 2 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** Action

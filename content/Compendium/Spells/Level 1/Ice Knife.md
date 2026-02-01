@@ -6,6 +6,9 @@ tags:
   - spell-list/wizard
 school: Conjuration
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 

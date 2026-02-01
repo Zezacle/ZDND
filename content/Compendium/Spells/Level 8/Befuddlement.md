@@ -3,6 +3,9 @@ tags:
   - spell
 school: Enchantment
 spell_level: "8"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Befuddlement
 

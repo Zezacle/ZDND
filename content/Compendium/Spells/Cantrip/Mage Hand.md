@@ -8,6 +8,9 @@ tags:
   - spell-list/wizard
 school: Conjuration
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Conjuration Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 

@@ -3,6 +3,9 @@ tags:
   - spell
 school: Conjuration
 spell_level: "4"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Secret Chest
 

@@ -1,11 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/wizard
 school: Evocation
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Acid Arrow
-
 *Level 2 Evocation (Wizard)*
 
 **Casting Time:** Action

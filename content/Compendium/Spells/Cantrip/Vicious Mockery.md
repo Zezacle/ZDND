@@ -4,6 +4,9 @@ tags:
   - spell-list/bard
 school: Enchantment
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Enchantment Cantrip (Bard)*
 

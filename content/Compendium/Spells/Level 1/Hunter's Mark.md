@@ -2,8 +2,12 @@
 tags:
   - spell
   - spell-list/ranger
+  - concentration
 school: Divination
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Divination (Ranger)*
 

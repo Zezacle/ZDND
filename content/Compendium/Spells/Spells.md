@@ -1,3 +1,8 @@
+---
+ritual: false
+material_component: false
+concentration: false
+---
 ### Spell Lists
 ##### Bard Spell List 
 | Level | Spell             | School    | Special |

@@ -4,8 +4,12 @@ tags:
   - spell-list/bard
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Enchantment (Bard, Warlock, Wizard)*
 

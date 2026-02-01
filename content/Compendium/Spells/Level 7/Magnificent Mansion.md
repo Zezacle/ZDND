@@ -3,6 +3,9 @@ tags:
   - spell
 school: Conjuration
 spell_level: "7"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Magnificent Mansion
 

@@ -8,6 +8,9 @@ tags:
   - spell-list/wizard
 school: Illusion
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -18,7 +21,7 @@ spell_level: "3"
 
 As you mutter the verbal components of the spell, the blood on your hands sizzles away to smoke, which manifests into a copy of yourself created from smoke and shadow in an unoccupied space with 30ft that you can see. The clone has a number of hit points equal to 3d4 + your Constitution modifier and an AC of 10 + your Dexterity modifier.
 
-Any creature that has sight of the creation of the Shadow Clone automatically knows it is an illusion, and all other creatures that encounter it must make a Wisdom (Insight) check to know it is an illusion.
+Any creature that has sight of the creation of the Shadow Clone automatically knows it is an illusion, and all other creatures that encounter it must make a Wisdom ([[Insight]]) check to know it is an illusion.
 
 In combat, the Shadow Clone shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [[Dodge]] action, unless you take a bonus action on your turn to command it to take the [[Dash]], [[Disengage]], [[Help]], [[Hide]], or [[Search]] action. The Shadow Clone can be used to cast any spell the original caster has prepared, and shares the spell slots of the caster. Attacks the shadow clone makes against enemies that are aware it is an illusion deal half damage.
 

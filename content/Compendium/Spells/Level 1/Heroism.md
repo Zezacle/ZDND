@@ -3,8 +3,12 @@ tags:
   - spell
   - spell-list/bard
   - spell-list/paladin
+  - concentration
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Enchantment (Bard, Paladin)*
 

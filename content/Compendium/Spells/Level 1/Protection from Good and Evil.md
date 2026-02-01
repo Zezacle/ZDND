@@ -6,8 +6,12 @@ tags:
   - spell-list/paladin
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Abjuration
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 

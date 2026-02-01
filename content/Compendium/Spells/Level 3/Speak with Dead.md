@@ -3,6 +3,9 @@ tags:
   - spell
 school: Necromancy
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Speak with Dead
 

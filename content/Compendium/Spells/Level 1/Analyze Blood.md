@@ -1,13 +1,16 @@
 ---
 tags:
   - new
-  - spell
+  - spell/ritual
   - spell-list/cleric
   - spell-list/druid
   - spell-list/ranger
   - spell-list/wizard
 school: Necromancy
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: false
 ---
 *Level 1 Necromancy (Cleric, Druid, Ranger, Wizard)*
 

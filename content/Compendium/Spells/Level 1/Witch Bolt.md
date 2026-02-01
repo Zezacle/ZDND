@@ -4,8 +4,12 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Evocation
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*
 

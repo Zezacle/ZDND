@@ -8,6 +8,9 @@ tags:
   - spell-list/wizard
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 

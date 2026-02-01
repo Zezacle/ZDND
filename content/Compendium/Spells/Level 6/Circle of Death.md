@@ -3,6 +3,9 @@ tags:
   - spell
 school: Necromancy
 spell_level: "6"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Circle of Death
 

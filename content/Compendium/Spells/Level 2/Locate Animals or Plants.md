@@ -1,14 +1,18 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/bard
+  - spell-list/druid
+  - spell-list/ranger
 school: Divination
 spell_level: "2"
+ritual: true
+material_component: false
+concentration: false
 ---
-#### Locate Animals or Plants
-
 *Level 2 Divination (Bard, Druid, Ranger)*
 
-**Casting Time:** Action or Ritual
+**Casting Time:** Action or [[Ritual]]
 **Range:** Self
 **Components:** V, S, M (fur from a bloodhound)
 **Duration:** Instantaneous

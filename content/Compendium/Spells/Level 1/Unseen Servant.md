@@ -1,11 +1,14 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/bard
   - spell-list/warlock
   - spell-list/wizard
 school: Conjuration
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: false
 ---
 *Level 1 Conjuration (Bard, Warlock, Wizard)*
 

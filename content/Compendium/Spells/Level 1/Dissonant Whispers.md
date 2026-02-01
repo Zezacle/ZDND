@@ -4,6 +4,9 @@ tags:
   - spell-list/bard
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Enchantment (Bard)*
 

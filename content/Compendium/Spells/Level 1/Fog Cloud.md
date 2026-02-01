@@ -5,8 +5,12 @@ tags:
   - spell-list/ranger
   - spell-list/sorcerer
   - spell-list/wizard
+  - concentration
 school: Conjuration
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
 

@@ -1,11 +1,15 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/wizard
 school: Illusion
 spell_level: "2"
+ritual: false
+material_component: true
+concentration: false
 ---
-#### Magic Mouth
-
 *Level 2 Illusion (Artificer, Bard, Wizard)*
 
 **Casting Time:** 1 minute or Ritual

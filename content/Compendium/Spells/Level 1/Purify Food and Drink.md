@@ -1,11 +1,14 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/cleric
   - spell-list/druid
   - spell-list/paladin
 school: Transmutation
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: false
 ---
 *Level 1 Transmutation (Cleric, Druid, Paladin)*
 

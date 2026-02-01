@@ -1,11 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/wizard
 school: Illusion
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Arcanist's Magic Aura
-
 *Level 2 Illusion (Wizard)*
 
 **Casting Time:** Action

@@ -1,11 +1,16 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Divination
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### See Invisibility
-
 *Level 2 Divination (Artificer, Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -13,4 +18,4 @@ spell_level: "2"
 **Components:** V, S, M (a pinch of talc)
 **Duration:** 1 hour
 
-For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
+For the duration, you see creatures and objects that have the [[Invisible]] condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.

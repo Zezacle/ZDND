@@ -4,6 +4,9 @@ tags:
   - spell-list/warlock
 school: Evocation
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Evocation (Warlock)*
 

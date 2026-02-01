@@ -7,6 +7,9 @@ tags:
   - spell-list/warlock
 school: Abjuration
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 3 Abjuration (Bard, Sorcerer, Warlock)*
 

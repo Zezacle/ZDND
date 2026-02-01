@@ -8,6 +8,9 @@ tags:
   - spell-list/wizard
 school: Evocation
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 3 Evocation (Artificer, Bard, Cleric, Ranger, Wizard)*
 

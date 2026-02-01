@@ -1,12 +1,16 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/cleric
   - spell-list/druid
   - spell-list/paladin
   - spell-list/ranger
+  - concentration
 school: Divination
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: true
 ---
 *Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
 

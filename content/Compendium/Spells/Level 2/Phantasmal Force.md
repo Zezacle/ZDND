@@ -1,21 +1,26 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/wizard
+  - concentration
 school: Illusion
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: true
 ---
-#### Phantasmal Force
-
 *Level 2 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
 **Range:** 60 feet
 **Components:** V, S, M (a bit of fleece)
-**Duration:** Concentration, up to 1 minute
+**Duration:** [[Concentration]], up to 1 minute
 
-You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
+You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [[Cube]] and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
-The target can take a Study action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+The target can take a [[Study]] action to examine the phantasm with an Intelligence ([[Investigation]]) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
 While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
 

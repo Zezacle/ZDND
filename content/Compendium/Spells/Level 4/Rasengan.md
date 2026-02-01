@@ -8,6 +8,9 @@ tags:
   - spell-list/warlock
 school: Evocation
 spell_level: "4"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 4 Evocation (Cleric, Druid, Paladin, Warlock)*
 

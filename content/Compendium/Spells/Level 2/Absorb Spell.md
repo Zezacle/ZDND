@@ -7,6 +7,9 @@ tags:
   - spell-list/wizard
 school: Abjuration
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 2 Abjuration (Cleric, Sorcerer, Wizard)*
 

@@ -1,14 +1,18 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/wizard
 school: Divination
 spell_level: "2"
+ritual: true
+material_component: true
+concentration: false
 ---
-#### Augury
-
 *Level 2 Divination (Cleric, Druid, Wizard)*
 
-**Casting Time:** 1 minute or Ritual
+**Casting Time:** 1 minute or [[Ritual]]
 **Range:** Self
 **Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
 **Duration:** Instantaneous
@@ -24,4 +28,4 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 The spell doesn't account for circumstances, such as other spells, that might change the results.
 
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a [[Long Rest]], there is a cumulative 25 percent chance for each casting after the first that you get no answer.

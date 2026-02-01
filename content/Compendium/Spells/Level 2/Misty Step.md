@@ -1,11 +1,15 @@
 ---
 tags:
   - spell
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Conjuration
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Misty Step
-
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action

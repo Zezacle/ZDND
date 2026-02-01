@@ -31,13 +31,13 @@ When you use a bonus action to Rage, you can expend a use of your shouts to perf
 
 ### Level 10: Expanded Voice
 
-You can now use the **Shout Mastery** effect of one of your known shouts. If you know the a Shout's Mastery, you cannot change the Shout for another known shout at the end of a [[Long Rest]].
+You can now use the **Shout Mastery** effect of one of your known shouts. If you know a Shout's Mastery, you cannot change that Shout for another known shout at the end of a [[Long Rest]].
 
 You can change your known **Shout Mastery** by meditating uninterrupted for 4 hours.
 
 ### Level 14: Master of the Voice
 
-You can now use the **Shout Mastery** for one additional known shouts. Meditating to change a Shout Mastery only takes 1 hour.
+You can now use the **Shout Mastery** for one additional known shout. Meditating to change a Shout Mastery only takes 1 hour.
 
 You know the **Shout Mastery** for Unrelenting Force and it does not count against your known Shout Masteries.
 
@@ -56,7 +56,7 @@ This shout has no effect on creatures who cannot hear you such as [[Deafened]] c
 #### Bend Will
 *(Gol Hah Dov)*
 
-One Humanoid you can see within 30 feet makes a Wisdom saving throw. On a failed save, the target has the [[Charmed]] condition for 1 minute or until you or your allies damage it. The [[Charmed]] creature is Friendly to you. At the end of each of their turns, they can repeat the saving throw and on a success end the [[Charmed]] condition.
+One Humanoid you can see within 30 feet makes a Wisdom saving throw. On a failed save, the target has the [[Charmed]] condition for 1 minute or until you or your allies damage it. The [[Charmed]] creature is Friendly to you. The target repeats the save at the end of each of its turns, ending the [[Charmed]] condition on a success.
 
 When the effect ends, the target knows it was [[Charmed]] by you.
 
@@ -88,7 +88,7 @@ Creatures in a 30-foot [[Cone]] in front of you must succeed on a Strength savin
 #### Dismay
 *(Faas Ru Maar)*
 
-Hostile creatures within 30 feet of you must succeed on a Wisdom saving throw or become [[Frightened]]. At the end of each of their turns, they can repeat the saving throw and on a success end the [[Frightened]] condition.
+Hostile creatures within 30 feet of you must succeed on a Wisdom saving throw or become [[Frightened]]. The target repeats the save at the end of each of its turns, ending the [[Frightened]]condition on a success.
 
 This shout has no effect on creatures who cannot hear you such as [[Deafened]] creatures.
 

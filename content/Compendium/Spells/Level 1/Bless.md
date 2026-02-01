@@ -3,8 +3,12 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
+  - concentration
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: true
+concentration: true
 ---
 *Level 1 Enchantment (Cleric, Paladin)*
 

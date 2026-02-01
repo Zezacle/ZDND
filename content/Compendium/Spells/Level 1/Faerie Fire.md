@@ -4,8 +4,12 @@ tags:
   - spell-list/artificer
   - spell-list/bard
   - spell-list/druid
+  - concentration
 school: Evocation
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Evocation (Artificer, Bard, Druid)*
 

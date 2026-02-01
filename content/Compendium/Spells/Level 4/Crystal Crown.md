@@ -7,12 +7,15 @@ tags:
   - spell-list/wizard
 school: Evocation
 spell_level: "4"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 4 Evocation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
 **Range:** Self, 90 feet
-**Components:** V, S, M (a chunk of quartz or other crystal worth at least 25gp)
+**Components:** V, S, M (a chunk of quartz or other crystal worth 25 GP+, which the spell consumes)
 **Duration:** 1 hour
 
 Form 4 crystal shards that float and encircle your head. As a Bonus Action, you can consume one of the crystal shards to make a Ranged Spell Attack against a target you can see within 90ft. On a hit, the target takes 4d6 piercing damage. 

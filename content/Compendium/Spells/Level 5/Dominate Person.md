@@ -3,6 +3,9 @@ tags:
   - spell
 school: Enchantment
 spell_level: "5"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Dominate Person
 

@@ -9,6 +9,9 @@ tags:
   - spell-list/ranger
 school: Abjuration
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 

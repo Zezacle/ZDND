@@ -12,12 +12,15 @@ tags:
   - spell-list/wizard
 school: Divination
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Divination (Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
 **Range:** 30 feet
-**Components:** V, M (10 GP, which the spell consumes)
+**Components:** V, S, M (10 GP, which the spell consumes)
 **Duration:** Instantaneous
 
 Summon and pay a pink wisp to lead you to the most valuable item within a 30-foot radius. The wisp only leads you to items that have been discarded, lost or otherwise abandoned by the last owner.

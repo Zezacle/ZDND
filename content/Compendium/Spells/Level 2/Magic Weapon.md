@@ -1,11 +1,17 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/paladin
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Transmutation
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Magic Weapon
-
 *Level 2 Transmutation (Artificer, Paladin, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action

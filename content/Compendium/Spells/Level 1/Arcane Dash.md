@@ -8,6 +8,9 @@ tags:
   - spell-list/warlock
 school: Conjuration
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Conjuration (Bard, Paladin, Ranger, Warlock)*
 

@@ -4,6 +4,9 @@ tags:
   - spell-list/warlock
 school: Evocation
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Evocation Cantrip (Warlock)*
 

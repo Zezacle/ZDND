@@ -3,6 +3,9 @@ tags:
   - spell
 school: Evocation
 spell_level: "4"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Fire Shield
 

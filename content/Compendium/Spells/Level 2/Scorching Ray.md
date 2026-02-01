@@ -1,11 +1,14 @@
 ---
 tags:
   - spell
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Evocation
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Scorching Ray
-
 *Level 2 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action

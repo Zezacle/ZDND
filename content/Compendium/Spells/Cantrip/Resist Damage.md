@@ -4,8 +4,12 @@ tags:
   - spell-list/artificer
   - spell-list/cleric
   - spell-list/druid
+  - concentration
 school: Abjuration
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Abjuration Cantrip (Artificer, Cleric, Druid)*
 

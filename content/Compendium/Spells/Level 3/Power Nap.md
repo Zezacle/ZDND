@@ -6,6 +6,9 @@ tags:
   - spell-list/paladin
 school: Enchantment
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 3 Enchantment (Cleric, Paladin)*
 

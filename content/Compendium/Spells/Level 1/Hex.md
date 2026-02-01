@@ -2,8 +2,12 @@
 tags:
   - spell
   - spell-list/warlock
+  - concentration
 school: Enchantment
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Enchantment (Warlock)*
 

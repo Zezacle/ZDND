@@ -1,11 +1,15 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Transmutation
 spell_level: "2"
+ritual: false
+material_component: false
+concentration: false
 ---
-#### Knock
-
 *Level 2 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15,6 +19,6 @@ spell_level: "2"
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If the target is held shut by *Arcane Lock*, that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
+If the target is held shut by [[Arcane Lock]], that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.

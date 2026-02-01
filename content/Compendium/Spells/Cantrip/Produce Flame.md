@@ -4,6 +4,9 @@ tags:
   - spell-list/druid
 school: Conjuration
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Conjuration Cantrip (Druid)*
 

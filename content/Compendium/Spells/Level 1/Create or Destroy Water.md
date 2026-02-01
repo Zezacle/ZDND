@@ -5,6 +5,9 @@ tags:
   - spell-list/druid
 school: Transmutation
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Level 1 Transmutation (Cleric, Druid)*
 

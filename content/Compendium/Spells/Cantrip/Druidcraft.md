@@ -4,6 +4,9 @@ tags:
   - spell-list/druid
 school: Transmutation
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Transmutation Cantrip (Druid)*
 

@@ -7,6 +7,9 @@ tags:
   - spell-list/wizard
 school: Divination
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 

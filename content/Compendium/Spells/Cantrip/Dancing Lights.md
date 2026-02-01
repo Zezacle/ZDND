@@ -5,8 +5,12 @@ tags:
   - spell-list/bard
   - spell-list/sorcerer
   - spell-list/wizard
+  - concentration
 school: Illusion
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Illusion Cantrip (Artificer, Bard, Sorcerer, Wizard)*
 

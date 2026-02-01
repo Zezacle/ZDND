@@ -5,8 +5,12 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Transmutation
 spell_level: "1"
+ritual: false
+material_component: false
+concentration: true
 ---
 *Level 1 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 

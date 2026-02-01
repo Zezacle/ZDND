@@ -1,10 +1,14 @@
 ---
 tags:
   - new
-  - spell
+  - spell/ritual
   - spell-list/bard
+  - concentration
 school: Illusion
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: true
 ---
 *Level 1 Illusion (Bard)*
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/artificer
   - spell-list/bard
   - spell-list/cleric
@@ -10,8 +10,12 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Divination
 spell_level: "1"
+ritual: true
+material_component: false
+concentration: true
 ---
 *Level 1 Divination (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 

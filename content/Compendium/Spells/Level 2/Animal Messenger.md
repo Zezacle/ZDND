@@ -1,14 +1,18 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/bard
+  - spell-list/druid
+  - spell-list/ranger
 school: Enchantment
 spell_level: "2"
+ritual: true
+material_component: false
+concentration: false
 ---
-#### Animal Messenger
-
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 
-**Casting Time:** Action or Ritual
+**Casting Time:** Action or [[Ritual]]
 **Range:** 30 feet
 **Components:** V, S, M (a morsel of food)
 **Duration:** 24 hours

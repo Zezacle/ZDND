@@ -3,6 +3,9 @@ tags:
   - spell
 school: Abjuration
 spell_level: "3"
+ritual: false
+material_component: false
+concentration: false
 ---
 #### Protection from Energy
 

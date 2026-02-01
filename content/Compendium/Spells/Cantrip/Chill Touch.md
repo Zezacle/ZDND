@@ -6,6 +6,9 @@ tags:
   - spell-list/wizard
 school: Necromancy
 spell_level: "0"
+ritual: false
+material_component: false
+concentration: false
 ---
 *Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
