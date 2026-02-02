@@ -19,8 +19,6 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Land
 > *Medium Beast, Neutral*
 > 
-> | |
-> | - |
 > **AC** 13 + your Wisdom mod.
 > **HP** 5 + five times your ranger level (the beast has a number of hit dice (d8s) equal to your ranger level)
 > **Speed** 40 ft., [[Climbing|Climb]] 40 ft.
@@ -30,14 +28,16 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > | **STR** | 14 | +2 | +2 | **INT** | 8 | -1 | -1 | 
 > | **DEX** | 14 | +2 | +2 | **WIS** | 14 | +2 | +2 |
 > | **CON** | 15 | +2 | +2 | **CHA** | 11 | +0 | +0 |
+> 
 > **Senses** [[Darkvision]] 30 ft., [[Passive Perception]] 12
 > **Languages** Understands the languages that you know
 > **CR** None (PB equals your Proficiency Bonus)
-> ### Traits
+> 
+> ## Traits
 > **Primal Bond.** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-
-#### Actions
-**Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (Your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature.
+> 
+> ## Actions
+> **Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (Your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature.
 
 ### Beast of the Sky
 
@@ -45,8 +45,6 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Sky
 > *Small Beast, Neutral*
 > 
-> | |
-> | - |
 > **AC** 13 + your Wisdom mod.
 > **HP** 4 + four times your ranger level (the beast has a number of hit dice (d6s) equal to your ranger level)
 > **Speed** 10 ft., [[Flying]] 60 ft.
@@ -56,15 +54,17 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > | **STR** | 6 | -1 | -1 | **INT** | 8 | -1 | -1 | 
 > | **DEX** | 16 | +3 | +3 | **WIS** | 14 | +2 | +2 |
 > | **CON** | 13 | +1 | +1 | **CHA** | 11 | +0 | +0 |
+>
 > **Senses** [[Darkvision]] 30 ft., [[Passive Perception]] 12
 > **Languages** Understands the languages that you know
 > **CR** None (PB equals your Proficiency Bonus)
-> ### Traits
+> 
+> ## Traits
 > **Flyby.** The beast doesn't provoke [[Opportunity Attacks]] when it flies out of an enemy's reach.
 > **Primal Bond.** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
-
-#### Actions
-**Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d4 + 3 plus your Wisdom modifier Slashing damage.
+> 
+> ## Actions
+> **Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d4 + 3 plus your Wisdom modifier Slashing damage.
 
 ### Beast of the Sea
 
@@ -72,8 +72,6 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Sea
 > *Medium Beast, Neutral*
 > 
-> | |
-> | - |
 > **AC** 13 + your Wisdom mod.
 > **HP** 5 + five times your ranger level (the beast has a number of hit dice (d8s) equal to your ranger level)
 > **Speed** 5 ft., [[Swimming|Swim]] 60 ft.
@@ -88,12 +86,13 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > **Languages** Understands the languages that you know
 > **CR** None (PB equals your Proficiency Bonus)
 > 
-> ### Traits
+> ## Traits
 > **Amphibious.** The beast can breathe air and water.
 > **Primal Bond.** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+> 
+> ## Actions
+> **Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (Your choice when you summon the beast), and the target has the [[Grappled]] condition (escape DC equals your spell save DC).
 
-#### Actions
-**Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (Your choice when you summon the beast), and the target has the [[Grappled]] condition (escape DC equals your spell save DC).
 
 ### Level 7: Exceptional Training
 

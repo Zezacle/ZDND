@@ -4,6 +4,15 @@ tags:
 ---
 Fill in Subclasses
 
+Create Statblock template
+- Finish Summon Fey spell
+	- Add to wiz spell list
+- Finish Ranger subclasses
+
+
+
+
+
 Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
