@@ -85,12 +85,16 @@ You have a mind for tactics on and off the battlefield. When you fail an ability
 
 You gain a Fighter subclass of your choice: [[Banneret]], [[Champion]], [[Eldritch Knight]], or [[Psi Warrior]]. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level or lower.
 
-| Martial Archetype (Subclass) |     |
-| ---------------------------- | --- |
-| [[Banneret]]                 |     |
-| [[Champion]]                 |     |
-| [[Eldritch Knight]]          |     |
-| [[Psi Warrior]]              |     |
+| Martial Archetype (Subclass) |                                               |
+| ---------------------------- | --------------------------------------------- |
+| [[Banneret]]                 | Rally Fellow Heroes with Inspiring Leadership |
+| [[Champion]]                 | Pursue Physical Excellence in Combat          |
+| [[Eldritch Knight]]          | Support Combat Skills with Arcane Magic       |
+| [[Psi Warrior]]              | Augment Physical Might with Psionic Power     |
+
+> [!info] Battle Master subclass
+> If you specifically wanted to play the Battle Master subclass, let Zee know. I'm working on integrating Maneuvers into the Fighter class and discontinuing the subclass, but I haven't gotten around to doing that yet.
+
 
 ### Level 4: General Feat
 

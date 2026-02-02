@@ -15,7 +15,7 @@ Edit Level 3-9 Spells (oh god)
 - add links
 
 Figure out Spell lists?
-- Separate Wiz list by level
+- Prioritize up to lv3
 
 Fill in Equipment
 - Start with tools
@@ -30,7 +30,7 @@ Custom 2024 Character Sheet PDF??
 - replace XP with milestones
 
 Dragonborn species lore
-- Remove species lore?? save for setting resources?
+- Remove all species lore?? save for setting resources?
 
 Make new meta images
 - how 2 favicon

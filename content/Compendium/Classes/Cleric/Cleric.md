@@ -124,13 +124,13 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 You gain a Cleric subclass of your choice: [[Knowledge Domain]], [[Life Domain]], [[Light Domain]], [[Trickery Domain]], or [[War Domain]]. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
-| Cleric Domain (Subclass) |     |
-| ------------------------ | --- |
-| [[Knowledge Domain]]     |     |
-| [[Life Domain]]          |     |
-| [[Light Domain]]         |     |
-| [[Trickery Domain]]      |     |
-| [[War Domain]]           |     |
+| Cleric Domain (Subclass) |                                       |
+| ------------------------ | ------------------------------------- |
+| [[Knowledge Domain]]     | Unearth Secrets and Master the Mind   |
+| [[Life Domain]]          | Soothe the Hurts of the World         |
+| [[Light Domain]]         | Bring Light to Banish Darkness        |
+| [[Trickery Domain]]      | Make Mischief and Challenge Authority |
+| [[War Domain]]           | Inspire Valor and Smite Foes          |
 
 ### Level 4: General Feat
 

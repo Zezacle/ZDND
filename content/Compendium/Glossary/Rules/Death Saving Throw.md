@@ -1,6 +1,8 @@
 ---
 tags:
   - rule
+aliases:
+  - Death Saving Throws
 ---
 Whenever you start your turn with 0 [[Hit Points]], you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn’t tied to an ability score. You’re in the hands of fate now.
 

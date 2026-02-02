@@ -9,18 +9,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 
-**Observation.** As a Bonus Action in combat, you can make a DC 15 [[Insight]] check against a target in combat and on a success roll for a random characteristic from the Characteristic Table. If the creature is humanoid, roll a d8, if not, a d6. The DM tells you if the creature is your equal, superior, or inferior in regards to the characteristic. 
+**Observation.** As a special [[Study]] action, you can discern certain strengths and weaknesses of a creature you can see within 60 feet of yourself. Make a DC 15 [[Insight]] check. On a success you know one of the following sets of characteristics the target has:
+- [[Immunity|Immunities]], [[Resistance|Resistances]], or [[Vulnerability|Vulnerabilities]], and if the creature has any, you know what they are
+- [[Evasion Class]], [[Armor Class]], Saving Throw Proficiencies
 
-**Reconnaissance.** If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities. Select two characteristics from the Characteristic Table to learn about the creature.
-
-| d6/d8 | Characteristic Table                                                   |
-| ----- | ---------------------------------------------------------------------- |
-| 1     | Strength score                                                         |
-| 2     | Dexterity score                                                        |
-| 3     | Constitution score                                                     |
-| 4     | [[Armor Class]]                                                        |
-| 5     | Current [[Hit Points]]                                                 |
-| 6     | Damage [[Resistance\|Resistances]], if any |
-| -     | ---                                                                    |
-| 7     | Total class levels, if any                                             |
-| 8     | Level in your class, if any                                            |
+**Reconnaissance.** If you spend at least 1 minute observing or interacting with another creature outside combat, you learn whether that creature has any [[Immunity|Immunities]], [[Resistance|Resistances]], or [[Vulnerability|Vulnerabilities]], and if the creature has any, you know what they are. You learn the target's [[Evasion Class]], [[Armor Class]], and Saving Throw Proficiencies as well as if the target is capable of spellcasting.

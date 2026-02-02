@@ -6,14 +6,15 @@ This page assumes you've made a 5e (2014/2024) character before. If you haven't 
 
 ## Step 1: Your Character Sheet
 
-Download the [D&D 2024 Character Sheet.pdf](https://drive.google.com/file/d/1kZzLRSx1BQmef22A-ZqFWQswukM5VBWx/view?usp=drive_link) from my Google Drive.
+Download the [D&D 2024 Character Sheet.pdf](https://github.com/Zezacle/ZDND/blob/v4/content/DND_2024_Character_Sheet.pdf)
 
 Open it with a PDF Editor of your choice:
 - [PDF Gear](https://www.pdfgear.com/) (Recommended, Free)
-- Adobe Acrobat
+- Adobe Acrobat (Paid)
 - Mozilla Firefox browser
 - Google Chrome browser
 
+> [!info] Printing your Character Sheet
 > If you wish to Print out your sheet and use pen and paper, please make a .PDF as well and update it every now and then so that your DM can have a copy.
 
 ## Step 2: Pick a Class

@@ -1,3 +1,7 @@
+---
+tags:
+  - new
+---
 Barbarians who follow the Path of the Voice channel ancient magic through phrases of ancient languages known as a Shout, the knowledge of which is gifted to them through mystical means. Shouts can invoke a variety of effects, from pure magical force to command over another's mind.
 
 *Inspired by TES V: Skyrim by Bethesda Softworks.* 
@@ -88,11 +92,11 @@ Creatures in a 30-foot [[Cone]] in front of you must succeed on a Strength savin
 #### Dismay
 *(Faas Ru Maar)*
 
-Hostile creatures within 30 feet of you must succeed on a Wisdom saving throw or become [[Frightened]]. The target repeats the save at the end of each of its turns, ending the [[Frightened]]condition on a success.
+Hostile creatures within 30 feet of you must succeed on a Wisdom saving throw or have the [[Frightened]] condition for 1 minute or until it takes any damage. The target repeats the save at the end of each of its turns, ending the [[Frightened]] condition on a success.
 
 This shout has no effect on creatures who cannot hear you such as [[Deafened]] creatures.
 
-**Shout Mastery.** While creatures are [[Frightened]] by this effect, you have a bonus equal to your Constitution modifier to melee attack rolls made against them.
+**Shout Mastery.** Attack rolls against the [[Frightened]] creatures have [[Advantage]].
 
 #### Storm
 *(Strun Bah Qo)*

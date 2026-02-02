@@ -202,12 +202,14 @@ tags:
 |   5   | [[Planar Binding]]       | Abjuration    | M       |
 |   5   | [[Scrying]]              | Divination    | C, M    |
 |   5   | [[Seeming]]              | Illusion      | —       |
+|   5   | [[Steel Wind Strike]]    | Conjuration   | M       |
 |   5   | [[Summon Dragon]]        | Conjuration   | C, M    |
 |   5   | [[Telekinesis]]          | Transmutation | C       |
 |   5   | [[Telepathic Bond]]      | Divination    | R       |
 |   5   | [[Teleportation Circle]] | Conjuration   | M       |
 |   5   | [[Wall of Force]]        | Evocation     | C       |
 |   5   | [[Wall of Stone]]        | Evocation     | C       |
+|   5   | [[Regal Presence]]       | Enchantment   | C       |
 
 ### Level 6 Spells
 

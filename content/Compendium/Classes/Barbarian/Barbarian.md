@@ -95,14 +95,15 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 ### Level 3: Barbarian Subclass
 
-You gain a Barbarian subclass of your choice: [[Path of the Berserker]], [[Path of the Wild Heart]], [[Path of the World Tree]], or [[Path of the Zealot]]. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
+You gain a Barbarian subclass of your choice: [[Path of the Berserker]], [[Path of the Voice]], [[Path of the Wild Heart]], [[Path of the World Tree]], or [[Path of the Zealot]]. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
 
-| Barbarian Path (Subclass)  |                                                 |
-| -------------------------- | ----------------------------------------------- |
-| [[Path of the Berserker]]  | Channel Rage into Violent Fury.                 |
-| [[Path of the Wild Heart]] | Walk in Community with the Animal World         |
-| [[Path of the World Tree]] | Trace the Roots and Branches of the Multiverse. |
-| [[Path of the Zealot]]     | Rage in Ecstatic Union with a God.              |
+| Barbarian Path (Subclass)  |                                                |
+| -------------------------- | ---------------------------------------------- |
+| [[Path of the Berserker]]  | Channel Rage into Violent Fury                 |
+| [[Path of the Voice]]      | Invoke Magic through a Booming Voice           |
+| [[Path of the Wild Heart]] | Walk in Community with the Animal World        |
+| [[Path of the World Tree]] | Trace the Roots and Branches of the Multiverse |
+| [[Path of the Zealot]]     | Rage in Ecstatic Union with a God              |
 ### Level 3: Primal Knowledge
 
 You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.

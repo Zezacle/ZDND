@@ -6,20 +6,20 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
-school: Illusion
+school: Conjuration
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
+*Level 3 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
 **Range:** 30 feet
 **Components:** V, S, M (a drop of the caster's blood)
 **Duration:** [[Concentration]], up to 10 minutes
 
-As you mutter the verbal components of the spell, the blood on your hands sizzles away to smoke, which manifests into a copy of yourself created from smoke and shadow in an unoccupied space with 30ft that you can see. The clone has a number of hit points equal to 3d4 + your Constitution modifier and an AC of 10 + your Dexterity modifier.
+As you mutter the verbal components of the spell, the blood on your hands sizzles away to smoke, which manifests into a physical copy of yourself created from smoke and shadow in an unoccupied space within 30 feet that you can see. The clone has a number of hit points equal to 3d4 + your Constitution modifier and an AC of 10 + your Dexterity modifier.
 
 Any creature that has sight of the creation of the Shadow Clone automatically knows it is an illusion, and all other creatures that encounter it must make a Wisdom ([[Insight]]) check to know it is an illusion.
 

@@ -131,15 +131,14 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin Subclass of your choice: [[Oath of Devotion]], [[Oath of Glory]], [[Oath of the Ancients]], [[Oath of the Noble Genies]] or [[Oath of Vengeance]]. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+You gain a Paladin Subclass of your choice: [[Oath of Devotion]], [[Oath of Glory]], [[Oath of the Ancients]], or [[Oath of Vengeance]]. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
-| Paladin Oath (Subclass)      |     |
-| ---------------------------- | --- |
-| [[Oath of Devotion]]         |     |
-| [[Oath of Glory]]            |     |
-| [[Oath of the Ancients]]     |     |
-| [[Oath of the Noble Genies]] |     |
-| [[Oath of Vengeance]]        |     |
+| Paladin Oath (Subclass)      |                                           |
+| ---------------------------- | ----------------------------------------- |
+| [[Oath of Devotion]]         | Uphold the Ideals of Justice and Order    |
+| [[Oath of Glory]]            | Strive for the Heights of Heroism         |
+| [[Oath of the Ancients]]     | Preserve Life and Light in the World      |
+| [[Oath of Vengeance]]        | Punish Evildoers at Any Cost              |
 
 #### Breaking Your Oath
 

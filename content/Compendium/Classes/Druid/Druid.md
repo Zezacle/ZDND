@@ -153,12 +153,12 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 
 You gain a Druid subclass of your choice: [[Circle of the Land]], [[Circle of the Moon]], [[Circle of the Sea]], or [[Circle of the Stars]]. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
 
-| Druid Circle (Subclass) |     |
-| ----------------------- | --- |
-| [[Circle of the Land]]  |     |
-| [[Circle of the Moon]]  |     |
-| [[Circle of the Sea]]   |     |
-| [[Circle of the Stars]] |     |
+| Druid Circle (Subclass) |                                           |
+| ----------------------- | ----------------------------------------- |
+| [[Circle of the Land]]  | Celebrate Connection to the Natural World |
+| [[Circle of the Moon]]  | Adopt Animal Forms to Guard the Wilds     |
+| [[Circle of the Sea]]   | Become One with Tides and Storms          |
+| [[Circle of the Stars]] | Harness Secrets Hidden in Constellations  |
 
 ### Level 4: General Feat
 

@@ -117,12 +117,12 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 
 You gain a Monk subclass of your choice: [[Warrior of Mercy]], [[Warrior of Shadow]], [[Warrior of the Elements]], or [[Warrior of the Open Hand]]. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level or lower.
 
-| Monastic Tradition (Subclass) |     |
-| ----------------------------- | --- |
-| [[Warrior of Mercy]]          |     |
-| [[Warrior of Shadow]]         |     |
-| [[Warrior of the Elements]]   |     |
-| [[Warrior of the Open Hand]]  |     |
+| Monastic Tradition (Subclass) |                                                 |
+| ----------------------------- | ----------------------------------------------- |
+| [[Warrior of Mercy]]          | Manipulate Forces of Life and Death             |
+| [[Warrior of Shadow]]         | Harness Shadow Power for Stealth and Subterfuge |
+| [[Warrior of the Elements]]   | Wield Strikes and Bursts of Elemental Power     |
+| [[Warrior of the Open Hand]]  | Master Unarmed Combat Techniques                |
 
 ### Level 4: General Feat
 

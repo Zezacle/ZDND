@@ -15,7 +15,7 @@ concentration: false
 *Level 1 Conjuration (Bard, Paladin, Ranger, Warlock)*
 
 **Casting Time:** Action
-**Range:** 20 feet
+**Range:** 10 feet
 **Components:** V, S
 **Duration:** Instantaneous
 
