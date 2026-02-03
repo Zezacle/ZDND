@@ -23,9 +23,9 @@ tags:
 | 1 GP  | [[Sickle]]                          |   1d4 slashing   |                                                                    [[Light]], [[Vicious]] |     [[Vex]] |
 | 1 GP  | [[Spear]], 1h                       |   1d6 piercing   |                                              [[Reach]], [[Thrown]] (20/60), [[Versatile]] |     [[Sap]] |
 | 1 GP  | [[Spear]], 2h                       |   1d8 piercing   |                                                  [[Quick]], [[Two-Handed]], [[Versatile]] |     [[Sap]] |
-| 2 SP  | [[Compendium/Equipment/Weapons/Simple Melee/Staff]], 1h                       | 1d6 bludgeoning  |                                                  [[Non-Lethal]], [[Reach]], [[Versatile]] |  [[Topple]] |
-| 2 SP  | [[Compendium/Equipment/Weapons/Simple Melee/Staff]], 2h                       | 1d8 bludgeoning  |                              [[Defensive]], [[Non-Lethal]], [[Two-Handed]], [[Versatile]] |  [[Topple]] |
-| 1 GP  | [[Throwing Knife]]                  |   1d4 piercing   |                                                [[Thrown]] (20/60), [[Finesse]], [[Light]] |     [[Vex]] |
+| 2 SP  | [[Quarterstaff]], 1h                       | 1d6 bludgeoning  |                                                  [[Non-Lethal]], [[Reach]], [[Versatile]] |  [[Topple]] |
+| 2 SP  | [[Quarterstaff]], 2h                       | 1d8 bludgeoning  |                              [[Defensive]], [[Non-Lethal]], [[Two-Handed]], [[Versatile]] |  [[Topple]] |
+| 1 GP  | [[Throwing Knife]]                  |   1d4 piercing   |                                                [[Finesse]], [[Light]], [[Thrown]] (20/60) |     [[Vex]] |
 |       | ***Martial Melee***                 |                  |                                                                                           |             |
 | 10 GP | [[Battleaxe]], 1h                   |   1d8 slashing   |                                                                [[Vicious]], [[Versatile]] |  [[Topple]] |
 | 10 GP | [[Battleaxe]], 2h                   |  1d10 slashing   |                                     [[Siege]], [[Two-Handed]], [[Vicious]], [[Versatile]] |  [[Topple]] |

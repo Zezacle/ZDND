@@ -119,12 +119,12 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 You gain a Warlock subclass of your choice: [[Archfey Patron]], [[Celestial Patron]], [[Fiend Patron]], and [[Great Old One Patron]] subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
 
-| Warlock Patron (Subclass) |     |
-| ------------------------- | --- |
-| [[Archfey Patron]]        |     |
-| [[Celestial Patron]]      |     |
-| [[Fiend Patron]]          |     |
-| [[Great Old One Patron]]  |     |
+| Warlock Patron (Subclass) |                                            |
+| ------------------------- | ------------------------------------------ |
+| [[Archfey Patron]]        | Bargain with Whimsical Fey                 |
+| [[Celestial Patron]]      | Call on the Power of the Heavens           |
+| [[Fiend Patron]]          | Make a Deal with the Lower Planes          |
+| [[Great Old One Patron]]  | Unearth Forbidden Lore of Ineffable Beings |
 
 ### Level 4: General Feat
 

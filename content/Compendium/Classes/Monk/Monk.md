@@ -6,7 +6,7 @@
 | **Saving Throw Proficiencies**             | Strength and Wisdom                                                                                                                                                        |
 | **Skill Proficiencies**                    | *Choose 2:* [[Acrobatics]], [[Athletics]], [[History]], [[Insight]], [[Religion]], [[Stealth]]                                                                             |
 | **Tool Proficiencies**                     | Choose one type of [[Artisan's Tools]] or [[Musical Instruments\|Musical Instrument]]                                                                                      |
-| **Weapon Proficiencies**                   | [[Baton]], [[Bola]], [[Compendium/Equipment/Weapons/Simple Melee/Staff]], [[Hook Sword]], [[Meteor Hammer]], [[Nunchuks]], [[Rope Dart]], [[Blowpipe]], [[Sling]], [[Throwing Knife]]                                |
+| **Weapon Proficiencies**                   | [[Baton]], [[Bola]], [[Quarterstaff]], [[Hook Sword]], [[Meteor Hammer]], [[Nunchuks]], [[Rope Dart]], [[Blowpipe]], [[Sling]], [[Throwing Knife]]                                |
 | **Armor Training**                         | -                                                                                                                                                                          |
 | **Starting Equipment**<br>*Choose A or B:* | (A) 2 [[Baton\|Batons]], [[Bola]], [[Artisan's Tools]] or [[Musical Instruments\|Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]] and 19 GP |
 |                                            | (B) 50 GP                                                                                                                                                                  |
@@ -60,7 +60,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 Your practice of martial arts gives you mastery of combat styles that use your [[Unarmed Strike]] and Monk weapons, which are the following:
 - [[Baton]]
 - [[Bola]]
-- [[Compendium/Equipment/Weapons/Simple Melee/Staff]]
+- [[Quarterstaff]]
 - [[Hook Sword]]
 - [[Meteor Hammer]]
 - [[Nunchuks]]

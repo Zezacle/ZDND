@@ -4,7 +4,7 @@ tags:
 aliases:
   - Staffs
 ---
-#### [[Compendium/Equipment/Weapons/Simple Melee/Staff]] (2 SP)
+#### [[Quarterstaff]] (2 SP)
 *Simple Melee, 2 SP, 4 lb.*
 
 **Mastery:** [[Topple]]

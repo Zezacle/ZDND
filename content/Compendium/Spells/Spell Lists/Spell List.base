@@ -7,8 +7,9 @@ views:
     filters:
       and:
         - file.hasTag("spell")
-        - and:
-            - file.hasTag("spell-list/wizard")
+    groupBy:
+      property: spell_level
+      direction: ASC
     order:
       - file.name
       - spell_level
@@ -18,9 +19,7 @@ views:
       - concentration
       - file.tags
     sort:
-      - property: spell_level
-        direction: ASC
-      - property: file.name
+      - property: school
         direction: ASC
     columnSize:
       note.spell_level: 30

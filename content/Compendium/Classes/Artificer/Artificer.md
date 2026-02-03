@@ -89,9 +89,9 @@ When you reach Artificer levels 10 and 14, you learn another Artificer cantrip o
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [[Cure Wounds]] and [[Grease]] are recommended.
 
-The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Artificer, your list of prepared spells can include six Artificer spells of levels 1 and 2 in any combination.
 
-If another Artificer feature gives you spells that you always have prepared, those don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
+If another Artificer feature gives you spells that you always have prepared, those don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
 **Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can change your list of prepared spells, replacing any of the spells there with other Artificer spells for which you have spell slots.
 
@@ -135,9 +135,9 @@ If a created item requires [[Attunement]], you can attune yourself to it the ins
 
 When you reach certain Artificer levels specified in the Magic Items column of the Artificer Features table, the number of magic items you can create at the end of a [[Long Rest]] increases. Each item you create must be based on a different plan you know.
 
-You can’t have more magic items from this feature than the number shown in the Magic Items column of the Artificer Features table for your level. If you try to exceed your maximum number of magic items for this feature, the oldest item vanishes, and then the new item appears.
+You can't have more magic items from this feature than the number shown in the Magic Items column of the Artificer Features table for your level. If you try to exceed your maximum number of magic items for this feature, the oldest item vanishes, and then the new item appears.
 
-**Duration.** A magic item created by this feature functions as the normal magic item, except its magic isn’t permanent; when you die, the magic item vanishes after 1d4 days. If you replace a plan you know with a new plan, any magic item created with the replaced plan immediately vanishes.
+**Duration.** A magic item created by this feature functions as the normal magic item, except its magic isn't permanent; when you die, the magic item vanishes after 1d4 days. If you replace a plan you know with a new plan, any magic item created with the replaced plan immediately vanishes.
 
 If an item that you created with this feature is a container, such as a [[Bag of Holding]], and it vanishes, its contents harmlessly appear in and around its space.
 
@@ -150,7 +150,7 @@ If an item that you created with this feature is a container, such as a [[Bag of
 | [[Alchemy Jug]]                                                                                                                                                                                         | No         |
 | [[Bag of Holding]]                                                                                                                                                                                      | No         |
 | [[Cap of Water Breathing]]                                                                                                                                                                              | No         |
-| Common magic item that isn’t a Potion, a Scroll, or cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
+| Common magic item that isn't a Potion, a Scroll, or cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
 | [[Goggles of Night]]                                                                                                                                                                                    | No         |
 | [[Manifold Tool]]                                                                                                                                                                                       | Yes        |
 | [[Repeating Shot]]                                                                                                                                                                                      | Yes        |
@@ -202,7 +202,7 @@ If an item that you created with this feature is a container, such as a [[Bag of
 | [[Ring of Jumping]]                                                                                                                                                                   | Yes        |
 | [[Ring of Mind Shielding]]                                                                                                                                                            | Yes        |
 | [[Compendium/Magic Items/00) Varies/Armor, +1, +2, or +3/Shield, +2]]                                                                                                                                                                        | No         |
-| Uncommon Wondrous Item that isn’t cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
+| Uncommon Wondrous Item that isn't cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
 | [[Wand of the War Mage, +2]]                                                                                                                                                          | Yes        |
 | [[Weapon, +1, +2, or +3\|Weapon, +2]]                                                                                                                                                 | No         |
 | [[Wraps of Unarmed Power +2]]                                                                                                                                                         | No         |
@@ -214,7 +214,7 @@ If an item that you created with this feature is a container, such as a [[Bag of
 | [[Armor, +1, +2, or +3\|Armor, +2]]                                                                                                                                               | No         |
 | [[Arrow-Catching Shield]]                                                                                                                                                         | Yes        |
 | [[Flame Tongue]]                                                                                                                                                                  | Yes        |
-| Rare Wondrous Item that isn’t cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
+| Rare Wondrous Item that isn't cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
 | [[Ring of Free Action]]                                                                                                                                                           | Yes        |
 | [[Ring of Protection]]                                                                                                                                                            | Yes        |
 | [[Ring of the Ram]]                                                                                                                                                               | Yes        |
@@ -223,13 +223,13 @@ If an item that you created with this feature is a container, such as a [[Bag of
 
 You gain an Artificer subclass of your choice: [[Alchemist]], [[Armorer]], [[Artillerist]], [[Battle Smith]] or [[Cartographer]]. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass's features that are of your Artificer level or lower.
 
-| Artificer Specialty (Subclass) |     |
-| ------------------------------ | --- |
-| [[Alchemist]]                  |     |
-| [[Armorer]]                    |     |
-| [[Artillerist]]                |     |
-| [[Battle Smith]]               |     |
-| [[Cartographer]]               |     |
+| Artificer Specialty (Subclass) |                                             |
+| ------------------------------ | ------------------------------------------- |
+| [[Alchemist]]                  | Craft Magic Elixirs and Potions             |
+| [[Armorer]]                    | Craft Magic Armor to Enhance Your Abilities |
+| [[Artillerist]]                | Wield Destructive Power from Afar           |
+| [[Battle Smith]]               | Command a Construct Guardian                |
+| [[Cartographer]]               | Chart Advantageous Courses through Turmoil  |
 ### Level 4: General Feat
 
 You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Artificer levels 8, 12, and 16.
@@ -240,9 +240,9 @@ Your Replicate Magic Item feature gains the following options.
 
 **Charge Magic Item.** As a Bonus Action, you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and that uses charges. You expend a level 1+ spell slot and recharge the item. The number of charges the item regains is equal to the level of spell slot expended.
 
-**Drain Magic Item.** As a Bonus Action, you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and cause the item to vanish, converting its magical energy into a spell slot. The slot is level 1 if the item is Common or level 2 if the item is Uncommon or Rare. Once you use this feature, you can’t do so again until you finish a [[Long Rest]]. Any spell slot you create with this feature vanishes when you finish a [[Long Rest]].
+**Drain Magic Item.** As a Bonus Action, you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and cause the item to vanish, converting its magical energy into a spell slot. The slot is level 1 if the item is Common or level 2 if the item is Uncommon or Rare. Once you use this feature, you can't do so again until you finish a [[Long Rest]]. Any spell slot you create with this feature vanishes when you finish a [[Long Rest]].
 
-**Transmute Magic Item.** As a [[Magic]] action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can’t do so again until you finish a [[Long Rest]].
+**Transmute Magic Item.** As a [[Magic]] action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 ### Level 7: Flash of Genius
 
@@ -256,9 +256,9 @@ You can now [[Attunement|Attune]] to up to four magic items at once.
 
 ### Level 11: Spell-Storing Item
 
-Whenever you finish a [[Long Rest]], you can touch one Simple or Martial weapon or one item that you can use as a Spellcasting Focus, and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn’t require a Material component that is consumed by the spell (you needn’t have the spell prepared).
+Whenever you finish a [[Long Rest]], you can touch one Simple or Martial weapon or one item that you can use as a Spellcasting Focus, and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn't require a Material component that is consumed by the spell (you needn't have the spell prepared).
 
-While holding the object, a creature can take a [[Magic]] action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[Concentration]], the creature must concentrate. Once a creature has used the object to produce the spell's effect, the object can’t be used this way again until the start of the creature's next turn.
+While holding the object, a creature can take a [[Magic]] action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[Concentration]], the creature must concentrate. Once a creature has used the object to produce the spell's effect, the object can't be used this way again until the start of the creature's next turn.
 
 The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
@@ -282,6 +282,6 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-**Cheat Death.** If you’re reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
+**Cheat Death.** If you're reduced to 0 [[Hit Points]] but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [[Hit Points]] instead change to a number equal to 20 times the number of magic items disintegrated.
 
 **Magical Guidance.** When you finish a [[Short Rest]], you regain all expended uses of your Flash of Genius if you have [[Attunement]] to at least one magic item.

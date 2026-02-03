@@ -19,7 +19,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Land
 > *Medium Beast, Neutral*
 > 
-> **AC** 13 + your Wisdom mod.
+> **EC** 12, **AC** 13 + your Wisdom mod.
 > **HP** 5 + five times your ranger level (the beast has a number of hit dice (d8s) equal to your ranger level)
 > **Speed** 40 ft., [[Climbing|Climb]] 40 ft.
 > 
@@ -37,7 +37,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > **Primal Bond.** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 > 
 > ## Actions
-> **Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (Your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature.
+> **Beast's Strike.** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (Your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [[Prone]] condition if it is a Large or smaller creature.
 
 ### Beast of the Sky
 
@@ -45,7 +45,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Sky
 > *Small Beast, Neutral*
 > 
-> **AC** 13 + your Wisdom mod.
+> **EC** 13, **AC** 13 + your Wisdom mod.
 > **HP** 4 + four times your ranger level (the beast has a number of hit dice (d6s) equal to your ranger level)
 > **Speed** 10 ft., [[Flying]] 60 ft.
 > 
@@ -72,7 +72,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, wh
 > # Beast of the Sea
 > *Medium Beast, Neutral*
 > 
-> **AC** 13 + your Wisdom mod.
+> **EC** 12, **AC** 13 + your Wisdom mod.
 > **HP** 5 + five times your ranger level (the beast has a number of hit dice (d8s) equal to your ranger level)
 > **Speed** 5 ft., [[Swimming|Swim]] 60 ft.
 > 

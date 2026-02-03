@@ -1,4 +1,4 @@
-Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. They wander the realms as knights errant, taking the fight against evil beyond their kingdom’s borders.
+Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. They wander the realms as knights errant, taking the fight against evil beyond their kingdom's borders.
 
 A Banneret relies on judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers. A lone Banneret is a skilled warrior, but when leading a band of allies one of these warriors can transform even a poorly equipped militia into a ferocious war band.
 
@@ -14,7 +14,7 @@ You know how to conduct yourself with grace as a noble ambassador. You gain the 
 
 ### Level 3: Group Recovery
 
-When you use your Second Wind to regain [[Hit Points]], you can choose a number of allies within a 30-foot [[Emanation]] originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies regains [[Hit Points]] equal to 1d4 plus your Fighter level. Once you use this ability, you can’t use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
+When you use your Second Wind to regain [[Hit Points]], you can choose a number of allies within a 30-foot [[Emanation]] originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies regains [[Hit Points]] equal to 1d4 plus your Fighter level. Once you use this ability, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 
 ### Level 7: Team Tactics
 

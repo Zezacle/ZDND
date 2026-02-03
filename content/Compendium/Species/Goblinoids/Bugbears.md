@@ -22,4 +22,4 @@ With powerful long arms, Bugbears are the largest and most dangerous of the Gobl
 
 **Sneaky.** You are proficient in the [[Stealth]] skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
 
-**Surprise Attack.** If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat.
+**Surprise Attack.** If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn't taken a turn yet in the current combat.

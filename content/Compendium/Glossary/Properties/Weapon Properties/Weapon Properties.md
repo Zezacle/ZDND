@@ -29,7 +29,7 @@ tags:
 ## Monk Weapons
 - [[Baton]]
 - [[Bola]]
-- [[Compendium/Equipment/Weapons/Simple Melee/Staff]]
+- [[Quarterstaff]]
 - [[Hook Sword]]
 - [[Meteor Hammer]]
 - [[Nunchuks]]

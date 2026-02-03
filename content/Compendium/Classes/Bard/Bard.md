@@ -104,7 +104,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Bard feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
 **Changing Your Prepared Spells.** Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
 
@@ -126,7 +126,7 @@ For example, if you make a Strength ([[Athletics]]) check and lack [[Athletics]]
 
 ### Level 3: Bard Subclass
 
-You gain a Bard subclass of your choice: [[College of Dance]], [[College of Glamour]], [[College of Lore]], [[College of the Moon]] or [[College of Valor]]. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
+You gain a Bard subclass of your choice: [[College of Dance]], [[College of Glamour]], [[College of Lore]], [[College of the Moon]] or [[College of Valor]]. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level or lower.
 
 | Bard Colleges (Subclasses) |                                        |
 | -------------------------- | -------------------------------------- |
@@ -151,7 +151,7 @@ You can use musical notes or words of power to disrupt mind-influencing effects.
 
 ### Level 10: Magical Secrets
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](http://dnd2024.wikidot.com/bard:spell-list), [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), and [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](http://dnd2024.wikidot.com/bard:spell-list), [Cleric](http://dnd2024.wikidot.com/cleric:spell-list), [Druid](http://dnd2024.wikidot.com/druid:spell-list), and [Wizard](http://dnd2024.wikidot.com/wizard:spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
 ### Level 18: Superior Inspiration
 

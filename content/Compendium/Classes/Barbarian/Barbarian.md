@@ -10,7 +10,7 @@
 | **Starting Equipment**<br>*Choose A or B:* | (A) [[Greataxe\|Greataxe]], 4x [[Handaxe\|Handaxe]], [[Explorer's Pack]] and 12 GP                         |
 |                                            | (B) 60 GP                                                                                                  |
 
-Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm's fury, and a sea's turmoil.
+Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
 
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
 
@@ -95,7 +95,7 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 ### Level 3: Barbarian Subclass
 
-You gain a Barbarian subclass of your choice: [[Path of the Berserker]], [[Path of the Voice]], [[Path of the Wild Heart]], [[Path of the World Tree]], or [[Path of the Zealot]]. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
+You gain a Barbarian subclass of your choice: [[Path of the Berserker]], [[Path of the Voice]], [[Path of the Wild Heart]], [[Path of the World Tree]], or [[Path of the Zealot]]. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower.
 
 | Barbarian Path (Subclass)  |                                                |
 | -------------------------- | ---------------------------------------------- |
@@ -138,7 +138,7 @@ You have the following effect options.
 
 **Forceful Blow.** The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking [[Opportunity Attacks]].
 
-**Hamstring Blow.** The target’s Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time— the most recent one.
+**Hamstring Blow.** The target's Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time— the most recent one.
 
 ### Level 11: Relentless Rage
 
@@ -150,13 +150,13 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow.** The target has [[Disadvantage]] on the next saving throw it makes, and it can’t make [[Opportunity Attacks]] until the start of your next turn.
+**Staggering Blow.** The target has [[Disadvantage]] on the next saving throw it makes, and it can't make [[Opportunity Attacks]] until the start of your next turn.
 
 **Sundering Blow.** Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 
-When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a [[Long Rest]].
+When you roll [[Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[Long Rest]].
 
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [[Unconscious]] condition (not just the [[Incapacitated]] condition) or don [[Heavy Armor]].
 

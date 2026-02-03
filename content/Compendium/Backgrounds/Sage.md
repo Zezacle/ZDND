@@ -9,7 +9,7 @@ You spent your formative years traveling between manors and monasteries, perform
 **Tool Proficiency:** [[Calligrapher's Supplies]]
 **Equipment:** *Choose 50 GP or :*
 - [[Calligrapher's Supplies]]
-- [[Compendium/Equipment/Weapons/Simple Melee/Staff]]
+- [[Quarterstaff]]
 - [[Book]] (history)
 - [[Parchment]] (8 sheets)
 - [[Robe]]

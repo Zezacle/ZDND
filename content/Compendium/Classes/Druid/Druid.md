@@ -8,7 +8,7 @@
 | **Tool Proficiencies**                     | [[Herbalism Kit]]                                                                                                              |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                                                 |
 | **Armor Training**                         | [[Light Armor]], [[Shields]]                                                                                                   |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Druidic Focus]] ([[Compendium/Equipment/Weapons/Simple Melee/Staff]]), [[Explorer's Pack]], [[Herbalism Kit]], and 24 GP             |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Druidic Focus]] ([[Quarterstaff]]), [[Explorer's Pack]], [[Herbalism Kit]], and 24 GP             |
 |                                            | (B) 50 GP                                                                                                                      |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.

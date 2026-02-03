@@ -7,7 +7,7 @@
 | **Skill Proficiencies**                    | *Choose 2:*  [[Arcana]], [[History]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], [[Religion]] |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                               |
 | **Armor Training**                         | None                                                                                                         |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Arcane Focus]] ([[Compendium/Equipment/Weapons/Simple Melee/Staff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP         |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP         |
 |                                            | (B) [[Spellbook]] and 60 GP                                                                                  |
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
@@ -103,13 +103,13 @@ While studying magic, you also specialized in another field of study. Choose one
 
 You gain a Wizard subclass of your choice: [[Abjurer]], [[Bladesinger]], [[Diviner]], [[Evoker]], or [[Illusionist]]. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
-| Arcane Tradition (Subclass) |     |
-| --------------------------- | --- |
-| [[Abjurer]]                 |     |
-| [[Bladesinger]]             |     |
-| [[Diviner]]                 |     |
-| [[Evoker]]                  |     |
-| [[Illusionist]]             |     |
+| Arcane Tradition (Subclass) |                                             |
+| --------------------------- | ------------------------------------------- |
+| [[Abjurer]]                 | Shield Companions and Banish Foes           |
+| [[Bladesinger]]             | Wield Weapon and Wizardry in Elegant Tandem |
+| [[Diviner]]                 | Learn the Secrets of the Multiverse         |
+| [[Evoker]]                  | Create Explosive Elemental Effects          |
+| [[Illusionist]]             | Weave Subtle Spells of Deception            |
 
 ### Level 4: General Feat
 

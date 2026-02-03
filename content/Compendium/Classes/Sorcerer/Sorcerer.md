@@ -142,13 +142,13 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 You gain a Sorcerer subclass of your choice: [[Aberrant Sorcery]], [[Clockwork Sorcery]], [[Draconic Sorcery]], [[Spellfire]] or [[Wild Magic Sorcery]]. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
-| Sorcerous Origin (Subclass) |     |
-| --------------------------- | --- |
-| [[Aberrant Sorcery]]        |     |
-| [[Clockwork Sorcery]]       |     |
-| [[Draconic Sorcery]]        |     |
-| [[Spellfire Sorcery]]       |     |
-| [[Wild Magic Sorcery]]      |     |
+| Sorcerous Origin (Subclass) |                                |
+| --------------------------- | ------------------------------ |
+| [[Aberrant Sorcery]]        | Wield Unnatural Psionic Power  |
+| [[Clockwork Sorcery]]       | Channel Cosmic Forces of Order |
+| [[Draconic Sorcery]]        | Breathe the Magic of Dragons   |
+| [[Spellfire Sorcery]]       | Wield Raw Magic                |
+| [[Wild Magic Sorcery]]      | Unleash Chaotic Magic          |
 
 ### Level 4: General Feat
 

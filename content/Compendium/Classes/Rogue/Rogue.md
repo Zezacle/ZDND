@@ -72,7 +72,7 @@ The extra damage increases as you gain Rogue levels, as shown in the Sneak Attac
 
 You know how to weave the code of thieves and criminals into plain words. You can speak in a language you are fluent in with a hidden meaning and only others who know [[Thieves' Cant]] can understand your hidden message. Additionally, you know the markings of thieves and can write them yourself. Such markings can denote danger, treasure, hiding spots and many other things. For example a town house might have a marking denoting that the owner doesn't like the local authorities and will shelter outlaws.
 
-Leaving these markings is a time-honored tradition for those who skirt the law.
+Leaving these markings is a time-honored tradition for those who skirt the law or make a living looting ruins of the old world.
 
 ### Level 1: Weapon Mastery
 
@@ -86,15 +86,14 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 
 ### Level 3: Rogue Subclass
 
-You gain a Rogue subclass of your choice: [[Arcane Trickster]], Assassin, [[Scion of the Three]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
+You gain a Rogue subclass of your choice: [[Compendium/Classes/Sorcerer/Arcane Trickster]], [[Compendium/Classes/Rogue/Assassin|Assassin]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
 
-| Roguish Archetype (Subclass) |     |
-| ---------------------------- | --- |
-| [[Arcane Trickster]]         |     |
-| Assassin                     |     |
-| [[Scion of the Three]]       |     |
-| [[Soulknife]]                |     |
-| [[Thief]]                    |     |
+| Roguish Archetype (Subclass)                    |                                           |
+| ----------------------------------------------- | ----------------------------------------- |
+| [[Compendium/Classes/Sorcerer/Arcane Trickster]]                            | Enhance Stealth with Arcane Spells        |
+| [[Compendium/Classes/Rogue/Assassin\|Assassin]] | Practice the Grim Art of Death            |
+| [[Soulknife]]                                   | Strike Foes with Psionic Blades           |
+| [[Thief]]                                       | Hunt for Treasure as a Classic Adventurer |
 
 ### Level 3: Steady Aim
 

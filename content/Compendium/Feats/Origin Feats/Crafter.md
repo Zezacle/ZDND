@@ -20,4 +20,4 @@ You gain the following benefits.
 | [[Smith's Tools]]         | [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Grappling Hook]], [[Iron Pot]] |
 | [[Tinker's Tools]]        | [[Bell]], [[Shovel]], [[Tinderbox]]                                           |
 | [[Weaver's Tools]]        | [[Basket]], [[Rope]], [[Net]], [[Tent]]                                       |
-| [[Woodcarver's Tools]]    | [[Club]], [[Greatclub]], [[Compendium/Equipment/Weapons/Simple Melee/Staff]]                                            |
+| [[Woodcarver's Tools]]    | [[Club]], [[Greatclub]], [[Quarterstaff]]                                            |

@@ -27,6 +27,7 @@ tags:
 |   0   | [[Shocking Grasp]]    | Evocation     | —       |
 |   0   | [[Summon Seat]]       | Conjuration   | —       |
 |   0   | [[True Strike]]       | Divination    | —       |
+|   0   | [[Mind Sliver]]       | Enchantment   | —       |
 
 ### Level 1 Spells
 
@@ -142,6 +143,7 @@ tags:
 |   3   | [[Slow Motion]]            | Transmutation | C       |
 |   3   | [[Speak with Dead]]        | Necromancy    | —       |
 |   3   | [[Stinking Cloud]]         | Conjuration   | C       |
+|   3   | [[Summon Fey]]             | Conjuration   | C, M    |
 |   3   | [[Tiny Hut]]               | Evocation     | R       |
 |   3   | [[Tongues]]                | Divination    | —       |
 |   3   | [[Vampiric Touch]]         | Necromancy    | C       |
@@ -176,6 +178,8 @@ tags:
 |   4   | [[Secret Chest]]             | Conjuration   | M       |
 |   4   | [[Stone Shape]]              | Transmutation | —       |
 |   4   | [[Stoneskin]]                | Transmutation | C, M    |
+|   4   | [[Summon Aberration]]        | Conjuration   | C, M    |
+|   4   | [[Summon Construct]]         | Conjuration   | C, M    |
 |   4   | [[Vitriolic Sphere]]         | Evocation     | —       |
 |   4   | [[Wall of Fire]]             | Evocation     | C       |
 
@@ -213,27 +217,28 @@ tags:
 
 ### Level 6 Spells
 
-| Level | Spell                        | School        | Special |
-| :---: | ---------------------------- | ------------- | ------- |
-|   6   | [[Chain Lightning]]          | Evocation     | —       |
-|   6   | [[Circle of Death]]          | Necromancy    | M       |
-|   6   | [[Contingency]]              | Abjuration    | M       |
-|   6   | [[Create Undead]]            | Necromancy    | M       |
-|   6   | [[Disintegrate]]             | Transmutation | —       |
-|   6   | [[Eyebite]]                  | Necromancy    | C       |
-|   6   | [[Flesh to Stone]]           | Transmutation | C       |
-|   6   | [[Freezing Sphere]]          | Evocation     | —       |
-|   6   | [[Globe of Invulnerability]] | Abjuration    | C       |
-|   6   | [[Guards and Wards]]         | Abjuration    | M       |
-|   6   | [[Instant Summons]]          | Conjuration   | R, M    |
-|   6   | [[Irresistible Dance]]       | Enchantment   | C       |
-|   6   | [[Magic Jar]]                | Necromancy    | M       |
-|   6   | [[Mass Suggestion]]          | Enchantment   | —       |
-|   6   | [[Move Earth]]               | Transmutation | C       |
-|   6   | [[Programmed Illusion]]      | Illusion      | M       |
-|   6   | [[Sunbeam]]                  | Evocation     | C       |
-|   6   | [[True Seeing]]              | Divination    | M       |
-|   6   | [[Wall of Ice]]              | Evocation     | C       |
+| Level | Spell                         | School        | Special |
+| :---: | ----------------------------- | ------------- | ------- |
+|   6   | [[Chain Lightning]]           | Evocation     | —       |
+|   6   | [[Circle of Death]]           | Necromancy    | M       |
+|   6   | [[Contingency]]               | Abjuration    | M       |
+|   6   | [[Create Undead]]             | Necromancy    | M       |
+|   6   | [[Disintegrate]]              | Transmutation | —       |
+|   6   | [[Eyebite]]                   | Necromancy    | C       |
+|   6   | [[Flesh to Stone]]            | Transmutation | C       |
+|   6   | [[Freezing Sphere]]           | Evocation     | —       |
+|   6   | [[Globe of Invulnerability]]  | Abjuration    | C       |
+|   6   | [[Guards and Wards]]          | Abjuration    | M       |
+|   6   | [[Instant Summons]]           | Conjuration   | R, M    |
+|   6   | [[Irresistible Dance]]        | Enchantment   | C       |
+|   6   | [[Magic Jar]]                 | Necromancy    | M       |
+|   6   | [[Mass Suggestion]]           | Enchantment   | —       |
+|   6   | [[Move Earth]]                | Transmutation | C       |
+|   6   | [[Programmed Illusion]]       | Illusion      | M       |
+|   6   | [[Sunbeam]]                   | Evocation     | C       |
+|   6   | [[Tasha's Bubbling Cauldron]] | Conjuration   | M       |
+|   6   | [[True Seeing]]               | Divination    | M       |
+|   6   | [[Wall of Ice]]               | Evocation     | C       |
 
 ### Level 7 Spells
 

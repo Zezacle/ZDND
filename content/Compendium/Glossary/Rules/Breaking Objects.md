@@ -13,7 +13,7 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 | 15  | Wood                | 23  | Adamantine  |
 | 17  | Stone               |     |             |
 
-***Hit Points.*** An object is destroyed when it has 0 [[Hit Points]]. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section’s Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
+***Hit Points.*** An object is destroyed when it has 0 [[Hit Points]]. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The DM determines whether destroying part of an object causes the whole thing to collapse.
 ##### Object Hit Points
 | Size                        | Fragile  | Resilient |
 | --------------------------- | -------- | --------- |
@@ -26,4 +26,4 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ***Damage Threshold.*** Big objects, such as castle walls, often have extra resilience represented by a [[Damage Threshold]].
 
-***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can’t make ability checks, and it fails all saving throws.
+***No Ability Scores.*** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.

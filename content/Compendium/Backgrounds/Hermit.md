@@ -9,7 +9,7 @@ You spent your early years secluded in a hut or monastery located well beyond th
 **Tool Proficiency:** [[Herbalism Kit]]
 **Equipment:** *Choose 50 GP or:*
 - [[Herbalism Kit]]
-- [[Compendium/Equipment/Weapons/Simple Melee/Staff]]
+- [[Quarterstaff]]
 - [[Bedroll]]
 - [[Book]] (philosophy)
 - [[Lamp]]
