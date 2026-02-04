@@ -7,6 +7,7 @@ views:
     filters:
       and:
         - file.hasTag("spell")
+        - file.hasTag("concentration")
     groupBy:
       property: spell_level
       direction: ASC
@@ -19,6 +20,10 @@ views:
       - concentration
       - file.tags
     sort:
+      - property: file.tags
+        direction: DESC
+      - property: concentration
+        direction: DESC
       - property: school
         direction: ASC
     columnSize:

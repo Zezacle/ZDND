@@ -1,14 +1,15 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/ranger
+  - spell-list/wizard
 school: Abjuration
 spell_level: "3"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
 ---
-#### Nondetection
-
 *Level 3 Abjuration (Bard, Ranger, Wizard)*
 
 **Casting Time:** Action

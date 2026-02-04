@@ -1,17 +1,20 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/artificer
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Transmutation
 spell_level: "3"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---
-#### Water Breathing
-
 *Level 3 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** Action or Ritual
+**Casting Time:** Action or [[Ritual]]
 **Range:** 30 feet
 **Components:** V, S, M (a short reed)
 **Duration:** 24 hours

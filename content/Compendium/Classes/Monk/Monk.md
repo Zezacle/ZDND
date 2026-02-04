@@ -79,7 +79,7 @@ You gain the following benefits while you are unarmed or wielding only Monk weap
 
 ### Level 1: Unarmored Defense
 
-While you aren’t wearing armor or wielding a [[Shields|Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Level 2: Monk’s Focus
 

@@ -1,14 +1,17 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Divination
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Tongues
-
 *Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action

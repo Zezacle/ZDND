@@ -1,14 +1,21 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/paladin
+  - spell-list/ranger
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Abjuration
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Dispel Magic
-
 *Level 3 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action

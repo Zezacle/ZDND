@@ -1,17 +1,20 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/artificer
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/sorcerer
 school: Transmutation
 spell_level: "3"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---
-#### Water Walk
-
 *Level 3 Transmutation (Artificer, Cleric, Druid, Ranger, Sorcerer)*
 
-**Casting Time:** Action or Ritual
+**Casting Time:** Action or [[Ritual]]
 **Range:** 30 feet
 **Components:** V, S, M (a piece of cork)
 **Duration:** 1 hour

@@ -12,8 +12,8 @@ tags:
 | 5 SP  | [[Bola]]                            | 1d4 bludgeoning  |                                             *Special*, [[Non-Lethal]], [[Thrown]] (20/60) |     [[Sap]] |
 | 1 SP  | [[Club]]                            | 1d6 bludgeoning  |                                                      [[Light]], [[Non-Lethal]], [[Quick]] |    [[Slow]] |
 | 2 GP  | [[Dagger]]                          |   1d4 piercing   |                        [[Aquatic]], [[Finesse]], [[Light]], [[Quick]], [[Thrown]] (10/30) | [[Offhand]] |
-| 2 SP  | [[Greatclub]], 1h                   | 1d8 bludgeoning  |                                                    [[Heavy]], [[Sluggish]], [[Versatile]] |    [[Push]] |
-| 2 SP  | [[Greatclub]], 2h                   | 1d10 bludgeoning |                                                  [[Heavy]], [[Two-Handed]], [[Versatile]] |    [[Push]] |
+| 5 SP  | [[Greatclub]], 1h                   | 1d8 bludgeoning  |                                                    [[Heavy]], [[Sluggish]], [[Versatile]] |    [[Push]] |
+| 5 SP  | [[Greatclub]], 2h                   | 1d10 bludgeoning |                                                  [[Heavy]], [[Two-Handed]], [[Versatile]] |    [[Push]] |
 | 2 GP  | [[Handaxe]]                         |   1d6 slashing   |                                                  [[Light]], [[Siege]], [[Thrown]] (10/30) | [[Offhand]] |
 | 5 SP  | [[Javelin]]                         |   1d6 piercing   |                                                [[Aquatic]], [[Light]], [[Thrown]] (30/90) |    [[Slow]] |
 | 1 GP  | [[Knuckles]]                        | 1d4 bludgeoning  |                                           *Special*, [[Light]], [[Non-Lethal]], [[Quick]] | [[Offhand]] |
@@ -23,8 +23,8 @@ tags:
 | 1 GP  | [[Sickle]]                          |   1d4 slashing   |                                                                    [[Light]], [[Vicious]] |     [[Vex]] |
 | 1 GP  | [[Spear]], 1h                       |   1d6 piercing   |                                              [[Reach]], [[Thrown]] (20/60), [[Versatile]] |     [[Sap]] |
 | 1 GP  | [[Spear]], 2h                       |   1d8 piercing   |                                                  [[Quick]], [[Two-Handed]], [[Versatile]] |     [[Sap]] |
-| 2 SP  | [[Quarterstaff]], 1h                       | 1d6 bludgeoning  |                                                  [[Non-Lethal]], [[Reach]], [[Versatile]] |  [[Topple]] |
-| 2 SP  | [[Quarterstaff]], 2h                       | 1d8 bludgeoning  |                              [[Defensive]], [[Non-Lethal]], [[Two-Handed]], [[Versatile]] |  [[Topple]] |
+| 5 SP  | [[Quarterstaff]], 1h                | 1d6 bludgeoning  |                                                  [[Non-Lethal]], [[Reach]], [[Versatile]] |  [[Topple]] |
+| 5 SP  | [[Quarterstaff]], 2h                | 1d8 bludgeoning  |                              [[Defensive]], [[Non-Lethal]], [[Two-Handed]], [[Versatile]] |  [[Topple]] |
 | 1 GP  | [[Throwing Knife]]                  |   1d4 piercing   |                                                [[Finesse]], [[Light]], [[Thrown]] (20/60) |     [[Vex]] |
 |       | ***Martial Melee***                 |                  |                                                                                           |             |
 | 10 GP | [[Battleaxe]], 1h                   |   1d8 slashing   |                                                                [[Vicious]], [[Versatile]] |  [[Topple]] |
@@ -64,7 +64,7 @@ tags:
 | 75 GP | [[Hand Crossbow\|Crossbow, Hand]]   |   1d4 piercing   |                                [[Ammunition]] (30/120), [[Light]], [[Loading]] [[Unseen]] |     [[Vex]] |
 | 25 GP | [[Light Crossbow\|Crossbow, Light]] |   2d4 piercing   |                                      [[Ammunition]] (60/300), [[Loading]], [[Two-Handed]] |    [[Slow]] |
 | 50 GP | [[Heavy Crossbow\|Crossbow, Heavy]] |   2d8 piercing   |                          [[Ammunition]] (100/400), [[Heavy]], [[Loading]], [[Two-Handed]] |    [[Push]] |
-| 1 SP  | [[Sling]]                           | 1d6 bludgeoning  |                         [[Ammunition]] (30/90), [[Finesse]], [[Non-Lethal]], [[Sluggish]] |    [[Slow]] |
+| 1 SP  | [[Sling]]                           | 1d4 bludgeoning  |                                       [[Ammunition]] (30/90), [[Finesse]], [[Non-Lethal]] |    [[Slow]] |
 |       | ***Martial Ranged***                |                  |                                                                                           |             |
 | 10 GP | [[Shortbow]]                        |   1d8 piercing   |                                                   [[Ammunition]] (60/300), [[Two-Handed]] |     [[Vex]] |
 | 30 GP | [[Recurve Bow]]                     |   1d8 piercing   |                                        [[Ammunition]] (60/300), [[Quick]], [[Two-Handed]] |     [[Vex]] |

@@ -12,7 +12,7 @@ D&D 5e has an issue where high AC targets go multiple rounds without taking dama
 
 [[Evasion Class]] is a new defensive stat in addition to [[Armor Class]] that measures your ability to dodge attacks entirely. Now there is three ranges to an attack roll: 
 - **Below Evasion Class (EC):** No hit. *(No Damage)*
-- **Above EC, Below AC:** Partial hit. *(Half Damage, Resistances lead to Quarter Damage)*
+- **Above EC, Below AC:** Partial hit. *(Half Damage, [[Resistance|Resistances]] lead to Quarter Damage)*
 - **Above Armor Class:** Full hit. *(Full Damage)*
 
 Balance regarding this new system is still WIP.

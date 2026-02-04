@@ -1,14 +1,15 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Transmutation
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Blink
-
 *Level 3 Transmutation (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action

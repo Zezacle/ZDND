@@ -1,7 +1,7 @@
 ---
 tags: equipment/armor/medium
 ---
-#### [[Brigandine]] (30 GP)
+#### [[Brigandine]] (25 GP)
 *Medium Armor (5 Minutes to Don and 1 Minute to Doff)*
 
 **Armor Class (AC):** 13 + Dexterity modifier (Max 2)

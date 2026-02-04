@@ -5,6 +5,7 @@ tags:
   - spell-list/ranger
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
 school: Conjuration
 spell_level: "3"
 ritual: false

@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/paladin
+  - concentration
 school: Evocation
 spell_level: "3"
 ritual: false

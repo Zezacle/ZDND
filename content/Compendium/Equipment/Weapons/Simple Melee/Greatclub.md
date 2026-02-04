@@ -2,7 +2,7 @@
 tags:
   - equipment/weapon/simple-melee
 ---
-#### [[Greatclub]] (2 SP)
+#### [[Greatclub]] (5 SP)
 *Simple Melee, 2 SP, 10 lb.*
 
 **Mastery:** [[Push]]

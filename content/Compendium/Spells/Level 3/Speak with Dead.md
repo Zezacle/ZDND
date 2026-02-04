@@ -1,14 +1,15 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/wizard
 school: Necromancy
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Speak with Dead
-
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
 **Casting Time:** Action

@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/warlock
+  - concentration
 school: Conjuration
 spell_level: "3"
 ritual: false

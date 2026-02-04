@@ -1,14 +1,16 @@
 ---
 tags:
   - spell
+  - spell-list/cleric
+  - spell-list/paladin
+  - spell-list/warlock
+  - spell-list/wizard
 school: Abjuration
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Remove Curse
-
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16,4 +18,4 @@ concentration: false
 **Components:** V, S
 **Duration:** Instantaneous
 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
+At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's [[Attunement]] to the object so it can be removed or discarded.

@@ -21,4 +21,4 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 | Backgrounds | Species | Classes | Feats | Equipment |
 | Spells      |         |         |       |           |
 
-Last updated: 2026-02-2 evening
+Last updated: 2026-02-4 afternoon

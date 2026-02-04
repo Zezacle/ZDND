@@ -16,4 +16,4 @@ concentration: false
 **Components:** V, S, M (a piece of cured leather)
 **Duration:** 8 hours
 
-You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
+You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base [[Armor Class|AC]] becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.

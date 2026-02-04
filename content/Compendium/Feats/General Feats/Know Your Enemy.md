@@ -13,4 +13,4 @@ You gain the following benefits.
 - [[Immunity|Immunities]], [[Resistance|Resistances]], or [[Vulnerability|Vulnerabilities]], and if the creature has any, you know what they are
 - [[Evasion Class]], [[Armor Class]], Saving Throw Proficiencies
 
-**Reconnaissance.** If you spend at least 1 minute observing or interacting with another creature outside combat, you learn whether that creature has any [[Immunity|Immunities]], [[Resistance|Resistances]], or [[Vulnerability|Vulnerabilities]], and if the creature has any, you know what they are. You learn the target's [[Evasion Class]], [[Armor Class]], and Saving Throw Proficiencies as well as if the target is capable of spellcasting.
+**Reconnaissance.** If you spend at least 1 minute observing or interacting with another creature outside combat, you learn whether that creature has any [[Immunity|Immunities]], [[Resistance|Resistances]], or [[Vulnerability|Vulnerabilities]], and if the creature has any, you know what they are. You learn the target's [[Evasion Class]], [[Armor Class]], and Saving Throw Proficiencies as well as if the target is capable of spellcasting or other similar magic.

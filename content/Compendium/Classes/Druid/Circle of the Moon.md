@@ -8,7 +8,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 **Challenge Rating.** The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 
-**Armor Class.** Until you leave the form, your [[Armor Class]] equals 13 plus your Wisdom modifier if that total is higher than the Beast’s AC.
+**Armor Class.** Until you leave the form, your [[Evasion Class]] uses the Beast's Dexterity modifier and your [[Armor Class]] equals 13 plus your Wisdom modifier if that total is higher than the Beast’s AC.
 
 **Temporary Hit Points.** You gain a number of [[Temporary Hit Points]] equal to three times your Druid level.
 

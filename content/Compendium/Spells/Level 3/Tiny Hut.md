@@ -1,6 +1,6 @@
 ---
 tags:
-  - spell
+  - spell/ritual
   - spell-list/artificer
   - spell-list/bard
   - spell-list/cleric

@@ -22,6 +22,6 @@ Lizardfolk are a large carnivorous race with no qualms hunting other Beastfolk f
 
 **Hunter's Lore.** If you are not already proficient in either the [[Survival]] and [[Nature]] skills, you have [[Half Proficiency]] in those skills.
 
-**Scaled Skin.** When not wearing armor, you have an [[Armor Class|AC]] equal to 10 + your Dexterity modifier + your Constitution modifier. If you are using a shield, you can apply the shield’s bonus as normal.
+**Scaled Skin.** When not wearing [[Armor]], you have an [[Armor Class|AC]] equal to 10 + your Dexterity modifier + your Constitution modifier. If you are using a [[Shields|Shield]], you can apply the shield’s bonus as normal.
 
 **Waterborne.** You have a [[Swimming]] speed of 30ft and you can hold your breath for up to 15 minutes at a time.
