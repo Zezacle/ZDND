@@ -1,6 +1,8 @@
 ---
 tags:
   - equipment/weapon
+aliases:
+  - Weapon
 ---
 
 | Cost  | Weapon                              |      Damage      |                                                                 **[[Weapon Properties]]** |     Mastery |

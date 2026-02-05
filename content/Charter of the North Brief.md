@@ -12,9 +12,9 @@ You character has traveled from the Kingdom or further to Windscape over the cou
 You've been in town for a day or two before a man named Roald brings an offer. A bounty has been posted. Find and Kill some vermin. He's got an idea where they are, and is willing to split the bounty evenly with anyone willing to help him.
 
 #### Create Your Characters
-Use the [[00) Creating a Character|Create a Character]] resource. It will walk you through the whole process using this Homebrew.
+Use the [[00) Creating a Character|Create a Character]] resource. It will walk you through the whole process using this Homebrew (wip) and provide the custom **ZDND Character Sheet** download.
 - No Noble background
-- You get all equipment from Class/Background EXCEPT weapons, armor, shields and gold
+- You get all equipment from Class/Background **EXCEPT** weapons, armor, shields and gold
 
 *Building your ideal kit will be part of early-level progression. You have **31 GP** to spend on any of the items listed below (see "Available Equipment" section). Your remaining GP is your starting money.*
 

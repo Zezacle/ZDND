@@ -5,6 +5,6 @@ tags:
 ---
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-As long as you are not wearing heavy armor or using a shield, you have a [[Swimming]] speed and a [[Climbing]] speed equal to your normal speed. 
+**Shipman's Speed.** As long as you are not wearing [[Medium Armor]], [[Heavy Armor]], or using a [[Shields|Shield]], you have a [[Swimming]] speed and a [[Climbing]] speed equal to your normal speed. 
 
-Additionally, you gain proficiency and Mastery with [[Dagger|Daggers]], [[Javelin|Javelins]], [[Scimitar|Scimitars]] and [[Trident|Tridents]].
+**Mariner Weapons.** You gain proficiency and mastery with [[Dagger|Daggers]], [[Javelin|Javelins]], [[Scimitar|Scimitars]] and [[Trident|Tridents]].

@@ -141,7 +141,7 @@ You can't have more magic items from this feature than the number shown in the M
 
 If an item that you created with this feature is a container, such as a [[Bag of Holding]], and it vanishes, its contents harmlessly appear in and around its space.
 
-**Spellcasting Focus.** You can use any Wand or [[Weapon]] created by this feature as a Spellcasting Focus in lieu of using a set of [[Artisan's Tools]].
+**Spellcasting Focus.** You can use any Wand or [[Weapons|Weapon]] created by this feature as a Spellcasting Focus in lieu of using a set of [[Artisan's Tools]].
 
 ##### Magic Item Plans (Artificer Level 2+)
 

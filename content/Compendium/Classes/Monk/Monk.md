@@ -69,7 +69,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 - [[Sling]]
 - [[Throwing Knife]]
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing [[templates/Armor]] or wielding a [[Shields|Shield]].
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]].
 
 **Bonus Unarmed Strike.** You can make an [[Unarmed Strike]] as a Bonus Action.
 
@@ -99,7 +99,7 @@ Some features that use Focus Points require your target to make a saving throw. 
 
 ### Level 2: Unarmored Movement
 
-Your [[Speed]] increases by 10 feet while you aren’t wearing [[templates/Armor]] or wielding a [[Shields|Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your [[Speed]] increases by 10 feet while you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -152,7 +152,7 @@ You don’t benefit from this feature if you have the [[Incapacitated]] conditio
 
 ### Level 9: Acrobatic Movement
 
-While you aren’t wearing [[templates/Armor]] or wielding a [[Shields|Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]], you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Level 10: Heightened Focus
 
