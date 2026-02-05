@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
 ---
 Figure out Spell lists?
@@ -11,16 +11,11 @@ Polish [[index|Homepage]]
 
 Write up "Charter of the North" campaign brief
 - Make the Kobold Warren
+	- Add Player tokens
 - Make the Frontier Town
 
-Custom 2024 Character Sheet PDF??
-- Add Evasion Class
-- Simplify Hit Dice box
-- replace XP with milestones
-
-
 Search for AC
-- Add notes for EC
+- Add notes for EC in higher level spells 3-9
 
 Edit Level 4-9 Spells (oh god)
 - Add spell-list tags
