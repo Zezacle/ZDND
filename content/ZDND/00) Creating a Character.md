@@ -24,8 +24,8 @@ Your character sheet contains all the *gameplay* of your character, including cl
 Its highly encouraged that you keep notes as well, regarding key NPCs you meet, bits of lore that might become relevant in the story later and anything else important to recall. It might be three days ago in-game that your character learned that bit of knowledge, but WEEKS in real life. Writing it down helps a lot. Some elect to keep a *Character Journal* or record of the campaign from the character's perspective, similar to a diary.
 
 Here you can download the ZDND Character Sheet (which is just the D&D 2024 sheet with a few minor edits). There is a "Dark" version to save your eyes and a "Light" version for psychopaths and printing.
-- ZDND Character Sheet (Dark)
-- ZDND Character Sheet (Light)
+- [ZDND Character Sheet (Dark)](https://github.com/Zezacle/ZDND/blob/v4/content/ZDND/ZDND_CharacterSheet_Dark.pdf)
+- [ZDND Character Sheet (Light)](https://github.com/Zezacle/ZDND/blob/v4/content/ZDND/ZDND_CharacterSheet_Light.pdf)
 
 #### Managing Your Character Sheet
 When it comes to managing your character sheet, you can do it old-school with pen and paper or use a PDF editor. Here are some options:

@@ -9,7 +9,7 @@ aliases:
 
 If the attack roll exceeds the target's [[Evasion Class|EC]] but not their [[Armor Class]], the damage taken is halved and then any applicable damage [[Resistance|Resistances]] are calculated.
 
-The formula to calculate [[Evasion Class]] differs based on what type of Armor you have, if any:
+The formula to calculate [[Evasion Class]] differs based on what type of [[Armor]] you have, if any:
 
 | Armor Type                                       |  Evasion Class Formula  |
 | ------------------------------------------------ | :---------------------: |
