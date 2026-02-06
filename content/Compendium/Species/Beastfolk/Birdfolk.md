@@ -12,7 +12,7 @@ Birdfolk are a wide variety of Humanoid birds with appearances resembling many b
 **Size:** Medium
 - **Height:** 3.5ft - 6.5ft *(100cm - 200cm)*
 - **Weight:** 40lbs - 150 lbs *(20kg - 70kg)*
-- **Speed:** 25ft *(5 sq.)*, [[Flying|Fly]] 50ft *(10 sq.)*
+- **Speed:** 30ft *(6 sq.)*, [[Flying|Fly]] 50ft *(10 sq.)*
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Wisdom score increases by 1. 
 

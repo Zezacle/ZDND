@@ -12,7 +12,7 @@ A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their c
 **Size:** Small
 - **Height:** 3.5ft - 4.5ft *(100cm - 140cm)*
 - **Weight:** 65lbs - 120lbs *(30kg - 55kg)*
-- **Speed:** 30ft *(6 sq.)*
+- **Speed:** 25ft *(5 sq.)*
 
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Intelligence score increases by 1.
 

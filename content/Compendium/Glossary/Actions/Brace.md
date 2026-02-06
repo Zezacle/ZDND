@@ -4,7 +4,7 @@ tags:
   - new
 ---
 When you take the [[Brace]] action, you have the following effects until you take damage or the start of your next turn: 
-- Your speed is reduced to 0.
+- Your [[Speed]] is reduced to 0.
 - Your [[Evasion Class]] is reduced to 5, but your [[Armor Class]] increases by your proficiency bonus.
 - You have [[Advantage]] on Strength saving throws.
 - If you are concentrating on a spell, you have [[Advantage]] on your saving throw to maintain [[Concentration]].

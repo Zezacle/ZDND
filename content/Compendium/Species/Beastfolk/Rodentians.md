@@ -12,7 +12,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 **Size:** Small
 - **Height:** 3ft - 4ft *(90cm - 120cm)*
 - **Weight:** 35lbs - 50lbs *(16kg - 22kg)*
-- **Speed:** 30ft *(6 sq.)*, [[Crawling]] 30ft *(6 sq.)*
+- **Speed:** 25ft *(5 sq.)*, [[Crawling]] 30ft *(6 sq.)*
 
 **Ability Score Increase.** Your Dexterity score increases by 2.
 

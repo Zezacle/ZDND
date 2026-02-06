@@ -12,7 +12,7 @@ Harefolk are large rabbits with powerful legs. Built for speed and dexterity, on
 **Size:** Small
 - **Height:** 3.5ft - 4.5ft *(100cm - 140cm)*
 - **Weight:** 65lbs - 120lbs *(30kg - 55kg)*
-- **Speed:** 35ft *(7 sq.)*
+- **Speed:** 30ft *(6 sq.)*
 
 **Ability Score Increase.** Your Dexterity score increases by 2, and your Wisdom score increases by 1. 
 
@@ -20,8 +20,8 @@ Harefolk are large rabbits with powerful legs. Built for speed and dexterity, on
 
 **Rabbit's Run.** As a bonus action, you can take the [[Dash]] action.
 
-**Lucky Footwork.** When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.
+**Lucky Footwork.** When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [[Prone]] or your [[Speed]] is 0.
 
 **Rabbit Hop.** As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking [[Opportunity Attacks]] and ignoring [[Difficult Terrain]]. You can use this trait only if your speed is greater than 0. 
 
-You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
