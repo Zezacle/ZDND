@@ -2,48 +2,50 @@
 tags:
   - spell-list/wizard
 ---
+\* Spells added in ZD&D
+
 ### Cantrips
 
-| Level | Spell                 | School        | Special |
-| :---: | --------------------- | ------------- | ------- |
-|   0   | [[Acid Splash]]       | Evocation     | —       |
-|   0   | [[Banker's Exchange]] | Transmutation | —       |
-|   0   | [[Calling Card]]      | Transmutation | —       |
-|   0   | [[Card Throw]]        | Evocation     | —       |
-|   0   | [[Chill Touch]]       | Necromancy    | —       |
-|   0   | [[Dancing Lights]]    | Illusion      | C       |
-|   0   | [[Diabolism]]         | Necromancy    | —       |
-|   0   | [[Elementalism]]      | Transmutation | —       |
-|   0   | [[Emit Light]]        | Evocation     | —       |
-|   0   | [[Fire Bolt]]         | Evocation     | —       |
-|   0   | [[Mage Hand]]         | Conjuration   | —       |
-|   0   | [[Mending]]           | Transmutation | —       |
-|   0   | [[Message]]           | Transmutation | —       |
-|   0   | [[Minor Illusion]]    | Illusion      | —       |
-|   0   | [[Origami]]           | Transmutation | —       |
-|   0   | [[Poison Spray]]      | Necromancy    | —       |
-|   0   | [[Prestidigitation]]  | Transmutation | —       |
-|   0   | [[Ray of Frost]]      | Evocation     | —       |
-|   0   | [[Shocking Grasp]]    | Evocation     | —       |
-|   0   | [[Summon Seat]]       | Conjuration   | —       |
-|   0   | [[True Strike]]       | Divination    | —       |
-|   0   | [[Mind Sliver]]       | Enchantment   | —       |
+| Level | Spell                  | School        | Special |
+| :---: | ---------------------- | ------------- | ------- |
+|   0   | [[Acid Splash]]        | Evocation     | —       |
+|   0   | [[Banker's Exchange]]* | Transmutation | —       |
+|   0   | [[Calling Card]]*      | Transmutation | —       |
+|   0   | [[Card Throw]]*        | Evocation     | —       |
+|   0   | [[Chill Touch]]        | Necromancy    | —       |
+|   0   | [[Dancing Lights]]     | Illusion      | C       |
+|   0   | [[Diabolism]]*         | Necromancy    | —       |
+|   0   | [[Elementalism]]       | Transmutation | —       |
+|   0   | [[Emit Light]]         | Evocation     | —       |
+|   0   | [[Fire Bolt]]          | Evocation     | —       |
+|   0   | [[Mage Hand]]          | Conjuration   | —       |
+|   0   | [[Mending]]            | Transmutation | —       |
+|   0   | [[Message]]            | Transmutation | —       |
+|   0   | [[Minor Illusion]]     | Illusion      | —       |
+|   0   | [[Origami]]*           | Transmutation | —       |
+|   0   | [[Poison Spray]]       | Necromancy    | —       |
+|   0   | [[Prestidigitation]]   | Transmutation | —       |
+|   0   | [[Ray of Frost]]       | Evocation     | —       |
+|   0   | [[Shocking Grasp]]     | Evocation     | —       |
+|   0   | [[Summon Seat]]*       | Conjuration   | —       |
+|   0   | [[True Strike]]        | Divination    | —       |
+|   0   | [[Mind Sliver]]        | Enchantment   | —       |
 
 ### Level 1 Spells
 
 | Level | Spell                             | School        | Special |
 | :---: | --------------------------------- | ------------- | ------- |
 |   1   | [[Alarm]]                         | Abjuration    | R       |
-|   1   | [[Allana's Library Rats]]         | Divination    | R       |
-|   1   | [[Analyze Blood]]                 | Necromancy    | R       |
+|   1   | [[Allana's Library Rats]]*        | Divination    | R       |
+|   1   | [[Analyze Blood]]*                | Necromancy    | R       |
 |   1   | [[Arcane Shield]]                 | Abjuration    | —       |
-|   1   | [[Bone Shard]]                    | Necromancy    | —       |
+|   1   | [[Bone Shard]]*                   | Necromancy    | —       |
 |   1   | [[Burning Hands]]                 | Evocation     | —       |
 |   1   | [[Charm Person]]                  | Enchantment   | —       |
 |   1   | [[Chromatic Orb]]                 | Evocation     | M       |
 |   1   | [[Color Spray]]                   | Illusion      | —       |
 |   1   | [[Comprehend Languages]]          | Divination    | R       |
-|   1   | [[Corpse Bomb]]                   | Necromancy    | —       |
+|   1   | [[Corpse Bomb]]*                  | Necromancy    | —       |
 |   1   | [[Detect Magic]]                  | Divination    | C, R    |
 |   1   | [[Disguise Self]]                 | Illusion      | —       |
 |   1   | [[Expeditious Retreat]]           | Transmutation | C       |
@@ -59,7 +61,7 @@ tags:
 |   1   | [[Illusory Script]]               | Illusion      | R, M    |
 |   1   | [[Jump]]                          | Transmutation | —       |
 |   1   | [[Longstrider]]                   | Transmutation | —       |
-|   1   | [[Lost and Found]]                | Divination    | M       |
+|   1   | [[Lost and Found]]*               | Divination    | M       |
 |   1   | [[Mage Armor]]                    | Abjuration    | —       |
 |   1   | [[Magic Missile]]                 | Evocation     | —       |
 |   1   | [[Protection from Good and Evil]] | Abjuration    | C, M    |
@@ -67,7 +69,7 @@ tags:
 |   1   | [[Silent Image]]                  | Illusion      | C       |
 |   1   | [[Sleep]]                         | Enchantment   | C       |
 |   1   | [[Thunderwave]]                   | Evocation     | —       |
-|   1   | [[Tongue Tied]]                   | Enchantment   | —       |
+|   1   | [[Tongue Tied]]*                  | Enchantment   | —       |
 |   1   | [[Unseen Servant]]                | Conjuration   | R       |
 |   1   | [[Witch Bolt]]                    | Evocation     | C       |
 
@@ -75,7 +77,7 @@ tags:
 
 | Level | Spell                     | School        | Special |
 | :---: | ------------------------- | ------------- | ------- |
-|   2   | [[Absorb Spell]]          | Abjuration    | —       |
+|   2   | [[Absorb Spell]]*         | Abjuration    | —       |
 |   2   | [[Acid Arrow]]            | Evocation     | —       |
 |   2   | [[Alter Self]]            | Transmutation | C       |
 |   2   | [[Arcane Lock]]           | Abjuration    | M       |
@@ -138,7 +140,7 @@ tags:
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Sending]]                | Divination    | —       |
-|   3   | [[Shadow Clone]]           | Illusion      | C       |
+|   3   | [[Shadow Clone]]*          | Illusion      | C       |
 |   3   | [[Sleet Storm]]            | Conjuration   | C       |
 |   3   | [[Slow Motion]]            | Transmutation | C       |
 |   3   | [[Speak with Dead]]        | Necromancy    | —       |
@@ -161,7 +163,7 @@ tags:
 |   4   | [[Confusion]]                | Enchantment   | C       |
 |   4   | [[Conjure Minor Elementals]] | Conjuration   | C       |
 |   4   | [[Control Water]]            | Transmutation | C       |
-|   4   | [[Crystal Crown]]            | Evocation     | M       |
+|   4   | [[Crystal Crown]]*           | Evocation     | M       |
 |   4   | [[Dimension Door]]           | Conjuration   | —       |
 |   4   | [[Divination]]               | Divination    | R, M    |
 |   4   | [[Fabricate]]                | Transmutation | —       |
@@ -188,7 +190,7 @@ tags:
 | Level | Spell                    | School        | Special |
 | :---: | ------------------------ | ------------- | ------- |
 |   5   | [[Animate Objects]]      | Transmutation | C       |
-|   5   | [[Arcane Anchor]]        | Enchantment   | C       |
+|   5   | [[Arcane Anchor]]*       | Enchantment   | C       |
 |   5   | [[Arcane Hand]]          | Evocation     | C       |
 |   5   | [[Cloudkill]]            | Conjuration   | C       |
 |   5   | [[Cone of Cold]]         | Evocation     | —       |

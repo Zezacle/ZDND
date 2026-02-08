@@ -1,6 +1,7 @@
 ---
 tags:
   - spell/ritual
+  - spell-list/artificer
   - spell-list/wizard
 school: Conjuration
 spell_level: "1"
@@ -8,7 +9,7 @@ ritual: true
 material_component: false
 concentration: false
 ---
-*Level 1 Conjuration (Wizard)*
+*Level 1 Conjuration (Artificer, Wizard)*
 
 **Casting Time:** Action or [[Ritual]]
 **Range:** 30 feet

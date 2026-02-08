@@ -2,9 +2,6 @@
 draft: true
 tags:
 ---
-Figure out Spell lists?
-- Prioritize up to lv3
-
 Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
@@ -23,6 +20,9 @@ Edit Level 4-9 Spells (oh god)
 - mark properties
 - Remove titles
 - add links
+
+Fill out Spell Lists
+- Prioritize up to lv6
 
 Fill in Equipment
 - Start with tools

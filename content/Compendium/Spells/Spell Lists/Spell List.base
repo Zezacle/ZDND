@@ -7,7 +7,6 @@ views:
     filters:
       and:
         - file.hasTag("spell")
-        - file.hasTag("concentration")
     groupBy:
       property: spell_level
       direction: ASC
@@ -15,11 +14,13 @@ views:
       - file.name
       - spell_level
       - school
+      - concentration
       - ritual
       - material_component
-      - concentration
       - file.tags
     sort:
+      - property: file.name
+        direction: ASC
       - property: file.tags
         direction: DESC
       - property: concentration

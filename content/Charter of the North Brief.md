@@ -46,7 +46,7 @@ For this campaign we'll be using the version of D&D 2024 on this website, you ca
 - [[Mace]] 5 GP
 - [[Sickle]] 1 GP
 - [[Spear]] 1 GP
-- [[Staff]] 5 sp
+- [[Quarterstaff]] 5 sp
 - [[Throwing Knife]] 1 GP
 - [[Shortsword]] 10 GP
 - [[Sling]] 1 sp

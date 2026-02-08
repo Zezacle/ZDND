@@ -6,7 +6,6 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/druid
-  - spell-list/ranger
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
@@ -16,7 +15,7 @@ ritual: false
 material_component: false
 concentration: false
 ---
-*Transmutation Cantrip (Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard)*
+*Transmutation Cantrip (Artificer, Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action
 **Range:** Touch

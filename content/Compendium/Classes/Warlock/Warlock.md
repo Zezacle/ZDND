@@ -89,7 +89,7 @@ You can’t pick the same invocation more than once unless its description says 
 
 ### Level 1: Pact Magic
 
-Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](http://dnd2024.wikidot.com/warlock:spell-list).
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. The information below details how you use those rules with Warlock spells, which appear in the [[Warlock Spell List]].
 
 **Cantrips.** You know two Warlock cantrips of your choice. [[Eldritch Blast]] and [[Prestidigitation]] are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 

@@ -76,19 +76,19 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](http://dnd2024.wikidot.com/cleric:spell-list) later in the class’s description.
+You have learned to cast spells through prayer and meditation. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric Spell List]] later in the class’s description.
 
-**Cantrips.** You know three cantrips of your choice from the Cleric spell list. [[Guidance]], [[Sacred Flame]], and [[Thaumaturgy]] are recommended.
+**Cantrips.** You know three cantrips of your choice from the [[Cleric Spell List]]. [[Guidance]], [[Sacred Flame]], and [[Thaumaturgy]] are recommended.
 
-Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
+Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the [[Cleric Spell List]].
 
-When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric Features table.
+When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the [[Cleric Spell List]], as shown in the Cantrips column of the Cleric Features table.
 
 **Spell Slots.** The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
 
-The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Cleric feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
@@ -104,7 +104,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 **Protector.** Trained for battle, you gain proficiency with Martial weapons and training with [[Heavy Armor]].
 
-**Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([[Arcana]] or [[Religion]]) checks. The bonus equals your Wisdom modifier (minimum of +1).
+**Thaumaturge.** You know one extra cantrip from the [[Cleric Spell List]]. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([[Arcana]] or [[Religion]]) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
 ### Level 2: Channel Divinity
 

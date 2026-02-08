@@ -1,17 +1,17 @@
 ---
 tags:
+  - new
   - spell
   - spell-list/bard
   - spell-list/cleric
   - spell-list/druid
-  - spell-list/ranger
 school: Abjuration
 spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
 ---
-*Abjuration Cantrip (Bard, Cleric, Druid, Ranger)*
+*Abjuration Cantrip (Bard, Cleric, Druid)*
 
 **Casting Time:** Action
 **Range:** Touch

@@ -5,6 +5,7 @@ tags:
   - spell-list/cleric
   - spell-list/druid
   - spell-list/ranger
+  - spell-list/warlock
   - spell-list/wizard
 school: Necromancy
 spell_level: "1"
@@ -12,7 +13,7 @@ ritual: true
 material_component: false
 concentration: false
 ---
-*Level 1 Necromancy (Cleric, Druid, Ranger, Wizard)*
+*Level 1 Necromancy (Cleric, Druid, Ranger, Warlock, Wizard)*
 
 **Casting Time:** Action or [[Ritual]]
 **Range:** Touch

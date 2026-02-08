@@ -4,7 +4,7 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 
 You have learned to cast spells.
 
-**Cantrips.** You know two cantrips of your choice from the Wizard spell list (see that class’s section for its list). [[Ray of Frost]] and [[Shocking Grasp]] are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the [[Wizard Spell List]].
+**Cantrips.** You know two cantrips of your choice from the [[Wizard Spell List]]. [[Ray of Frost]] and [[Shocking Grasp]] are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the [[Wizard Spell List]].
 
 When you reach Fighter level 10, you learn another Wizard cantrip of your choice.
 
@@ -12,7 +12,7 @@ When you reach Fighter level 10, you learn another Wizard cantrip of your choice
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the [[Wizard Spell List]]. [[Burning Hands]], [[Jump]], and [[Arcane Shield]] are recommended.
 
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the [[Wizard Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
 **Changing Your Prepared Spells.** Whenever you gain a Fighter level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 

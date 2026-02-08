@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - spell
   - spell-list/cleric
   - spell-list/druid
