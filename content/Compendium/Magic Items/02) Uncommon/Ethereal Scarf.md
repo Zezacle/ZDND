@@ -5,7 +5,7 @@ tags:
 ---
 *Wondrous Item, Uncommon*
 
-**Charges Left:** Recharges at Dawn
+**Charges Left:** Recharges at [[Holy Dawn]]
 > [!checks|no-title clean]
 > -
 >  - [ ] %% %%

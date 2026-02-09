@@ -8,9 +8,10 @@ Welcome to Zee's Homebrew Compendium! This is basically a Wiki for D&D 2024, but
 
 You can navigate using the File Tree on the left, or use these page links below:
 
-| [[Backgrounds]] | [[Species]]   | [[Classes]] |
-| --------------- | ------------- | ----------- |
-| [[Feats]]       | [[Equipment]] | [[Spells]]  |
+|                 |               |             |
+| :-------------: | :-----------: | :---------: |
+| [[Backgrounds]] |  [[Species]]  | [[Classes]] |
+|    [[Feats]]    | [[Equipment]] | [[Spells]]  |
 
 ### What's New?
 To read the major changes I made, visit the [[Highlights]] page.
@@ -21,4 +22,4 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
-Last updated: 2026-02-07 evening 2
+Last updated: 2026-02-09 evening

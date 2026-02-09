@@ -1,7 +1,7 @@
 ---
 tags:
-  - mechanic
   - new
+  - mechanic
 ---
 Standard D&D 5e Resting rules are balanced around 6-8 encounters per day, which doesn't make sense in most stories that aren't constant dungeon crawls or brawls through the frontline of a battlefield. 
 
@@ -47,4 +47,4 @@ If a character takes enough damage to lose their gained [[Temporary Hit Points|T
 
 ### Magic Item Recharge
 
-In Excursion Resting rules, magic items that recharge at "Dawn" instead recharge at the Dawn of the last day of the week. (eg. Sunday or the setting's equivalent)
+In Excursion Resting rules, magic items that recharge at "[[Holy Dawn]]" aka the dawn of the last day of the week. (eg. Sunday or the setting's equivalent)

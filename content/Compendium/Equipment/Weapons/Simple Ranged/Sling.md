@@ -10,7 +10,7 @@ aliases:
 **Damage:** 1d4 bludgeoning
 **Mastery:** [[Slow]]
 **Properties:** 
-- [[Ammunition]] (30/90; [[Bullets, Sling]])
+- [[Ammunition]] (30/90; [[Sling Bullets]])
 - [[Finesse]]
 - [[Non-Lethal]]
 

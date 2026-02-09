@@ -21,3 +21,5 @@ You open a gateway to the Far Realm, a region infested with unspeakable horrors.
 Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn there must succeed on a Dexterity saving throw or take 2d6 Acid damage from otherworldly tentacles.
 
 **Using a Higher-Level Spell Slot.** The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
+
+*(This spell is called Hunger of Hadar in regular D&D.)*

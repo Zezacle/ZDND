@@ -1,11 +1,12 @@
 ---
 tags:
+  - new
   - equipment/ammunition
 ---
-**Cost:** 1 GP / 10 pack
-**Weight:** 1 lb. / 10 pack
+**Cost:** 2 GP / 10 pack
+**Weight:** 2 lb. / 10 pack
 
-[[Arrows]] are used with a [[Shortbow]], [[Recurve Bow]], or [[Longbow]] to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition.
+[[Heavy Arrows]] are used with a [[War Bow]] to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition.
 
 Drawing the ammunition from a quiver or other container is part of the attack (you need a free hand to load a one-handed weapon).
 

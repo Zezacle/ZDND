@@ -1,7 +1,7 @@
 ---
 tags:
   - new
-  - magicitem
+  - magicitem/common
 ---
 *Wondrous Item, Common*
 

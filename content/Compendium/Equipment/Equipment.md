@@ -29,7 +29,7 @@ Equipment is the common non-magical items that can purchased or crafted fairly e
 | [[Poisoner's Kit]]      | 50 GP  |
 | [[Thieves' Tools]]      | 25 GP  |
 ### Poison
-Poisons are special items used evoke certain effects against creatures. Each one has a different method of application.
+[[Poison|Poisons]] are a special type of consumable item used evoke certain effects against creatures. Each one has a different method of application.
 
 ### Gear Packs
 Gear Packs are bundles of common useful items.

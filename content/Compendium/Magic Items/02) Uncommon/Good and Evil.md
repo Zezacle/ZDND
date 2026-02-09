@@ -3,14 +3,10 @@ tags:
   - new
   - magicitem
 ---
-*Weapon (Pair of [[Knuckles]]), Uncommon*
-
-*A pair of knuckle dusters. One glows dimly, carved of white marble with gold plated reinforcements. The other, carved of basalt, has a reddish silver inlayed into the cracks. For some reason, they are magically tethered together in a way that makes it impossible to separate them by more than a few inches unless they are worn by one person.*
-
-[[Good and Evil]] both register to the [[Detect Good and Evil]] spell, and creatures under the effect of [[Protection from Good and Evil]] cannot be damaged by [[Good and Evil]].
+*Weapon (Pair of [[Knuckles]]), Common*
 
 #### Good
-*Weapon (Knuckles)*
+*Weapon ([[Knuckles]])*
 
 **Mastery:** [[Vex]] 
 **Weight:** 0.5 lb.
@@ -18,10 +14,15 @@ tags:
 **Properties:** [[Finesse]], [[Light]]
 
 #### Evil
-*Weapon (Knuckles)*
+*Weapon ([[Knuckles]])*
 
 **Mastery:** [[Sap]] 
 **Weight:** 0.5 lb.
 **Damage:** 1d4 Necrotic
 **Properties:** [[Finesse]], [[Light]]
 
+*A pair of knuckle dusters. One glows dimly, carved of white marble with gold plated reinforcements. The other, carved of basalt, has a reddish silver inlayed into the cracks. For some reason, they are magically tethered together in a way that makes it impossible to separate them by more than a few inches unless they are worn by one person.*
+
+[[Good and Evil]] both register to the [[Detect Good and Evil]] spell, and creatures under the effect of [[Protection from Good and Evil]] cannot be damaged by [[Good and Evil]].
+
+Additionally, strikes made with [[Good and Evil]] can benefit from effects that apply to bludgeoning damage such as the [[Crusher]] feat's **Push** effect.

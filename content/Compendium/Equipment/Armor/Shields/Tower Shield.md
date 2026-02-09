@@ -3,7 +3,7 @@ tags:
   - equipment/armor/shield
   - new
 ---
-#### [[Tower Shield]] (15 GP)
+#### [[Tower Shield]] (10 GP)
 *Shield (Requires Shield Training)*
 
 **Weight:** 15 lb.

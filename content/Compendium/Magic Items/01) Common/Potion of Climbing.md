@@ -1,20 +1,10 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/common
+  - consumable
+---
+_Potion, Common_
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+When you drink this potion, you gain a [[Climbing]] Speed equal to your Speed for 1 hour. During this time, you have [[Advantage]] on [[Athletics]] checks to climb.
 
-Description
-
-#magicitem
+This potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.

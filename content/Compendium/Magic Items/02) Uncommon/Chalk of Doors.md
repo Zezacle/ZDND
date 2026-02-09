@@ -13,6 +13,6 @@ tags:
 >  - [ ] %% %%
 >  - [ ] %% %%
 
-*A stick of chalk that has a chromatic shimmer to its surface.*
+*A stick of white chalk that has a chromatic shimmer to its surface.*
 
-As an action, expend a charge and draw an enclosed shape on any surface to cast [[Dimension Door]].
+As an [[Utilize]] action, expend a charge and draw an enclosed shape on any surface to cast [[Dimension Door]].

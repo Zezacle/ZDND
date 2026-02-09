@@ -53,6 +53,9 @@ Some [[Compendium/Species/Species|Species]] have been renamed and reorganized. M
 
 # New Stuff!
 
+## New Subclass!
+- [[Path of the Voice]] Barbarian *(Skyrim inspired subclass by Ginger2996)*
+
 ## Armor!
 - Rebalanced Armors!
 - New Armors and [[Armor Properties]]!
@@ -74,9 +77,11 @@ Some [[Compendium/Species/Species|Species]] have been renamed and reorganized. M
 ## Spells!
 - New [[Spells]]!
 	- [[Arcane Dash]], [[Rasengan]], [[Analyze Blood]] and more!
-- Some spells renamed to avoid confusion with other mechanics (and to make this resource easier to navigate):
+- Some spells renamed to avoid confusion with other mechanics or to be less lore specific (and to make this resource easier to navigate):
 	- Light -> [[Emit Light]]
 	- Darkness -> [[Emit Darkness]]
 	- Shield -> [[Arcane Shield]]
 	- Resistance -> [[Resist Damage]]
 	- Darkvision -> [[Imbue Darkvision]]
+	- Hunger of Hadar -> [[Hunger of the Aberrant]]
+	- Arms of Hadar -> [[Arms of the Aberrant]]
