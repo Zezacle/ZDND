@@ -1,0 +1,8 @@
+---
+tags:
+  - new
+  - feat/fighting-style
+---
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+
+**Defensive Stance.** As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make [[Opportunity Attacks]] without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
