@@ -1,3 +1,0 @@
-*Cost:* # Sorcery Points
-
-Description
