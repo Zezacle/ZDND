@@ -1,0 +1,21 @@
+---
+tags:
+  - equipment
+---
+- [[Alchemist's Supplies]] (50gp)
+- [[Brewer's Supplies]] (20gp)
+- [[Calligrapher's Supplies]] (10gp)
+- [[Carpenter's Tools]] (8gp)
+- [[Cartographer's Tools]] (15gp)
+- [[Cobbler's Tools]] (5gp)
+- [[Cook's Utensils]] (1gp)
+- [[Glassblower's Tools]] (30gp)
+- [[Jeweler's Tools]] (25gp)
+- [[Leatherworker's Tools]] (5gp)
+- [[Mason's Tools]] (10gp)
+- [[Painter's Supplies]] (10gp)
+- [[Potter's Tools]] (10gp)
+- [[Smith's Tools]] (20gp)
+- [[Tinker's Tools]] (50gp)
+- [[Weaver's Tools]] (1gp)
+- [[Woodcarver's Tools]] (1gp)

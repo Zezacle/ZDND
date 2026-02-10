@@ -1,0 +1,31 @@
+properties:
+  note.material component:
+    displayName: material_component
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("spell")
+    groupBy:
+      property: spell_level
+      direction: ASC
+    order:
+      - file.name
+      - spell_level
+      - school
+      - concentration
+      - ritual
+      - material_component
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: DESC
+      - property: concentration
+        direction: DESC
+      - property: school
+        direction: ASC
+    columnSize:
+      note.spell_level: 30
