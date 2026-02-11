@@ -69,7 +69,7 @@ tags:
 |   1   | [[Silent Image]]                  | Illusion      | C       |
 |   1   | [[Sleep]]                         | Enchantment   | C       |
 |   1   | [[Thunderwave]]                   | Evocation     | —       |
-|   1   | [[Tongue Tied]]*                  | Enchantment   | —       |
+|   1   | [[Tongue Tied]]*                  | Enchantment   | C       |
 |   1   | [[Unseen Servant]]                | Conjuration   | R       |
 |   1   | [[Witch Bolt]]                    | Evocation     | C       |
 

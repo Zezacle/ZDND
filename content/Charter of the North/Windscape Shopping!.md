@@ -45,7 +45,7 @@ Goji is also known for taking requests for items that can be found readily back 
 - 1x [[Silvered]] [[Dagger]] - (75 GP)
 - 1x [[Blowpipe]] + [[Needles]] x20 - (3 GP)
 - 1x [[Chain Shirt]] - (150 GP)
-- 1x [[Good and Evil]] (Pair of Knuckles) - (150 GP)
+- 1x [[Good and Evil]] (Pair of Knuckles) - (100 GP)
 
 #### Magic Items
 - 1x [[Bracelet of the Banquet]] - (50 GP)

@@ -44,7 +44,7 @@ tags:
 |   1   | [[Lost and Found]]*               | Divination    | —       |
 |   1   | [[Protection from Good and Evil]] | Abjuration    | C       |
 |   1   | [[Speak with Animals]]            | Divination    | R       |
-|   1   | [[Tongue Tied]]*                  | Enchantment   | —       |
+|   1   | [[Tongue Tied]]*                  | Enchantment   | C       |
 |   1   | [[Unseen Servant]]                | Conjuration   | R       |
 |   1   | [[Witch Bolt]]                    | Evocation     | C       |
 

@@ -55,7 +55,7 @@ tags:
 |   1   | [[Sleep]]                  | Enchantment   | C       |
 |   1   | [[Speak with Animals]]     | Divination    | R       |
 |   1   | [[Thunderwave]]            | Evocation     | —       |
-|   1   | [[Tongue Tied]]*           | Enchantment   | —       |
+|   1   | [[Tongue Tied]]*           | Enchantment   | C       |
 |   1   | [[Unseen Servant]]         | Conjuration   | R       |
 
 
