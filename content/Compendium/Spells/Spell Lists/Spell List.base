@@ -19,13 +19,13 @@ views:
       - material_component
       - file.tags
     sort:
+      - property: school
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.tags
         direction: DESC
       - property: concentration
         direction: DESC
-      - property: school
-        direction: ASC
     columnSize:
       note.spell_level: 30
