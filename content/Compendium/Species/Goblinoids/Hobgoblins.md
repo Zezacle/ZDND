@@ -16,7 +16,7 @@ Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are
 
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Strength score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You have [[Darkvision]] with a range of 30 feet.
 
 **Steadfast.** You can take the [[Brace]] action as a bonus action on each of your turns and while bracing, you can't be moved against your will.
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Origin Feat
+---
 Origin Feats are granted through [[Backgrounds]].
 
 - [[Alert]]

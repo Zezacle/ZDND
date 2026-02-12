@@ -1,7 +1,7 @@
 ---
 tags: species/jotun
 ---
-Firbolgs are a peaceful race of the warm valleys of [[Jotunheim]]. These reclusive giants wander their territories protecting the flora and fauna from malicious actors with their magic. They have cow-like ears and large noses.
+Firbolgs are reclusive giants with a innate connection to magic. They are known to wander their territories protecting the flora and fauna from malicious actors with their magic. They have cow-like ears and large noses.
 
 ## Firbolg Features
 

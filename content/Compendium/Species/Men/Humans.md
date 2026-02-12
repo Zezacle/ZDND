@@ -1,7 +1,7 @@
 ---
 tags: species/men
 ---
-The Men of Midgard are a hearty and adaptable race of mortals, crafted by the Aesir in their image. Due to this history, a majority of devout worshippers of the Aesir are Men, and most Men hold some reverence of Odin and his kin. 
+Humans are a hearty and adaptable race of mortals, with an interesting quirk of their genetics allowing for interbreeding with other species.
 
 ## Human Features
 
@@ -12,7 +12,7 @@ The Men of Midgard are a hearty and adaptable race of mortals, crafted by the Ae
 **Size:** Medium
 - **Height:** 5ft - 6.5ft *(150cm - 200cm)*
 - **Weight:** 100lbs - 300lbs *(45kg - 135kg)*
-- **Speed:** 30ft *(6 sq.)*
+- **Speed:** 30 ft. *(6 sq.)*
 
 **Ability Score Increase.** All your scores increase by 1.
 
@@ -20,4 +20,4 @@ The Men of Midgard are a hearty and adaptable race of mortals, crafted by the Ae
 
 **Skillful.** You gain proficiency in two skills of your choice.
 
-**Versatile.** You gain an Origin feat of your choice.
+**Versatile.** You gain an [[Origin Feats|Origin Feat]] of your choice.

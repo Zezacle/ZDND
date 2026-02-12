@@ -4,11 +4,12 @@ tags:
 ---
 > [!infobox|left clean wmed static]
 > # Name
-> *Size Type (Tag), Alignment*
+> *Size Type, Neutral*
 > 
 > | |
 > | - |
-> **AC** # **Initiative** +# (#)
+> **Initiative** +# (#)
+> **EC** # **AC** #
 > **HP** # (#d# + #)
 > **Speed** # ft., [[Burrowing|Burrow]] # ft. [[Climbing|Climb]] # ft., [[Flying|Fly]] # ft., [[Swimming|Swim]] # ft.
 > 
@@ -22,36 +23,19 @@ tags:
 > **Resistances** Damage, Damage
 > **Immunities** Damage; Condition
 > **Gear** Item, Item
-> **Senses** Sense #, Sense # ft., [[Passive Perception]] #
+> **Senses** Sense # ft., Sense # ft., [[Passive Perception]] #
 > **Languages** Language, Telepathy # ft.
-> **CR** # (XP #, or # in lair; PB +#)
-> ### Traits
-> ***Feature Name.*** Description
-> <br>
-> 
-> ***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the creature fails a saving throw, it can choose to succeed instead.
-> > [!checks|no-title]
-> > -
-> >  - [ ] %% %%
-> >  - [ ] %% %%
-> >  - [ ] %% %%
-> >  - [ ] %% %%
-> >  <br>
->
-> ***Feature Name.*** Description
+> **CR** # (PB +#)
 > 
 > | |
 > | - |
 > **Habitat**
 > **Treasure**
-> 
-> | |
-> | - |
-> ![[Infobox Blank Space.png]]
-> ![[Infobox Blank Space.png]]
+
+****
 
 ### Traits
-***Feature Name.*** Description
+**Feature Name.** Description
 
 ***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the creature fails a saving throw, it can choose to succeed instead.
 > [!checks|no-title]
@@ -61,11 +45,26 @@ tags:
 >  - [ ] %% %%
 >  - [ ] %% %%
 
-***Feature Name.*** Description
+**Feature Name.** Description
+
 ### Actions
+
+**Melee.** Melee Attack Roll: +# to hit, reach # ft.
+- Hit: # (#d# + #) type damage.
+
+**Ranged.** Ranged Weapon Attack: +# to hit, range ##/##, single target
+- Hit: # (#d# + #) type damage.
+
 ### Bonus Actions
+
+
+
 ### Reactions
+
+
+
 ### Legendary Actions
+
 *Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the creature can expend a use to take one of the following actions. The creature regains all expended uses at the start of each of its turns.*
 > [!checks|no-title]
 > -

@@ -6,13 +6,13 @@ Lizardfolk are a large carnivorous race with no qualms hunting other Beastfolk f
 ## Lizardfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Speech]]
+**Native Language:** [[Beast Tongue]]
 
 **Age:** 80 years, Mature at 12
 **Size:** Medium
 - **Height:** 5ft - 6.5ft *(150cm - 200cm)*
 - **Weight:** 100lbs - 300lbs *(45kg - 135kg)*
-- **Speed:** 30ft *(6 sq.)*, [[Swimming|Swim]] 30ft (6 sq.)
+- **Speed:** 30ft *(6 sq.)*, [[Swimming|Swim]] 30ft *(6 sq.)*
 
 **Ability Score Increase.** Your Constitution score increases by 2, and your Wisdom score increases by 1.
 

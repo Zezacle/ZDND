@@ -16,7 +16,7 @@ A Mortae Elf or 'Middle Elf' is identifiable by their tall stature, shorter elve
 
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
 
-**Acumen of the Forest.** If you are not already proficient in either the [[Animal Handling]] and [[Stealth]] skills, you have [[Half Proficiency]] in those skills.
+**Acumen of the Forest.** If you are not already proficient in either the [[Acrobatics]], [[Animal Handling]], and [[Stealth]] skills, you have [[Half Proficiency]] in those skills.
 
 **Canopy Borne.** You have [[Advantage]] on [[Acrobatics]] checks related to navigating tree canopies, including climbing trees and vines, swinging from vines, or leaping between branches.
 

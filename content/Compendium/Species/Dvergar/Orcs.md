@@ -1,7 +1,7 @@
 ---
 tags: species/dvergar
 ---
-An Orc is a muscular brute with green or gray skin and prominent tusks protruding from their lower jaw. Considered by scholars as the "youngest" species in the Collapsed Realms, Orcs are a tribal species once native to the bogs and plains that rested in the center of [[Svartalfheim]].
+An Orc is a muscular brute with green or gray skin and prominent tusks protruding from their lower jaw. Orcs are tribal in nature and most are hardened warriors by the time they reach maturity.
 
 ## Orc Features
 
@@ -24,5 +24,5 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 **Brutal Bloodline.** If you are not already proficient in either the [[Athletics]] and [[Intimidation]] skills, you have [[Half Proficiency]] in those skills.
 
-**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a [[Long Rest]].
+**Relentless Endurance.** When you are reduced to 0 [[Hit Points]] but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a [[Long Rest]].
 

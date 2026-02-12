@@ -1,7 +1,7 @@
 ---
 tags: species/dvergar
 ---
-A Dwarf is a stout kind of Dvergar, most at home in the caverns and mines of [[Svartalfheim]]. They are a hardy bunch of proud manual laborers, known to be exquisite smiths and miners.
+A Dwarf is a stout kind of Dvergar, most at home in caverns and mines. They are a hardy bunch of proud manual laborers, known to be exquisite smiths, jewelers and miners.
 
 ## Dwarven Features
 
@@ -16,7 +16,7 @@ A Dwarf is a stout kind of Dvergar, most at home in the caverns and mines of [[S
 
 **Ability Score Increase.** Your Constitution score increases by 2, and your Strength score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You have [[Darkvision]] with a range of 30 feet.
 
 **Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
 

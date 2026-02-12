@@ -1,6 +1,8 @@
 ---
 tags:
   - action
+aliases:
+  - Helping
 ---
 When you take the [[Help]] action, you do one of the following.
 

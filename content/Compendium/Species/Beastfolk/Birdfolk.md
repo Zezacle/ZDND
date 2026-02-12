@@ -1,12 +1,13 @@
 ---
 tags: species/beastfolk
+draft: true
 ---
 Birdfolk are a wide variety of Humanoid birds with appearances resembling many bird species such as Crows, Hawks, Owls and more.
 
 ## Birdfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Speech]]
+**Native Language:** [[Beast Tongue]]
 
 **Age:** 50 years, Mature at 10
 **Size:** Medium

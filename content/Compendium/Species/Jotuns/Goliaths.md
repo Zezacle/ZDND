@@ -12,7 +12,7 @@ Towering over most folk, goliaths are distant descendants of giants. Each goliat
 **Size:** Medium
 - **Height:** 7ft - 8ft *(215cm - 240cm)*
 - **Weight:** 280lbs - 340lbs *(130kg - 155kg)*
-- **Speed:** 35ft *(7 sq.)*
+- **Speed:** 30 ft. *(6 sq.)*
 
 **Ability Score Increase.** Your Strength score increases by 2, and your Constitution score increases by 1.
 

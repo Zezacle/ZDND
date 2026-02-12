@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 Windscape has a number of merchants and artisans selling their wares. Instead of spending lots of time doing shopping, you can select items from this shopping list to buy or commission.
 
@@ -15,7 +15,7 @@ If an item has an attached commission length, it takes the merchant that long to
 ## Lickle's Weapon Smithy
 Lickle has a number of common kinds of weapons in stock, however he is often very busy forging the needs of Windscape's people such as nails, horseshoes and farming implements.
 
-Lickle does not currently accept commissions due to high demand.
+Lickle does not currently accept commissions due to the high demand of his services from the Great Baron.
 
 ### Current Stock
 - 2x [[Arming Sword]] (10 GP)

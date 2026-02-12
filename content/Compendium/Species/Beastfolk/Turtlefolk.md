@@ -1,12 +1,12 @@
 ---
 tags: species/beastfolk
 ---
-Turtlefolk are a calm and solitary race of Beastfolk. They once wandered the wilds of [[Vanaheim]] observing the realm and practicing a peaceful way of life.
+Turtlefolk are a calm and solitary race of Beastfolk resembling large bipedal turtles or tortoises.
 
 ## Turtlefolk Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Beast Speech]]
+**Native Language:** [[Beast Tongue]]
 
 **Age:** 200 years, Mature at 40
 **Size:** Medium

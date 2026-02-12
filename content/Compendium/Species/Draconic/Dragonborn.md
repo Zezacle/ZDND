@@ -1,7 +1,7 @@
 ---
 tags: species/draconic
 ---
-Brief Descript
+Dragonborn are scaled humanoid dragons with a tail. Their scale color indicates their heritage to the great chromatic and metallic dragons.
 
 ## Dragonborn Features
 

@@ -1,7 +1,7 @@
 ---
 tags: species/draconic
 ---
-A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their conclaves are often lead by [[Dragonborn]]. They are a curious and sociable race, but will always default to the loyalties of their warren. Kobolds are masters of the trap.
+A Kobold is small Draconic creature. Their conclaves are often lead by [[Dragonborn]]. They are a curious and sociable race, but will always default to the loyalties of their warren. Kobolds are masters of the trap.
 
 ## Kobold Features
 
@@ -16,7 +16,7 @@ A Kobold is small Draconic creature native to the caves of [[Vanaheim]]. Their c
 
 **Ability Score Increase.** Your Wisdom score increases by 2, and your Intelligence score increases by 1.
 
-**Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+**Darkvision.** You have [[Darkvision]] with a range of 30 feet.
 
 **Kobold's Breath.** As an Action, you can light a flammable object on fire within 5 feet. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [[Short Rest]]. This fire breath is too small to attack creatures with.
 

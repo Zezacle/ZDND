@@ -6,7 +6,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 ## Rodentian Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Speech]]
+**Native Language:** [[Beast Tongue]]
 
 **Age:** 50 years, Mature at 10
 **Size:** Small
@@ -26,7 +26,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 
 **Ratfolk.** You are a small bipedal Rat.
 - **Ability Score Increase.** Your Constitution score increases by 1.
-- **Darkvision.** You can see in [[Dim Light]] within 30 feet of you as if it were [[Bright Light]], and in [[Darkness]] as if it were [[Dim Light]]. You can't discern color in darkness, only shades of gray.
+- **Darkvision.** You have [[Darkvision]] with a range of 30 feet.
 
 **Mousefolk.** You are a small bipedal Mouse.
 - **Ability Score Increase.** Your Intelligence score increases by 1.

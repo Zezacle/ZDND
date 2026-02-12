@@ -6,7 +6,7 @@ Harefolk are large rabbits with powerful legs. Built for speed and dexterity, on
 ## Harefolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Speech]]
+**Native Language:** [[Beast Tongue]]
 
 **Age:** 60 years, Mature at 12
 **Size:** Small
