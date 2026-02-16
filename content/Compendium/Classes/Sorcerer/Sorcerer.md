@@ -3,6 +3,8 @@
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Charisma                                                                                           |
 | **Hit Point Die**                          | d6 per Sorcerer level                                                                              |
+| **Starting HP**                            | 6 + Constitution modifier                                                                          |
+| **Level Up HP**                            | 4 (or 1d6) + Constitution modifier                                                                 |
 | **Saving Throw Proficiencies**             | Constitution and Charisma                                                                          |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Religion]] |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                     |

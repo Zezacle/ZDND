@@ -3,6 +3,8 @@
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                         |
 | **Hit Point Die**                          | d10 per Ranger level                                                                                                                                         |
+| **Starting HP**                            | 10 + Constitution modifier                                                                                                                                   |
+| **Level Up HP**                            | 6 (or 1d10) + Constitution modifier                                                                                                                          |
 | **Saving Throw Proficiencies**             | Strength and Dexterity                                                                                                                                       |
 | **Skill Proficiencies**                    | *Choose 3:* [[Animal Handling]], [[Athletics]], [[Insight]], [[Investigation]], [[Nature]], [[Perception]], [[Stealth]], [[Survival]]                        |
 | **Weapon Proficiencies**                   | Simple Weapons, Martial Weapons                                                                                                                              |

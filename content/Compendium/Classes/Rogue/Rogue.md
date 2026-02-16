@@ -3,6 +3,8 @@
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Dexterity                                                                                                                                                                    |
 | **Hit Point Die**                          | d8 per Rogue level                                                                                                                                                           |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                    |
+| **Level Up HP**                            | 5 or (1d8) + Constitution modifier                                                                                                                                           |
 | **Saving Throw Proficiencies**             | Dexterity and Intelligence                                                                                                                                                   |
 | **Skill Proficiencies**                    | *Choose 4:* [[Acrobatics]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Perception]], [[Persuasion]], [[Sleight of Hand]], [[Stealth]] |
 | **Tool Proficiency**                       | [[Thieves' Tools]]                                                                                                                                                           |

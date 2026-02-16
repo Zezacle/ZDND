@@ -3,6 +3,8 @@
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Charisma                                                                                                                      |
 | **Hit Point Die**                          | d8 per Warlock level                                                                                                          |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                                     |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                            |
 | **Saving Throw Proficiencies**             | Wisdom and Charisma                                                                                                           |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[History]], [[Intimidation]], [[Investigation]], [[Nature]], [[Religion]]             |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                                                |

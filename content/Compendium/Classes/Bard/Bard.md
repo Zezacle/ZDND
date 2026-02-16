@@ -3,6 +3,8 @@
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | **Primary Ability**                        | Charisma                                                                                                           |
 | **Hit Point Die**                          | d8 per Bard level                                                                                                  |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                          |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                 |
 | **Saving Throw Proficiencies**             | Dexterity and Charisma                                                                                             |
 | **Skill Proficiencies**                    | Choose any 3 skills                                                                                                |
 | **Tool Proficiencies**                     | Choose any 3 [[Musical Instruments]]                                                                               |

@@ -11,14 +11,14 @@ Hexploration rules are not used for traveling long distances between known point
 
 When using Hexploration rules, each hex is one [[League]] or 3-miles in diameter.
 
-Travelling a [[League]] on foot varies in time based on the terrain:
+Travelling a [[League]] on foot varies in time based on the terrain-type of the hex you are entering:
 - **Roads.** 1 hour.
 - **Plains or Hills.** 2 hours.
 - **Bog or Forest.** 4 hours.
 - **Mountains.** 8 hours.
 
 #### Seeing the Land
-While in one hex, you can see into neighboring hexes, provided your vision is not obscured by terrain, darkness, etc. Elevation may allow you to see into further hexes.
+While in one hex, you can see into neighboring hexes, provided your vision is not obscured by terrain, darkness, etc. Elevation may allow you to see into further hexes. Dense Forests or Mountains explicitly obscure hexes beyond them.
 
 #### Searching the Land
 While in a hex, you can search it for anything hidden inside, such as a cave, obscured structure, abandoned campsite, etc. Searching a hex takes as long as entering it (see [[League]] travel times above).

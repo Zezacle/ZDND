@@ -23,11 +23,5 @@ Fill in Equipment
 - Start with tools
 - Packs
 
-New Species
-- Raccoonfolk
-- Half-Elf
-- Half-Orc
-- Half-Giant(?)
-
 Make new meta images
 - how 2 favicon
