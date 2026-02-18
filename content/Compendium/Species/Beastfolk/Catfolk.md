@@ -6,7 +6,7 @@ Catfolk are a wide variety of Humanoid felines with appearances resembling many 
 ## Catfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 80 years, Mature at 16
 **Size:** Medium

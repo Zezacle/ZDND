@@ -1,8 +1,11 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Mason's Tools [[Mason's Tools|(10 GP)]]
-**Ability:** Strength **Weight:** 8 lb.
+**Cost:** 10 GP
+**Weight:** 8 lb.
+
+**Ability:** Strength
 [[Utilize]]: Chisel a symbol or hole in stone (DC 10)
-**Craft:** [[Block and Tackle]]
+**Craft:** 
+- [[Block and Tackle]]

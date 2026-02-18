@@ -6,7 +6,7 @@ Fae Elves or 'High Elf' are easily identified by their long, light colored hair 
 ## Fae Elf Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Elvish]], [[Old Elvish]]
+**Known Languages:** [[Common]], [[Elvish]], and [[Old Elvish]]
 
 **Age:** 750 years, Mature at 30
 **Size:** Medium

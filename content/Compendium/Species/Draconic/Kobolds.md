@@ -6,7 +6,7 @@ A Kobold is small Draconic creature. Their conclaves are often lead by [[Dragonb
 ## Kobold Features
 
 **Rarity:** Rare
-**Native Language:** [[Draconic]]
+**Known Languages:** [[Common]] and [[Draconic]]
 
 **Age:** 50 years, Mature at 8
 **Size:** Small

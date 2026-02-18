@@ -1,8 +1,12 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Potter's Tools [[Potter's Tools|(10 GP)]]
-**Ability:** Intelligence **Weight:** 3 lb.
+**Cost:** 10 GP
+**Weight:** 3 lb.
+
+**Ability:** Intelligence
 [[Utilize]]: Discern what a ceramic object held in the past 24 hours (DC 15)
-**Craft:** [[Jug]], [[Lamp]]
+**Craft:**
+- [[Jug]]
+- [[Lamp]]

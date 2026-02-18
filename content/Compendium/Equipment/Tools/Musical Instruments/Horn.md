@@ -1,7 +1,8 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 ---
-####  Horn [[Horn|(3 GP)]]
-**Ability:** Charisma **Weight:** 2 lb.
+**Cost:** 3 GP
+**Weight:** 2 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Play a known tune (DC 10), or improvise a song (DC 15)

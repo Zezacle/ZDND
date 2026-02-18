@@ -1,8 +1,22 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Leatherworker's Tools [[Leatherworker's Tools|(5 GP)]]
-**Ability:** Dexterity **Weight:** 5 lb.
+**Cost:** 5 GP
+**Weight:** 5 lb.
+
+**Ability:** Dexterity
 [[Utilize]]: Add a design to a leather item (DC 10)
-**Craft:** [[Sling]], [[Whip]], [[Hide Armor]], [[Leather Armor]], [[Studded Leather Armor]]. [[Backpack]], [[Crossbow Bolt Case]], [[Map or Scroll Case]], [[Parchment]], [[Pouch]], [[Quiver]], [[Waterskin]]
+**Craft:**
+- [[Sling]]
+- [[Whip]]
+- [[Hide Armor]]
+- [[Leather Armor]]
+- [[Studded Leather Armor]]
+- [[Backpack]]
+- [[Crossbow Bolt Case]]
+- [[Map or Scroll Case]]
+- [[Parchment]]
+- [[Pouch]]
+- [[Quiver]]
+- [[Waterskin]]

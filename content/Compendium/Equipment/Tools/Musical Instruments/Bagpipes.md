@@ -1,7 +1,8 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 ---
-####  Bagpipes [[Bagpipes|(30 GP)]]
-**Ability:** Charisma **Weight:** 6 lb.
+**Cost:** 30 GP
+**Weight:** 6 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Play a known tune (DC 10), or improvise a song (DC 15)

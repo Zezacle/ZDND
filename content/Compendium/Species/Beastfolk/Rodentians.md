@@ -6,7 +6,7 @@ The Rodentians are the group of Beastfolk resembling Rats, Mice, and Squirrels. 
 ## Rodentian Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 50 years, Mature at 10
 **Size:** Small

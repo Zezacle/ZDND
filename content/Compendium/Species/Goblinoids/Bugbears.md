@@ -6,7 +6,7 @@ With long powerful arms, Bugbears are the largest and most dangerous of the Gobl
 ## Bugbear Features
 
 **Rarity:** Rare
-**Native Language:** [[Undercommon]]
+**Known Languages:** [[Common]] and [[Undercommon]]
 
 **Age:** 80 years, Mature at 16
 **Size:** Medium

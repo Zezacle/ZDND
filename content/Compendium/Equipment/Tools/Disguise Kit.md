@@ -1,8 +1,11 @@
 ---
 tags:
-  - equipment
+  - equipment/tool
 ---
-####  Disguise Kit [[Disguise Kit|(25 GP)]]
-**Ability:** Charisma **Weight:** 3 lb.
+**Cost:** 25 GP
+**Weight:** 3 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Apply makeup (DC 10)
-**Craft:** [[Costume]]
+**Craft:** 
+- [[Costume]]

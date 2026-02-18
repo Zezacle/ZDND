@@ -34,10 +34,10 @@ Lickle does not currently accept commissions due to the high demand of his servi
 - 1x [[Buckler Shield]] (15 GP)
 
 
-## The Flying Whale
-A market stall selling the wares of The Flying Whale, a merchant ship that visits Windscape to buy the oddities that adventurers bring back from the wilds. The Captain of the Whale is, Goji, a Gnomish man who can often be found at the pub when not supervising his shopkeep or crew. The Flying Whale's stall stocks a variety of both common and magical items.
+## The Flying Calf
+The smallest of three ships that are part of Goji's merchant fleet. It docks daily to buy and sell various goods, then anchors in the bay alongside the Flying Whale for security.
 
-Goji is also known for taking requests for items that can be found readily back in the kingdom, however his fee varies wildly, and his visits to Windscape are often at least 2 months apart.
+Goji, the halfling merchant is known for taking requests for items that can be found readily back in the kingdom, however his fee varies wildly, and his visits to Windscape are often at least 2 months apart.
 
 ### Current Stock
 

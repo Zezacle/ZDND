@@ -6,7 +6,7 @@ A Dwarf is a stout kind of Dvergar, most at home in caverns and mines. They are 
 ## Dwarven Features
 
 **Rarity:** Common
-**Native Language:** [[Dvergarian]]
+**Known Languages:** [[Common]] and [[Dvergarian]]
 
 **Age:** 500 years, Mature at 25
 **Size:** Medium

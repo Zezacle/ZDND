@@ -1,7 +1,8 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 ---
-####  Lyre [[Lyre|(30 GP)]]
-**Ability:** Charisma **Weight:** 2 lb.
+**Cost:** 30 GP
+**Weight:** 2 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Play a known tune (DC 10), or improvise a song (DC 15)

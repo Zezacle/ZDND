@@ -6,7 +6,7 @@ Firbolgs are reclusive giants with a innate connection to magic. They are known 
 ## Firbolg Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Giant]]
+**Known Languages:** [[Common]] and[[Giant]]
 
 **Age:** 500 years, Mature at 50
 **Size:** Medium

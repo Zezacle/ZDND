@@ -6,7 +6,7 @@ Towering over most folk, goliaths are distant descendants of giants. Each goliat
 ## Goliath Features
 
 **Rarity:** Rare
-**Native Language:** [[Giant]]
+**Known Languages:** [[Common]] and[[Giant]]
 
 **Age:** 100 years, Mature at 20
 **Size:** Medium

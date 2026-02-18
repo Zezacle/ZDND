@@ -6,7 +6,7 @@ An Orc is a muscular brute with green or gray skin and prominent tusks protrudin
 ## Orc Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Dvergarian]]
+**Known Languages:** [[Common]] and [[Dvergarian]]
 
 **Age:** 80 years, Mature at 16
 **Size:** Medium

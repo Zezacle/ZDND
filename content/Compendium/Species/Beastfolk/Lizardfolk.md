@@ -6,7 +6,7 @@ Lizardfolk are a large carnivorous race with no qualms hunting other Beastfolk f
 ## Lizardfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 80 years, Mature at 12
 **Size:** Medium

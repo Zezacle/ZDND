@@ -1,7 +1,8 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 ---
-####  Drum [[Drum|(6 GP)]]
-**Ability:** Charisma **Weight:** 3 lb.
+**Cost:** 6 GP
+**Weight:** 3 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Play a known tune (DC 10), or improvise a song (DC 15)

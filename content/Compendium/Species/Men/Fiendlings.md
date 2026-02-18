@@ -6,7 +6,7 @@ Sometimes fiends will attempt to impart their chaos upon mortal races. Men are t
 ## Fiendling Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Common]]
+**Known Languages:** [[Common]]
 
 **Age:** 100 years, Mature at 20
 **Size:** Medium
@@ -24,6 +24,8 @@ Sometimes fiends will attempt to impart their chaos upon mortal races. Men are t
 - **Level 5:** [[Emit Darkness]]
 
 **Infernal Resistance.** You have [[Resistance]] to Fire damage. You have [[Advantage]] on Saving Throws against Psychic damage.
+
+**Multi-Tongued.** You can speak, but not read or write, one additional non-exotic language of your choice.
 
 **Otherworldly Presence.** You know the [[Thaumaturgy]] cantrip.
 

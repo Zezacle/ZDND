@@ -6,7 +6,7 @@ Dragonborn are scaled humanoid dragons with a tail. Their scale color indicates 
 ## Dragonborn Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Draconic]]
+**Known Languages:** [[Common]] and [[Draconic]]
 
 **Age:** 100 years, Mature at 16
 **Size:** Medium

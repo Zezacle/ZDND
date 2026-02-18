@@ -6,7 +6,7 @@ A Grae Elf is a ground dwelling elf of monochromatic skin and shorter stature. D
 ## Grae Elf Features
 
 **Rarity:** Rare
-**Native Language:** [[Old Elvish]]
+**Known Languages:** [[Common]] and [[Old Elvish]]
 
 **Age:** 750 years, Mature at 30
 **Size:** Medium

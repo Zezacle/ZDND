@@ -6,7 +6,7 @@ Goblins are a small and prolific race known for ambushing travelers and stealing
 ## Goblin Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Undercommon]]
+**Known Languages:** [[Common]] and [[Undercommon]]
 
 **Age:** 60 years, Mature at 12
 **Size:** Small

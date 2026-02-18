@@ -6,7 +6,7 @@ A Mortae Elf or 'Middle Elf' is identifiable by their tall stature, shorter elve
 ## Mortae Elf Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Elvish]]
+**Known Languages:** [[Common]] and [[Elvish]]
 
 **Age:** 500 years, Mature at 30
 **Size:** Medium

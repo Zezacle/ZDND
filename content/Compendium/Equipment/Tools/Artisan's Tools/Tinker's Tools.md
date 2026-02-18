@@ -1,8 +1,21 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Tinker's Tools [[Tinker's Tools|(50 GP)]]
-**Ability:** Dexterity **Weight:** 10 lb.
+**Cost:** 50 GP
+**Weight:** 10 lb.
+
+**Ability:** Dexterity
 [[Utilize]]: Assembly a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
-**Craft:** [[Musket]], [[Pistol]], [[Bell]], [[Bullseye Lantern]], [[Flask]], [[Hooded Lantern]], [[Hunting Trap]], [[Lock]], [[Manacles]], [[Mirror]], [[Shovel]], [[Signal Whistle]], [[Tinderbox]]
+**Craft:** 
+- [[Bell]]
+- [[Bullseye Lantern]]
+- [[Flask]]
+- [[Hooded Lantern]]
+- [[Hunting Trap]]
+- [[Lock]]
+- [[Manacles]]
+- [[Mirror]]
+- [[Shovel]]
+- [[Signal Whistle]]
+- [[Tinderbox]]

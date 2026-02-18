@@ -1,8 +1,11 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Brewer's Supplies [[Brewer's Supplies|(20 GP)]]
-**Ability:** Intelligence **Weight:** 9 lb.
+**Cost:** 20 GP
+**Weight:** 9 lb.
+
+**Ability:** Intelligence
 [[Utilize]]: Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-**Craft:** [[Antitoxin]]
+**Craft:**
+- [[Antitoxin]]

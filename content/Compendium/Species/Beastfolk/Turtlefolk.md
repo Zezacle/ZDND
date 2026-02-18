@@ -6,7 +6,7 @@ Turtlefolk are a calm and solitary race of Beastfolk resembling large bipedal tu
 ## Turtlefolk Features
 
 **Rarity:** Very Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 200 years, Mature at 40
 **Size:** Medium

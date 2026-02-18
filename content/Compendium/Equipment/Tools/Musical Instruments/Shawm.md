@@ -1,7 +1,8 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 ---
-####  Shawm [[Shawm|(2 GP)]]
-**Ability:** Charisma **Weight:** 1 lb.
+**Cost:** 2 GP
+**Weight:** 1 lb.
+
+**Ability:** Charisma 
 [[Utilize]]: Play a known tune (DC 10), or improvise a song (DC 15)

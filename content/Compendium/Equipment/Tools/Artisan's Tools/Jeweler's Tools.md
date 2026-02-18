@@ -1,8 +1,12 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Jeweler's Tools [[Jeweler's Tools|(25 GP)]]
-**Ability:** Intelligence **Weight:** 2 lb.
+**Cost:** 25 GP
+**Weight:** 2 lb.
+
+**Ability:** Intelligence
 [[Utilize]]: Discern a gem's value (DC 15)
-**Craft:** [[Arcane Focus]], [[Holy Symbol]]
+**Craft:**
+- [[Arcane Focus]]
+- [[Holy Symbol]]

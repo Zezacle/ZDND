@@ -1,8 +1,23 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Smith's Tools [[Smith's Tools|(20 GP)]]
-**Ability:** Strength **Weight:** 8 lb.
+**Cost:** 20 GP
+**Weight:** 8 lb.
+
+**Ability:** Strength
 [[Utilize]]: Pry open a door or container (DC 20)
-**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Chain]], [[Crowbar]], [[Firearm Bullets|Firearm Bullets]], [[Grappling Hook]], [[Iron Pot]], [[Iron Spikes]], [[Sling Bullets|Sling Bullets]]
+**Craft:** 
+- Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip)
+- [[Medium Armor]] (except Brigandine and Hide Armor)
+- [[Heavy Armor]]
+- [[Ball Bearings]]
+- [[Bucket]]
+- [[Caltrops]]
+- [[Chain]]
+- [[Crowbar]]
+- [[Firearm Bullets]]
+- [[Grappling Hook]]
+- [[Iron Pot]]
+- [[Iron Spikes]]
+- [[Sling Bullets]]

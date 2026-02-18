@@ -1,8 +1,11 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Cartographer's Tools [[Cartographer's Tools|(15 GP)]]
-**Ability:** Wisdom **Weight:** 6 lb.
+**Cost:** 15 GP
+**Weight:** 6 lb.
+
+**Ability:** Wisdom
 [[Utilize]]: Draft a map of a small area (DC 15)
-**Craft:** [[Map]]
+**Craft:** 
+- [[Map]]

@@ -1,8 +1,12 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Painter's Supplies [[Painter's Supplies|(10 GP)]]
-**Ability:** Wisdom **Weight:** 5 lb.
+**Cost:** 10 GP
+**Weight:** 5 lb.
+
+**Ability:** Wisdom
 [[Utilize]]: Paint a recognizable image of something you've seen (DC 10)
-**Craft:** [[Druidic Focus]], [[Holy Symbol]]
+**Craft:**
+- [[Druidic Focus]]
+- [[Holy Symbol]]

@@ -1,8 +1,20 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Woodcarver's Tools [[Woodcarver's Tools|(1 GP)]]
-**Ability:** Dexterity **Weight:** 5 lb.
+**Cost:** 1 GP
+**Weight:** 5 lb.
+
+**Ability:** Dexterity
 [[Utilize]]: Carve a pattern in wood (DC 10)
-**Craft:** [[Club]], [[Greatclub]], [[Quarterstaff]], Ranged weapons (except Pistol, Musket, and Sling), [[Arcane Focus]], [[Arrows]], [[Bolts]], [[Druidic Focus]], [[Ink Pen]], [[Needles]]
+**Craft:**
+- [[Club]]
+- [[Greatclub]]
+- [[Quarterstaff]]
+- Ranged weapons (except Sling)
+- [[Arcane Focus]]
+- [[Arrows]]
+- [[Bolts]]
+- [[Druidic Focus]]
+- [[Ink Pen]]
+- [[Needles]]

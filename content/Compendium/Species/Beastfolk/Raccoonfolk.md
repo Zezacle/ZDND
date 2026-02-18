@@ -8,7 +8,7 @@ Raccoonfolk are a race of Beastfolk resembling raccoons. Their ancestor's curios
 ## Raccoonfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 80 years, Mature at 16
 **Size:** Small

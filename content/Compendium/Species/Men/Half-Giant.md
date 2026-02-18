@@ -7,7 +7,7 @@ Half-Giants are a blend of human and giant blood, sharing in their boons and lim
 ## Half-Giant Features
 
 **Rarity:** Rare
-**Native Language:** [[Giant]]
+**Known Languages:** [[Common]] and [[Giant]]
 
 **Age:** 100 years, Mature at 20
 **Size:** Medium

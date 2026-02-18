@@ -6,7 +6,7 @@ A Gnome is a Dvergar touched by magic. They are smaller and weaker than their Dw
 ## Gnomish Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Dvergarian]]
+**Known Languages:** [[Common]] and [[Dvergarian]]
 
 **Age:** 500 years, Mature at 25
 **Size:** Small

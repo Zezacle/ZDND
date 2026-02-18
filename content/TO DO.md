@@ -2,6 +2,14 @@
 draft: true
 tags:
 ---
+Charter of the North
+- How to Introduce Vornir
+- Make Under the Cellar Necro pit
+- Finish prep notes
+
+Foundry
+- Sort Fallout tracks, add to foundry
+
 Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
@@ -20,8 +28,7 @@ Fill out Spell Lists
 - Prioritize up to lv6
 
 Fill in Equipment
-- Start with tools
-- Packs
+- Adventuring Gear
 
 Make new meta images
 - how 2 favicon

@@ -1,7 +1,8 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/gaming_set
 ---
-####  Playing Cards [[Playing Cards|(5 SP)]]
-**Ability:** Wisdom **Weight:** -
+**Cost:** 5 sp
+
+**Ability:** Wisdom
 [[Utilize]]: Discern whether someone is cheating (DC 10), or win the game (DC 20)

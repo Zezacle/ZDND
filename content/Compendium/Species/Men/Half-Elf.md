@@ -7,7 +7,7 @@ Half-Elves are a blend of human and elf, sharing in their boons and limitations.
 ## Half-Elf Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Elvish]]
+**Known Languages:** [[Common]] and [[Elvish]]
 
 **Age:** 150 years, Mature at 20
 **Size:** Medium

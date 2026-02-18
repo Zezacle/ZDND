@@ -9,7 +9,7 @@
 | **Skill Proficiencies**                    | *Choose 2:* [[History]], [[Insight]], [[Medicine]], [[Persuasion]], [[Religion]]             |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                               |
 | **Armor Training**                         | [[Light Armor]], [[Medium Armor]] and [[Shields]]                                            |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Brigandine]], [[Arm Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 10 GP; |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Brigandine]], [[Arm Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 15 GP; |
 |                                            | (B) [[Holy Symbol]] and 75 GP                                                                |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.

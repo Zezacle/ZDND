@@ -1,8 +1,14 @@
 ---
 tags:
-  - equipment
+  - equipment/tool
 ---
-#### Herbalism Kit [[Herbalism Kit|(5 GP)]]
-**Ability:** Intelligence **Weight:** 3 lb.
+**Cost:** 5 GP
+**Weight:** 3 lb.
+
+**Ability:** Intelligence
 [[Utilize]]: Identify a plant (DC 10)
-**Craft:** [[Antitoxin]], [[Candle]], [[Healer's Kit]], *[[Potion of Healing]]*
+**Craft:**
+- [[Antitoxin]]
+- [[Candle]]
+- [[Healer's Kit]]
+- [[Potion of Healing]]

@@ -10,7 +10,7 @@
 | **Weapon Proficiencies**                      | Simple Weapons, Martial Weapons                                                                      |
 | **Armor Training**                            | [[Light Armor]], [[Medium Armor]], [[Heavy Armor]], [[Shields]]                                      |
 | **Starting Equipment**<br>*Choose A, B or C:* | (A) [[Ringmail]], [[Arm Shield]], [[Arming Sword]], [[Holy Symbol]], [[Dungeoneer's Pack]] and 6 GP  |
-|                                               | (B) [[Brigandine]], [[Warhammer]], [[Dagger]], [[Holy Symbol]], [[Priest's Pack]] and 10 GP          |
+|                                               | (B) [[Brigandine]], [[Warhammer]], [[Dagger]], [[Holy Symbol]], [[Priest's Pack]] and 15 GP          |
 |                                               | (C) [[Holy Symbol]] and 80 GP                                                                        |
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits or in a moment of desperation and grief with the dead as the only witness, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.  

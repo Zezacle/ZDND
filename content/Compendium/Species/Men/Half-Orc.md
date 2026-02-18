@@ -7,7 +7,7 @@ Half-Orcs are a blend of human and orcish blood, sharing in their boons and limi
 ## Half-Orc Features
 
 **Rarity:** Uncommon
-**Native Language:** [[Dvergarian]]
+**Known Languages:** [[Common]] and [[Dvergarian]]
 
 **Age:** 100 years, Mature at 16
 **Size:** Medium

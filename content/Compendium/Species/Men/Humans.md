@@ -6,7 +6,7 @@ Humans are a hearty and adaptable race of mortals, with an interesting quirk of 
 ## Human Features
 
 **Rarity:** Common
-**Native Language:** [[Common]]
+**Known Languages:** [[Common]]
 
 **Age:** 100 years, Mature at 20
 **Size:** Medium
@@ -15,6 +15,8 @@ Humans are a hearty and adaptable race of mortals, with an interesting quirk of 
 - **Speed:** 30 ft. *(6 sq.)*
 
 **Ability Score Increase.** All your scores increase by 1.
+
+**Multi-Tongued.** You can speak, but not read or write, one additional non-exotic language of your choice.
 
 **Resourceful.** You gain [[Heroic Inspiration]] whenever you finish a [[Long Rest]].
 

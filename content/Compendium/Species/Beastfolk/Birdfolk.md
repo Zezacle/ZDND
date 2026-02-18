@@ -7,7 +7,7 @@ Birdfolk are a wide variety of Humanoid birds with appearances resembling many b
 ## Birdfolk Features
 
 **Rarity:** Rare
-**Native Language:** [[Beast Tongue]]
+**Known Languages:** [[Common]] and [[Beast Tongue]]
 
 **Age:** 50 years, Mature at 10
 **Size:** Medium

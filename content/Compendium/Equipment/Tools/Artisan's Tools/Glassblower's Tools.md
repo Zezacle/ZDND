@@ -1,8 +1,14 @@
 ---
 tags:
-  - equipment
+  - equipment/tool/artisan_tool
 ---
-####  Glassblower's Tools [[Glassblower's Tools|(30 GP)]]
-**Ability:** Intelligence **Weight:** 5 lb.
+**Cost:** 30 GP
+**Weight:** 5 lb.
+
+**Ability:** Intelligence
 [[Utilize]]: Discern what a glass object held in the past 24 hours (DC 15)
-**Craft:** [[Glass Bottle]], [[Magnifying Glass]], [[Spyglass]], [[Vial]]
+**Craft:**
+- [[Glass Bottle]]
+- [[Magnifying Glass]]
+- [[Spyglass]]
+- [[Vial]]

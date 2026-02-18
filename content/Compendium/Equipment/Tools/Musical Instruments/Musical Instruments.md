@@ -1,6 +1,5 @@
 ---
-tags:
-  - equipment
+tags: equipment/tool/musical_instrument
 aliases:
   - Musical Instrument
 ---

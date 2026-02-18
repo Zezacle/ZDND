@@ -6,7 +6,7 @@ Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are
 ## Hobgoblins Features
 
 **Rarity:** Rare
-**Native Language:** [[Undercommon]]
+**Known Languages:** [[Common]] and [[Undercommon]]
 
 **Age:** 100 years, Mature at 20
 **Size:** Medium
