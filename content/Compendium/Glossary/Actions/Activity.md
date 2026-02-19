@@ -45,7 +45,7 @@ You stand watch, preparing for any eventuality.
 You spend these 10 minutes to collect any adventuring gear and valuables that have already been discovered or weren't hidden.
 
 #### Move Quietly
-*(Prerequisite: Proficiency in [[Stealth]].)
+*(Prerequisite: Proficiency in [[Stealth]].)*
 
 For the next 10 minutes, a creature must succeed on a Perception check to find you. The DC to notice you is 8 + your Dexterity modifier + you proficiency bonus.
 

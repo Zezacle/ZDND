@@ -4,11 +4,10 @@ tags:
 ---
 Charter of the North
 - How to Introduce Vornir
-- Make Under the Cellar Necro pit
 - Finish prep notes
 
 Foundry
-- Sort Fallout tracks, add to foundry
+- good for now?
 
 Polish [[00) Creating a Character]]
 
