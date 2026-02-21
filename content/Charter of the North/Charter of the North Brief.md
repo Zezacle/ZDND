@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 The King has given his most respected military captain the title of Great Baron and the charter to explore the vast wilderness at the northern edge of his kingdom and claim it in the King's name.
 
