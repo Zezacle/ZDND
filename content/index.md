@@ -22,4 +22,7 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
-Last updated: 2026-02-15 night
+Last updated: 2026-02-21 early morning
+- added [[Potions]] rules
+- added Potion descriptions
+- added [[Spell Scrolls]] rules

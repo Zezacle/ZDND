@@ -1,7 +1,7 @@
 ---
 tags:
-  - mechanic
   - new
+  - mechanic
 ---
 When a player character would otherwise be killed, the DM may elect to allow them to have a [[Permanent Injury]] instead.
 

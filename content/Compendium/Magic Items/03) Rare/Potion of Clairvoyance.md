@@ -1,20 +1,12 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/rare
+  - consumable/potion
+---
+*Potion, Rare*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+**Toxicity:** 4
 
-Description
+When you drink this potion, you gain the effect of the [[Clairvoyance]] spell (no [[Concentration]] required).
 
-#magicitem
+*An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.*

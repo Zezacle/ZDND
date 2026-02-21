@@ -1,20 +1,12 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/uncommon
+  - consumable/potion
+---
+*Potion, Uncommon*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+**Toxicity:** 2
 
-Description
+When you drink this potion, you have [[Resistance]] to Psychic damage for 1 hour.
 
-#magicitem
+*This potion's liquid appears grey in color until agitated, at which point the liquid fades dark purple and streaks of magenta flash through it until settling again.*

@@ -1,20 +1,12 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/rare
+  - consumable/potion
+---
+*Potion, Rare*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+**Toxicity:** 4
 
-Description
+When you drink the potion, you have the [[Invisible]] condition for 1 hour. The effect ends early if you make an attack roll, deal damage, or cast a spell.
 
-#magicitem
+*This potion's container looks empty but feels as though it holds liquid.*

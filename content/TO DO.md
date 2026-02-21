@@ -3,7 +3,6 @@ draft: true
 tags:
 ---
 Charter of the North
-- How to Introduce Vornir
 - Finish prep notes
 
 Foundry

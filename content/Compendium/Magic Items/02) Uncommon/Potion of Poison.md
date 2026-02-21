@@ -1,20 +1,12 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/uncommon
+  - consumable/potion
+---
+*Potion, Uncommon*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+**Toxicity:** 6
 
-Description
+This concoction looks, smells, and tastes like a [[Potion of Healing]] or another beneficial potion. However, it is actually poison masked by illusion magic. The [[Identify]] spell reveals its true nature.
 
-#magicitem
+If you drink this potion, you take 4d6 Poison damage and must succeed on a DC 13 Constitution saving throw or have the [[Poisoned]] condition for 1 hour.

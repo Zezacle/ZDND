@@ -2,8 +2,8 @@
 aliases:
   - Downtime Task
 tags:
-  - mechanic
   - new
+  - mechanic
 ---
 A [[Downtime Tasks|Downtime Task]] is a project, job or study that a character must devote substantial, tedious time to complete. Such a task has an associated **Task Difficulty (DC)**, **Number of Hours** to complete, and often a task has **Prerequisites** such as location, mentorship, or material cost.'
 

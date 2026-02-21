@@ -1,20 +1,14 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/veryrare
+  - consumable/potion
+---
+*Potion, Very Rare*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+**Toxicity:** 0
 
-Description
+When you drink this potion, it removes any [[Exhaustion]] levels you have and ends the [[Poisoned]] condition on you. For the next 24 hours, you regain the maximum number of [[Hit Points]] for any [[Hit Point Dice]] you spend.
 
-#magicitem
+If you have a Toxicity level, it is reduced to 0 and any Potion Sickness you have ends.
+
+*This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.*

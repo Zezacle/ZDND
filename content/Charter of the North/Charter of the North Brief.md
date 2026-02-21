@@ -1,3 +1,6 @@
+---
+draft: true
+---
 The King has given his most respected military captain the title of Great Baron and the charter to explore the vast wilderness at the northern edge of his kingdom and claim it in the King's name.
 
 Regular calls to duty have echoed throughout the Kingdom asking for capable persons to join the Great Baron in his frontier town of Windscape, to aid him in his charter. They promise adventure, untold riches, glory and land grants to any intrepid settlers or mercenaries willing to brave these hostile lands.

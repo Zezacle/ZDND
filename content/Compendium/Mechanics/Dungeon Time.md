@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - mechanic
 ---
 [[Dungeon Time]] describes the gameplay of scenarios where the party is acting in a situation that is neither combat, roleplay, travel, resting or downtime. Dungeon Time can be used to explore dungeons, buildings, attend a party to spy on an sketchy noble--any scenario where it makes sense to arbitrate player turns in 10-minute increments known as [[Stretch|Stretches]].

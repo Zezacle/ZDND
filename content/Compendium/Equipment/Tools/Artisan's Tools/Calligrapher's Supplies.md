@@ -9,4 +9,4 @@ tags:
 [[Utilize]]: Write text with impressive flourishes that guard against forgery (DC 15)
 **Craft:** 
 - [[Ink]]
-- [[Spell Scroll]]
+- [[Spell Scrolls|Spell Scroll]]

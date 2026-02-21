@@ -1,7 +1,7 @@
 ---
 tags:
-  - mechanic
   - new
+  - mechanic
 ---
 A negotiation is when the party has a plausible request to make of an NPC who is willing to negotiate. The NPC's attitude towards the party will determine their willingness to negotiate, influencing their starting **Interest** in coming to a deal and their **Patience** to keep negotiating.
 

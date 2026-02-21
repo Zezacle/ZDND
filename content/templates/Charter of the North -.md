@@ -7,10 +7,7 @@ draft: true
 - blah blah
 
 ### Recap
-
-[START MUSIC](https://youtu.be/Y2vsdbdtajc?list=PL3-Zr0Ym0FgypgVXl5U4kpSldMrH2momN)
-
-Last time on the Charter of the North:
+START UP MUSIC!!!
 
 ## Into play
 
@@ -21,5 +18,3 @@ blah blah
 ### Thing 2
 
 ### Thing 3
-
-# RECAP
