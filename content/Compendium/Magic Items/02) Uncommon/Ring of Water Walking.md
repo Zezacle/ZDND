@@ -1,20 +1,11 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/uncommon
+---
+*Ring, Uncommon*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
-Description
+*This silver ring has wave-like engravings and is studded with small uncut sapphire gems.*
 
-#magicitem
+![[ring-of-water-walking.jpeg|300]]

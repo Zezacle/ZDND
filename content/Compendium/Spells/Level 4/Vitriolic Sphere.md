@@ -1,14 +1,14 @@
 ---
 tags:
   - spell
+  - spell-list/sorcerer
+  - spell-list/wizard
 school: Evocation
 spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Vitriolic Sphere
-
 *Level 4 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16,6 +16,6 @@ concentration: false
 **Components:** V, S, M (a drop of bile)
 **Duration:** Instantaneous
 
-You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius Sphere. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
+You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius [[Sphere]]. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
 
 ***Using a Higher-Level Spell Slot.*** The initial damage increases by 2d4 for each spell slot level above 4.

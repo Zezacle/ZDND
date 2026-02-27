@@ -1,14 +1,16 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Conjuration
 spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Dimension Door
-
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action

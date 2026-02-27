@@ -1,6 +1,9 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/wizard
+  - concentration
 school: Conjuration
 spell_level: "4"
 ritual: false

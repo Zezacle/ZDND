@@ -1,14 +1,16 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/wizard
 school: Transmutation
 spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Stone Shape
-
 *Level 4 Transmutation (Artificer, Cleric, Druid, Wizard)*
 
 **Casting Time:** Action

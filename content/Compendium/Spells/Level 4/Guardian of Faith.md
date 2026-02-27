@@ -1,14 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/cleric
 school: Conjuration
 spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Guardian of Faith
-
 *Level 4 Conjuration (Cleric)*
 
 **Casting Time:** Action

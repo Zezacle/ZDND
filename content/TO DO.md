@@ -4,6 +4,9 @@ tags:
 ---
 Charter of the North
 - Finish prep notes
+- cut thunder from wind ambience
+- Witch hut of Witching hahaha
+	- Bat in a Bottle- Throw, receive 20ft of blindsight from impact site
 
 Foundry
 - good for now?

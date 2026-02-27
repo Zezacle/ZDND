@@ -1,14 +1,16 @@
 ---
 tags:
   - spell
+  - spell-list/druid
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
 school: Necromancy
 spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Blight
-
 *Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action

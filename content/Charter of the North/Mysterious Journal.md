@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 A mysterious journal written in a calligraphic form of Common. Only the first quarter is filled out. There are a number of entries interspersed with doodles, arcane notes, reminders, travel plans and more.
 

@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/bard
   - spell-list/druid
+  - concentration
 school: Evocation
 spell_level: "4"
 ritual: false

@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
+  - concentration
 school: Abjuration
 spell_level: "4"
 ritual: false
