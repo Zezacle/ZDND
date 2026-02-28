@@ -4,6 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/paladin
   - concentration
+  - spell-list/artificer/battle-smith
+  - spell-list/paladin/oath-of-glory
 school: Enchantment
 spell_level: "1"
 ritual: false

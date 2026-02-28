@@ -4,6 +4,7 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/paladin
+  - spell-list/paladin/oath-of-devotion
 school: Enchantment
 spell_level: "2"
 ritual: false

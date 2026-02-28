@@ -6,6 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/sorcerer/draconic-sorcery
 school: Enchantment
 spell_level: "4"
 ritual: false

@@ -89,31 +89,49 @@ tags:
 |   3   | [[Vampiric Touch]]         | Necromancy    | C       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                     | School      | Special |
+| :---: | ------------------------- | ----------- | ------- |
+|   4   | [[Backlash]]              | Abjuration  | —       |
+|   4   | [[Banishment]]            | Abjuration  | C       |
+|   4   | [[Blight]]                | Necromancy  | —       |
+|   4   | [[Charm Monster]]         | Enchantment | —       |
+|   4   | [[Crystal Crown]]*        | Evocation   | M       |
+|   4   | [[Dimension Door]]        | Conjuration | —       |
+|   4   | [[Doomtide]]              | Conjuration | C       |
+|   4   | [[Hallucinatory Terrain]] | Illusion    | —       |
+|   4   | [[Rasengan]]*             | Evocation   | C       |
+|   4   | [[Summon Aberration]]     | Conjuration | C, M    |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School      | Special |
+| :---: | ------------------------ | ----------- | ------- |
+|   5   | [[Arcane Anchor]]*       | Enchantment | C       |
+|   5   | [[Contact Other Plane]]  | Divination  | R       |
+|   5   | [[Dream]]                | Illusion    | —       |
+|   5   | [[Hold Monster]]         | Enchantment | C       |
+|   5   | [[Mislead]]              | Illusion    | C       |
+|   5   | [[Planar Binding]]       | Abjuration  | M       |
+|   5   | [[Scrying]]              | Divination  | C, M    |
+|   5   | [[Storm of Radiance]]    | Evocation   | C       |
+|   5   | [[Synaptic Static]]      | Enchantment | —       |
+|   5   | [[Teleportation Circle]] | Conjuration | M       |
 
 
 ### Level 6 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
+| Level | Spell                 | School      | Special |
+| :---: | --------------------- | ----------- | ------- |
+|   6   | [[Arcane Gate]]       | Conjuration | C       |
+|   6   | [[Bubbling Cauldron]] | Conjuration | M       |
+|   6   | [[Circle of Death]]   | Necromancy  | M       |
+|   6   | [[Create Undead]]     | Necromancy  | M       |
+|   6   | [[Eyebite]]           | Necromancy  | C       |
+|   6   | [[Summon Fiend]]      | Conjuration | C, M    |
+|   6   | [[True Seeing]]       | Divination  | M       |
 
 
 ### Level 7 Spells

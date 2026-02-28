@@ -4,6 +4,7 @@ tags:
   - spell-list/artificer
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/druid/circle-of-the-land/tropical
 school: Evocation
 spell_level: "0"
 ritual: false

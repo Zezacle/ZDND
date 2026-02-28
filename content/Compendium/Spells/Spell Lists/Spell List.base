@@ -11,17 +11,17 @@ views:
       property: spell_level
       direction: ASC
     order:
-      - file.name
       - spell_level
+      - file.name
       - school
       - concentration
       - ritual
       - material_component
       - file.tags
     sort:
-      - property: school
-        direction: ASC
       - property: file.name
+        direction: ASC
+      - property: school
         direction: ASC
       - property: file.tags
         direction: DESC
@@ -29,3 +29,4 @@ views:
         direction: DESC
     columnSize:
       note.spell_level: 30
+      file.tags: 830

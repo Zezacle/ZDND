@@ -4,6 +4,7 @@ tags:
   - spell-list/bard
   - spell-list/druid
   - concentration
+  - spell-list/druid/circle-of-the-moon
 school: Evocation
 spell_level: "4"
 ritual: false

@@ -6,6 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-sea
 school: Evocation
 spell_level: "2"
 ritual: false

@@ -5,6 +5,7 @@ tags:
   - spell-list/cleric
   - spell-list/warlock
   - concentration
+  - spell-list/paladin/oath-of-vengeance
 school: Enchantment
 spell_level: "1"
 ritual: false

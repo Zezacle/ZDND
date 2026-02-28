@@ -2,6 +2,8 @@
 tags:
   - spell
   - spell-list/cleric
+  - spell-list/paladin/oath-of-devotion
+  - spell-list/warlock/celestial-patron
 school: Conjuration
 spell_level: "4"
 ritual: false

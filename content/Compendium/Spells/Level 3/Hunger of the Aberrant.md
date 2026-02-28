@@ -3,6 +3,8 @@ tags:
   - spell
   - spell-list/warlock
   - concentration
+  - spell-list/sorcerer/aberrant-sorcery
+  - spell-list/warlock/great-old-one-patron
 school: Conjuration
 spell_level: "3"
 ritual: false

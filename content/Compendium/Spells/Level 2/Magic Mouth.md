@@ -6,13 +6,13 @@ tags:
   - spell-list/wizard
 school: Illusion
 spell_level: "2"
-ritual: false
+ritual: true
 material_component: true
 concentration: false
 ---
 *Level 2 Illusion (Artificer, Bard, Wizard)*
 
-**Casting Time:** 1 minute or Ritual
+**Casting Time:** 1 minute or [[Ritual]]
 **Range:** 30 feet
 **Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
 **Duration:** Until dispelled

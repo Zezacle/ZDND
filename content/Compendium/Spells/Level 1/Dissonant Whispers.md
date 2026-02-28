@@ -2,6 +2,8 @@
 tags:
   - spell
   - spell-list/bard
+  - spell-list/sorcerer/aberrant-sorcery
+  - spell-list/warlock/great-old-one-patron
 school: Enchantment
 spell_level: "1"
 ritual: false

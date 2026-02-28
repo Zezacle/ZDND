@@ -1,4 +1,4 @@
-Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
+Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
 
 ### Level 3: Draconic Lore
 
@@ -8,7 +8,7 @@ You learn [[Draconic]].
 
 The magic in your body manifests physical traits of your draconic gift. Your [[Hit Points|Hit Point]] maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren’t wearing [[Armor]], your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing [[Armor]], your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Level 3: Draconic Spells
 
@@ -33,10 +33,10 @@ You have [[Resistance]] to that damage type, and when you cast a spell that deal
 
 As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [[Flying]] [[Speed]] of 40 feet.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you spend 4 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you spend 4 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 18: Dragon Companion
 
 You can cast [[Summon Dragon]] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [[Long Rest]].
 
-Whenever you start casting the spell, you can modify it so that it doesn’t require [[Concentration]]. If you do so, the spell’s duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [[Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting.

@@ -60,7 +60,6 @@ tags:
 |   1   | [[Witch Bolt]]           | Evocation     | C       |
 
 
-
 ### Level 2 Spells
 
 | Level | Spell                    | School        | Special |
@@ -95,7 +94,6 @@ tags:
 |   2   | [[Web]]                  | Conjuration   | C       |
 
 
-
 ### Level 3 Spells
 
 | Level | Spell                      | School        | Special |
@@ -125,31 +123,66 @@ tags:
 |   3   | [[Water Walk]]             | Transmutation | R       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School        | Special |
+| :---: | ------------------------ | ------------- | ------- |
+|   4   | [[Backlash]]             | Abjuration    | —       |
+|   4   | [[Banishment]]           | Abjuration    | C       |
+|   4   | [[Blight]]               | Necromancy    | —       |
+|   4   | [[Charm Monster]]        | Enchantment   | —       |
+|   4   | [[Confusion]]            | Enchantment   | C       |
+|   4   | [[Crystal Crown]]*       | Evocation     | M       |
+|   4   | [[Dimension Door]]       | Conjuration   | —       |
+|   4   | [[Dominate Beast]]       | Enchantment   | C       |
+|   4   | [[Fire Shield]]          | Evocation     | —       |
+|   4   | [[Greater Invisibility]] | Illusion      | C       |
+|   4   | [[Ice Storm]]            | Evocation     | —       |
+|   4   | [[Polymorph]]            | Transmutation | C       |
+|   4   | [[Spellfire Storm]]      | Evocation     | C       |
+|   4   | [[Stoneskin]]            | Transmutation | C, M    |
+|   4   | [[Vitriolic Sphere]]     | Evocation     | —       |
+|   4   | [[Wall of Fire]]         | Evocation     | C       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School        | Special |
+| :---: | ------------------------ | ------------- | ------- |
+|   5   | [[Animate Objects]]      | Transmutation | C       |
+|   5   | [[Arcane Anchor]]*       | Enchantment   | C       |
+|   5   | [[Arcane Hand]]          | Evocation     | C       |
+|   5   | [[Cloudkill]]            | Conjuration   | C       |
+|   5   | [[Cone of Cold]]         | Evocation     | —       |
+|   5   | [[Creation]]             | Illusion      | —       |
+|   5   | [[Dominate Person]]      | Enchantment   | C       |
+|   5   | [[Elemental Suffusion]]  | Transmutation | C, M    |
+|   5   | [[Hold Monster]]         | Enchantment   | C       |
+|   5   | [[Insect Plague]]        | Conjuration   | C       |
+|   5   | [[Seeming]]              | Illusion      | —       |
+|   5   | [[Synaptic Static]]      | Enchantment   | —       |
+|   5   | [[Telekinesis]]          | Transmutation | C       |
+|   5   | [[Teleportation Circle]] | Conjuration   | M       |
+|   5   | [[Wall of Stone]]        | Evocation     | C       |
 
 
 ### Level 6 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
+| Level | Spell                        | School        | Special |
+| :---: | ---------------------------- | ------------- | ------- |
+|   6   | [[Arcane Gate]]              | Conjuration   | C       |
+|   6   | [[Chain Lightning]]          | Evocation     | —       |
+|   6   | [[Circle of Death]]          | Necromancy    | M       |
+|   6   | [[Disintegrate]]             | Transmutation | —       |
+|   6   | [[Effulgent Spheres]]        | Evocation     | M       |
+|   6   | [[Eyebite]]                  | Necromancy    | C       |
+|   6   | [[Flesh to Stone]]           | Transmutation | C       |
+|   6   | [[Freezing Sphere]]          | Evocation     | —       |
+|   6   | [[Globe of Invulnerability]] | Abjuration    | C       |
+|   6   | [[Mass Suggestion]]          | Enchantment   | —       |
+|   6   | [[Move Earth]]               | Transmutation | C       |
+|   6   | [[Sunbeam]]                  | Evocation     | C       |
+|   6   | [[True Seeing]]              | Divination    | M       |
 
 
 ### Level 7 Spells

@@ -18,7 +18,7 @@ Turtlefolk are a calm and solitary race of Beastfolk resembling large bipedal tu
 
 **Hold Breath.** You can hold your breath for up to 1 hour.
 
-**Natural Armor.** Your shell provides you a base AC of 17 (your Dexterity modifier doesn’t affect this number). You can’t wear [[Armor]], but if you are using a [[Shields|Shield]], you can apply the shield's bonus as normal.
+**Natural Armor.** Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect this number). You can't wear [[Armor]], but if you are using a [[Shields|Shield]], you can apply the shield's bonus as normal.
 
 **Nature's Intuition.** Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 
@@ -30,7 +30,7 @@ Turtlefolk are a calm and solitary race of Beastfolk resembling large bipedal tu
 - **Drawbacks:**
 	- Your [[Evasion Class]] is reduced to 5
 	- You are [[Prone]]
-	- Your [[Speed]] is 0 and can’t increase
+	- Your [[Speed]] is 0 and can't increase
 	- [[Disadvantage]] on Dexterity saving throws
 	- You can't take Reactions
 	- The only Action you can take is a Bonus Action to emerge from your shell

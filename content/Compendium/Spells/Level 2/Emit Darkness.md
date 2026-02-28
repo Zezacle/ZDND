@@ -5,6 +5,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/monk/warrior-of-shadow
 school: Evocation
 spell_level: "2"
 ritual: false

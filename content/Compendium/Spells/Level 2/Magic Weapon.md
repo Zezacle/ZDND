@@ -6,6 +6,8 @@ tags:
   - spell-list/ranger
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/cleric/war-domain
+  - spell-list/paladin/oath-of-glory
 school: Transmutation
 spell_level: "2"
 ritual: false

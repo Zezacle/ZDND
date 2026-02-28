@@ -5,6 +5,7 @@ tags:
   - spell-list/cleric
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/warlock/celestial-patron
 school: Evocation
 spell_level: "0"
 ritual: false

@@ -5,6 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-land/temperate
+  - spell-list/warlock/archfey-patron
 school: Enchantment
 spell_level: "1"
 ritual: false

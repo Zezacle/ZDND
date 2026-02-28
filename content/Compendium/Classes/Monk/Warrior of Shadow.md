@@ -4,7 +4,7 @@ Warriors of Shadow practice stealth and subterfuge, harnessing the power of the 
 
 You have learned to draw on the power of shadows, gaining the following benefits.
 
-**Darkness.** You can expend 1 Focus Point to cast the [[Emit Darkness]] spell without spell components. You can see within the spell’s area when you cast it with this feature. While the spell persists, you can move its area of [[Darkness]] to a space within 60 feet of yourself at the start of each of your turns.
+**Darkness.** You can expend 1 Focus Point to cast the [[Emit Darkness]] spell without spell components. You can see within the spell's area when you cast it with this feature. While the spell persists, you can move its area of [[Darkness]] to a space within 60 feet of yourself at the start of each of your turns.
 
 **Darkvision.** You gain [[Darkvision]] with a range of 30 feet. If you already have [[Darkvision]], its range increases by 30 feet.
 
@@ -14,7 +14,7 @@ You have learned to draw on the power of shadows, gaining the following benefits
 
 **Shadowy Figments.** You know the [[Shadow Clone]] spell. Wisdom is your spellcasting ability for it.
 
-Once you use this spell, you can’t use it again until you finish a [[Long Rest]].
+Once you use this spell, you can't use it again until you finish a [[Long Rest]].
 
 ### Level 6: Shadow Step
 

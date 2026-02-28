@@ -10,7 +10,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 
 **Bear.** While your Rage is active, you have [[Resistance]] to every damage type except Force, Necrotic, Psychic, and Radiant.
 
-**Eagle.** When you activate your Rage, you can take the [[Disengage]] and [[Dash]] actions as part of that Bonus Action. While your Rage is active, you can take a Bonus Action to [[Dash]] or [[Disengage]] from up to 2 creatures.
+**Eagle.** When you activate your Rage, you can take the [[Disengage]] and [[Dash]] actions as part of that Bonus Action. While your Rage is active, you can take a Bonus Action to take both of those actions.
 
 **Wolf.** While your Rage is active, your allies have [[Advantage]] on attack rolls against any enemy of yours within 5 feet of you.
 
@@ -32,7 +32,7 @@ You can cast the [[Commune with Nature]] spell but only as a [[Ritual]]. Wisdom 
 
 Whenever you activate your Rage, you gain one of the following options of your choice.
 
-**Falcon.** While your Rage is active, you have a [[Flying]] Speed equal to your Speed if you aren’t wearing any armor.
+**Falcon.** While your Rage is active, you have a [[Flying]] Speed equal to your Speed if you aren't wearing any armor.
 
 **Lion.** While your Rage is active, any of your enemies within 5 feet of you have [[Disadvantage]] on attack rolls against targets other than you or another Barbarian who has this option active.
 

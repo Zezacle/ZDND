@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - concentration
+  - spell-list/paladin/oath-of-devotion
 school: Abjuration
 spell_level: "3"
 ritual: false

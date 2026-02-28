@@ -23,6 +23,9 @@ tags:
 |   0   | [[Summon Seat]]*       | Conjuration   | —       |
 |   0   | [[True Strike]]        | Divination    | —       |
 |   0   | [[Vicious Mockery]]    | Enchantment   | —       |
+|   0   | [[Blade Ward]]         | Abjuration    | C       |
+|   0   | [[Friends]]            | Enchantment   | C       |
+|   0   | [[Thunderclap]]        | Evocation     | —       |
 
 
 ### Level 1 Spells
@@ -57,6 +60,7 @@ tags:
 |   1   | [[Thunderwave]]            | Evocation     | —       |
 |   1   | [[Tongue Tied]]*           | Enchantment   | C       |
 |   1   | [[Unseen Servant]]         | Conjuration   | R       |
+|   1   | [[Wardaway]]               | Abjuration    | —       |
 
 
 ### Level 2 Spells
@@ -67,6 +71,8 @@ tags:
 |   2   | [[Animal Messenger]]         | Enchantment   | R       |
 |   2   | [[Blindness + Deafness]]     | Transmutation | —       |
 |   2   | [[Calm Emotions]]            | Enchantment   | C       |
+|   2   | [[Cloud of Daggers]]         | Conjuration   | C       |
+|   2   | [[Crown of Madness]]         | Enchantment   | C       |
 |   2   | [[Detect Thoughts]]          | Divination    | C       |
 |   2   | [[Enhance Ability]]          | Transmutation | C       |
 |   2   | [[Enlarge + Reduce]]         | Transmutation | C       |
@@ -78,7 +84,7 @@ tags:
 |   2   | [[Lesser Restoration]]       | Abjuration    | —       |
 |   2   | [[Locate Animals or Plants]] | Divination    | R       |
 |   2   | [[Locate Object]]            | Divination    | C       |
-|   2   | [[Magic Mouth]]              | Illusion      | M       |
+|   2   | [[Magic Mouth]]              | Illusion      | R, M    |
 |   2   | [[Mirror Image]]             | Illusion      | —       |
 |   2   | [[Phantasmal Force]]         | Illusion      | C       |
 |   2   | [[See Invisibility]]         | Divination    | —       |
@@ -93,9 +99,11 @@ tags:
 | Level | Spell                 | School        | Special |
 | :---: | --------------------- | ------------- | ------- |
 |   3   | [[Bestow Curse]]      | Necromancy    | C       |
+|   3   | [[Cacophonic Shield]] | Evocation     | C       |
 |   3   | [[Clairvoyance]]      | Divination    | C, M    |
 |   3   | [[Dispel Magic]]      | Abjuration    | —       |
 |   3   | [[Fear]]              | Illusion      | C       |
+|   3   | [[Feign Death]]       | Necromancy    | R       |
 |   3   | [[Glyph of Warding]]  | Abjuration    | M       |
 |   3   | [[Hypnotic Pattern]]  | Illusion      | C       |
 |   3   | [[Major Image]]       | Illusion      | C       |
@@ -109,36 +117,72 @@ tags:
 |   3   | [[Speak with Plants]] | Transmutation | —       |
 |   3   | [[Spell Steal]]*      | Abjuration    | —       |
 |   3   | [[Stinking Cloud]]    | Conjuration   | C       |
-|   3   | [[Tiny Hut]]          | Evocation     | —       |
+|   3   | [[Tiny Hut]]          | Evocation     | R       |
 |   3   | [[Tongues]]           | Divination    | —       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                     | School        | Special |
+| :---: | ------------------------- | ------------- | ------- |
+|   4   | [[Charm Monster]]         | Enchantment   | —       |
+|   4   | [[Compulsion]]            | Enchantment   | C       |
+|   4   | [[Confusion]]             | Enchantment   | C       |
+|   4   | [[Dimension Door]]        | Conjuration   | —       |
+|   4   | [[Fount of Moonlight]]    | Evocation     | C       |
+|   4   | [[Freedom of Movement]]   | Abjuration    | —       |
+|   4   | [[Greater Invisibility]]  | Illusion      | C       |
+|   4   | [[Hallucinatory Terrain]] | Illusion      | —       |
+|   4   | [[Locate Creature]]       | Divination    | C       |
+|   4   | [[Phantasmal Killer]]     | Illusion      | —       |
+|   4   | [[Polymorph]]             | Transmutation | C       |
+|   4   | [[Backlash]]              | Abjuration    | —       |
+|   4   | [[Doomtide]]              | Conjuration   | C       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School        | Special |
+| :---: | ------------------------ | ------------- | ------- |
+|   5   | [[Animate Objects]]      | Transmutation | C       |
+|   5   | [[Awaken]]               | Transmutation | M       |
+|   5   | [[Dominate Person]]      | Enchantment   | C       |
+|   5   | [[Dream]]                | Illusion      | —       |
+|   5   | [[Geas]]                 | Enchantment   | —       |
+|   5   | [[Greater Restoration]]  | Abjuration    | M       |
+|   5   | [[Hold Monster]]         | Enchantment   | C       |
+|   5   | [[Legend Lore]]          | Divination    | M       |
+|   5   | [[Mass Cure Wounds]]     | Abjuration    | —       |
+|   5   | [[Mislead]]              | Illusion      | C       |
+|   5   | [[Modify Memory]]        | Enchantment   | C       |
+|   5   | [[Mooncloak]]            | Abjuration    | C, M    |
+|   5   | [[Planar Binding]]       | Abjuration    | M       |
+|   5   | [[Raise Dead]]           | Necromancy    | M       |
+|   5   | [[Regal Presence]]       | Enchantment   | C       |
+|   5   | [[Scrying]]              | Divination    | C, M    |
+|   5   | [[Seeming]]              | Illusion      | —       |
+|   5   | [[Synaptic Static]]      | Enchantment   | —       |
+|   5   | [[Telepathic Bond]]      | Divination    | R       |
+|   5   | [[Teleportation Circle]] | Conjuration   | M       |
 
 
 ### Level 6 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
+| Level | Spell                   | School      | Special |
+| :---: | ----------------------- | ----------- | ------- |
+|   6   | [[Dirge]]               | Enchantment | C       |
+|   6   | [[Eyebite]]             | Necromancy  | C       |
+|   6   | [[Find the Path]]       | Divination  | C, M    |
+|   6   | [[Guards and Wards]]    | Abjuration  | M       |
+|   6   | [[Heroes' Feast]]       | Conjuration | M       |
+|   6   | [[Irresistible Dance]]  | Enchantment | C       |
+|   6   | [[Mass Suggestion]]     | Enchantment | —       |
+|   6   | [[Programmed Illusion]] | Illusion    | M       |
+|   6   | [[True Seeing]]         | Divination  | M       |
 
+
+
+WIP
 
 ### Level 7 Spells
 

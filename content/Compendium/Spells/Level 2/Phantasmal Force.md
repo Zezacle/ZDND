@@ -5,6 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/warlock/archfey-patron
+  - spell-list/warlock/great-old-one-patron
 school: Illusion
 spell_level: "2"
 ritual: false

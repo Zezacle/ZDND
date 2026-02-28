@@ -108,7 +108,7 @@ The number of spells on your list increases as you gain Bard levels, as shown in
 
 If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
-**Changing Your Prepared Spells.** Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
+**Changing Your Prepared Spells.** Whenever you complete a [[Long Rest]], you can replace one spell on your list with another Bard spell for which you have spell slots.
 
 **Spellcasting Ability.** Charisma is your spellcasting ability for your Bard spells.
 

@@ -10,6 +10,6 @@ Fouled potions and alchemical waste can give rise to Sewer Plague, which incubat
 
 **Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of [[Hit Points]] from spending [[Hit Point Dice]].
 
-**Restlessness.** While the creature has any Exhaustion levels, finishing a [[Long Rest]] neither restores lost Hit Points nor reduces the creature’s Exhaustion level.
+**Restlessness.** While the creature has any Exhaustion levels, finishing a [[Long Rest]] neither restores lost Hit Points nor reduces the creature's Exhaustion level.
 
-***Fighting the Contagion.*** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 Exhaustion level as its fatigue worsens. On a successful save, the creature’s Exhaustion level decreases by 1. If the creature’s Exhaustion level is reduced to 0, the contagion ends on the creature.
+***Fighting the Contagion.*** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 Exhaustion level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.

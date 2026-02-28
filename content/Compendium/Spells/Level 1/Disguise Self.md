@@ -5,6 +5,8 @@ tags:
   - spell-list/bard
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/cleric/trickery-domain
+  - spell-list/ranger/gloom-stalker
 school: Illusion
 spell_level: "1"
 ritual: false

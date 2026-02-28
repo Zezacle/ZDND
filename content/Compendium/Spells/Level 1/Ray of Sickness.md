@@ -3,6 +3,8 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/alchemist
+  - spell-list/druid/circle-of-the-land/tropical
 school: Necromancy
 spell_level: "1"
 ritual: false

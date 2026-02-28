@@ -12,4 +12,4 @@ Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which af
 
 ***Fighting the Contagion.*** At the end of each [[Long Rest]], an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
 
-***Spreading the Contagion.*** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can’t catch the contagion from that particular infected creature for the next 24 hours.
+***Spreading the Contagion.*** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.

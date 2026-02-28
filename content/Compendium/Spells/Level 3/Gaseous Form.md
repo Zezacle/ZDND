@@ -4,6 +4,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/artificer/alchemist
 school: Transmutation
 spell_level: "3"
 ritual: false

@@ -5,6 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/artificer/armorer
+  - spell-list/bard/college-of-glamour
 school: Illusion
 spell_level: "2"
 ritual: false

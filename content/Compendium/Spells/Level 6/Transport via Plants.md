@@ -1,14 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/druid
 school: Conjuration
 spell_level: "6"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Transport via Plants
-
 *Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action

@@ -1,14 +1,17 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
+  - spell-list/artificer/cartographer
 school: Conjuration
 spell_level: "5"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
 ---
-#### Teleportation Circle
-
 *Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 minute

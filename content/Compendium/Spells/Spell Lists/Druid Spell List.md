@@ -21,6 +21,8 @@ tags:
 |   0   | [[Shillelagh]]      | Transmutation | —       |
 |   0   | [[Spare the Dying]] | Necromancy    | —       |
 |   0   | [[Starry Wisp]]     | Evocation     | —       |
+|   0   | [[Thorn Whip]]      | Transmutation | —       |
+|   0   | [[Thunderclap]]     | Evocation     | —       |
 
 
 ### Level 1 Spells
@@ -89,44 +91,89 @@ tags:
 |   3   | [[Conjure Animals]]        | Conjuration   | C       |
 |   3   | [[Daylight]]               | Evocation     | —       |
 |   3   | [[Dispel Magic]]           | Abjuration    | —       |
-|   3   | [[Meld into Stone]]        | Transmutation | —       |
+|   3   | [[Feign Death]]            | Necromancy    | R       |
+|   3   | [[Meld into Stone]]        | Transmutation | R       |
 |   3   | [[Plant Growth]]           | Transmutation | —       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Revivify]]               | Necromancy    | M       |
 |   3   | [[Sleet Storm]]            | Conjuration   | C       |
 |   3   | [[Speak with Plants]]      | Transmutation | —       |
+|   3   | [[Spirit Viper]]           | Conjuration   | —       |
 |   3   | [[Summon Fey]]             | Conjuration   | C, M    |
 |   3   | [[Water Breathing]]        | Transmutation | R       |
 |   3   | [[Water Walk]]             | Transmutation | R       |
 |   3   | [[Wind Wall]]              | Evocation     | C       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                        | School        | Special |
+| :---: | ---------------------------- | ------------- | ------- |
+|   4   | [[Blight]]                   | Necromancy    | —       |
+|   4   | [[Charm Monster]]            | Enchantment   | —       |
+|   4   | [[Confusion]]                | Enchantment   | C       |
+|   4   | [[Conjure Minor Elementals]] | Conjuration   | C       |
+|   4   | [[Conjure Woodland Beings]]  | Conjuration   | C       |
+|   4   | [[Control Water]]            | Transmutation | C       |
+|   4   | [[Divination]]               | Divination    | R, M    |
+|   4   | [[Dominate Beast]]           | Enchantment   | C       |
+|   4   | [[Fire Shield]]              | Evocation     | —       |
+|   4   | [[Fount of Moonlight]]       | Evocation     | C       |
+|   4   | [[Freedom of Movement]]      | Abjuration    | —       |
+|   4   | [[Giant Insect]]             | Conjuration   | C       |
+|   4   | [[Grasping Vine]]            | Conjuration   | C       |
+|   4   | [[Hallucinatory Terrain]]    | Illusion      | —       |
+|   4   | [[Ice Storm]]                | Evocation     | —       |
+|   4   | [[Locate Creature]]          | Divination    | C       |
+|   4   | [[Polymorph]]                | Transmutation | C       |
+|   4   | [[Rasengan]]*                | Evocation     | C       |
+|   4   | [[Stone Shape]]              | Transmutation | —       |
+|   4   | [[Stoneskin]]                | Transmutation | C, M    |
+|   4   | [[Summon Elemental]]         | Conjuration   | C, M    |
+|   4   | [[Wall of Fire]]             | Evocation     | C       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                   | School        | Special |
+| :---: | ----------------------- | ------------- | ------- |
+|   5   | [[Antilife Shell]]      | Abjuration    | C       |
+|   5   | [[Awaken]]              | Transmutation | M       |
+|   5   | [[Commune with Nature]] | Divination    | R       |
+|   5   | [[Cone of Cold]]        | Evocation     | —       |
+|   5   | [[Conjure Elemental]]   | Conjuration   | C       |
+|   5   | [[Contagion]]           | Necromancy    | —       |
+|   5   | [[Elemental Suffusion]] | Transmutation | C, M    |
+|   5   | [[Geas]]                | Enchantment   | —       |
+|   5   | [[Greater Restoration]] | Abjuration    | M       |
+|   5   | [[Insect Plague]]       | Conjuration   | C       |
+|   5   | [[Mass Cure Wounds]]    | Abjuration    | —       |
+|   5   | [[Mooncloak]]           | Abjuration    | C, M    |
+|   5   | [[Planar Binding]]      | Abjuration    | M       |
+|   5   | [[Reincarnate]]         | Necromancy    | M       |
+|   5   | [[Scrying]]             | Divination    | C, M    |
+|   5   | [[Tree Stride]]         | Conjuration   | C       |
+|   5   | [[Wall of Stone]]       | Evocation     | C       |
 
 
 ### Level 6 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School        | Special |
+| :---: | ------------------------ | ------------- | ------- |
+|   6   | [[Conjure Fey]]          | Conjuration   | C       |
+|   6   | [[Effulgent Spheres]]    | Evocation     | M       |
+|   6   | [[Find the Path]]        | Divination    | C, M    |
+|   6   | [[Flesh to Stone]]       | Transmutation | C       |
+|   6   | [[Heal]]                 | Abjuration    | —       |
+|   6   | [[Heroes' Feast]]        | Conjuration   | M       |
+|   6   | [[Move Earth]]           | Transmutation | C       |
+|   6   | [[Sunbeam]]              | Evocation     | C       |
+|   6   | [[Transport via Plants]] | Conjuration   | —       |
+|   6   | [[Wall of Thorns]]       | Conjuration   | C       |
+|   6   | [[Wind Walk]]            | Transmutation | —       |
 
+
+WIP
 
 ### Level 7 Spells
 

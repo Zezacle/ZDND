@@ -1,4 +1,4 @@
-The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it’s part of a vast and glorious system.
+The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
 
 ### Level 3: Clockwork Spells
 
@@ -40,13 +40,13 @@ The ward lasts until you finish a [[Long Rest]] or until you use this feature ag
 
 ### Level 14: Trance of Order
 
-You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can’t benefit from [[Advantage]], and whenever you make a [[D20 Test]], you can treat a roll of 9 or lower on the d20 as a 10.
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [[Advantage]], and whenever you make a [[D20 Test]], you can treat a roll of 9 or lower on the d20 as a 10.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 ### Level 18: Clockwork Cavalcade
 
-You momentarily summon spirits of order to expunge disorder around you. As a [[Magic]] action, you summon the spirits in a 30-foot [[Cube]] originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [[Cube]] before vanishing. Once you use this action, you can’t use it again until you finish a [[Long Rest]] unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+You momentarily summon spirits of order to expunge disorder around you. As a [[Magic]] action, you summon the spirits in a 30-foot [[Cube]] originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [[Cube]] before vanishing. Once you use this action, you can't use it again until you finish a [[Long Rest]] unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
 **Heal.** The spirits restore up to 100 [[Hit Points]], divided as you choose among any number of creatures of your choice in the Cube.
 

@@ -8,6 +8,9 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-land/polar
+  - spell-list/paladin/oath-of-vengeance
+  - spell-list/ranger/winter-walker
 school: Enchantment
 spell_level: "2"
 ritual: false

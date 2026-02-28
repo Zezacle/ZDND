@@ -1,14 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/druid
 school: Necromancy
 spell_level: "5"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
 ---
-#### Reincarnate
-
 *Level 5 Necromancy (Druid)*
 
 **Casting Time:** 1 hour

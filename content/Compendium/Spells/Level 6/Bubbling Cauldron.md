@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/artificer/alchemist
 school: Conjuration
 spell_level: "6"
 ritual: false

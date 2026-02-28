@@ -4,6 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/ranger
   - concentration
+  - spell-list/artificer/artillerist
 school: Evocation
 spell_level: "3"
 ritual: false

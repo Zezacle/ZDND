@@ -6,6 +6,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/warlock/fiend-patron
 school: Enchantment
 spell_level: "2"
 ritual: false

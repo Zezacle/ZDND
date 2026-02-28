@@ -4,6 +4,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/wizard/abjurer
 school: Abjuration
 spell_level: "3"
 ritual: false

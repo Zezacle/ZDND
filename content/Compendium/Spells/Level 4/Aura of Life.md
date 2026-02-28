@@ -4,6 +4,7 @@ tags:
   - spell-list/cleric
   - spell-list/paladin
   - concentration
+  - spell-list/cleric/life-domain
 school: Abjuration
 spell_level: "4"
 ritual: false

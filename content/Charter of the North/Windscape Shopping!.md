@@ -58,6 +58,7 @@ Goji, the halfling merchant is known for taking requests for items that can be f
 - 1x [[Mystery Key]] - (50 GP)
 - 1x [[Lens of the Identifier]] - (200 GP)
 - 1x Ruby-adorned Monkey Statue - (400 GP)
+- 1x Spell Scroll of [[Rope Trick]] - (200 GP)
 
 
 ## Game Lodge's Artisans
@@ -95,7 +96,7 @@ The Game Lodge houses a number of leatherworkers, woodworkers and fletchers who 
 - [[Heavy Crossbow]] (75 GP) - 7 day commission
 - [[Sling]] (2 sp)
 - [[Shortbow]] (15 GP)
-- 1x [[Recurve Bow]] (45 GP) - 5 day commission
+- [[Recurve Bow]] (45 GP) - 5 day commission
 - [[Longbow]] (30 GP)
 - [[War Bow]] (75 GP) - 7 day commission
 

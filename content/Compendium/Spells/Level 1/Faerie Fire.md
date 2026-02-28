@@ -5,6 +5,9 @@ tags:
   - spell-list/bard
   - spell-list/druid
   - concentration
+  - spell-list/artificer/cartographer
+  - spell-list/cleric/light-domain
+  - spell-list/warlock/archfey-patron
 school: Evocation
 spell_level: "1"
 ritual: false

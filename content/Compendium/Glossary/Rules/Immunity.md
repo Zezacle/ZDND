@@ -4,4 +4,4 @@ tags:
 aliases:
   - Immunities
 ---
-If you have Immunity to a damage type or a condition, it doesn’t affect you in any way.
+If you have Immunity to a damage type or a condition, it doesn't affect you in any way.

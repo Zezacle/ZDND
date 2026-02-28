@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/wizard
   - concentration
+  - spell-list/sorcerer/aberrant-sorcery
 school: Conjuration
 spell_level: "4"
 ritual: false

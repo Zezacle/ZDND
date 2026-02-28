@@ -2,4 +2,4 @@
 tags:
   - skill
 ---
-Intelligence (History) allows you to recall lore about historical events, people, nations, and cultures.
+Intelligence ([[History]]) allows you to recall lore about historical events, people, nations, and cultures.

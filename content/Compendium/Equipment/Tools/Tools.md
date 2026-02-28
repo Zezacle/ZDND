@@ -2,7 +2,7 @@
 tags:
   - equipment/tool
 ---
-A tool helps you make specialized ability checks, craft certain items, or both. A tool’s description includes the tool’s cost and weight, as well as the following entries:
+A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
 
 ***Ability.*** This entry lists the ability to use when making an ability check with the tool.
 
@@ -13,7 +13,7 @@ A tool helps you make specialized ability checks, craft certain items, or both. 
 ***Variants.*** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
 
 ### Tool Proficiency
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that’s used with that check, you have [[Advantage]] on the check too. Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
+If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[Advantage]] on the check too. Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
 
 ## Crafting Nonmagical Items
 To craft a nonmagical item, you need tools, raw materials, and time, each of which is detailed below. If you meet the requirements, you make the item, and you can use it or sell it at its normal price.
@@ -29,7 +29,7 @@ To make an item, you need raw materials worth half its purchase cost (round down
 ### Time
 To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in GP by 10 (round a fraction up to a day). For example, you need 5 days to make a [[Heavy Crossbow]], which sells for 50 GP. 
 
-If an item requires multiple days, the days needn’t be consecutive. 
+If an item requires multiple days, the days needn't be consecutive. 
 
 Characters can combine their efforts to shorten the crafting time. Divide the time needed to create an item by the number of characters working on it. Normally, only one other character can assist you, but the GM might allow more assistants.
 
@@ -40,10 +40,10 @@ A character who has proficiency with the [[Herbalism Kit]] can create a *[[Potio
 A spellcaster can transfer a spell to a scroll and create a *[[Spell Scroll]]*.
 
 ### Time and Cost
-Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the Spell Scroll Costs table. For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn’t be consecutive.
+Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the Spell Scroll Costs table. For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn't be consecutive.
 
 ### Prerequisites for the Scribe
-To scribe a scroll, you must have proficiency in the [[Arcana]] skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll’s spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [[Arcana]] skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 ### Cantrips
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.

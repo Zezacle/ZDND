@@ -1,6 +1,8 @@
 ---
 tags:
   - equipment/ammunition
+aliases:
+  - Arrow
 ---
 **Cost:** 1 GP / 10 pack
 **Weight:** 1 lb. / 10 pack

@@ -5,6 +5,7 @@ tags:
   - spell-list/paladin
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/ranger/winter-walker
 school: Abjuration
 spell_level: "3"
 ritual: false

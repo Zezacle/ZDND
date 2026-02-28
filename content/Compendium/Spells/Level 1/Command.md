@@ -4,6 +4,10 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/paladin
+  - spell-list/bard/college-of-glamour
+  - spell-list/cleric/knowledge-domain
+  - spell-list/sorcerer/draconic-sorcery
+  - spell-list/warlock/fiend-patron
 school: Enchantment
 spell_level: "1"
 ritual: false

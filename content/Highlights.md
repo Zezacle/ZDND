@@ -29,7 +29,8 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 	- [[Dodge]]: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
 	- NEW [[Brace]]: Almost guarantee taking a hit, but reduce the damage and resist effects.
 - **BONUS ACTIONS**
-	- [[Disengage]]: Now a Bonus Action, deny [[Opportunity Attacks]] against you from one target of your choice. (Or more if you have special features)
+	- [[Dash]] as a Bonus Action: Gain additional Speed equal to half your normal Speed. (eg. 30ft -> 45ft)
+	- [[Disengage]] as a Bonus Action: Allows you to not provoke Opportunity Attacks from a single target.
 	- NEW [[Quick Toss]]: Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
 
 ## Excursion Resting (Campaign Specific)

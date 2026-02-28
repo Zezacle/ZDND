@@ -1,14 +1,18 @@
 ---
 tags:
   - spell
+  - spell-list/druid
+  - spell-list/sorcerer
+  - spell-list/wizard
+  - spell-list/artificer/artillerist
+  - spell-list/druid/circle-of-the-land/polar
+  - spell-list/ranger/winter-walker
 school: Evocation
 spell_level: "5"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Cone of Cold
-
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16,7 +20,7 @@ concentration: false
 **Components:** V, S, M (a small crystal or glass cone)
 **Duration:** Instantaneous
 
-You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a
+You unleash a blast of cold air. Each creature in a 60-foot [[Cone]] originating from you makes a
 
 Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 

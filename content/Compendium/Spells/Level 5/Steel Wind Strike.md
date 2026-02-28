@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/ranger
   - spell-list/wizard
+  - spell-list/cleric/war-domain
 school: Conjuration
 spell_level: "5"
 ritual: false

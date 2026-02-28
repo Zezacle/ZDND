@@ -96,7 +96,7 @@ You have learned to cast spells through prayer and meditation. The Information b
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional spells from the [[Paladin Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
+If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 
 **Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Paladin spell for which you have spell slots.
 
@@ -133,7 +133,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Level 3: Paladin Subclass
 
-You gain a Paladin Subclass of your choice: [[Oath of Devotion]], [[Oath of Glory]], [[Oath of the Ancients]], or [[Oath of Vengeance]]. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
+You gain a Paladin Subclass of your choice: [[Oath of Devotion]], [[Oath of Glory]], [[Oath of the Ancients]], or [[Oath of Vengeance]]. A Subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 
 | Paladin Oath (Subclass)      |                                           |
 | ---------------------------- | ----------------------------------------- |

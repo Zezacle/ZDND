@@ -5,6 +5,7 @@ tags:
   - spell-list/cleric
   - spell-list/druid
   - concentration
+  - spell-list/druid/circle-of-the-stars
 school: Divination
 spell_level: "0"
 ritual: false

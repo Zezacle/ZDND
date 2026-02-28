@@ -5,6 +5,7 @@ tags:
   - spell-list/ranger
   - spell-list/sorcerer
   - concentration
+  - spell-list/warlock/archfey-patron
 school: Enchantment
 spell_level: "4"
 ritual: false

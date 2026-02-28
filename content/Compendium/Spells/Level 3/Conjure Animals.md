@@ -4,6 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/ranger
   - concentration
+  - spell-list/druid/circle-of-the-moon
 school: Conjuration
 spell_level: "3"
 ritual: false

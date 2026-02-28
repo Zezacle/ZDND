@@ -4,7 +4,7 @@ A mix of burglar, treasure hunter, and explorer, you are the epitome of an adven
 
 As a Bonus Action, you can do one of the following.
 
-**Sleight of Hand.** Make a [[Sleight of Hand]] check to pick a lock or disarm a trap with [[Thieves' Tools ]]or to pick a pocket.
+**Sleight of Hand.** Make a [[Sleight of Hand]] check to pick a lock or disarm a trap with [[Thieves' Tools]] or to pick a pocket.
 
 **Use an Object.** Take the [[Utilize]] action, or take the [[Magic]] action to use a magic item that requires an action.
 
@@ -30,7 +30,7 @@ You've learned how to maximize use of magic items, granting you the following be
 
 **Charges.** Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
 
-**Scrolls.** You can use any [[Spell Scroll]], using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an [[Arcana]] check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+**Scrolls.** You have [[Advantage]] on [[Arcana]] checks to identify and understand [[Spell Scrolls]]. Studying a spell scroll takes half the time as usual.
 
 ### Level 17: Thief's Reflexes
 

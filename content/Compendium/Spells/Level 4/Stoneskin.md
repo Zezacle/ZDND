@@ -7,6 +7,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/paladin/oath-of-the-ancients
 school: Transmutation
 spell_level: "4"
 ritual: false

@@ -34,11 +34,12 @@ A potion's Toxicity usually follows its rarity, however some potions have higher
 #### Potion Toxicity Modifiers
 Some potions may have additional toxicity modifiers based on the potion's quality. These modifiers can stack. Negative modifiers can be removed one at a time using a [[Purify Food and Drink]] spell. A creature under the effects of [[Protection from Poison]] automatically succeeds on their saves to take less Toxicity when drinking a potion.
 
-| Toxicity | Modifier       |
-| -------- | -------------- |
-| +1       | Old            |
-| +2       | Poorly Quality |
-| -2       | Warded         |
+| Toxicity | Modifier     |
+| -------- | ------------ |
+| +1       | Old          |
+| +2       | Poor Quality |
+| -2       | Warded       |
+
 For example, an **Old and Poor Quality** [[Potion of Climbing]] would have a Toxicity value of 4 and a **Warded** [[Potion of Clairvoyance]] would have a Toxicity value of 2.
 
 ### Potion Sickness

@@ -10,7 +10,7 @@ Poisons come in the following four types:
 
 **Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. The DM may decide that a partial dose has a reduced effect, such as the affected creature having [[Advantage]] on the saving throw or taking only half as much damage on a failed save.
 
-**Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[Cube]] to its effect. The resulting cloud dissipates immediately afterward. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+**Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot [[Cube]] to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
 **Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.
 
@@ -18,4 +18,4 @@ Poisons come in the following four types:
 In some settings, laws prohibit the possession and use of poison, but an illicit dealer or unscrupulous apothecary might keep a hidden stash. Characters with criminal contacts might be able to acquire poison easily. Other characters might have to make extensive inquiries and pay bribes before they acquire the poison they seek.
 
 ### Harvesting Poison
-A character can attempt to harvest poison from a venomous creature that is dead or has the [[Incapacitated]] condition. The effort takes 1d6 minutes, after which the character makes a DC 20 [[Nature]] check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature’s poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [[Incapacitated]] condition. The effort takes 1d6 minutes, after which the character makes a DC 20 [[Nature]] check using a [[Poisoner's Kit]]. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.

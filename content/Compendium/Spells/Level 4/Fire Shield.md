@@ -4,6 +4,11 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/armorer
+  - spell-list/artificer/battle-smith
+  - spell-list/cleric/war-domain
+  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/warlock/fiend-patron
 school: Evocation
 spell_level: "4"
 ritual: false

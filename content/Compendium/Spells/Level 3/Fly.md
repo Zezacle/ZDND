@@ -6,6 +6,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/sorcerer/draconic-sorcery
 school: Transmutation
 spell_level: "3"
 ritual: false

@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/wizard
+  - spell-list/artificer/alchemist
 school: Evocation
 spell_level: "2"
 ritual: false

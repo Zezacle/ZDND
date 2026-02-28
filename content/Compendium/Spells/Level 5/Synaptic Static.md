@@ -1,6 +1,11 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/sorcerer
+  - spell-list/warlock
+  - spell-list/wizard
+  - spell-list/cleric/knowledge-domain
 school: Enchantment
 spell_level: "5"
 ritual: false

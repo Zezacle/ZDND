@@ -1,7 +1,7 @@
 ### Agonizing Blast
 _Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
-Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell’s damage rolls.
+Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
 
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
@@ -13,7 +13,7 @@ _Prerequisite: Level 5+ Warlock_
 
 You can cast [[Levitate]] on yourself without expending a spell slot.
 
-### Devil’s Sight
+### Devil's Sight
 _Prerequisite: Level 2+ Warlock_
 
 You can see normally in [[Dim Light]] and [[Darkness]]—both magical and nonmagical—within 60 feet of yourself.
@@ -41,14 +41,14 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
 ### Fiendish Vigor
 _Prerequisite: Level 2+ Warlock_
 
-You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
+You can cast [[False Life]] on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
 
 ### Gaze of Two Minds
 _Prerequisite: Level 5+ Warlock_
 
-You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.
+You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
-While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
+While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
 ### Gift of the Depths
 _Prerequisite: Level 5+ Warlock_
@@ -111,7 +111,7 @@ You can cast [[Silent Image]] without expending a spell slot.
 ### One with Shadows
 _Prerequisite: Level 5+ Warlock_
 
-While you’re in an area of [[Dim Light]] or [[Darkness]], you can cast [[Invisibility]] on yourself without expending a spell slot.
+While you're in an area of [[Dim Light]] or [[Darkness]], you can cast [[Invisibility]] on yourself without expending a spell slot.
 
 ### Otherworldly Leap
 _Prerequisite: Level 2+ Warlock_
@@ -119,11 +119,11 @@ _Prerequisite: Level 2+ Warlock_
 You can cast [[Jump]] on yourself without expending a spell slot.
 
 ### Pact of the Blade
-As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ### Pact of the Chain
 You learn the [[Find Familiar]] spell and can cast it as a [[Magic]] action without expending a spell slot.
@@ -135,7 +135,7 @@ Additionally, when you take the [[Attack]] action, you can forgo one of your own
 ### Pact of the Tome
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a [[Short Rest|Short]] or [[Long Rest]]. This _Book of Shadows_ (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
-**Cantrips and Rituals.** When the book appears, choose three cantrips, and choose two level 1 spells that have the [[Ritual]] tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+**Cantrips and Rituals.** When the book appears, choose three cantrips, and choose two level 1 spells that have the [[Ritual]] tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
 **Spellcasting Focus.** You can use the book as a Spellcasting Focus.
 

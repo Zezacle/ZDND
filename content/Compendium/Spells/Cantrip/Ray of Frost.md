@@ -4,6 +4,8 @@ tags:
   - spell-list/artificer
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/druid/circle-of-the-land/polar
+  - spell-list/druid/circle-of-the-sea
 school: Evocation
 spell_level: "0"
 ritual: false

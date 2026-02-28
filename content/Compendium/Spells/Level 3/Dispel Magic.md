@@ -10,6 +10,11 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/cleric/knowledge-domain
+  - spell-list/paladin/oath-of-devotion
+  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/wizard/abjurer
 school: Abjuration
 spell_level: "3"
 ritual: false

@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/artificer
   - spell-list/wizard
+  - spell-list/ranger/gloom-stalker
 school: Transmutation
 spell_level: "2"
 ritual: false

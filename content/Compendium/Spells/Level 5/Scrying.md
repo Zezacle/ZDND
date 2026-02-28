@@ -1,20 +1,28 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/druid
+  - spell-list/warlock
+  - spell-list/wizard
+  - concentration
+  - spell-list/artificer/cartographer
+  - spell-list/cleric/knowledge-domain
+  - spell-list/cleric/light-domain
+  - spell-list/paladin/oath-of-vengeance
 school: Divination
 spell_level: "5"
 ritual: false
-material_component: false
-concentration: false
+material_component: true
+concentration: true
 ---
-#### Scrying
-
 *Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes
 **Range:** Self
 **Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
-**Duration:** Concentration, up to 10 minutes
+**Duration:** [[Concentration]], up to 10 minutes
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
 
@@ -32,6 +40,6 @@ You can see and hear a creature you choose that is on the same plane of existenc
 
 On a successful save, the target isn't affected, and you can't use this spell on it again for 24 hours.
 
-On a failed save, the spell creates an Invisible, intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
+On a failed save, the spell creates an [[Invisible]], intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.

@@ -4,6 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/druid
   - spell-list/ranger
+  - spell-list/paladin/oath-of-the-ancients
+  - spell-list/warlock/archfey-patron
 school: Transmutation
 spell_level: "3"
 ritual: false

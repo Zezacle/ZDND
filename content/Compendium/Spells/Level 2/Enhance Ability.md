@@ -9,6 +9,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/paladin/oath-of-glory
 school: Transmutation
 spell_level: "2"
 ritual: false

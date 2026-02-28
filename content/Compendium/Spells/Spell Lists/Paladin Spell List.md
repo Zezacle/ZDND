@@ -11,6 +11,7 @@ tags:
 |   1   | [[Arcane Dash]]*                  | Conjuration   | —       |
 |   1   | [[Bless]]                         | Enchantment   | C, M    |
 |   1   | [[Command]]                       | Enchantment   | —       |
+|   1   | [[Compelled Duel]]                | Enchantment   | C       |
 |   1   | [[Cure Wounds]]                   | Abjuration    | —       |
 |   1   | [[Detect Good and Evil]]          | Divination    | C       |
 |   1   | [[Detect Magic]]                  | Divination    | C, R    |
@@ -22,6 +23,9 @@ tags:
 |   1   | [[Purify Food and Drink]]         | Transmutation | R       |
 |   1   | [[Searing Smite]]                 | Evocation     | —       |
 |   1   | [[Shield of Faith]]               | Abjuration    | C       |
+|   1   | [[Thunderous Smite]]              | Evocation     | —       |
+|   1   | [[Wardaway]]                      | Abjuration    | —       |
+|   1   | [[Wrathful Smite]]                | Necromancy    | —       |
 
 
 ### Level 2 Spells
@@ -47,6 +51,7 @@ tags:
 | Level | Spell                     | School      | Special |
 | :---: | ------------------------- | ----------- | ------- |
 |   3   | [[Aura of Vitality]]      | Abjuration  | C       |
+|   3   | [[Blinding Smite]]        | Evocation   | —       |
 |   3   | [[Create Food and Water]] | Conjuration | —       |
 |   3   | [[Crusader's Mantle]]     | Evocation   | C       |
 |   3   | [[Daylight]]              | Evocation   | —       |
@@ -57,20 +62,28 @@ tags:
 |   3   | [[Revivify]]              | Necromancy  | M       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                | School      | Special |
+| :---: | -------------------- | ----------- | ------- |
+|   4   | [[Aura of Life]]     | Abjuration  | C       |
+|   4   | [[Aura of Purity]]   | Abjuration  | C       |
+|   4   | [[Banishment]]       | Abjuration  | C       |
+|   4   | [[Death Ward]]       | Abjuration  | —       |
+|   4   | [[Locate Creature]]  | Divination  | C       |
+|   4   | [[Rasengan]]*        | Evocation   | C       |
+|   4   | [[Staggering Smite]] | Enchantment | —       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School      | Special |
+| :---: | ------------------------ | ----------- | ------- |
+|   5   | [[Banishing Smite]]      | Conjuration | C       |
+|   5   | [[Circle of Power]]      | Abjuration  | C       |
+|   5   | [[Destructive Wave]]     | Evocation   | —       |
+|   5   | [[Dispel Evil and Good]] | Abjuration  | C       |
+|   5   | [[Geas]]                 | Enchantment | —       |
+|   5   | [[Greater Restoration]]  | Abjuration  | M       |
+|   5   | [[Raise Dead]]           | Necromancy  | M       |
+|   5   | [[Summon Celestial]]     | Conjuration | C, M    |

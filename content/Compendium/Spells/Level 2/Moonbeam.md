@@ -3,6 +3,9 @@ tags:
   - spell
   - spell-list/druid
   - concentration
+  - spell-list/bard/college-of-the-moon
+  - spell-list/druid/circle-of-the-moon
+  - spell-list/paladin/oath-of-the-ancients
 school: Evocation
 spell_level: "2"
 ritual: false

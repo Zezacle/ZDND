@@ -5,6 +5,8 @@ tags:
   - spell-list/druid
   - spell-list/paladin
   - concentration
+  - spell-list/artificer/battle-smith
+  - spell-list/sorcerer/spellfire-sorcery
 school: Abjuration
 spell_level: "3"
 ritual: false

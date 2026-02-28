@@ -6,18 +6,20 @@ tags:
 
 ### Cantrips
 
-| Level | Spell               | School        | Special |
-| :---: | ------------------- | ------------- | ------- |
-|   0   | [[Calling Card]]*   | Transmutation | —       |
-|   0   | [[Close Wound]]*    | Abjuration    | —       |
-|   0   | [[Diabolism]]*      | Necromancy    | —       |
-|   0   | [[Emit Light]]      | Evocation     | —       |
-|   0   | [[Guidance]]        | Divination    | C       |
-|   0   | [[Mending]]         | Transmutation | —       |
-|   0   | [[Resist Damage]]   | Abjuration    | C       |
-|   0   | [[Sacred Flame]]    | Evocation     | —       |
-|   0   | [[Spare the Dying]] | Necromancy    | —       |
-|   0   | [[Thaumaturgy]]     | Transmutation | —       |
+| Level | Spell                | School        | Special |
+| :---: | -------------------- | ------------- | ------- |
+|   0   | [[Calling Card]]*    | Transmutation | —       |
+|   0   | [[Close Wound]]*     | Abjuration    | —       |
+|   0   | [[Diabolism]]*       | Necromancy    | —       |
+|   0   | [[Emit Light]]       | Evocation     | —       |
+|   0   | [[Guidance]]         | Divination    | C       |
+|   0   | [[Mending]]          | Transmutation | —       |
+|   0   | [[Resist Damage]]    | Abjuration    | C       |
+|   0   | [[Sacred Flame]]     | Evocation     | —       |
+|   0   | [[Spare the Dying]]  | Necromancy    | —       |
+|   0   | [[Thaumaturgy]]      | Transmutation | —       |
+|   0   | [[Toll the Dead]]    | Necromancy    | —       |
+|   0   | [[Word of Radiance]] | Evocation     | —       |
 
 
 ### Level 1 Spells
@@ -44,6 +46,7 @@ tags:
 |   1   | [[Purify Food and Drink]]         | Transmutation | R       |
 |   1   | [[Sanctuary]]                     | Abjuration    | —       |
 |   1   | [[Shield of Faith]]               | Abjuration    | C       |
+|   1   | [[Wardaway]]                      | Abjuration    | —       |
 
 
 
@@ -60,6 +63,7 @@ tags:
 |   2   | [[Enhance Ability]]        | Transmutation | C       |
 |   2   | [[Find Traps]]             | Divination    | —       |
 |   2   | [[Gentle Repose]]          | Necromancy    | R       |
+|   2   | [[Helpful Homunculi]]      | Conjuration   | R, M    |
 |   2   | [[Hold Person]]            | Enchantment   | C       |
 |   2   | [[Lesser Restoration]]     | Abjuration    | —       |
 |   2   | [[Locate Object]]          | Divination    | C       |
@@ -84,48 +88,84 @@ tags:
 |   3   | [[Create Food and Water]]  | Conjuration   | —       |
 |   3   | [[Daylight]]               | Evocation     | —       |
 |   3   | [[Dispel Magic]]           | Abjuration    | —       |
+|   3   | [[Feign Death]]            | Necromancy    | R       |
 |   3   | [[Glyph of Warding]]       | Abjuration    | M       |
 |   3   | [[Magic Circle]]           | Abjuration    | M       |
 |   3   | [[Mass Healing Word]]      | Abjuration    | —       |
-|   3   | [[Meld into Stone]]        | Transmutation | —       |
+|   3   | [[Meld into Stone]]        | Transmutation | R       |
 |   3   | [[Power Nap]]*             | Enchantment   | C       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Revivify]]               | Necromancy    | M       |
 |   3   | [[Sending]]                | Divination    | —       |
+|   3   | [[Silverstream]]           | Evocation     | M       |
 |   3   | [[Speak with Dead]]        | Necromancy    | —       |
 |   3   | [[Spirit Guardians]]       | Conjuration   | C       |
-|   3   | [[Tiny Hut]]               | Evocation     | —       |
+|   3   | [[Tiny Hut]]               | Evocation     | R       |
 |   3   | [[Tongues]]                | Divination    | —       |
 |   3   | [[Water Walk]]             | Transmutation | R       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                   | School        | Special |
+| :---: | ----------------------- | ------------- | ------- |
+|   4   | [[Aura of Life]]        | Abjuration    | C       |
+|   4   | [[Aura of Purity]]      | Abjuration    | C       |
+|   4   | [[Banishment]]          | Abjuration    | C       |
+|   4   | [[Control Water]]       | Transmutation | C       |
+|   4   | [[Death Ward]]          | Abjuration    | —       |
+|   4   | [[Divination]]          | Divination    | R, M    |
+|   4   | [[Doomtide]]            | Conjuration   | C       |
+|   4   | [[Freedom of Movement]] | Abjuration    | —       |
+|   4   | [[Guardian of Faith]]   | Conjuration   | —       |
+|   4   | [[Locate Creature]]     | Divination    | C       |
+|   4   | [[Rasengan]]*           | Evocation     | C       |
+|   4   | [[Stone Shape]]         | Transmutation | —       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
+| Level | Spell                    | School      | Special |
+| :---: | ------------------------ | ----------- | ------- |
+|   5   | [[Arcane Anchor]]*       | Enchantment | C       |
+|   5   | [[Circle of Power]]      | Abjuration  | C       |
+|   5   | [[Commune]]              | Divination  | R       |
+|   5   | [[Contagion]]            | Necromancy  | —       |
+|   5   | [[Dispel Evil and Good]] | Abjuration  | C       |
+|   5   | [[Flame Strike]]         | Evocation   | —       |
+|   5   | [[Geas]]                 | Enchantment | —       |
+|   5   | [[Greater Restoration]]  | Abjuration  | M       |
+|   5   | [[Hallow]]               | Abjuration  | M       |
+|   5   | [[Insect Plague]]        | Conjuration | C       |
+|   5   | [[Legend Lore]]          | Divination  | M       |
+|   5   | [[Mass Cure Wounds]]     | Abjuration  | —       |
+|   5   | [[Planar Binding]]       | Abjuration  | M       |
+|   5   | [[Raise Dead]]           | Necromancy  | M       |
+|   5   | [[Scrying]]              | Divination  | C, M    |
+|   5   | [[Summon Celestial]]     | Conjuration | C, M    |
 
 
 ### Level 6 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
+| Level | Spell              | School      | Special |
+| :---: | ------------------ | ----------- | ------- |
+|   6   | [[Blade Barrier]]  | Evocation   | C       |
+|   6   | [[Create Undead]]  | Necromancy  | M       |
+|   6   | [[Find the Path]]  | Divination  | C, M    |
+|   6   | [[Forbiddance]]    | Abjuration  | R, M    |
+|   6   | [[Harm]]           | Necromancy  | —       |
+|   6   | [[Heal]]           | Abjuration  | —       |
+|   6   | [[Heroes' Feast]]  | Conjuration | M       |
+|   6   | [[Planar Ally]]    | Conjuration | M       |
+|   6   | [[Sunbeam]]        | Evocation   | C       |
+|   6   | [[True Seeing]]    | Divination  | M       |
+|   6   | [[Word of Recall]] | Conjuration | —       |
+|   6   | [[Dirge]]          | Enchantment | C       |
 
+
+
+WIP
 
 ### Level 7 Spells
 

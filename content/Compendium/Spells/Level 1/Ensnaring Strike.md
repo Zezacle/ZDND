@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/ranger
   - concentration
+  - spell-list/paladin/oath-of-the-ancients
 school: Conjuration
 spell_level: "1"
 ritual: false

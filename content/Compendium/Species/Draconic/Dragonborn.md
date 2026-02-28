@@ -33,4 +33,4 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 **Damage Resistance.** You have [[Resistance]] to the damage type determined by your Draconic Ancestry trait.
 
-**Scaled Skin.** When not wearing [[Armor]], you have an [[Armor Class|AC]] equal to 10 + your Dexterity modifier + your Constitution modifier. If you are using a [[Shields|Shield]], you can apply the shield’s bonus as normal.
+**Scaled Skin.** When not wearing [[Armor]], you have an [[Armor Class|AC]] equal to 10 + your Dexterity modifier + your Constitution modifier. If you are using a [[Shields|Shield]], you can apply the shield's bonus as normal.

@@ -5,6 +5,9 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/armorer
+  - spell-list/artificer/artillerist
+  - spell-list/druid/circle-of-the-sea
 school: Evocation
 spell_level: "1"
 ritual: false

@@ -22,7 +22,7 @@ Goblins are a small and prolific race known for ambushing travelers and stealing
 
 **Goblin's Guile.** If you are not already proficient in either the [[Sleight of Hand]] and [[Intimidation]] skills, you have [[Half Proficiency]] in those skills.
 
-**Nimble Escape.** You can take the [[Hide]] action as a bonus action on each of your turns. Additionally, when you take the [[Disengage]] bonus action, you can choose up to 2 targets.
+**Nimble Escape.** You can take the [[Disengage]] or [[Hide]] action as a Bonus Action on each of your turns.
 
 **Cover for the Cunning.** [[Three-Quarters Cover]] grants you the benefits of Full Cover and [[Half Cover]] the benefits of [[Three-Quarters Cover]].
 

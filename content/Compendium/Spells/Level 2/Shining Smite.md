@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/paladin
   - concentration
+  - spell-list/artificer/battle-smith
 school: Transmutation
 spell_level: "2"
 ritual: false

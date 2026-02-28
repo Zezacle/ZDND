@@ -6,6 +6,8 @@ tags:
   - spell-list/paladin
   - spell-list/ranger
   - spell-list/sorcerer
+  - spell-list/cleric/light-domain
+  - spell-list/warlock/celestial-patron
 school: Evocation
 spell_level: "3"
 ritual: false

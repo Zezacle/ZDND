@@ -6,6 +6,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/bard/college-of-glamour
+  - spell-list/cleric/trickery-domain
+  - spell-list/ranger/fey-wanderer
 school: Enchantment
 spell_level: "1"
 ritual: false

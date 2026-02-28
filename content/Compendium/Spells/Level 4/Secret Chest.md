@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - spell-list/artificer
   - spell-list/wizard
 school: Conjuration
 spell_level: "4"
@@ -8,7 +9,7 @@ ritual: false
 material_component: true
 concentration: false
 ---
-*Level 4 Conjuration (Wizard)*
+*Level 4 Conjuration (Artificer, Wizard)*
 
 **Casting Time:** Action
 **Range:** Touch

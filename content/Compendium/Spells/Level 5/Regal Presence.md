@@ -3,6 +3,8 @@ tags:
   - spell
   - spell-list/bard
   - spell-list/wizard
+  - concentration
+  - spell-list/paladin/oath-of-glory
 school: Enchantment
 spell_level: "5"
 ritual: false

@@ -65,7 +65,7 @@ tags:
 
 ### Legendary Actions
 
-*Legendary Action Uses: 3 (4 in Lair). Immediately after another creature’s turn, the creature can expend a use to take one of the following actions. The creature regains all expended uses at the start of each of its turns.*
+*Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the creature can expend a use to take one of the following actions. The creature regains all expended uses at the start of each of its turns.*
 > [!checks|no-title]
 > -
 >  - [ ] %% %%
@@ -75,4 +75,4 @@ tags:
 
 - [-] ***Name.*** Description
 
-- [ ] ***Name.*** Description. The creature can’t take this action again until the start of its next turn.
+- [ ] ***Name.*** Description. The creature can't take this action again until the start of its next turn.

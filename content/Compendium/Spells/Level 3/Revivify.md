@@ -6,6 +6,8 @@ tags:
   - spell-list/druid
   - spell-list/paladin
   - spell-list/ranger
+  - spell-list/cleric/life-domain
+  - spell-list/warlock/celestial-patron
 school: Necromancy
 spell_level: "3"
 ritual: false

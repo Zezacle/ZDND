@@ -5,4 +5,4 @@ An Emanation is an area of effect that extends in straight lines from a creature
 
 An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
 
-An Emanation’s origin (creature or object) isn’t included in the area of effect unless its creator decides otherwise.
+An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.

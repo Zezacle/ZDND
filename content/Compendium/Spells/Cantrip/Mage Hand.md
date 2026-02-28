@@ -6,6 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/rogue/arcane-trickster
 school: Conjuration
 spell_level: "0"
 ritual: false

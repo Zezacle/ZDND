@@ -7,6 +7,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/paladin/oath-of-devotion
+  - spell-list/sorcerer/clockwork-sorcery
 school: Abjuration
 spell_level: "1"
 ritual: false

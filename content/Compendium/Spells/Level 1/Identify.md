@@ -4,6 +4,7 @@ tags:
   - spell-list/artificer
   - spell-list/bard
   - spell-list/wizard
+  - spell-list/cleric/knowledge-domain
 school: Divination
 spell_level: "1"
 ritual: true

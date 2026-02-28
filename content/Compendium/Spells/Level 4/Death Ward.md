@@ -3,6 +3,8 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
+  - spell-list/artificer/alchemist
+  - spell-list/cleric/life-domain
 school: Abjuration
 spell_level: "4"
 ritual: false

@@ -1,17 +1,18 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/bard
+  - spell-list/wizard
+  - spell-list/sorcerer/aberrant-sorcery
 school: Divination
 spell_level: "5"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---
-#### Telepathic Bond
-
 *Level 5 Divination (Bard, Wizard)*
 
-**Casting Time:** Action or Ritual
+**Casting Time:** Action or [[Ritual]]
 **Range:** 30 feet
 **Components:** V, S, M (two eggs)
 **Duration:** 1 hour

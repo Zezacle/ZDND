@@ -3,6 +3,10 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/artillerist
+  - spell-list/cleric/light-domain
+  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/warlock/fiend-patron
 school: Evocation
 spell_level: "2"
 ritual: false

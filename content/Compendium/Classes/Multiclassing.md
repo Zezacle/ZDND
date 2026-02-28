@@ -30,28 +30,28 @@ you have the Proficiency Bonus of a level 5 character, which is +3.
 Proficiencies
 When you gain your first level in a class other than
 your initial class, you gain only some of the new
-class’s starting proficiencies, as detailed in each
-class’s description in “Classes.”
+class's starting proficiencies, as detailed in each
+class's description in “Classes.”
 Class Features
 When you gain a new level in a class, you get its features for that level. A few features have additional
-rules when you’re multiclassing. Check the information about multiclassing included in each of your
-classes’ descriptions.
+rules when you're multiclassing. Check the information about multiclassing included in each of your
+classes' descriptions.
 Special rules apply to Extra Attack, Spellcasting,
 and features (such as Unarmored Defense) that give
 you alternative ways to calculate your Armor Class.
 Armor Class
 If you have multiple ways to calculate your Armor
 Class, you can benefit from only one at a time.
-For example, a Monk/Sorcerer with a Monk’s
-Unarmored Defense feature and a Sorcerer’s Draconic Resilience feature must choose only one of
+For example, a Monk/Sorcerer with a Monk's
+Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of
 those features as a way to calculate Armor Class.
 Extra Attack
 If you gain the Extra Attack feature from more than
-one class, the features don’t stack. You can’t make
+one class, the features don't stack. You can't make
 more than two attacks with this feature unless you
-have a feature that says you can (such as the Fighter’s Two Extra Attacks feature).
-Similarly, the Warlock’s Thirsting Blade invocation, which grants you the Extra Attack feature
-with your pact weapon, doesn’t give you additional
+have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
+Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature
+with your pact weapon, doesn't give you additional
 attacks if you also have Extra Attack.
 Spellcasting
 Your capacity for spellcasting depends partly on

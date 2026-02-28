@@ -3,6 +3,9 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/armorer
+  - spell-list/druid/circle-of-the-land/temperate
+  - spell-list/druid/circle-of-the-sea
 school: Evocation
 spell_level: "3"
 ritual: false

@@ -4,6 +4,9 @@ tags:
   - spell-list/artificer
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/knowledge-domain
+  - spell-list/cleric/light-domain
+  - spell-list/sorcerer/draconic-sorcery
 school: Divination
 spell_level: "4"
 ritual: false

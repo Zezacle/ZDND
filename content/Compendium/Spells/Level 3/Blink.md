@@ -4,6 +4,7 @@ tags:
   - spell-list/artificer
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/warlock/archfey-patron
 school: Transmutation
 spell_level: "3"
 ritual: false

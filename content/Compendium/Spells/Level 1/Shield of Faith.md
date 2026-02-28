@@ -4,6 +4,8 @@ tags:
   - spell-list/cleric
   - spell-list/paladin
   - concentration
+  - spell-list/cleric/war-domain
+  - spell-list/paladin/oath-of-devotion
 school: Abjuration
 spell_level: "1"
 ritual: false

@@ -14,4 +14,4 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 If you land in [[Difficult Terrain]], you must succeed on a DC 10 Dexterity ([[Acrobatics]]) check or have the [[Prone]] condition.
 
-This Long Jump rule assumes that the height of the jump doesn’t matter, such as a jump across a stream or chasm. At your DM’s option, you must succeed on a DC 10 Strength ([[Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
+This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([[Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle.

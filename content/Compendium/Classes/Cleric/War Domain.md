@@ -4,7 +4,7 @@ Gods of the War Domain watch over warriors and reward them for their great deeds
 
 ### Level 3: Guided Strike
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature’s attack roll, you must take a Reaction to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a Reaction to do so.
 
 ### Level 3: War Domain Spells
 
@@ -26,9 +26,9 @@ You can use this Bonus Action a number of times equal to your Wisdom modifier (m
 
 Additionally, when you take the bonus action [[Quick Toss]] or use the [[Quick]] weapon property, you ignore the [[Disadvantage]] applied by those actions.
 
-### Level 6: War God’s Blessing
+### Level 6: War God's Blessing
 
-You can expend a use of your Channel Divinity to cast [[Shield of Faith]] or [[Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn’t require [[Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
+You can expend a use of your Channel Divinity to cast [[Shield of Faith]] or [[Spiritual Weapon]] rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [[Concentration]]. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [[Incapacitated]] condition, or die.
 
 ### Level 6: War God's Knowledge
 

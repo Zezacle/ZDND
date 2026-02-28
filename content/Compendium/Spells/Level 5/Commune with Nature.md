@@ -1,17 +1,19 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/druid
+  - spell-list/ranger
+  - spell-list/barbarian/path-of-the-wild-heart
+  - spell-list/paladin/oath-of-the-ancients
 school: Divination
 spell_level: "5"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---
-#### Commune with Nature
-
 *Level 5 Divination (Druid, Ranger)*
 
-**Casting Time:** 1 minute or Ritual
+**Casting Time:** 1 minute or [[Ritual]]
 **Range:** Self
 **Components:** V, S
 **Duration:** Instantaneous

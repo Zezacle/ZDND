@@ -5,13 +5,15 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-land/tropical
+  - spell-list/warlock/fiend-patron
 school: Conjuration
 spell_level: "3"
 ritual: false
 material_component: false
 concentration: true
 ---
-*Level 3 Conjuration (Bard, Sorcerer, Wizard)*
+fi*Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
 **Range:** 90 feet

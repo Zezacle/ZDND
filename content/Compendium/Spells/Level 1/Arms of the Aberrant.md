@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/warlock
+  - spell-list/sorcerer/aberrant-sorcery
 school: Conjuration
 spell_level: "1"
 ritual: false

@@ -1,14 +1,13 @@
 ---
 tags:
   - spell
+  - spell-list/cleric
 school: Conjuration
 spell_level: "6"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
 ---
-#### Planar Ally
-
 *Level 6 Conjuration (Cleric)*
 
 **Casting Time:** 10 minutes

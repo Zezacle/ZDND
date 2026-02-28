@@ -4,6 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/ranger/winter-walker
 school: Conjuration
 spell_level: "1"
 ritual: false

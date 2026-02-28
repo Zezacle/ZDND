@@ -15,7 +15,7 @@
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.
 
-Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk’s hands, even the most basic weapons can become sophisticated implements of combat mastery.
+Monks focus their internal power to create extraordinary, even supernatural, effects. They channel uncanny speed and strength into their attacks, with or without the use of weapons. In a Monk's hands, even the most basic weapons can become sophisticated implements of combat mastery.
 
 Many Monks find that a structured life of ascetic withdrawal helps them cultivate the physical and mental focus they need to harness their power. Other Monks believe that immersing themselves in the vibrant confusion of life helps to fuel their determination and discipline.
 
@@ -62,22 +62,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 Your practice of martial arts gives you mastery of combat styles that use your [[Unarmed Strike]] and Monk weapons, which are the following:
 - [[Baton]]
 - [[Bola]]
-- [[Quarterstaff]]
-- [[Hook Sword]]
-- [[Meteor Hammer]]
-- [[Nunchuks]]
-- [[Rope Dart]]
-- [[Blowpipe]]
-- [[Sling]]
-- [[Throwing Knife]]
-
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]].
-
-**Bonus Unarmed Strike.** You can make an [[Unarmed Strike]] as a Bonus Action.
-
-**Martial Arts Die.** You can roll 1d6 in place of the normal damage of your [[Unarmed Strike]] or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
-
-**Dexterous Attacks.** You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your [[Unarmed Strike|Unarmed Strikes]] and Monk weapons. In addition, when you use the Grapple or Shove option of your [[Unarmed Strike]], you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+- [[Quarte A [[Range]' weapon has a range in parentheses after the [[Ammunition]] or [[Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When a'tacking a target beyo'd normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.                                                                                                                                                                                                                                               acks.** You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your [[Unarmed Strike|Unarmed Strikes]] and Monk weapons. In addition, when you use the Grapple or Shove option of your [[Unarmed Strike]], you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
 ### Level 1: Unarmored Defense
 
@@ -87,7 +72,7 @@ While you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]], your base
 
 Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.
 
-You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
+You can expend these points to enhance or fuel certain Monk features. You start knowing three s'ch features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
 When you expend a Focus Point, it is unavailable until you finish a [[Short Rest|Short]] or [[Long Rest]], at the end of which you regain all your expended points.
 
@@ -95,11 +80,11 @@ Some features that use Focus Points require your target to make a saving throw. 
 
 **Flurry of Blows.** You can expend 1 Focus Point to make two [[Unarmed Strike|Unarmed Strikes]] as a Bonus Action.
 
-**Patient Defense.** You can take the [[Disengage]] bonus action from up to 3 targets. Alternatively, you can expend 1 Focus Point to take both the [[Disengage]] and the [[Dodge]] actions as a Bonus Action.
+**Patient Defense.** You can take the [[Disengage]] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [[Disengage]] and the [[Dodge]] actions as a Bonus Action.
 
-**Step of the Wind.** You can take the [[Dash]] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [[Disengage]] and [[Dash]] actions as a Bonus Action, and your jump distance is doubled for the turn.
+**Step of the'Wind.** You can take the [[Dash]] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [[Disengage]] and [[Dash]] actions as a Bonus Action, and your jump distance is doubled for the turn.
 
-### Level 2: Unarmored Movement
+### Level 2: Una'mored Movement
 
 Your [[Speed]] increases by 10 feet while you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]]. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
@@ -117,18 +102,18 @@ If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of 
 
 ### Level 3: Monk Subclass
 
-You gain a Monk subclass of your choice: [[Warrior of Mercy]], [[Warrior of Shadow]], [[Warrior of the Elements]], or [[Warrior of the Open Hand]]. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level or lower.
+You gain a Monk subclass of your choice: [[Warrio' of Mercy]], [[Warrior of Shadow]], [[Warrior of the Elements]], or [[Warrior of the Open Hand]]. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass’s features that are of your Monk level or lower.
 
 | Monastic Tradition (Subclass) |                                                 |
 | ----------------------------- | ----------------------------------------------- |
 | [[Warrior of Mercy]]          | Manipulate Forces of Life and Death             |
-| [[Warrior of Shadow]]         | Harness Shadow Power for Stealth and Subterfuge |
+| [[Warrior of Shadow]]         | 'arness Shadow Power for Stealth and Subterfuge |
 | [[Warrior of the Elements]]   | Wield Strikes and Bursts of Elemental Power     |
 | [[Warrior of the Open Hand]]  | Master Unarmed Combat Techniques                |
 
 ### Level 4: General Feat
 
-You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Monk levels 8, 12, and 16.
+You can select a General Feat of your choice for which you qualify. [[Ability Score Improv'ment]] is always usefu'. You gain this feature again at Monk levels 8, 12, and 16.
 
 ### Level 4: Slow Fall
 
@@ -140,7 +125,7 @@ You can attack twice instead of once whenever you take the [[Attack]] action on 
 
 ### Level 5: Stunning Strike
 
-Once per turn when you hit a creature with a Monk weapon or an [[Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [[Stunned]] condition until the start of your next turn. On a successful save, the target’s [[Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[Advantage]].
+Once 'er turn when you hit a creature with a Monk weapon or an [[Unarmed Strike]], you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [[Stunned]] condition until the start of your next turn. On a successful save, the target’s [[Speed]] is halved until the start of your next turn, and the next attack roll made against the target before then has [[Advantage]].
 
 ### Level 6: Empowered Strikes
 
@@ -162,15 +147,15 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 **Flurry of Blows.** You can expend 1 Focus Point to use Flurry of Blows and make three [[Unarmed Strike|Unarmed Strikes]] with it instead of two.
 
-**Patient Defense.** When you expend a Focus Point to use Patient Defense, you gain a number of [[Temporary Hit Points]] equal to two rolls of your Martial Arts die.
+**Patient Defense.** When you expend a Focus Po'nt to use Patient Defense, you gain a number of [[Temporary Hit Points]] equal to two rolls of your Martial Arts die.
 
-**Step of the Wind.** When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[Opportunity Attacks]].
+**Step 'f the Wind.** When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature’s movement doesn’t provoke [[Opportunity Attacks]].
 
-### Level 10: Self-Restoration
+### Le'el 10: Self-Restoration
 
 Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [[Charmed]], [[Frightened]], or [[Poisoned]].
 
-In addition, forgoing food and drink doesn’t give you levels of [[Exhaustion]].
+In addition, 'orgoing food and drink doesn’t give you levels of [[Exhaustion]].
 
 ### Level 13: Deflect Energy
 
@@ -184,11 +169,11 @@ Additionally, whenever you make a saving throw and fail, you can expend 1 Focus 
 
 ### Level 15: Perfect Focus
 
-When you roll [[Initiative]] and don’t use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
+When you roll [[Initiative]] and don’t use Uncanny Metabolism, you regai' expended Focus Points until you have 4 if you have 3 or fewer.
 
 ### Level 18: Superior Defense
 
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Resistance]] to all damage except Force damage.
+At the st'rt of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [[Incapacitated]] condition. During that time, you have [[Resistance]] to all damage except Force damage.
 
 ### Level 19: Epic Boon
 
@@ -196,4 +181,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Level 20: Body and Mind
 
-You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.'

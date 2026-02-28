@@ -2,6 +2,8 @@
 tags:
   - spell
   - spell-list/paladin
+  - concentration
+  - spell-list/artificer/battle-smith
 school: Conjuration
 spell_level: "5"
 ritual: false

@@ -7,6 +7,10 @@ tags:
   - spell-list/druid
   - spell-list/paladin
   - spell-list/ranger
+  - spell-list/cleric/life-domain
+  - spell-list/paladin/oath-of-devotion
+  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/warlock/celestial-patron
 school: Abjuration
 spell_level: "2"
 ritual: false

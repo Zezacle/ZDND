@@ -6,6 +6,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/artificer/cartographer
+  - spell-list/warlock/great-old-one-patron
 school: Divination
 spell_level: "3"
 ritual: false

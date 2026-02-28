@@ -5,6 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/monk/warrior-of-shadow
+  - spell-list/wizard/illusionist
 school: Illusion
 spell_level: "0"
 ritual: false

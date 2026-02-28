@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/armorer
 school: Evocation
 spell_level: "1"
 ritual: false

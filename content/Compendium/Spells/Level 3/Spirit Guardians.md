@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - concentration
+  - spell-list/cleric/war-domain
 school: Conjuration
 spell_level: "3"
 ritual: false

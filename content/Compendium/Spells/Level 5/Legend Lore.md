@@ -1,14 +1,18 @@
 ---
 tags:
   - spell
+  - spell-list/bard
+  - spell-list/cleric
+  - spell-list/wizard
+  - spell-list/cleric/knowledge-domain
+  - spell-list/paladin/oath-of-glory
+  - spell-list/sorcerer/draconic-sorcery
 school: Divination
 spell_level: "5"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
 ---
-#### Legend Lore
-
 *Level 5 Divination (Bard, Cleric, Wizard)*
 
 **Casting Time:** 10 minutes

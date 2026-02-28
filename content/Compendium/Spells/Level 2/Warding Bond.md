@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
+  - spell-list/artificer/battle-smith
 school: Abjuration
 spell_level: "2"
 ritual: false

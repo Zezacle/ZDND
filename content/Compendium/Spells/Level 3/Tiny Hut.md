@@ -8,7 +8,7 @@ tags:
   - spell-list/wizard
 school: Evocation
 spell_level: "3"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---

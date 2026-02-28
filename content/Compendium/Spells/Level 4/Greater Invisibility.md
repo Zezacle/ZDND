@@ -5,6 +5,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/artificer/armorer
+  - spell-list/ranger/gloom-stalker
+  - spell-list/warlock/archfey-patron
 school: Illusion
 spell_level: "4"
 ritual: false

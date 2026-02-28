@@ -12,4 +12,4 @@ You gain the following benefits.
 
 **Attack Advantage.** You have [[Advantage]] on attack rolls against a creature [[Grappled]] by you.
 
-**Fast Wrestler.** You don’t have to spend extra movement to move a creature [[Grappled]] by you if the creature is your size or smaller.
+**Fast Wrestler.** You don't have to spend extra movement to move a creature [[Grappled]] by you if the creature is your size or smaller.

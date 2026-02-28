@@ -5,6 +5,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-land/arid
 school: Illusion
 spell_level: "2"
 ritual: false

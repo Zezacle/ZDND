@@ -2,4 +2,4 @@
 tags:
   - skill
 ---
-Dexterity (Acrobatics) allows you to stay on your feet in a tricky situation, or perform an acrobatic stunt.
+Dexterity ([[Acrobatics]]) allows you to stay on your feet in a tricky situation, or perform an acrobatic stunt.

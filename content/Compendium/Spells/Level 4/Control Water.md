@@ -5,6 +5,7 @@ tags:
   - spell-list/druid
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-sea
 school: Transmutation
 spell_level: "4"
 ritual: false

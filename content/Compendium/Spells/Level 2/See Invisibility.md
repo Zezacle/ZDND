@@ -5,6 +5,7 @@ tags:
   - spell-list/bard
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/cleric/light-domain
 school: Divination
 spell_level: "2"
 ritual: false

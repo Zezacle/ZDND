@@ -6,7 +6,7 @@ You always have the [[Charm Person]] and [[Mirror Image]] spells prepared.
 
 In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [[Charmed]] or [[Frightened]] condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-Once you use this benefit, you can’t use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
+Once you use this benefit, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
 
 ### Level 3: Mantle of Inspiration
 
@@ -20,7 +20,7 @@ As a Bonus Action, you cast [[Command]] without expending a spell slot, and you 
 
 Any creature [[Charmed]] by you automatically fails its saving throw against the [[Command]] you cast with this feature.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 3+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 3+ spell slot (no action required).
 
 ### Level 14: Unbreakable Majesty
 

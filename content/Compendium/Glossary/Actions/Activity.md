@@ -5,7 +5,7 @@ tags:
 aliases:
   - Activities
 ---
-At the start of a [[Stretch]] (10 minutes), each player starts an [[Activity]]. The DM asks each player what Activity they're taking, or uses a player's description of their character's actions to approximate what Activity they're engaged in.
+While in [[Dungeon Time]], at the start of a [[Stretch]] (10 minutes), each player starts an [[Activity]]. The DM asks each player what Activity they're taking, or uses a player's description of their character's actions to approximate what Activity they're engaged in.
 
 Player characters can take one of the following Activities while exploring. 
 
@@ -57,8 +57,8 @@ You spend 10 minutes searching a small room or an area no larger than 50 feet in
 
 #### Take Your Time
 
-You spend the next 10 minutes taking an [[Actions|Action]].
+You spend the next 10 minutes taking an Action.
 - **Taking 20.** You get a 20 on your next [[D20 Test]]. If that check would've had [[Disadvantage]], you instead get a +5 to the result.
-- **Replace Failure.** When you take an Action to make an ability check and fail, you can instead spend 10 minutes doing it as an Activity.
+- **Replace Failure.** When you take an Action to make an ability check and fail, you can instead spend 10 minutes doing it as an [[Activity]].
 
 *[Shamelessly stolen from Mystic Arts on YouTube.](https://www.youtube.com/watch?v=zyl73XLJWhE)*

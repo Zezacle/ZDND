@@ -1,22 +1,21 @@
 ---
 tags:
-  - spell
+  - spell/ritual
+  - spell-list/cleric
 school: Abjuration
 spell_level: "6"
-ritual: false
-material_component: false
+ritual: true
+material_component: true
 concentration: false
 ---
-#### Forbiddance
-
 *Level 6 Abjuration (Cleric)*
 
-**Casting Time:** 10 minutes or Ritual
+**Casting Time:** 10 minutes or [[Ritual]]
 **Range:** Touch
 **Components:** V, S, M (ruby dust worth 1,000+ GP)
 **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the *Gate* spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the *Plane Shift* spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the [[Gate]] spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [[Plane Shift]] spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes 5d10 Radiant or Necrotic damage (your choice when you cast this spell).
 

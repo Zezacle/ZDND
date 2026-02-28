@@ -6,6 +6,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/knowledge-domain
+  - spell-list/cleric/trickery-domain
+  - spell-list/warlock/great-old-one-patron
 school: Enchantment
 spell_level: "4"
 ritual: false

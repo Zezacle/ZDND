@@ -6,6 +6,7 @@ tags:
   - spell-list/ranger
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/druid/circle-of-the-sea
 school: Transmutation
 spell_level: "3"
 ritual: true

@@ -6,6 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/druid/circle-of-the-land/tropical
 school: Transmutation
 spell_level: "4"
 ritual: false

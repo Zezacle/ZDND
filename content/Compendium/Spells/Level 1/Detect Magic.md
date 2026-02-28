@@ -11,6 +11,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/knowledge-domain
 school: Divination
 spell_level: "1"
 ritual: true

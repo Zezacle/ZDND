@@ -5,6 +5,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - spell-list/druid/circle-of-the-land/arid
 school: Necromancy
 spell_level: "4"
 ritual: false

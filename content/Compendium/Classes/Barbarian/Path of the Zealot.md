@@ -6,7 +6,7 @@ You can channel divine power into your strikes. On each of your turns while your
 
 ### Level 3: Warrior of the Gods
 
-A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a Bonus Action, you can expend dice from the pool, roll them, and regain a number of [[Hit Points]] equal to the roll’s total.
+A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a Bonus Action, you can expend dice from the pool, roll them, and regain a number of [[Hit Points]] equal to the roll's total.
 
 Your pool regains all expended dice when you finish a [[Long Rest]].
 
@@ -20,7 +20,7 @@ Once per active Rage, if you fail a saving throw, you can reroll it with a bonus
 
 As a Bonus Action, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain [[Advantage]] on attack rolls and saving throws until the start of your next turn.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [[Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
 
 ### Level 14: Rage of the Gods
 
@@ -32,4 +32,4 @@ While in this form, you gain the benefits below.
 
 **Resistance.** You have [[Resistance]] to Necrotic, Psychic, and Radiant damage.
 
-**Revivification.** When a creature within 30 feet of you would drop to 0 [[Hit Points]], you can take a Reaction to expend a use of your Rage to instead change the target’s [[Hit Points]] to a number equal to your Barbarian level.
+**Revivification.** When a creature within 30 feet of you would drop to 0 [[Hit Points]], you can take a Reaction to expend a use of your Rage to instead change the target's [[Hit Points]] to a number equal to your Barbarian level.

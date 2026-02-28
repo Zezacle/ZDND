@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/cleric
+  - spell-list/warlock/celestial-patron
 school: Evocation
 spell_level: "0"
 ritual: false

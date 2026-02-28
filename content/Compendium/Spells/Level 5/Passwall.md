@@ -1,14 +1,14 @@
 ---
 tags:
   - spell
+  - spell-list/wizard
+  - spell-list/artificer/armorer
 school: Transmutation
 spell_level: "5"
 ritual: false
 material_component: false
 concentration: false
 ---
-#### Passwall
-
 *Level 5 Transmutation (Wizard)*
 
 **Casting Time:** Action

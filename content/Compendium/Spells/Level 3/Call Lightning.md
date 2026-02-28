@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/druid
   - concentration
+  - spell-list/artificer/cartographer
 school: Conjuration
 spell_level: "3"
 ritual: false

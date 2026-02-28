@@ -10,6 +10,7 @@ tags:
 | :---: | ---------------------- | ------------- | ------- |
 |   0   | [[Acid Splash]]        | Evocation     | —       |
 |   0   | [[Banker's Exchange]]* | Transmutation | —       |
+|   0   | [[Blade Ward]]         | Abjuration    | C       |
 |   0   | [[Calling Card]]*      | Transmutation | —       |
 |   0   | [[Card Throw]]*        | Evocation     | —       |
 |   0   | [[Chill Touch]]        | Necromancy    | —       |
@@ -18,9 +19,11 @@ tags:
 |   0   | [[Elementalism]]       | Transmutation | —       |
 |   0   | [[Emit Light]]         | Evocation     | —       |
 |   0   | [[Fire Bolt]]          | Evocation     | —       |
+|   0   | [[Friends]]            | Enchantment   | C       |
 |   0   | [[Mage Hand]]          | Conjuration   | —       |
 |   0   | [[Mending]]            | Transmutation | —       |
 |   0   | [[Message]]            | Transmutation | —       |
+|   0   | [[Mind Sliver]]        | Enchantment   | —       |
 |   0   | [[Minor Illusion]]     | Illusion      | —       |
 |   0   | [[Origami]]*           | Transmutation | —       |
 |   0   | [[Poison Spray]]       | Necromancy    | —       |
@@ -28,8 +31,9 @@ tags:
 |   0   | [[Ray of Frost]]       | Evocation     | —       |
 |   0   | [[Shocking Grasp]]     | Evocation     | —       |
 |   0   | [[Summon Seat]]*       | Conjuration   | —       |
+|   0   | [[Thunderclap]]        | Evocation     | —       |
+|   0   | [[Toll the Dead]]      | Necromancy    | —       |
 |   0   | [[True Strike]]        | Divination    | —       |
-|   0   | [[Mind Sliver]]        | Enchantment   | —       |
 
 ### Level 1 Spells
 
@@ -49,7 +53,7 @@ tags:
 |   1   | [[Detect Magic]]                  | Divination    | C, R    |
 |   1   | [[Disguise Self]]                 | Illusion      | —       |
 |   1   | [[Expeditious Retreat]]           | Transmutation | C       |
-|   1   | [[False Life]]                    | Necromancy    | –       |
+|   1   | [[False Life]]                    | Necromancy    | —       |
 |   1   | [[Feather Fall]]                  | Transmutation | —       |
 |   1   | [[Find Familiar]]                 | Conjuration   | R, M    |
 |   1   | [[Floating Disk]]                 | Conjuration   | R       |
@@ -68,9 +72,11 @@ tags:
 |   1   | [[Ray of Sickness]]               | Necromancy    | —       |
 |   1   | [[Silent Image]]                  | Illusion      | C       |
 |   1   | [[Sleep]]                         | Enchantment   | C       |
+|   1   | [[Spellfire Flare]]               | Evocation     | —       |
 |   1   | [[Thunderwave]]                   | Evocation     | —       |
 |   1   | [[Tongue Tied]]*                  | Enchantment   | C       |
 |   1   | [[Unseen Servant]]                | Conjuration   | R       |
+|   1   | [[Wardaway]]                      | Abjuration    | —       |
 |   1   | [[Witch Bolt]]                    | Evocation     | C       |
 
 ### Level 2 Spells
@@ -81,19 +87,25 @@ tags:
 |   2   | [[Acid Arrow]]            | Evocation     | —       |
 |   2   | [[Alter Self]]            | Transmutation | C       |
 |   2   | [[Arcane Lock]]           | Abjuration    | M       |
+|   2   | [[Arcane Vigor]]          | Abjuration    | —       |
 |   2   | [[Arcanist's Magic Aura]] | Illusion      | —       |
 |   2   | [[Augury]]                | Divination    | R, M    |
 |   2   | [[Blindness + Deafness]]  | Transmutation | —       |
 |   2   | [[Blur]]                  | Illusion      | C       |
+|   2   | [[Cloud of Daggers]]      | Conjuration   | C       |
 |   2   | [[Continual Flame]]       | Evocation     | M       |
+|   2   | [[Crown of Madness]]      | Enchantment   | C       |
+|   2   | [[Death Armor]]           | Necromancy    | M       |
 |   2   | [[Detect Thoughts]]       | Divination    | C       |
 |   2   | [[Dragon's Breath]]       | Transmutation | C       |
+|   2   | [[Elusion]]               | Abjuration    | C       |
 |   2   | [[Emit Darkness]]         | Evocation     | C       |
 |   2   | [[Enhance Ability]]       | Transmutation | C       |
 |   2   | [[Enlarge + Reduce]]      | Transmutation | C       |
 |   2   | [[Flaming Sphere]]        | Evocation     | C       |
 |   2   | [[Gentle Repose]]         | Necromancy    | R, M    |
 |   2   | [[Gust of Wind]]          | Evocation     | C       |
+|   2   | [[Helpful Homunculi]]     | Conjuration   | R, M    |
 |   2   | [[Hold Person]]           | Enchantment   | C       |
 |   2   | [[Imbue Darkvision]]      | Transmutation | —       |
 |   2   | [[Invisibility]]          | Illusion      | C       |
@@ -122,10 +134,13 @@ tags:
 |   3   | [[Animate Dead]]           | Necromancy    | —       |
 |   3   | [[Bestow Curse]]           | Necromancy    | C       |
 |   3   | [[Blink]]                  | Transmutation | —       |
+|   3   | [[Cacophonic Shield]]      | Evocation     | C       |
 |   3   | [[Clairvoyance]]           | Divination    | C, M    |
+|   3   | [[Conjure Constructs]]     | Conjuration   | C       |
 |   3   | [[Counterspell]]           | Abjuration    | —       |
 |   3   | [[Dispel Magic]]           | Abjuration    | —       |
 |   3   | [[Fear]]                   | Illusion      | C       |
+|   3   | [[Feign Death]]            | Necromancy    | R       |
 |   3   | [[Fireball]]               | Evocation     | —       |
 |   3   | [[Fly]]                    | Transmutation | C       |
 |   3   | [[Gaseous Form]]           | Transmutation | C       |
@@ -141,11 +156,14 @@ tags:
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Sending]]                | Divination    | —       |
 |   3   | [[Shadow Clone]]*          | Illusion      | C       |
+|   3   | [[Silverstream]]           | Evocation     | M       |
 |   3   | [[Sleet Storm]]            | Conjuration   | C       |
 |   3   | [[Slow Motion]]            | Transmutation | C       |
 |   3   | [[Speak with Dead]]        | Necromancy    | —       |
+|   3   | [[Spirit Viper]]           | Conjuration   | —       |
 |   3   | [[Stinking Cloud]]         | Conjuration   | C       |
 |   3   | [[Summon Fey]]             | Conjuration   | C, M    |
+|   3   | [[Summon Undead]]          | Necromancy    | C, M    |
 |   3   | [[Tiny Hut]]               | Evocation     | R       |
 |   3   | [[Tongues]]                | Divination    | —       |
 |   3   | [[Vampiric Touch]]         | Necromancy    | C       |
@@ -156,6 +174,7 @@ tags:
 | Level | Spell                        | School        | Special |
 | :---: | ---------------------------- | ------------- | ------- |
 |   4   | [[Arcane Eye]]               | Divination    | C       |
+|   4   | [[Backlash]]                 | Abjuration    | —       |
 |   4   | [[Banishment]]               | Abjuration    | C       |
 |   4   | [[Black Tentacles]]          | Conjuration   | C       |
 |   4   | [[Blight]]                   | Necromancy    | —       |
@@ -178,10 +197,12 @@ tags:
 |   4   | [[Private Sanctum]]          | Abjuration    | —       |
 |   4   | [[Resilient Sphere]]         | Abjuration    | C       |
 |   4   | [[Secret Chest]]             | Conjuration   | M       |
+|   4   | [[Spellfire Storm]]          | Evocation     | C       |
 |   4   | [[Stone Shape]]              | Transmutation | —       |
 |   4   | [[Stoneskin]]                | Transmutation | C, M    |
 |   4   | [[Summon Aberration]]        | Conjuration   | C, M    |
 |   4   | [[Summon Construct]]         | Conjuration   | C, M    |
+|   4   | [[Summon Elemental]]         | Conjuration   | C, M    |
 |   4   | [[Vitriolic Sphere]]         | Evocation     | —       |
 |   4   | [[Wall of Fire]]             | Evocation     | C       |
 
@@ -192,6 +213,7 @@ tags:
 |   5   | [[Animate Objects]]      | Transmutation | C       |
 |   5   | [[Arcane Anchor]]*       | Enchantment   | C       |
 |   5   | [[Arcane Hand]]          | Evocation     | C       |
+|   5   | [[Circle of Power]]      | Abjuration    | C       |
 |   5   | [[Cloudkill]]            | Conjuration   | C       |
 |   5   | [[Cone of Cold]]         | Evocation     | —       |
 |   5   | [[Conjure Elemental]]    | Conjuration   | C       |
@@ -199,48 +221,54 @@ tags:
 |   5   | [[Creation]]             | Illusion      | —       |
 |   5   | [[Dominate Person]]      | Enchantment   | C       |
 |   5   | [[Dream]]                | Illusion      | —       |
+|   5   | [[Elemental Suffusion]]  | Transmutation | C, M    |
 |   5   | [[Geas]]                 | Enchantment   | —       |
 |   5   | [[Hold Monster]]         | Enchantment   | C       |
 |   5   | [[Legend Lore]]          | Divination    | M       |
 |   5   | [[Mislead]]              | Illusion      | C       |
 |   5   | [[Modify Memory]]        | Enchantment   | C       |
+|   5   | [[Mooncloak]]            | Abjuration    | C, M    |
 |   5   | [[Passwall]]             | Transmutation | —       |
 |   5   | [[Planar Binding]]       | Abjuration    | M       |
+|   5   | [[Regal Presence]]       | Enchantment   | C       |
 |   5   | [[Scrying]]              | Divination    | C, M    |
 |   5   | [[Seeming]]              | Illusion      | —       |
 |   5   | [[Steel Wind Strike]]    | Conjuration   | M       |
+|   5   | [[Storm of Radiance]]    | Evocation     | C       |
 |   5   | [[Summon Dragon]]        | Conjuration   | C, M    |
 |   5   | [[Telekinesis]]          | Transmutation | C       |
 |   5   | [[Telepathic Bond]]      | Divination    | R       |
 |   5   | [[Teleportation Circle]] | Conjuration   | M       |
 |   5   | [[Wall of Force]]        | Evocation     | C       |
 |   5   | [[Wall of Stone]]        | Evocation     | C       |
-|   5   | [[Regal Presence]]       | Enchantment   | C       |
 
 ### Level 6 Spells
 
-| Level | Spell                         | School        | Special |
-| :---: | ----------------------------- | ------------- | ------- |
-|   6   | [[Chain Lightning]]           | Evocation     | —       |
-|   6   | [[Circle of Death]]           | Necromancy    | M       |
-|   6   | [[Contingency]]               | Abjuration    | M       |
-|   6   | [[Create Undead]]             | Necromancy    | M       |
-|   6   | [[Disintegrate]]              | Transmutation | —       |
-|   6   | [[Eyebite]]                   | Necromancy    | C       |
-|   6   | [[Flesh to Stone]]            | Transmutation | C       |
-|   6   | [[Freezing Sphere]]           | Evocation     | —       |
-|   6   | [[Globe of Invulnerability]]  | Abjuration    | C       |
-|   6   | [[Guards and Wards]]          | Abjuration    | M       |
-|   6   | [[Instant Summons]]           | Conjuration   | R, M    |
-|   6   | [[Irresistible Dance]]        | Enchantment   | C       |
-|   6   | [[Magic Jar]]                 | Necromancy    | M       |
-|   6   | [[Mass Suggestion]]           | Enchantment   | —       |
-|   6   | [[Move Earth]]                | Transmutation | C       |
-|   6   | [[Programmed Illusion]]       | Illusion      | M       |
-|   6   | [[Sunbeam]]                   | Evocation     | C       |
-|   6   | [[Tasha's Bubbling Cauldron]] | Conjuration   | M       |
-|   6   | [[True Seeing]]               | Divination    | M       |
-|   6   | [[Wall of Ice]]               | Evocation     | C       |
+| Level | Spell                        | School        | Special |
+| :---: | ---------------------------- | ------------- | ------- |
+|   6   | [[Arcane Gate]]              | Conjuration   | C       |
+|   6   | [[Bubbling Cauldron]]        | Conjuration   | M       |
+|   6   | [[Chain Lightning]]          | Evocation     | —       |
+|   6   | [[Circle of Death]]          | Necromancy    | M       |
+|   6   | [[Contingency]]              | Abjuration    | M       |
+|   6   | [[Create Undead]]            | Necromancy    | M       |
+|   6   | [[Disintegrate]]             | Transmutation | —       |
+|   6   | [[Effulgent Spheres]]        | Evocation     | M       |
+|   6   | [[Eyebite]]                  | Necromancy    | C       |
+|   6   | [[Flesh to Stone]]           | Transmutation | C       |
+|   6   | [[Freezing Sphere]]          | Evocation     | —       |
+|   6   | [[Globe of Invulnerability]] | Abjuration    | C       |
+|   6   | [[Guards and Wards]]         | Abjuration    | M       |
+|   6   | [[Instant Summons]]          | Conjuration   | R, M    |
+|   6   | [[Irresistible Dance]]       | Enchantment   | C       |
+|   6   | [[Magic Jar]]                | Necromancy    | M       |
+|   6   | [[Mass Suggestion]]          | Enchantment   | —       |
+|   6   | [[Move Earth]]               | Transmutation | C       |
+|   6   | [[Programmed Illusion]]      | Illusion      | M       |
+|   6   | [[Summon Fiend]]             | Conjuration   | C,M     |
+|   6   | [[Sunbeam]]                  | Evocation     | C       |
+|   6   | [[True Seeing]]              | Divination    | M       |
+|   6   | [[Wall of Ice]]              | Evocation     | C       |
 
 ### Level 7 Spells
 

@@ -17,11 +17,11 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Points]] equal to the roll’s total. Your pool regains all expended dice when you finish a [[Long Rest]].
+As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [[Hit Points]] equal to the roll's total. Your pool regains all expended dice when you finish a [[Long Rest]].
 
 ### Level 6: Radiant Soul
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have [[Resistance]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell’s damage against one of the spell’s targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have [[Resistance]] to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
 
 ### Level 10: Celestial Resilience
 
@@ -31,4 +31,4 @@ You gain [[Temporary Hit Points]] whenever you use your Magical Cunning feature 
 
 When you or an ally within 60 feet of you is about to make a [[Death Saving Throw]], you can unleash radiant energy to save the creature. The creature regains [[Hit Points]] equal to half its Hit Point maximum and can end the [[Prone]] condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to 2d8 plus your Charisma modifier, and each has the [[Blinded]] condition until the end of the current turn.
 
-Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].

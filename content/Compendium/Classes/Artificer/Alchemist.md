@@ -59,4 +59,4 @@ You gain the following benefits.
 
 **Chemical Resistance.** You gain [[Resistance]] to Acid damage and Poison damage. You also gain [[Immunity]] to the [[Poisoned]] condition.
 
-**Conjured Cauldron.** You can cast [[Tasha's Bubbling Cauldron]] without expending a spell slot, without preparing the spell, and without Material components, provided you use [[Alchemist's Supplies]] as the Spellcasting Focus. Once you use this feature, you can't use it again until you finish a [[Long Rest]].
+**Conjured Cauldron.** You can cast [[Bubbling Cauldron]] without expending a spell slot, without preparing the spell, and without Material components, provided you use [[Alchemist's Supplies]] as the Spellcasting Focus. Once you use this feature, you can't use it again until you finish a [[Long Rest]].

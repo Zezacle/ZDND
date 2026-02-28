@@ -8,6 +8,7 @@ tags:
   - spell-list/ranger
   - spell-list/wizard
   - concentration
+  - spell-list/artificer/cartographer
 school: Divination
 spell_level: "4"
 ritual: false

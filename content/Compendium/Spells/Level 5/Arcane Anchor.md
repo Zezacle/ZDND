@@ -7,11 +7,13 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
+  - concentration
+  - spell-list/paladin/oath-of-vengeance
 school: Enchantment
 spell_level: "5"
 ritual: false
 material_component: false
-concentration: false
+concentration: true
 ---
 *Level 5 Enchantment (Artificer, Cleric, Sorcerer, Warlock, Wizard)*
 

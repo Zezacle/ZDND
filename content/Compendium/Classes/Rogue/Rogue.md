@@ -84,15 +84,15 @@ Whenever you finish a [[Long Rest]], you can change the kinds of weapons you cho
 
 ### Level 2: Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take the [[Dash]] or [[Hide]] action as a Bonus Action. Additionally, when you take the [[Disengage]] bonus action, you can target up to two creatures.
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [[Dash]], [[Disengage]], or [[Hide]].
 
 ### Level 3: Rogue Subclass
 
-You gain a Rogue subclass of your choice: [[Compendium/Classes/Sorcerer/Arcane Trickster]], [[Compendium/Classes/Rogue/Assassin|Assassin]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
+You gain a Rogue subclass of your choice: [[Arcane Trickster]], [[Compendium/Classes/Rogue/Assassin|Assassin]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
 | Roguish Archetype (Subclass)                    |                                           |
 | ----------------------------------------------- | ----------------------------------------- |
-| [[Compendium/Classes/Sorcerer/Arcane Trickster]]                            | Enhance Stealth with Arcane Spells        |
+| [[Arcane Trickster]]                            | Enhance Stealth with Arcane Spells        |
 | [[Compendium/Classes/Rogue/Assassin\|Assassin]] | Practice the Grim Art of Death            |
 | [[Soulknife]]                                   | Strike Foes with Psionic Blades           |
 | [[Thief]]                                       | Hunt for Treasure as a Classic Adventurer |

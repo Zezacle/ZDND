@@ -2,7 +2,7 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Level 3: Dazzling Footwork
 
-While you aren’t wearing armor or wielding a [[Shields|Shield]], you gain the following benefits.
+While you aren't wearing armor or wielding a [[Shields|Shield]], you gain the following benefits.
 
 **Dance Virtuoso.** You have [[Advantage]] on any Charisma (Performance) check you make that involves you dancing.
 
@@ -10,13 +10,13 @@ While you aren’t wearing armor or wielding a [[Shields|Shield]], you gain the 
 
 **Agile Strikes.** When you expend a use of your Bardic Inspiration as part of an action, a Bonus Action, or a Reaction, you can make one [[Unarmed Strike]] as part of that action, Bonus Action, or Reaction.
 
-**Bardic Damage.** You can use Dexterity instead of Strength for the attack rolls of your [[Unarmed Strike|Unarmed Strikes]]. When you deal damage with an [[Unarmed Strike|Unarmed Strikes]], you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike’s normal damage. This roll doesn't expend the die.
+**Bardic Damage.** You can use Dexterity instead of Strength for the attack rolls of your [[Unarmed Strike|Unarmed Strikes]]. When you deal damage with an [[Unarmed Strike|Unarmed Strikes]], you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
 
 ### Level 6: Inspiring Movement
 
 When an enemy you can see ends its turn within 5 feet of you, you can take a Reaction and expend one use of your Bardic Inspiration to move up to half your Speed. Then one ally of your choice within 30 feet of you can also move up to half their Speed using their Reaction.
 
-None of this feature’s movement provokes [[Opportunity Attacks]].
+None of this feature's movement provokes [[Opportunity Attacks]].
 
 ### Level 6: Tandem Footwork
 
@@ -26,4 +26,4 @@ When you roll [[Initiative]], you can expend one use of your Bardic Inspiration 
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
-You can’t use this feature if you have the [[Incapacitated]] condition.
+You can't use this feature if you have the [[Incapacitated]] condition.

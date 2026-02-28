@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/bard
   - spell-list/druid
+  - spell-list/druid/circle-of-the-moon
 school: Evocation
 spell_level: "0"
 ritual: false

@@ -5,6 +5,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/knowledge-domain
+  - spell-list/sorcerer/aberrant-sorcery
+  - spell-list/warlock/great-old-one-patron
 school: Divination
 spell_level: "2"
 ritual: false

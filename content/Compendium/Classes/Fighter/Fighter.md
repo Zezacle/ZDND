@@ -77,15 +77,15 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the [[Magic]] action.
 
-Once you use this feature, you can’t do so again until you finish a [[Short Rest|Short]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
+Once you use this feature, you can't do so again until you finish a [[Short Rest|Short]] or [[Long Rest]]. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
 ### Level 2: Tactical Mind
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [[Hit Points]], you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Level 3: Fighter Subclass
 
-You gain a Fighter subclass of your choice: [[Banneret]], [[Champion]], [[Eldritch Knight]], or [[Psi Warrior]]. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level or lower.
+You gain a Fighter subclass of your choice: [[Banneret]], [[Champion]], [[Eldritch Knight]], or [[Psi Warrior]]. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
 
 | Martial Archetype (Subclass) |                                               |
 | ---------------------------- | --------------------------------------------- |
@@ -112,7 +112,7 @@ Whenever you activate your Second Wind with a Bonus Action, you can move up to h
 
 ### Level 9: Indomitable
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can’t use this feature again until you finish a [[Long Rest]].
+If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a [[Long Rest]].
 
 You can use this feature twice before a [[Long Rest]] starting at level 13 and three times before a [[Long Rest]] starting at level 17.
 

@@ -3,6 +3,8 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/artillerist
+  - spell-list/artificer/battle-smith
 school: Abjuration
 spell_level: "1"
 ritual: false

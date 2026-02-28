@@ -2,4 +2,4 @@
 tags:
   - skill
 ---
-Intelligence (Arcana) allows you to recall lore about spells, magic items, and the planes of existence.
+Intelligence ([[Arcana]]) allows you to recall lore about spells, magic items, and the planes of existence.

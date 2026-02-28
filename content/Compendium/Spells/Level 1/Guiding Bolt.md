@@ -2,6 +2,11 @@
 tags:
   - spell
   - spell-list/cleric
+  - spell-list/artificer/cartographer
+  - spell-list/druid/circle-of-the-stars
+  - spell-list/paladin/oath-of-glory
+  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/warlock/celestial-patron
 school: Evocation
 spell_level: "1"
 ritual: false

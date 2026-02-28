@@ -7,6 +7,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/trickery-domain
 school: Illusion
 spell_level: "2"
 ritual: false

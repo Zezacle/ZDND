@@ -5,6 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
+  - spell-list/paladin/oath-of-glory
+  - spell-list/paladin/oath-of-vengeance
 school: Transmutation
 spell_level: "3"
 ritual: false

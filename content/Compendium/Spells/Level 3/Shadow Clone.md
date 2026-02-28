@@ -7,6 +7,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
+  - spell-list/cleric/trickery-domain
+  - spell-list/monk/warrior-of-shadow
 school: Conjuration
 spell_level: "3"
 ritual: false

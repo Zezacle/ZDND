@@ -4,6 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/druid
+  - spell-list/artificer/alchemist
+  - spell-list/artificer/cartographer
 school: Abjuration
 spell_level: "1"
 ritual: false

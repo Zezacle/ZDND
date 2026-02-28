@@ -14,7 +14,7 @@
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
-Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
+Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn't rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
 
@@ -78,7 +78,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric Spell List]] later in the class’s description.
+You have learned to cast spells through prayer and meditation. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric Spell List]] later in the class's description.
 
 **Cantrips.** You know three cantrips of your choice from the [[Cleric Spell List]]. [[Guidance]], [[Sacred Flame]], and [[Thaumaturgy]] are recommended.
 
@@ -90,9 +90,9 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the [[Cleric Spell List]]. [[Bless]], [[Cure Wounds]], [[Guiding Bolt]], and [[Shield of Faith]] are recommended.
 
-The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the [[Cleric Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Cleric feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
 **Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
 
@@ -110,11 +110,11 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 ### Level 2: Channel Divinity
 
-You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class’s Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
+You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
-You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]]. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [[Short Rest]], and you regain all expended uses when you finish a [[Long Rest]]. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
+If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
 
 **Divine Spark.** As a [[Magic]] action, you point your [[Holy Symbol]] at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore [[Hit Points]] to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
@@ -124,7 +124,7 @@ You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18
 
 ### Level 3: Cleric Subclass
 
-You gain a Cleric subclass of your choice: [[Knowledge Domain]], [[Life Domain]], [[Light Domain]], [[Trickery Domain]], or [[War Domain]]. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
+You gain a Cleric subclass of your choice: [[Knowledge Domain]], [[Life Domain]], [[Light Domain]], [[Trickery Domain]], or [[War Domain]]. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.
 
 | Cleric Domain (Subclass) |                                       |
 | ------------------------ | ------------------------------------- |
@@ -140,7 +140,7 @@ You can select a General Feat of your choice for which you qualify. [[Ability Sc
 
 ### Level 5: Sear Undead
 
-Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the Turn Undead effect.
+Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the Turn Undead effect.
 
 ### Level 7: Blessed Strikes
 
@@ -152,7 +152,7 @@ Divine power infuses you in battle. You gain one of the following options of you
 
 ### Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a [[Magic]] action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a [[Long Rest]].
+You can call on your deity or pantheon to intervene on your behalf. As a [[Magic]] action, choose any Cleric spell of level 5 or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a [[Long Rest]].
 
 ### Level 14: Improved Blessed Strikes
 
@@ -168,4 +168,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Level 20: Greater Divine Intervention
 
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[Wish]] when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 [[Long Rest|Long Rests]].
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[Wish]] when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 [[Long Rest|Long Rests]].

@@ -83,15 +83,9 @@ You have learned to channel the magical essence of nature to cast spells. The In
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[Cure Wounds]] and [[Ensnaring Strike]] are recommended.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which  A [[Range]' weapon has a range in parentheses after the [[Ammunition]] or [[Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyo'd normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.                                                                                                                                                                                                                                               asting ability for your Ranger spells.
 
-If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
-
-**Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Ranger spell for which you have spell slots.
-
-**Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
-
-**Spellcasting Focus.** You can use a [[Druidic Focus]] as a Spellcasting Focus for your Ranger spells.
+**Spellcasting Focus.** You can use a [[Druidic Focus]] as a Spellcasting Focus for your R'nger spells.
 
 ### Level 1: Favored Enemy
 
@@ -134,7 +128,7 @@ You gain a Ranger Subclass of your choice: [[Beast Master]], [[Fey Wanderer]], [
 
 ### Level 4: General Feat
 
-You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Ranger levels 8, 12, and 16.
+You can select'a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 

@@ -4,6 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/sorcerer
   - spell-list/wizard
+  - spell-list/artificer/armorer
+  - spell-list/artificer/artillerist
 school: Evocation
 spell_level: "2"
 ritual: false

@@ -6,7 +6,7 @@ tags:
   - spell-list/ranger
 school: Transmutation
 spell_level: "3"
-ritual: false
+ritual: true
 material_component: false
 concentration: false
 ---

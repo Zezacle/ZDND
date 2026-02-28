@@ -26,6 +26,8 @@ tags:
 |   0   | [[Shocking Grasp]]     | Evocation     | —       |
 |   0   | [[Spare the Dying]]    | Necromancy    | —       |
 |   0   | [[Summon Seat]]*       | Conjuration   | —       |
+|   0   | [[Thorn Whip]]         | Transmutation | —       |
+|   0   | [[Thunderclap]]        | Evocation     | —       |
 
 
 ### Level 1 Spells
@@ -34,6 +36,7 @@ tags:
 | :---: | -------------------------- | ------------- | ------- |
 |   1   | [[Alarm]]                  | Abjuration    | R       |
 |   1   | [[Allana's Library Rats]]* | Divination    | R       |
+|   1   | [[Arcane Vigor]]           | Abjuration    | —       |
 |   1   | [[Cure Wounds]]            | Abjuration    | —       |
 |   1   | [[Detect Magic]]           | Divination    | C, R    |
 |   1   | [[Disguise Self]]          | Illusion      | —       |
@@ -43,6 +46,7 @@ tags:
 |   1   | [[Feather Fall]]           | Transmutation | —       |
 |   1   | [[Floating Disk]]          | Conjuration   | R       |
 |   1   | [[Grease]]                 | Conjuration   | —       |
+|   1   | [[Homunculus Servant]]     | Conjuration   | R, M    |
 |   1   | [[Identify]]               | Divination    | R       |
 |   1   | [[Jump]]                   | Transmutation | —       |
 |   1   | [[Longstrider]]            | Transmutation | —       |
@@ -67,7 +71,7 @@ tags:
 |   2   | [[Invisibility]]           | Illusion      | C       |
 |   2   | [[Lesser Restoration]]     | Abjuration    | —       |
 |   2   | [[Levitate]]               | Transmutation | C       |
-|   2   | [[Magic Mouth]]            | Illusion      | M       |
+|   2   | [[Magic Mouth]]            | Illusion      | R, M    |
 |   2   | [[Magic Weapon]]           | Transmutation | —       |
 |   2   | [[Protection from Poison]] | Abjuration    | —       |
 |   2   | [[Rope Trick]]             | Transmutation | —       |
@@ -89,58 +93,34 @@ tags:
 |   3   | [[Haste]]                  | Transmutation | C       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Revivify]]               | Necromancy    | M       |
-|   3   | [[Tiny Hut]]               | Evocation     | —       |
+|   3   | [[Tiny Hut]]               | Evocation     | R       |
 |   3   | [[Water Breathing]]        | Transmutation | R       |
 |   3   | [[Water Walk]]             | Transmutation | R       |
 
 
-
-WIP
-
 ### Level 4 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   4   |       |        |         |
-|       |       |        |         |
+| Level | Spell                   | School        | Special |
+| :---: | ----------------------- | ------------- | ------- |
+|   4   | [[Arcane Eye]]          | Divination    | C       |
+|   4   | [[Fabricate]]           | Transmutation | —       |
+|   4   | [[Freedom of Movement]] | Abjuration    | —       |
+|   4   | [[Private Sanctum]]     | Abjuration    | —       |
+|   4   | [[Resilient Sphere]]    | Abjuration    | C       |
+|   4   | [[Secret Chest]]        | Conjuration   | M       |
+|   4   | [[Stone Shape]]         | Transmutation | —       |
+|   4   | [[Stoneskin]]           | Transmutation | C, M    |
+|   4   | [[Summon Construct]]    | Conjuration   | —       |
 
 
 ### Level 5 Spells
 
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   5   |       |        |         |
-|       |       |        |         |
-
-
-### Level 6 Spells
-
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   6   |       |        |         |
-|       |       |        |         |
-
-
-### Level 7 Spells
-
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   7   |       |        |         |
-|       |       |        |         |
-
-
-### Level 8 Spells
-
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   8   |       |        |         |
-|       |       |        |         |
-
-
-### Level 9 Spells
-
-| Level | Spell | School | Special |
-| :---: | ----- | ------ | ------- |
-|   9   |       |        | M       |
-|       |       |        |         |
-
+| Level | Spell                   | School        | Special |
+| :---: | ----------------------- | ------------- | ------- |
+|   5   | [[Animate Objects]]     | Transmutation | C       |
+|   5   | [[Arcane Anchor]]*      | Enchantment   | C       |
+|   5   | [[Arcane Hand]]         | Evocation     | C       |
+|   5   | [[Circle of Power]]     | Abjuration    | C       |
+|   5   | [[Creation]]            | Illusion      | —       |
+|   5   | [[Greater Restoration]] | Abjuration    | M       |
+|   5   | [[Wall of Stone]]       | Evocation     | C       |
