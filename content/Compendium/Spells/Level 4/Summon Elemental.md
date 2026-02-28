@@ -21,15 +21,15 @@ _Level 4 Conjuration (Druid, Ranger, Wizard)_
 
 You call forth an Elemental spirit. It manifests in an unoccupied space that you can see within range and uses the **Elemental Spirit** stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 [[Hit Points]] or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the [[Dodge]] action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[Dodge]] action and uses its movement to avoid danger.
 
-**Using a Higher-Level Spell Slot.** Use the spell slot’s level for the spell’s level in the stat block.
+**Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
 > [!infobox|left clean wmed static]
 > # Name
 > *Medium Elemental, Neutral*
 > 
-> **EC** 12, **AC** 11 + the spell’s level
+> **EC** 12, **AC** 11 + the spell's level
 > **HP** 50 + 10 for each spell level above 4
 > **Speed** 40 ft.; [[Burrowing|Burrow]] 40 ft. (Earth only); [[Flying|Fly]] 40 ft. (hover; Air only); [[Swimming|Swim]] 40 ft. (Water only)
 > 
@@ -49,5 +49,5 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > **Amorphous Form (Air, Fire, and Water Only).** The spirit can move through a space as narrow as 1 inch wide without it counting as [[Difficult Terrain]].
 > 
 > ## Actions
-> **Multiattack.** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
-> **Slam.** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 4 + the spell’s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.
+> **Multiattack.** The spirit makes a number of Slam attacks equal to half this spell's level (round down).
+> **Slam.** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 4 + the spell's level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.

@@ -91,13 +91,13 @@ When yo' reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 **Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[Short Rest|Short]] or [[Long Rest]].
 
-For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[Witch Bolt]], you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[Witch Bolt]], you must spend one of those slots, and you cast it as a level 3 spell.
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[Hex]] are recommended.
 
-The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
+The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
-If another Warlock feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
+If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
 **Changing Your Prepa'ed Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Warlock spell of an eligible level.
 
@@ -107,11 +107,11 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 ### Level 2: Magical Cunning
 
-You can perform an esoteric rite for 1 minute. At the end of 't, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, 'ou can’t do so again until you finish a [[Long Rest]].
+You can perform an esoteric rite for 1 minute. At the end of 't, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, 'ou can't do so again until you finish a [[Long Rest]].
 
 ### Level 3: Warlock Subclass
 
-You gain a Warlock subclass of your choice: [[Archfey Patron]], [[Celestial Patron]], [[Fiend Patron]], and [[Great Old One Patron]] subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
+You gain a Warlock subclass of your choice: [[Archfey Patron]], [[Celestial Patron]], [[Fiend Patron]], and [[Great Old One Patron]] subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
 
 | Warlock Patron (Subclass) |                                            |
 | ------------------------- | ------------------------------------------ |
@@ -126,9 +126,9 @@ You can select a General Feat of your choice for which you qualify. [[Ability Sc
 
 ### Level 9: Contact Patron
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [[Contact Other Plane]] spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [[Contact Other Plane]] spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can’t do so in this way again until you finish a [[Long Rest]].
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [[Long Rest]].
 
 ### Level 11: Mystic Arcanum
 

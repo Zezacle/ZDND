@@ -44,11 +44,11 @@ Use the spell slot's level for the spell's level in the stat block.
 > **CR** None (PB equals your Proficiency Bonus)
 > 
 > ## Traits
-> **Evasion.** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the homunculus instead takes no damage if it succeeds on the save and only half damage if it fails. It can’t use this trait if it has the [[Incapacitated]] condition.
+> **Evasion.** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the homunculus instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the [[Incapacitated]] condition.
 > **Magic Bond.** Add the spell level to any ability check or saving throw the homunculus makes.
 > 
 > ## Actions
-> **Force Strike.** *Melee or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 30 ft. Hit: 1d6 plus the spell’s level of Force damage.
+> **Force Strike.** *Melee or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 30 ft. Hit: 1d6 plus the spell's level of Force damage.
 >
 > ## Reactions
 > **Channel Magic.** _Trigger:_ You cast a spell that has a range of touch while the homunculus is within 120 feet of you. _Response:_ The homunculus delivers the spell through its touch.

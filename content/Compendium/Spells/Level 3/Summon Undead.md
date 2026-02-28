@@ -18,11 +18,11 @@ _Level 3 Necromancy (Warlock, Wizard)_
 **Components:** V, S, M (a gilded skull worth 300+ GP)  
 **Duration:** [[Concentration]], up to 1 hour
 
-You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the **Undead Spirit** stat block. When you cast the spell, choose the creature’s form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 [[Hit Points]] or when the spell ends.
+You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the **Undead Spirit** stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 [[Hit Points]] or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the [[Dodge]] action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [[Initiative]] count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [[Dodge]] action and uses its movement to avoid danger.
 
-**Using a Higher-Level Spell Slot.** Use the spell slot’s level for the spell’s level in the stat block.
+**Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
 > [!infobox|left clean wmed static]
 > # Undead Spirit
@@ -48,7 +48,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > **Incorporeal Passage (Ghostly Only).** The spirit can move through other creatures and objects as if they were [[Difficult Terrain]]. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.
 > 
 > ## Actions
-> **Multiattack.** The spirit makes a number of attacks equal to half this spell’s level (round down).
-> **Deathly Touch (Ghostly Only).** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell’s level Necrotic damage, and the target has the [[Frightened]] condition until the end of its next turn.
-> **Grave Bolt (Skeletal Only).** Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 2d4 + 3 + the spell’s level Necrotic damage.
-> **Rotting Claw (Putrid Only).** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 + the spell’s level Slashing damage. If the target has the [[Poisoned]] condition, it has the [[Paralyzed]] condition until the end of its next turn.
+> **Multiattack.** The spirit makes a number of attacks equal to half this spell's level (round down).
+> **Deathly Touch (Ghostly Only).** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has the [[Frightened]] condition until the end of its next turn.
+> **Grave Bolt (Skeletal Only).** Ranged Attack Roll: Bonus equals your spell attack modifier, range 150 ft. Hit: 2d4 + 3 + the spell's level Necrotic damage.
+> **Rotting Claw (Putrid Only).** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 3 + the spell's level Slashing damage. If the target has the [[Poisoned]] condition, it has the [[Paralyzed]] condition until the end of its next turn.

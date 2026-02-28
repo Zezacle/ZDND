@@ -6,7 +6,7 @@ You gain the following benefits.
 
 **Tool Proficiency.** You gain proficiency with [[Calligrapher's Supplies]] and [[Cartographer's Tools]]. If you already have one of these proficiencies, you gain proficiency with one other type of [[Artisan's Tools]] of your choice (or with two other types if you have both).
 
-**Scroll Crafting.** When you scribe a [[Spell Scrolls|Spell Scroll]] using the crafting rules, the amount of time required to craft it is halved.
+**Scroll Crafting.** When you scribe a [[Spell Scroll]] using the crafting rules, the amount of time required to craft it is halved.
 
 ### Level 3: Cartographer Spells
 

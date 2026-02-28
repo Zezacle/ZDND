@@ -116,7 +116,7 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 ### Level 3: Ranger Subclass
 
-You gain a Ranger Subclass of your choice: [[Beast Master]], [[Fey Wanderer]], [[Gloom Stalker]], [[Hunter]], [[Winter Walker]]. A Subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
+You gain a Ranger Subclass of your choice: [[Beast Master]], [[Fey Wanderer]], [[Gloom Stalker]], [[Hunter]], [[Winter Walker]]. A Subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
 | Ranger Conclave (Subclass) |                                            |
 | -------------------------- | ------------------------------------------ |

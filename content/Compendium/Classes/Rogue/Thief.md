@@ -30,7 +30,7 @@ You've learned how to maximize use of magic items, granting you the following be
 
 **Charges.** Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
 
-**Scrolls.** You have [[Advantage]] on [[Arcana]] checks to identify and understand [[Spell Scrolls]]. Studying a spell scroll takes half the time as usual.
+**Scrolls.** You have [[Advantage]] on [[Arcana]] checks to identify and understand a [[Spell Scroll]]. Studying a spell scroll takes half the time as usual.
 
 ### Level 17: Thief's Reflexes
 

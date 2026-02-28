@@ -4,8 +4,10 @@ tags:
 ---
 Charter of the North
 - Finish prep notes
+- Ask will about subclass + shillelagh question?
 - Witch hut of Witching hahaha
 	- Bat in a Bottle- Throw, receive 20ft of blindsight from impact site
+- Yulemide
 
 Foundry
 - good for now?

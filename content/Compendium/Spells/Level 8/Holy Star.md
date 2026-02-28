@@ -22,4 +22,4 @@ You create a glowing mote of energy that hovers above you for the duration. The 
 
 When you cast this spell and as a Bonus Action on later turns, you can unleash a shining bolt from the mote, targeting one creature within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes Force or Radiant damage (your choice) equal to 4d10 plus your spellcasting ability modifier.
 
-In addition, while the mote is present, you have [[Three-Quarters Cover]], and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn’t create an area of effect, you can take a Reaction to deflect that spell back at the spell’s caster; the caster makes a saving throw against that spell using that caster’s own spell save DC.
+In addition, while the mote is present, you have [[Three-Quarters Cover]], and if you succeed on a saving throw against a spell of level 7 or lower that targeted only you and didn't create an area of effect, you can take a Reaction to deflect that spell back at the spell's caster; the caster makes a saving throw against that spell using that caster's own spell save DC.

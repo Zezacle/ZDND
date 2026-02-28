@@ -18,7 +18,7 @@ Lickle has a number of common kinds of weapons in stock, however he is often ver
 Lickle does not currently accept commissions due to the high demand of his services from the Great Baron.
 
 ### Current Stock
-- 2x [[Arming Sword]] (10 GP)
+- 1x [[Arming Sword]] (10 GP)
 - [[Dagger]] (2 GP)
 - [[Handaxe]] (2 GP)
 - [[Light Hammer]] (1 GP)
@@ -42,7 +42,6 @@ Goji, the halfling merchant is known for taking requests for items that can be f
 ### Current Stock
 
 #### Armor and Weapons
-- 1x [[Silvered]] [[Dagger]] - (75 GP)
 - 1x [[Blowpipe]] + [[Needles]] x20 - (3 GP)
 - 1x [[Chain Shirt]] - (150 GP)
 - 1x [[Good and Evil]] (Pair of Knuckles) - (200 GP)
@@ -51,14 +50,13 @@ Goji, the halfling merchant is known for taking requests for items that can be f
 - 1x [[Bracelet of the Banquet]] - (50 GP)
 - 3x [[Blade Bite]] Poison - (25 GP)
 - 1x [[Rope of Mending]] - (100 GP)
-- 1x [[Arcane Eye]] Spell Scroll - (350 GP)
+- 1x Spell Scroll of [[Arcane Eye]] - (350 GP)
 - 1x [[Bag of Holding]] - (400 GP)
 - 1x [[Everburn Lantern]] - (60 GP)
 - 1x [[Hat of Wizardry]] - (50 GP)
 - 1x [[Mystery Key]] - (50 GP)
 - 1x [[Lens of the Identifier]] - (200 GP)
-- 1x Ruby-adorned Monkey Statue - (400 GP)
-- 1x Spell Scroll of [[Rope Trick]] - (200 GP)
+- 1x [[Spell Scroll]] of [[Rope Trick]] - (200 GP)
 
 
 ## Game Lodge's Artisans
@@ -92,7 +90,7 @@ The Game Lodge houses a number of leatherworkers, woodworkers and fletchers who 
 #### Ranged Weapons
 - [[Blowpipe]] (2 GP) - 1 day commission
 - [[Hand Crossbow]] (110 GP) - 7 day commission
-- 1x [[Light Crossbow]] (38 GP) - 5 day commission
+- [[Light Crossbow]] (38 GP) - 5 day commission
 - [[Heavy Crossbow]] (75 GP) - 7 day commission
 - [[Sling]] (2 sp)
 - [[Shortbow]] (15 GP)
