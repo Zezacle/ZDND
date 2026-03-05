@@ -31,7 +31,7 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 *Huge or Smaller Construct, Unaligned*
 
-**AC** 15
+**EC** 10 -**AC** 15
 **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
 **Speed** 30 ft.
 

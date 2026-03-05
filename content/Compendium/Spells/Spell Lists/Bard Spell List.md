@@ -125,10 +125,12 @@ tags:
 
 | Level | Spell                     | School        | Special |
 | :---: | ------------------------- | ------------- | ------- |
+|   4   | [[Backlash]]              | Abjuration    | —       |
 |   4   | [[Charm Monster]]         | Enchantment   | —       |
 |   4   | [[Compulsion]]            | Enchantment   | C       |
 |   4   | [[Confusion]]             | Enchantment   | C       |
 |   4   | [[Dimension Door]]        | Conjuration   | —       |
+|   4   | [[Doomtide]]              | Conjuration   | C       |
 |   4   | [[Fount of Moonlight]]    | Evocation     | C       |
 |   4   | [[Freedom of Movement]]   | Abjuration    | —       |
 |   4   | [[Greater Invisibility]]  | Illusion      | C       |
@@ -136,8 +138,7 @@ tags:
 |   4   | [[Locate Creature]]       | Divination    | C       |
 |   4   | [[Phantasmal Killer]]     | Illusion      | —       |
 |   4   | [[Polymorph]]             | Transmutation | C       |
-|   4   | [[Backlash]]              | Abjuration    | —       |
-|   4   | [[Doomtide]]              | Conjuration   | C       |
+|   4   | [[Void Passage]]*         | Conjuration   | C       |
 
 
 ### Level 5 Spells

@@ -4,6 +4,11 @@ draft: false
 ## Barracks Bounty Office
 The Bounty Board is located just inside the Northeastern entrance to the Windscape Keep's Barracks building. The bounties posted here are issued by the Barony, as part of their ongoing efforts to expand the Kingdom's influence in the North.
 
+#### Missing Person
+Ser Roger Clemmons, Middle 30s, Fair Skin with Brown shoulder length hair. Last seen 5 days ago, known to be heading north in search of Yulemide. If seen alive, inform him to return to Windscape Manor.
+
+Barony is willing to pay for information about Ser Roger's whereabouts or fate.
+
 #### Information
 The Barony is interested in any information about areas beyond Windscape, such as structures, settlements, useful geological features (mountain passes, rivers, etc). The Barony will provide payment to any persons with substantial and interesting findings. Frivolous or false reports subject to warnings, fines or other punishment.
 

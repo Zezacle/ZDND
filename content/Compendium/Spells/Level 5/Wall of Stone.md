@@ -28,6 +28,6 @@ The wall can have any shape you desire, though it can't occupy the same space as
 
 If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create battlements and the like.
 
-The wall is an object made of stone that can be damaged and thus breached. Each panel has an [[Evasion Class|EC]] 5, [[Armor Class|AC]] 15 and 30 [[Hit Points]] per inch of thickness, [[Resistance]] to non-magical Bludgeoning, Piercing and Slashing damage and it has [[Immunity]] to Poison and Psychic damage. Reducing a panel to 0 [[Hit Points]] destroys it and might cause connected panels to collapse at the GM's discretion.
+The wall is an object made of stone that can be damaged and thus breached. Each panel has [[Armor Class|AC]] 15 and 30 [[Hit Points]] per inch of thickness and it has [[Immunity]] to Poison and Psychic damage. Reducing a panel to 0 [[Hit Points]] destroys it and might cause connected panels to collapse at the GM's discretion.
 
 If you maintain your [[Concentration]] on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.

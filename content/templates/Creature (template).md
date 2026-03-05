@@ -2,35 +2,31 @@
 tags:
   - creature
 ---
-> [!infobox|left clean wmed static]
-> # Name
-> *Size Type, Neutral*
-> 
-> | |
-> | - |
-> **Initiative** +# (#)
-> **EC** # **AC** #
-> **HP** # (#d# + #)
-> **Speed** # ft., [[Burrowing|Burrow]] # ft. [[Climbing|Climb]] # ft., [[Flying|Fly]] # ft., [[Swimming|Swim]] # ft.
-> 
-> | | | MOD | SAVE | | | MOD | SAVE |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> | **STR** | # | +# | +# | **INT** | # | +# | +# | 
-> | **DEX** | # | +# | +# | **WIS** | # | +# | +# |
-> | **CON** | # | +# | +# | **CHA** | # | +# | +# |
-> **Skills** Skill +#, Skill +#
-> **Vulnerabilities** Damage, Damage
-> **Resistances** Damage, Damage
-> **Immunities** Damage; Condition
-> **Gear** Item, Item
-> **Senses** Sense # ft., Sense # ft., [[Passive Perception]] #
-> **Languages** Language, Telepathy # ft.
-> **CR** # (PB +#)
-> 
-> | |
-> | - |
-> **Habitat**
-> **Treasure**
+# Name
+*Size Type, Neutral*
+
+**EC:** # - **AC:** #
+**HP:** # (#d# + #)
+**Speed:** # ft., [[Burrowing|Burrow]] # ft. [[Climbing|Climb]] # ft., [[Flying|Fly]] # ft., [[Swimming|Swim]] # ft.
+**Initiative:** +# (#)
+
+|         |     | MOD | SAVE |         |     | MOD | SAVE |
+| :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: |
+| **STR** |  #  | +#  |  +#  | **INT** |  #  | +#  |  +#  |
+| **DEX** |  #  | +#  |  +#  | **WIS** |  #  | +#  |  +#  |
+| **CON** |  #  | +#  |  +#  | **CHA** |  #  | +#  |  +#  |
+
+**Skills:** Skill +#, Skill +#
+**Vulnerabilities:** Damage, Damage
+**Resistances:** Damage, Damage
+**Immunities:** Damage; Condition
+**Senses:** Sense # ft., Sense # ft., [[Passive Perception]] #
+**Languages:** Language, Telepathy # ft.
+**CR** # (PB +#)
+
+**Gear:** Item, Item
+**Treasure:**
+**Habitat:**
 
 ****
 

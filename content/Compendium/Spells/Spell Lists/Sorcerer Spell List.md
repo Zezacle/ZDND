@@ -142,6 +142,7 @@ tags:
 |   4   | [[Spellfire Storm]]      | Evocation     | C       |
 |   4   | [[Stoneskin]]            | Transmutation | C, M    |
 |   4   | [[Vitriolic Sphere]]     | Evocation     | —       |
+|   4   | [[Void Passage]]*        | Conjuration   | C       |
 |   4   | [[Wall of Fire]]         | Evocation     | C       |
 
 

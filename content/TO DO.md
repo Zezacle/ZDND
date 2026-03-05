@@ -2,24 +2,26 @@
 draft: true
 tags:
 ---
-Charter of the North
-- Finish prep notes
+### Charter of the North
 - Ask will about subclass + shillelagh question?
-- Witch hut of Witching hahaha
-	- Bat in a Bottle- Throw, receive 20ft of blindsight from impact site
-- Yulemide
+- [[Bat in a Bottle]] - Throw, receive 20ft of blindsight from impact site
+- Stat Block for Dueling Knight encounter
 
-Foundry
-- good for now?
+### Foundry
 - add lighting strike to sfx
 - add more music: boss music from Mystic Arts?
+
+#### Random Encounter Maps
+- Evil Grove
+	- Big heart thing
+- Swamps, grid, walls, diff terrain
+
+
+
 
 Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
-
-Search for AC
-- Add notes for EC in higher level spells 3-9
 
 Edit Level 7-9 Spells (oh god)
 - Add spell-list tags

@@ -10,7 +10,7 @@ tags:
 **Mastery:** [[Offhand]]
 **Properties:**
 - *Special:* 
-	- **Blade Notches.** When a melee weapon attack against you misses, you can use your reaction to make a [[Disarm]] check against the creature's weapon.
+	- **Blade Notches.** When a melee weapon attack against you misses, you can use your Reaction to make a [[Disarm]] check against the creature's weapon.
 - [[Disarming]]
 - [[Finesse]]
 - [[Light]]

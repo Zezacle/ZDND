@@ -204,6 +204,7 @@ tags:
 |   4   | [[Summon Construct]]         | Conjuration   | C, M    |
 |   4   | [[Summon Elemental]]         | Conjuration   | C, M    |
 |   4   | [[Vitriolic Sphere]]         | Evocation     | —       |
+|   4   | [[Void Passage]]*            | Conjuration   | C       |
 |   4   | [[Wall of Fire]]             | Evocation     | C       |
 
 ### Level 5 Spells

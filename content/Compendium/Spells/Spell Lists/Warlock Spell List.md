@@ -103,6 +103,7 @@ tags:
 |   4   | [[Hallucinatory Terrain]] | Illusion    | —       |
 |   4   | [[Rasengan]]*             | Evocation   | C       |
 |   4   | [[Summon Aberration]]     | Conjuration | C, M    |
+|   4   | [[Void Passage]]*         | Conjuration | C       |
 
 
 ### Level 5 Spells
