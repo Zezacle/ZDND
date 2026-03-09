@@ -22,4 +22,6 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
-Last updated: 2026-03-09 early morning
+Last updated: 2026-03-09 morning
+- Added [[Maneuvers]] and associated features to Martial Classes
+	- Barbarian, Fighter, Monk, Paladin, Ranger, Rogue

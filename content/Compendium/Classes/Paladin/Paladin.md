@@ -37,19 +37,19 @@ As a Paladin, you gain the following class features when you reach the specified
 |   1   |          +2           | Lay On Hands, Spellcasting, Weapon Mastery |          -           |
 |   2   |          +2           | Fighting Style, Paladin's Smite            |          -           |
 |   3   |          +2           | Channel Divinity, Paladin Subclass         |          2           |
-|   4   |          +2           | General Feat                               |          2           |
+|   4   |          +2           | Combat Superiority, General Feat           |          2           |
 |   5   |          +3           | Extra Attack, Faithful Steed               |          2           |
 |   6   |          +3           | Aura of Protection                         |          2           |
 |   7   |          +3           | Subclass Feature                           |          2           |
-|   8   |          +3           | General Feat                               |          2           |
+|   8   |          +3           | Combat Superiority, General Feat           |          2           |
 |   9   |          +4           | Abjure Foes                                |          2           |
 |  10   |          +4           | Aura of Courage                            |          2           |
 |  11   |          +4           | Radiant Strikes                            |          3           |
-|  12   |          +4           | General Feat                               |          3           |
+|  12   |          +4           | General Feat, Improved Combat Superiority  |          3           |
 |  13   |          +5           | -                                          |          3           |
 |  14   |          +5           | Restoring Touch                            |          3           |
 |  15   |          +5           | Subclass Feature                           |          3           |
-|  16   |          +5           | General Feat                               |          3           |
+|  16   |          +5           | Combat Superiority, General Feat           |          3           |
 |  17   |          +6           | -                                          |          3           |
 |  18   |          +6           | Aura Expansion                             |          3           |
 |  19   |          +6           | Epic Boon                                  |          3           |
@@ -151,6 +151,18 @@ A Paladin who has broken a vow typically seeks absolution, spending an all-night
 
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 
+### Level 4: Combat Superiority
+
+You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn an additional maneuver of your choice when you reach Paladin levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Paladin levels 8, 12 and 16.
+
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
+
 ### Level 4: General Feat
 
 You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Paladin levels 8, 12, and 16.
@@ -184,6 +196,10 @@ You and your allies have [[Immunity]] to the [[Frightened]] condition while in y
 ### Level 11: Radiant Strikes
 
 Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [[Unarmed Strike]], the target takes an extra 1d8 Radiant damage.
+
+### Level 12: Improved Combat Superiority
+
+Your Superiority Die becomes a d8.
 
 ### Level 14: Restoring Touch
 

@@ -33,28 +33,28 @@ Some Rogues began their careers as criminals, while other used their cunning to 
 As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
 ##### Rogue Features
-| Level | Proficiency <br>Bonus | Class Features                                         | Sneak Attack |
-| :---: | :-------------------: | ------------------------------------------------------ | :----------: |
-|   1   |          +2           | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery |     1d6      |
-|   2   |          +2           | Cunning Action                                         |     1d6      |
-|   3   |          +2           | Rogue Subclass, Steady Aim                             |     2d6      |
-|   4   |          +2           | General Feat                                           |     2d6      |
-|   5   |          +3           | Cunning Strike, Uncanny Dodge                          |     3d6      |
-|   6   |          +3           | Expertise                                              |     3d6      |
-|   7   |          +3           | Evasion, Reliable Talent                               |     4d6      |
-|   8   |          +3           | General Feat                                           |     4d6      |
-|   9   |          +4           | Subclass Feature                                       |     5d6      |
-|  10   |          +4           | -                                                      |     5d6      |
-|  11   |          +4           | Improved Cunning Strike                                |     6d6      |
-|  12   |          +4           | General Feat                                           |     6d6      |
-|  13   |          +5           | Subclass Feature                                       |     7d6      |
-|  14   |          +5           | Devious Strikes                                        |     7d6      |
-|  15   |          +5           | Slippery Mind                                          |     8d6      |
-|  16   |          +5           | General Feat                                           |     8d6      |
-|  17   |          +6           | Subclass Feature                                       |     9d6      |
-|  18   |          +6           | Elusive                                                |     9d6      |
-|  19   |          +6           | Epic Boon                                              |     10d6     |
-|  20   |          +6           | Stroke of Luck                                         |     10d6     |
+| Level | Proficiency <br>Bonus | Class Features                                           | Sneak Attack |
+| :---: | :-------------------: | -------------------------------------------------------- | :----------: |
+|   1   |          +2           | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery   |     1d6      |
+|   2   |          +2           | Cunning Action                                           |     1d6      |
+|   3   |          +2           | Rogue Subclass, Steady Aim                               |     2d6      |
+|   4   |          +2           | Combat Superiority, General Feat                         |     2d6      |
+|   5   |          +3           | Cunning Strike, Uncanny Dodge                            |     3d6      |
+|   6   |          +3           | Expertise                                                |     3d6      |
+|   7   |          +3           | Evasion, Reliable Talent                                 |     4d6      |
+|   8   |          +3           | Combat Superiority, General Feat                         |     4d6      |
+|   9   |          +4           | Subclass Feature                                         |     5d6      |
+|  10   |          +4           | -                                                        |     5d6      |
+|  11   |          +4           | Improved Cunning Strike                                  |     6d6      |
+|  12   |          +4           | Combat Superiority, Conservative Maneuvers, General Feat |     6d6      |
+|  13   |          +5           | Subclass Feature                                         |     7d6      |
+|  14   |          +5           | Devious Strikes                                          |     7d6      |
+|  15   |          +5           | Slippery Mind                                            |     8d6      |
+|  16   |          +5           | Combat Superiority, General Feat                         |     8d6      |
+|  17   |          +6           | Subclass Feature                                         |     9d6      |
+|  18   |          +6           | Elusive                                                  |     9d6      |
+|  19   |          +6           | Epic Boon                                                |     10d6     |
+|  20   |          +6           | Stroke of Luck                                           |     10d6     |
 
 ### Level 1: Expertise
 
@@ -101,6 +101,18 @@ You gain a Rogue subclass of your choice: [[Arcane Trickster]], [[Compendium/Cla
 
 As a Bonus Action, you give yourself [[Advantage]] on your next attack roll on your current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your [[Speed]] is 0 until the end of the current turn.
 
+### Level 4: Combat Superiority
+
+You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn an additional maneuver of your choice when you reach Rogue levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Rogue levels 8, 12 and 16.
+
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
+
 ### Level 4: General Feat
 
 You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Rogue levels 8, 12, and 16.
@@ -134,6 +146,12 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 ### Level 11: Improved Cunning Strike
 
 You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
+
+### Level 12: Conservative Maneuvers
+
+When you roll a 1 on a Superiority Die while performing a maneuver, the die is not expended.
+
+Additionally, you learn one additional maneuver of your choice.
 
 ### Level 14: Devious Strikes
 

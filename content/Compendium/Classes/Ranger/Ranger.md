@@ -34,19 +34,19 @@ As a Ranger, you gain the following class features when you reach the specified 
 |   1   |          +2           | Spellcasting, Favored Enemy, Weapon Mastery |         2         |
 |   2   |          +2           | Deft Explorer, Fighting Style               |         2         |
 |   3   |          +2           | Ranger Subclass                             |         2         |
-|   4   |          +2           | General Feat                                |         2         |
+|   4   |          +2           | Combat Superiority, General Feat            |         2         |
 |   5   |          +3           | Extra Attack                                |         3         |
 |   6   |          +3           | Roving                                      |         3         |
 |   7   |          +3           | Subclass Feature                            |         3         |
-|   8   |          +3           | General Feat                                |         3         |
+|   8   |          +3           | Combat Superiority, General Feat            |         3         |
 |   9   |          +4           | Expertise                                   |         4         |
 |  10   |          +4           | Tireless                                    |         4         |
 |  11   |          +4           | Subclass Feature                            |         4         |
-|  12   |          +4           | General Feat                                |         4         |
+|  12   |          +4           | General Feat, Improved Combat Superiority   |         4         |
 |  13   |          +5           | Relentless Hunter                           |         5         |
 |  14   |          +5           | Nature's Veil                               |         5         |
 |  15   |          +5           | Subclass Feature                            |         5         |
-|  16   |          +5           | General Feat                                |         5         |
+|  16   |          +5           | Combat Superiority, General Feat            |         5         |
 |  17   |          +6           | Precise Hunter                              |         6         |
 |  18   |          +6           | Feral Senses                                |         6         |
 |  19   |          +6           | Epic Boon                                   |         6         |
@@ -83,9 +83,15 @@ You have learned to channel the magical essence of nature to cast spells. The In
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[Cure Wounds]] and [[Ensnaring Strike]] are recommended.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which  A [[Range]' weapon has a range in parentheses after the [[Ammunition]] or [[Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyo'd normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.                                                                                                                                                                                                                                               asting ability for your Ranger spells.
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-**Spellcasting Focus.** You can use a [[Druidic Focus]] as a Spellcasting Focus for your R'nger spells.
+If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+
+**Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Ranger spell for which you have spell slots.
+
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
+
+**Spellcasting Focus.** You can use a [[Druidic Focus]] as a Spellcasting Focus for your Ranger spells.
 
 ### Level 1: Favored Enemy
 
@@ -124,11 +130,23 @@ You gain a Ranger Subclass of your choice: [[Beast Master]], [[Fey Wanderer]], [
 | [[Fey Wanderer]]           | Wield Fey Mirth and Fury                   |
 | [[Gloom Stalker]]          | Draw on Shadow Magic to Fight Your Foes    |
 | [[Hunter]]                 | Protect Nature and People from Destruction |
-| [[Winter Walker]]          |                                            |
+| [[Winter Walker]]          | Withstand the Horrors of Frigid Wastelands |
+
+### Level 4: Combat Superiority
+
+You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn an additional maneuver of your choice when you reach Ranger levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Ranger levels 8, 12 and 16.
+
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
 
 ### Level 4: General Feat
 
-You can select'a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Ranger levels 8, 12, and 16.
+You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Level 5: Extra Attack
 
@@ -149,6 +167,10 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 **Temporary Hit Points.** As a [[Magic]] Action, you can give yourself a number of [[Temporary Hit Points]] equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
 **Decrease Exhaustion.** Whenever you finish a [[Short Rest]], your [[Exhaustion]] level, if any, decreases by 1.
+
+### Level 12: Improved Combat Superiority
+
+Your Superiority Die becomes a d8.
 
 ### Level 13: Relentless Hunter
 

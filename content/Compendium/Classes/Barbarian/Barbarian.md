@@ -32,28 +32,28 @@ Barbarians often serve as protectors and leaders in their communities. They char
 As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
 
 ##### Barbarian Features
-| Level | Proficiency<br>Bonus | Class Features                          | Rages | Rage Damage | Weapon Mastery |
-| :---: | :------------------: | --------------------------------------- | :---: | :---------: | :------------: |
-|   1   |          +2          | Rage, Unarmored Defense, Weapon Mastery |   2   |     +2      |       2        |
-|   2   |          +2          | Danger Sense, Reckless Attack           |   2   |     +2      |       2        |
-|   3   |          +2          | Barbarian Subclass, Primal Knowledge    |   3   |     +2      |       2        |
-|   4   |          +2          | General Feat                            |   3   |     +2      |       3        |
-|   5   |          +3          | Extra Attack, Fast Movement             |   3   |     +2      |       3        |
-|   6   |          +3          | Subclass Feature                        |   4   |     +2      |       3        |
-|   7   |          +3          | Feral Instinct, Instinctive Pounce      |   4   |     +2      |       3        |
-|   8   |          +3          | General Feat                            |   4   |     +2      |       3        |
-|   9   |          +4          | Brutal Strike                           |   4   |     +2      |       3        |
-|  10   |          +4          | Subclass Feature                        |   4   |     +3      |       4        |
-|  11   |          +4          | Relentless Rage                         |   4   |     +3      |       4        |
-|  12   |          +4          | General Feat                            |   5   |     +3      |       4        |
-|  13   |          +5          | Improved Brutal Strike                  |   5   |     +3      |       4        |
-|  14   |          +5          | Subclass Feature                        |   5   |     +3      |       4        |
-|  15   |          +5          | Persistent Rage                         |   5   |     +3      |       4        |
-|  16   |          +5          | General Feat                            |   5   |     +4      |       4        |
-|  17   |          +6          | Improved Brutal Strike                  |   6   |     +4      |       4        |
-|  18   |          +6          | Indomitable Might                       |   6   |     +4      |       4        |
-|  19   |          +6          | Epic Boon                               |   6   |     +4      |       4        |
-|  20   |          +6          | Primal Champion                         |   6   |     +4      |       4        |
+| Level | Proficiency<br>Bonus | Class Features                            | Rages | Rage Damage | Weapon Mastery |
+| :---: | :------------------: | ----------------------------------------- | :---: | :---------: | :------------: |
+|   1   |          +2          | Rage, Unarmored Defense, Weapon Mastery   |   2   |     +2      |       2        |
+|   2   |          +2          | Danger Sense, Reckless Attack             |   2   |     +2      |       2        |
+|   3   |          +2          | Barbarian Subclass, Primal Knowledge      |   3   |     +2      |       2        |
+|   4   |          +2          | Combat Superiority, General Feat          |   3   |     +2      |       3        |
+|   5   |          +3          | Extra Attack, Fast Movement               |   3   |     +2      |       3        |
+|   6   |          +3          | Subclass Feature                          |   4   |     +2      |       3        |
+|   7   |          +3          | Feral Instinct, Instinctive Pounce        |   4   |     +2      |       3        |
+|   8   |          +3          | Combat Superiority, General Feat          |   4   |     +2      |       3        |
+|   9   |          +4          | Brutal Strike                             |   4   |     +2      |       3        |
+|  10   |          +4          | Subclass Feature                          |   4   |     +3      |       4        |
+|  11   |          +4          | Relentless Rage                           |   4   |     +3      |       4        |
+|  12   |          +4          | General Feat, Improved Combat Superiority |   5   |     +3      |       4        |
+|  13   |          +5          | Improved Brutal Strike                    |   5   |     +3      |       4        |
+|  14   |          +5          | Subclass Feature                          |   5   |     +3      |       4        |
+|  15   |          +5          | Persistent Rage                           |   5   |     +3      |       4        |
+|  16   |          +5          | Combat Superiority, General Feat          |   5   |     +4      |       4        |
+|  17   |          +6          | Improved Brutal Strike                    |   6   |     +4      |       4        |
+|  18   |          +6          | Indomitable Might                         |   6   |     +4      |       4        |
+|  19   |          +6          | Epic Boon                                 |   6   |     +4      |       4        |
+|  20   |          +6          | Primal Champion                           |   6   |     +4      |       4        |
 ### Level 1: Rage
 
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing [[Heavy Armor]].
@@ -112,6 +112,18 @@ You gain proficiency in another skill of your choice from the skill list availab
 
 In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: [[Acrobatics]], [[Intimidation]], [[Perception]], [[Stealth]], or [[Survival]]. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
 
+### Level 4: Combat Superiority
+
+You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn an additional maneuver of your choice when you reach Barbarian levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Barbarian levels 8, 12 and 16.
+
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
+
 ### Level 4: General Feat
 
 You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Barbarian levels 8, 12, and 16.
@@ -147,6 +159,10 @@ You have the following effect options.
 Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [[Hit Points]] instead change to a number equal to twice your Barbarian level.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[Short Rest|Short]] or [[Long Rest]], the DC resets to 10.
+
+### Level 12: Improved Combat Superiority
+
+Your Superiority Die becomes a d8.
 
 ### Level 13: Improved Brutal Strike
 

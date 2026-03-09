@@ -36,19 +36,19 @@ As a Fighter, you gain the following class features when you reach the specified
 |   1   |          +2           | Fighting Style, Second Wind, Weapon Mastery       |        2        |         3          |
 |   2   |          +2           | Action Surge (One Use), Tactical Mind             |        2        |         3          |
 |   3   |          +2           | Fighter Subclass                                  |        2        |         3          |
-|   4   |          +2           | General Feat                                      |        3        |         4          |
-|   5   |          +3           | Extra Attack, Tactical Shift                      |        3        |         4          |
-|   6   |          +3           | -                                                 |        3        |         4          |
+|   4   |          +2           | Combat Superiority, General Feat                  |        3        |         4          |
+|   5   |          +3           | Extra Attack                                      |        3        |         4          |
+|   6   |          +3           | Tactical Shift                                    |        3        |         4          |
 |   7   |          +3           | Subclass Feature                                  |        3        |         4          |
-|   8   |          +3           | General Feat                                      |        3        |         4          |
+|   8   |          +3           | Combat Superiority, General Feat                  |        3        |         4          |
 |   9   |          +4           | Indomitable (One Use), Tactical Master            |        3        |         4          |
 |  10   |          +4           | Subclass Feature                                  |        4        |         5          |
 |  11   |          +4           | Two Extra Attacks                                 |        4        |         5          |
-|  12   |          +4           | General Feat                                      |        4        |         5          |
-|  13   |          +5           | Indomitable (Two Uses), Studied Attacks           |        4        |         5          |
-|  14   |          +5           | -                                                 |        4        |         5          |
+|  12   |          +4           | General Feat, Improved Combat Superiority         |        4        |         5          |
+|  13   |          +5           | Indomitable (Two Uses)                            |        4        |         5          |
+|  14   |          +5           | Studied Attacks                                   |        4        |         5          |
 |  15   |          +5           | Subclass Feature                                  |        4        |         5          |
-|  16   |          +5           | General Feat                                      |        4        |         6          |
+|  16   |          +5           | Combat Superiority, General Feat                  |        4        |         6          |
 |  17   |          +6           | Action Surge (Two Uses), Indomitable (Three Uses) |        4        |         6          |
 |  18   |          +6           | Subclass Feature                                  |        4        |         6          |
 |  19   |          +6           | Epic Boon                                         |        4        |         6          |
@@ -95,8 +95,19 @@ You gain a Fighter subclass of your choice: [[Banneret]], [[Champion]], [[Eldrit
 | [[Psi Warrior]]              | Augment Physical Might with Psionic Power     |
 
 > [!info] Battle Master subclass
-> If you specifically wanted to play the Battle Master subclass, let Zee know. I'm working on integrating Maneuvers into the Fighter class and discontinuing the subclass, but I haven't gotten around to doing that yet.
+> Battle Master subclass has been removed and [[Maneuvers]] have been integrated into all Martial Classes (Barbarian, Fighter, Monk, Paladin, Ranger, Rogue). Fighter is still the best class for Maneuver-focused gameplay.
 
+### Level 4: Combat Superiority
+
+You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn two additional maneuvers of your choice when you reach Fighter levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+
+**Superiority Dice.** You have three Superiority Dice, which are d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Fighter levels 8, 12 and 16.
+
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.
 
 ### Level 4: General Feat
 
@@ -106,7 +117,7 @@ You can select a General Feat of your choice for which you qualify. [[Ability Sc
 
 You can attack twice instead of once whenever you take the [[Attack]] action on your turn.
 
-### Level 5: Tactical Shift
+### Level 6: Tactical Shift
 
 Whenever you activate your Second Wind with a Bonus Action, you can move up to half your [[Speed]] without provoking [[Opportunity Attacks]].
 
@@ -124,7 +135,11 @@ When you attack with a weapon whose [[Mastery]] property you can use, you can re
 
 You can attack three times instead of once whenever you take the [[Attack]] action on your turn.
 
-### Level 13: Studied Attacks
+### Level 12: Improved Combat Superiority
+
+Your Superiority Die becomes a d10.
+
+### Level 14: Studied Attacks
 
 You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have [[Advantage]] on your next attack roll against that creature before the end of your next turn.
 
