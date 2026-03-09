@@ -118,7 +118,8 @@ You gain a Fighting Style feat of your choice. Instead of choosing one of those 
 
 ### Level 2: Paladin's Smite
 
-You always have the [[Divine Smite]] spell prepared.  
+You always have the [[Divine Smite]] spell prepared.
+
 You can cast it without expending a spell slot, but you must finish a [[Long Rest]] before you can cast it this way again.
 
 ### Level 3: Channel Divinity
@@ -160,8 +161,7 @@ You can attack twice instead of once whenever you take the [[Attack]] action on 
 
 ### Level 5: Faithful Steed
 
-You can call on the aid of an otherworldly steed.  
-You always have the [[Find Steed]] spell prepared.
+You can call on the aid of an otherworldly steed. You always have the [[Find Steed]] spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a [[Long Rest]].
 

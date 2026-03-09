@@ -22,7 +22,4 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
-Last updated: 2026-02-28 early morning
-- added bunch of new spells
-- improved [[Actions]] page to list common options in combat
-- reworked [[Disengage]] as a bonus action to be simpler
+Last updated: 2026-03-09 early morning

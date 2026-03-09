@@ -83,11 +83,19 @@ You have unearthed [[Eldritch Invocations]], pieces of forbidden knowledge that 
 
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
-**Replacing and Gaining Invocations.** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invoc A [[Range]' weapon has a range in parentheses after the [[Ammunition]] or [[Thrown]] property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [[Disadvantage]] on the attack roll. You can't attack a target beyond the long range.                                                                                                                                                                                                                                               rules with Warlock spells, which appear in the [[Warlock Spell List]].
+**Replacing and Gaining Invocations.** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can’t replace an invocation if it’s a prerequisite for another invocation that you have.
+
+When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
+
+You can’t pick the same invocation more than once unless its description says otherwise.
+
+### Level 1: Pact Magic
+
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells.
 
 **Cantrips.** You know two Warlock cantrips of your choice. [[Eldritch Blast]] and [[Prestidigitation]] are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
-When yo' reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
+When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
 **Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [[Short Rest|Short]] or [[Long Rest]].
 
@@ -99,7 +107,7 @@ The number of spells on your list increases as you gain Warlock levels, as shown
 
 If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
 
-**Changing Your Prepa'ed Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Warlock spell of an eligible level.
+**Changing Your Prepared Spells.** Whenever you finish a [[Long Rest]], you can replace one spell on your list with another Warlock spell of an eligible level.
 
 **Spellcasting Ability.** Charisma is the spellcasting ability for your Warlock spells.
 
@@ -107,7 +115,7 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 ### Level 2: Magical Cunning
 
-You can perform an esoteric rite for 1 minute. At the end of 't, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, 'ou can't do so again until you finish a [[Long Rest]].
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a [[Long Rest]].
 
 ### Level 3: Warlock Subclass
 
@@ -117,12 +125,12 @@ You gain a Warlock subclass of your choice: [[Archfey Patron]], [[Celestial Patr
 | ------------------------- | ------------------------------------------ |
 | [[Archfey Patron]]        | Bargain with Whimsical Fey                 |
 | [[Celestial Patron]]      | Call on the Power of the Heavens           |
-| [[Fiend Patron]]          | Make a Deal with the Lower 'lanes          |
+| [[Fiend Patron]]          | Make a Deal with the Lower Planes          |
 | [[Great Old One Patron]]  | Unearth Forbidden Lore of Ineffable Beings |
 
 ### Level 4: General Feat
 
-You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again a' Warlock levels 8, 12, and 16.
+You can select a General Feat of your choice for which you qualify. [[Ability Score Improvement]] is always useful. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Level 9: Contact Patron
 
@@ -136,7 +144,7 @@ Your patron grants you a magical secret called an arcanum. Choose one level 6 Wa
 
 You can cast your arcanum spell once without expending a spell slot, and you must finish a [[Long Rest]] before you can cast it in this way again.
 
-As shown in the Warlock Features table, you gain a'other Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7'spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [[Long Rest]].
+As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [[Long Rest]].
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
