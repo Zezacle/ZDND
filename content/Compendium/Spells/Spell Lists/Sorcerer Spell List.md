@@ -65,33 +65,34 @@ tags:
 | Level | Spell                    | School        | Special |
 | :---: | ------------------------ | ------------- | ------- |
 |   2   | [[Absorb Spell]]*        | Abjuration    | —       |
+|   2   | [[Flaming Sphere]]       | Conjuration   | C       |
+|   2   | [[Misty Step]]           | Conjuration   | —       |
+|   2   | [[Web]]                  | Conjuration   | C       |
+|   2   | [[Detect Thoughts]]      | Divination    | C       |
+|   2   | [[Mind Spike]]           | Divination    | C       |
+|   2   | [[See Invisibility]]     | Divination    | —       |
+|   2   | [[Hold Person]]          | Enchantment   | C       |
+|   2   | [[Suggestion]]           | Enchantment   | C       |
+|   2   | [[Emit Darkness]]        | Evocation     | C       |
+|   2   | [[Flame Blade]]          | Evocation     | C       |
+|   2   | [[Gust of Wind]]         | Evocation     | C       |
+|   2   | [[Scorching Ray]]        | Evocation     | —       |
+|   2   | [[Shatter]]              | Evocation     | —       |
+|   2   | [[Penetrating Blast]]*   | Evocation     | —       |
+|   2   | [[Blur]]                 | Illusion      | C       |
+|   2   | [[Invisibility]]         | Illusion      | C       |
+|   2   | [[Mirror Image]]         | Illusion      | —       |
+|   2   | [[Phantasmal Force]]     | Illusion      | C       |
 |   2   | [[Alter Self]]           | Transmutation | C       |
 |   2   | [[Blindness + Deafness]] | Transmutation | —       |
-|   2   | [[Blur]]                 | Illusion      | C       |
-|   2   | [[Detect Thoughts]]      | Divination    | C       |
 |   2   | [[Dragon's Breath]]      | Transmutation | C       |
-|   2   | [[Emit Darkness]]        | Evocation     | C       |
 |   2   | [[Enhance Ability]]      | Transmutation | C       |
 |   2   | [[Enlarge + Reduce]]     | Transmutation | C       |
-|   2   | [[Flame Blade]]          | Evocation     | C       |
-|   2   | [[Flaming Sphere]]       | Conjuration   | C       |
-|   2   | [[Gust of Wind]]         | Evocation     | C       |
-|   2   | [[Hold Person]]          | Enchantment   | C       |
 |   2   | [[Imbue Darkvision]]     | Transmutation | —       |
-|   2   | [[Invisibility]]         | Illusion      | C       |
 |   2   | [[Knock]]                | Transmutation | —       |
 |   2   | [[Levitate]]             | Transmutation | C       |
 |   2   | [[Magic Weapon]]         | Transmutation | —       |
-|   2   | [[Mind Spike]]           | Divination    | C       |
-|   2   | [[Mirror Image]]         | Illusion      | —       |
-|   2   | [[Misty Step]]           | Conjuration   | —       |
-|   2   | [[Phantasmal Force]]     | Illusion      | C       |
-|   2   | [[Scorching Ray]]        | Evocation     | —       |
-|   2   | [[See Invisibility]]     | Divination    | —       |
-|   2   | [[Shatter]]              | Evocation     | —       |
 |   2   | [[Spider Climb]]         | Transmutation | C       |
-|   2   | [[Suggestion]]           | Enchantment   | C       |
-|   2   | [[Web]]                  | Conjuration   | C       |
 
 
 ### Level 3 Spells

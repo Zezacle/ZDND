@@ -70,6 +70,7 @@ tags:
 |   2   | [[Prayer of Healing]]      | Abjuration    | —       |
 |   2   | [[Protection from Poison]] | Abjuration    | —       |
 |   2   | [[Silence]]                | Illusion      | C, R    |
+|   2   | [[Sparring Ward]]          | Abjuration    | R       |
 |   2   | [[Spiritual Weapon]]       | Evocation     | C       |
 |   2   | [[Warding Bond]]           | Abjuration    | M       |
 |   2   | [[Zone of Truth]]          | Enchantment   | —       |

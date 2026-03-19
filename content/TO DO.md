@@ -3,18 +3,21 @@ draft: true
 tags:
 ---
 ### Charter of the North
-- Ask will about subclass + shillelagh question?
-- [[Bat in a Bottle]] - Throw, receive 20ft of blindsight from impact site
-- Stat Block for Dueling Knight encounter
+Yulemide Temple NPC (Dwarf)
+
+Evil Tree Heart
+- Add picture
+- Create things for it
 
 ### Foundry
 - add lighting strike to sfx
 - add more music: boss music from Mystic Arts?
 
-#### Random Encounter Maps
-- Evil Grove
-	- Big heart thing
-- Swamps, grid, walls, diff terrain
+#### Encounter Maps
+- Sea Hag's Hut
+- Yulemide Mines
+- Stillwater expanded
+	- Hunt showdown Spider boss?
 
 
 

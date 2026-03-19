@@ -19,6 +19,7 @@ tags:
 |   1   | [[Divine Favor]]                  | Transmutation | —       |
 |   1   | [[Divine Smite]]                  | Evocation     | —       |
 |   1   | [[Heroism]]                       | Enchantment   | C       |
+|   1   | [[Killing Glimpse]]*              | Divination    | —       |
 |   1   | [[Protection from Good and Evil]] | Abjuration    | C       |
 |   1   | [[Purify Food and Drink]]         | Transmutation | R       |
 |   1   | [[Searing Smite]]                 | Evocation     | —       |
@@ -41,9 +42,9 @@ tags:
 |   2   | [[Prayer of Healing]]      | Abjuration    | —       |
 |   2   | [[Protection from Poison]] | Abjuration    | —       |
 |   2   | [[Shining Smite]]          | Transmutation | C       |
+|   2   | [[Sparring Ward]]*         | Abjuration    | R       |
 |   2   | [[Warding Bond]]           | Abjuration    | M       |
 |   2   | [[Zone of Truth]]          | Enchantment   | —       |
-
 
 
 ### Level 3 Spells

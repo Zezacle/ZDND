@@ -62,6 +62,7 @@ tags:
 |   2   | [[Mind Spike]]          | Divination    | C       |
 |   2   | [[Mirror Image]]        | Illusion      | —       |
 |   2   | [[Misty Step]]          | Conjuration   | —       |
+|   2   | [[Penetrating Blast]]*  | Evocation     | —       |
 |   2   | [[Ray of Enfeeblement]] | Necromancy    | C       |
 |   2   | [[Spider Climb]]        | Transmutation | C       |
 |   2   | [[Suggestion]]          | Enchantment   | C       |

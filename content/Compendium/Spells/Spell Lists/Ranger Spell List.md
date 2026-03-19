@@ -23,6 +23,7 @@ tags:
 |   1   | [[Hail of Thorns]]            | Conjuration   | —       |
 |   1   | [[Hunter's Mark]]             | Divination    | C       |
 |   1   | [[Jump]]                      | Transmutation | —       |
+|   1   | [[Killing Glimpse]]*          | Divination    | —       |
 |   1   | [[Longstrider]]               | Transmutation | —       |
 |   1   | [[Lost and Found]]*           | Divination    | —       |
 |   1   | [[Speak with Animals]]        | Divination    | R       |

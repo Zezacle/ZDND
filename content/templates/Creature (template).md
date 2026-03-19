@@ -45,11 +45,11 @@ tags:
 
 ### Actions
 
-**Melee.** Melee Attack Roll: +# to hit, reach # ft.
-- Hit: # (#d# + #) type damage.
+**Melee.** Melee Attack Roll: `dice: 1d20 +X` (+#) to hit, reach # ft.
+- Hit: `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
 
-**Ranged.** Ranged Weapon Attack: +# to hit, range ##/##, single target
-- Hit: # (#d# + #) type damage.
+**Ranged.** Ranged Weapon Attack: `dice: 1d20 +X` (+#) to hit, range ##/##, single target
+- Hit: `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
 
 ### Bonus Actions
 

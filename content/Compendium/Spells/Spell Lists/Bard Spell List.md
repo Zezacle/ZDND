@@ -9,10 +9,12 @@ tags:
 | Level | Spell                  | School        | Special |
 | :---: | ---------------------- | ------------- | ------- |
 |   0   | [[Banker's Exchange]]* | Transmutation | —       |
+|   0   | [[Blade Ward]]         | Abjuration    | C       |
 |   0   | [[Calling Card]]*      | Transmutation | —       |
 |   0   | [[Card Throw]]*        | Evocation     | —       |
 |   0   | [[Close Wound]]*       | Abjuration    | —       |
 |   0   | [[Dancing Lights]]     | Illusion      | C       |
+|   0   | [[Friends]]            | Enchantment   | C       |
 |   0   | [[Mage Hand]]          | Conjuration   | —       |
 |   0   | [[Mending]]            | Transmutation | —       |
 |   0   | [[Message]]            | Transmutation | —       |
@@ -21,11 +23,9 @@ tags:
 |   0   | [[Prestidigitation]]   | Transmutation | —       |
 |   0   | [[Starry Wisp]]        | Evocation     | —       |
 |   0   | [[Summon Seat]]*       | Conjuration   | —       |
+|   0   | [[Thunderclap]]        | Evocation     | —       |
 |   0   | [[True Strike]]        | Divination    | —       |
 |   0   | [[Vicious Mockery]]    | Enchantment   | —       |
-|   0   | [[Blade Ward]]         | Abjuration    | C       |
-|   0   | [[Friends]]            | Enchantment   | C       |
-|   0   | [[Thunderclap]]        | Evocation     | —       |
 
 
 ### Level 1 Spells
@@ -52,6 +52,7 @@ tags:
 |   1   | [[Hideous Laughter]]       | Enchantment   | C       |
 |   1   | [[Identify]]               | Divination    | R       |
 |   1   | [[Illusory Script]]        | Illusion      | R       |
+|   1   | [[Killing Glimpse]]*       | Divination    | —       |
 |   1   | [[Longstrider]]            | Transmutation | —       |
 |   1   | [[Lost and Found]]*        | Divination    | —       |
 |   1   | [[Silent Image]]           | Illusion      | C       |
@@ -90,6 +91,7 @@ tags:
 |   2   | [[See Invisibility]]         | Divination    | —       |
 |   2   | [[Shatter]]                  | Evocation     | —       |
 |   2   | [[Silence]]                  | Illusion      | C, R    |
+|   2   | [[Sparring Ward]]            | Abjuration    | R       |
 |   2   | [[Suggestion]]               | Enchantment   | C       |
 |   2   | [[Zone of Truth]]            | Enchantment   | —       |
 

@@ -1,16 +1,16 @@
 ---
 draft: false
 ---
-Windscape has a number of merchants and artisans selling their wares. Instead of spending lots of time doing shopping, you can select items from this shopping list to buy or commission.
+Instead of spending lots of time doing shopping, you can select items from this shopping list to buy or commission.
 
 This list is non-exhaustive and vendors like the General Store selling [[Rations]] are not listed.
-
-Available goods will change as Windscape grows as a settlement and more merchants/artisans travel to Windscape!
 
 ### Shopping Guide
 Prices are listed per unit. A unit may be a bundle of many such as [[Arrows]] x10. If an item does not have a number of units listed, the merchant has plenty to spare in stock (effectively unlimited), otherwise they have limited stock equal to the unit count listed and can run out of the item.
 
 If an item has an attached commission length, it takes the merchant that long to produce the item and add it to their stock. A merchant will hold onto a commissioned item until it can be claimed, however some lose patience and will sell unclaimed commissions.
+
+# Windscape Vendors
 
 ## Lickle's Weapon Smithy
 Lickle has a number of common kinds of weapons in stock, however he is often very busy forging the needs of Windscape's people such as nails, horseshoes and farming implements.
@@ -106,4 +106,17 @@ The Game Lodge houses a number of leatherworkers, woodworkers and fletchers who 
 - [[Needles]] x10 (2 GP)
 - [[Sling Bullets]] x10 (1 sp)
 
+## Witch on the Beach
+The Witch on the Beach sells beneficial brews and other magical oddities.
 
+#### Witch Hut Potions
+- [[Potion of Healing]] (Lesser) - 25 GP
+- [[Potion of Healing]] (Greater) - 60 GP
+- [[Potion of Watchful Rest]] - 50 GP
+- [[Potion of Purging]] - 25 GP
+- [[Potion of Diminution]] - 80 GP
+- [[Alchemist's Supplies]] - 50 GP
+- [[Herbalism Kit]] - 5 GP
+- [[Woodcarver's Tools]] - 1 GP
+- [[Goodberry]] - 2 GP each
+- [[Bat in a Bottle]] - 80 GP

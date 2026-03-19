@@ -64,6 +64,7 @@ tags:
 |   1   | [[Identify]]                      | Divination    | R, M    |
 |   1   | [[Illusory Script]]               | Illusion      | R, M    |
 |   1   | [[Jump]]                          | Transmutation | —       |
+|   1   | [[Killing Glimpse]]*              | Divination    | —       |
 |   1   | [[Longstrider]]                   | Transmutation | —       |
 |   1   | [[Lost and Found]]*               | Divination    | M       |
 |   1   | [[Mage Armor]]                    | Abjuration    | —       |
@@ -123,6 +124,7 @@ tags:
 |   2   | [[Scorching Ray]]         | Evocation     | —       |
 |   2   | [[See Invisibility]]      | Divination    | —       |
 |   2   | [[Shatter]]               | Evocation     | —       |
+|   2   | [[Sparring Ward]]*        | Abjuration    | R       |
 |   2   | [[Spider Climb]]          | Transmutation | C       |
 |   2   | [[Suggestion]]            | Enchantment   | C       |
 |   2   | [[Web]]                   | Conjuration   | C       |

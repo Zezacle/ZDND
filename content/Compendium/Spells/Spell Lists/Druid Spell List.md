@@ -77,6 +77,7 @@ tags:
 |   2   | [[Locate Object]]            | Divination    | C       |
 |   2   | [[Moonbeam]]                 | Evocation     | C       |
 |   2   | [[Pass without Trace]]       | Abjuration    | C       |
+|   2   | [[Penetrating Blast]]*       | Evocation     | —       |
 |   2   | [[Protection from Poison]]   | Abjuration    | —       |
 |   2   | [[Spike Growth]]             | Transmutation | C       |
 |   2   | [[Summon Beast]]             | Conjuration   | C, M    |
