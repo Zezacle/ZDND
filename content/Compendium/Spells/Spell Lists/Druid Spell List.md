@@ -77,7 +77,6 @@ tags:
 |   2   | [[Locate Object]]            | Divination    | C       |
 |   2   | [[Moonbeam]]                 | Evocation     | C       |
 |   2   | [[Pass without Trace]]       | Abjuration    | C       |
-|   2   | [[Penetrating Blast]]*       | Evocation     | —       |
 |   2   | [[Protection from Poison]]   | Abjuration    | —       |
 |   2   | [[Spike Growth]]             | Transmutation | C       |
 |   2   | [[Summon Beast]]             | Conjuration   | C, M    |
@@ -94,6 +93,7 @@ tags:
 |   3   | [[Dispel Magic]]           | Abjuration    | —       |
 |   3   | [[Feign Death]]            | Necromancy    | R       |
 |   3   | [[Meld into Stone]]        | Transmutation | R       |
+|   3   | [[Penetrating Blast]]*     | Evocation     | —       |
 |   3   | [[Plant Growth]]           | Transmutation | —       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Revivify]]               | Necromancy    | M       |

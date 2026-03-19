@@ -78,7 +78,6 @@ tags:
 |   2   | [[Gust of Wind]]         | Evocation     | C       |
 |   2   | [[Scorching Ray]]        | Evocation     | —       |
 |   2   | [[Shatter]]              | Evocation     | —       |
-|   2   | [[Penetrating Blast]]*   | Evocation     | —       |
 |   2   | [[Blur]]                 | Illusion      | C       |
 |   2   | [[Invisibility]]         | Illusion      | C       |
 |   2   | [[Mirror Image]]         | Illusion      | —       |
@@ -112,6 +111,7 @@ tags:
 |   3   | [[Hypnotic Pattern]]       | Illusion      | C       |
 |   3   | [[Lightning Bolt]]         | Evocation     | —       |
 |   3   | [[Major Image]]            | Illusion      | C       |
+|   3   | [[Penetrating Blast]]*     | Evocation     | —       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Shadow Clone]]*          | Conjuration   | C       |
 |   3   | [[Sleet Storm]]            | Conjuration   | C       |
