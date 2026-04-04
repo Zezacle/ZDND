@@ -34,6 +34,8 @@ The construct stays awakened for up to 7 days or until you carve a new one or it
 > **CR** None (PB equals your Proficiency Bonus)
 > 
 > ## Traits
+> **False Appearance.** When the construct remains motionless, it is indistinguishable from a normal wooden carving.
+> 
 > **Wooden Anatomy.** The construct floats in water, and does not need air to breathe.
 > 
 > ## Actions
