@@ -8,8 +8,7 @@ tags:
 
 **Weight:** 2 lb.
 **Bonuses:** 
-- +1 [[Armor Class|AC]]
-- +1 [[Evasion Class|EC]]
+- +1 [[Evasion Class]]
 **Properties:**
 - **Weapon.** A [[Buckler Shield]] is also a weapon, with the following properties:
 	- 1d4 bludgeoning

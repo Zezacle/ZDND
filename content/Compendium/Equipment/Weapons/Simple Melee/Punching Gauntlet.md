@@ -13,7 +13,7 @@ aliases:
 **Properties:**
 - *Special:* 
 	- **Fist Weapon.** When you hit a target, you can **Shove** or **Grapple** instead of dealing damage similar to an [[Unarmed Strike]].
-	- **Worn Weapon.** When dual wielding two Punching Gauntlets, you gain +1 AC. Additionally, you have [[Advantage]] on saving throws against being disarmed while wielding this weapon.
+	- **Worn Weapon.** Wearing this weapon grants +1 [[Evasion Class|EC]] and +1 [[Armor Class|AC]] while your hand is empty. You have [[Advantage]] on saving throws against being disarmed while wielding this weapon.
 - [[Light]]
 - [[Non-Lethal]]
 - [[Quick]]

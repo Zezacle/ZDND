@@ -39,8 +39,8 @@ tags:
 | 1500 GP | [[Full Plate Armor]]           |          20           | 70 lb. |    15     | [[Hefty]], [[Impairing]], [[Unstealthy]] |
 ### Shields
 
-| Cost  | Shield             | [[Armor Class\|AC]] | [[Evasion Class\|EC]] | Weight |                      Properties |
-| :---- | ------------------ | :-----------------: | :-------------------: | :----: | ------------------------------: |
-| 15 GP | [[Buckler Shield]] |          -          |          +1           | 2 lb.  |                          Weapon |
-| 2 GP  | [[Arm Shield]]     |         +2          |          +2           | 6 lb.  |                               - |
-| 10 GP | [[Tower Shield]]   |         +2          |          +2           | 15 lb. | Cover, Sluggish, [[Unstealthy]] |
+| Cost  | Shield             | [[Evasion Class\|EC]] | [[Armor Class\|AC]] | Weight |                      Properties |
+| :---- | ------------------ | :-------------------: | :-----------------: | :----: | ------------------------------: |
+| 15 GP | [[Buckler Shield]] |          +1           |          -          | 2 lb.  |                          Weapon |
+| 2 GP  | [[Arm Shield]]     |          +2           |         +2          | 6 lb.  |                               - |
+| 10 GP | [[Tower Shield]]   |          +2           |         +2          | 15 lb. | Cover, Sluggish, [[Unstealthy]] |

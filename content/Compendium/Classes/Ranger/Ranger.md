@@ -110,9 +110,9 @@ Whenever you finish a [[Long Rest]], you can change the kinds of weapons you cho
 
 Thanks to your travels, you gain the following benefits.
 
-**Expertise.**: Choose one of your skill proficiencies with which you lack [[Expertise]]. You gain [[Expertise]] in that skill.
+**Expertise.** Choose one of your skill proficiencies with which you lack [[Expertise]]. You gain [[Expertise]] in that skill.
 
-**Languages.**: You know an additional language of your choice.
+**Languages.** You know an additional language of your choice.
 
 ### Level 2: Fighting Style
 
