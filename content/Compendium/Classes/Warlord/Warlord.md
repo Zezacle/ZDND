@@ -12,7 +12,7 @@
 |                                | (A) [[Ringmail]], [[Halberd]], [[Dungeoneer's Pack]], and 8 GP <br>                                                                                  |
 |                                | (B) [[Leather Armor]], [[Shortsword]], [[Light Crossbow]], 20 [[Bolts]], [[Dungeoneer's Pack]] and 11 GP                                             |
 |                                | (C) 90 GP                                                                                                                                            |
-A commander that reshapes the battlefield
+
 
 The Warlord rules the battlefield. Commander, captain or battle-scarred veteran, whatever title they bear they are defined by both their martial prowess and their military insight. Warlords possess a potent combination of strength and intellect they use to win any battle they find themselves in.
 

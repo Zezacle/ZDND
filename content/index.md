@@ -23,4 +23,4 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 Last updated: 2026-04-06
-- Added Warlord Class from Mystic Arts
+- Added [[Warlord]] Class from Mystic Arts
