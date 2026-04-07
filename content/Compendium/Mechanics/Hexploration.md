@@ -3,7 +3,7 @@ tags:
   - new
   - mechanic
 ---
-[[Hexploration]] is the process of over-land travel used when the travel may have unexpected discoveries, encounters or other interesting things. It consists of moving across a hex grid, discovering what that hex contains, previewing the neighboring hexes and making an informed decision on where to go next.
+[[Private/Mechanics/Hexploration]] is the process of over-land travel used when the travel may have unexpected discoveries, encounters or other interesting things. It consists of moving across a hex grid, discovering what that hex contains, previewing the neighboring hexes and making an informed decision on where to go next.
 
 Hexploration rules are not used for traveling long distances between known points over known terrain. (We simplify that shiiii cuz)
 

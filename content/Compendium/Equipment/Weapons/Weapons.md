@@ -34,7 +34,7 @@ aliases:
 | Cost  | Weapon                              |     Damage      |                                        **[[Weapon Properties]]** |  Mastery |
 | :---- | :---------------------------------- | :-------------: | ---------------------------------------------------------------: | -------: |
 | 1 GP  | [[Blowpipe]]                        |   1 piercing    |       [[Ammunition]] (25/75), *Special*, [[Loading]], [[Unseen]] |  [[Vex]] |
-| 75 GP | [[Hand Crossbow\|Crossbow, Hand]]   |  1d4 piercing   |       [[Ammunition]] (30/120), [[Light]], [[Loading]] [[Unseen]] |  [[Vex]] |
+| 75 GP | [[Hand Crossbow\|Crossbow, Hand]]   |  1d4 piercing   |      [[Ammunition]] (30/120), [[Light]], [[Loading]], [[Unseen]] |  [[Vex]] |
 | 25 GP | [[Light Crossbow\|Crossbow, Light]] |  2d4 piercing   |             [[Ammunition]] (60/300), [[Loading]], [[Two-Handed]] | [[Slow]] |
 | 50 GP | [[Heavy Crossbow\|Crossbow, Heavy]] |  2d8 piercing   | [[Ammunition]] (100/400), [[Heavy]], [[Loading]], [[Two-Handed]] | [[Push]] |
 | 1 SP  | [[Sling]]                           | 1d4 bludgeoning |              [[Ammunition]] (30/90), [[Finesse]], [[Non-Lethal]] | [[Slow]] |

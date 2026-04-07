@@ -6,16 +6,9 @@ tags:
 
 **Attunement:**
 **Base Item / Stored Spell:**
+
+**Recharge:**
 **Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+
 
 Description
