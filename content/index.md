@@ -22,5 +22,14 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
-Last updated: 2026-04-06
+Update 2026-05-09:
+- Added [[Magical Tattoos]] rules
+	- 13 magic tattoos
+	- [[Tattooing Kit]] tool
+	- [[Tattoo Artist]] feat
+	- [[Enchanted Tattoo Ink]]
+- Added [[Totem of Sanctuary]]
+- Added Player Characters pages
+
+Update 2026-04-06:
 - Added [[Warlord]] Class from Mystic Arts

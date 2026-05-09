@@ -5,21 +5,14 @@ tags:
 ### Charter of the North
 Macro Icons: https://foundryvtt.com/packages/icon-picker/
 
-
 Evil Tree Heart
 - Add picture
 - Create things for it
 
 ### Foundry
-- add lighting strike to sfx
-- add more music: boss music from Mystic Arts?
-
-#### Encounter Maps
-- Sea Hag's Hut
-- Yulemide Mines
-- Stillwater expanded
-	- Hunt showdown Spider boss?
-
+- add sfx
+- add more music: 
+	- ADD INSCRYPTION
 
 Polish [[00) Creating a Character]]
 

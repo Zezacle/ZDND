@@ -19,6 +19,7 @@ The Warlord rules the battlefield. Commander, captain or battle-scarred veteran,
 The Warlord is a master of adapting to new circumstances and meting out violence in order to have their will done. They are intelligent, skilled, and versatile. Many are well read, educated, and possibly even noble-born, while others lead by virtue of strength alone. An experienced combatant, they are adept with every form of armor and weapon, with some achieving a level of mastery with their weapon of choice that rivals any warrior.
 
 ### Becoming a Warlord
+
 #### As a Level 1 Character
 - Gain all the traits in the Core Warlord Traits table.
 - Gain the Warlord's level 1 features, which are listed in the Warlord Features table.
