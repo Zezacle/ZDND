@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem/tattoo
+  - magicitem/tattoo/greater
 ---
 **Body Part Requirements:**
 - Both Torso + Both Head + Any two Body Parts

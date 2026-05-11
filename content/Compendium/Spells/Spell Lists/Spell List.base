@@ -7,6 +7,7 @@ views:
     filters:
       and:
         - file.hasTag("spell")
+        - concentration == true
     groupBy:
       property: spell_level
       direction: ASC

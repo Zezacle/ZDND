@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem/tattoo
+  - magicitem/tattoo/greater
 ---
 **Body Part Requirements:**
 - Level 1: One Torso

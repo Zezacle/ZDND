@@ -1,6 +1,6 @@
 ---
 tags:
-  - magicitem/tattoo
+  - magicitem/tattoo/greater
 ---
 **Body Part Requirements:**
 - Any combination of two Arms or Legs

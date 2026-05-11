@@ -21,6 +21,16 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 
 
+Update 2026-05-10:
+- Updated [[Spells]] page
+- Added rules to [[Magical Tattoos]] for "Lesser" Magical Tattoos
+	- (Previous Tattoos now "Greater" Magical Tattoos)
+	- Added Greater Magical Tattoos
+		- [[Anchor Step Tattoo]]
+		- [[Feather Step Tattoo]]
+		- [[Sheath Tattoo]]
+		- [[Spellmind Tattoo]]
+	- Added 14 Lesser Magical Tattoos
 
 Update 2026-05-09:
 - Added [[Magical Tattoos]] rules
