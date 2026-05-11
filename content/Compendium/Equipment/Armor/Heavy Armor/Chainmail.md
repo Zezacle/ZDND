@@ -13,4 +13,4 @@ tags:
 	- **Quick Change.** [[Chainmail]] only takes 5 minute to Don or 1 minute to Doff.
 - [[Hefty]]
 
-![[armor_chainmail.webp|300]]
+![[armor_chainmail.webp | center | 300]]
