@@ -1,20 +1,15 @@
-#### Name [[05) Homebrew Alley/Templates/Equipment|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-*Category, Rarity*
+---
+tags:
+  - magicitem/uncommon
+  - consumable
+---
+*Wondrous Item (Consumable), Uncommon*
 
-**Attunement:**
-**Base Item / Stored Spell:**
-**Charges Left:**
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
->  - [ ] %% %%
+This gem contains a mote of elemental energy. When you take a [[Utilize]] action to break the gem, an elemental is summoned, and the gem ceases to be magical. The elemental appears in an unoccupied space as close to the broken gem as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [[Initiative]] count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a Bonus Action. The type of gem determines the elemental, as shown in the following table.
 
-Description
-
-#magicitem
+| Gem            | Summoned Elemental  |
+| -------------- | ------------------- |
+| Blue Sapphire  | [[Air Elemental]]   |
+| Emerald        | [[Water Elemental]] |
+| Red Corundum   | [[Fire Elemental]]  |
+| Yellow Diamond | [[Earth Elemental]] |

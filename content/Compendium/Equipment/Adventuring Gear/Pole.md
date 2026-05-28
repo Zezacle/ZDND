@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 sp
+**Weight:** 7 lb.
+
+A [[Pole]] is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([[Athletics]]) check as part of a High or Long [[Jumping|Jump]], you can use the [[Pole]] to vault, giving yourself [[Advantage]] on the check.

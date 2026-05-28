@@ -10,7 +10,7 @@ tags:
 
 **Ink Sheath.** The tattoo represents a weapon type. As a [[Magic]] Action, you can store a weapon of that type within a pocket-dimension represented by the tattoo. While a weapon is sheathed within the tattoo, it takes the image of the weapon. As a Bonus Action, you may draw the weapon from the tattoo.
 
-The weapon type can be changed to another viable type by using a [[Tattooing Kit]] for 4 hours.
+The weapon type can be changed to another viable type by using a [[Tattooist's Tools]] for 4 hours.
 
 The available weapon types one can store within the tattoo change based on the body part that bears the tattoo.
 

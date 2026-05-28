@@ -4,11 +4,11 @@ tags:
 ---
 *Category, Rarity*
 
-**Attunement:**
-**Base Item / Stored Spell:**
+**Attunement:** No
+**Cost:** 5 GP
+**Weight:** -
+**Uses:** Single Use
 
-**Recharge:**
-**Charges Left:**
+*Flavor Text.*
 
-
-Description
+**Feature.** Description.

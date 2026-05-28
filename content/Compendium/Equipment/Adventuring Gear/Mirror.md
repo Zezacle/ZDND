@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 GP
+**Weight:** 0.5 lb.
+
+A handheld steel [[Mirror]] is useful for personal cosmetics but also for peeking around corners and reflecting light as a signal.

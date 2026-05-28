@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|# GP]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|1 GP))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 GP
+**Weight:** 2 lb.
+
+As a [[Utilize]] action, you can spill [[Ball Bearings]] from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[Prone]] condition. It takes 10 minutes to recover the [[Ball Bearings]].

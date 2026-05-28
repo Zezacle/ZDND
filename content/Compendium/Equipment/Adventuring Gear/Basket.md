@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|# GP]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|1 GP))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 4 sp
+**Weight:** 2 lb.
+
+A Basket holds up to 40 pounds within 2 cubic feet.

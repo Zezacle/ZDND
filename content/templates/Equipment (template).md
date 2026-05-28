@@ -2,8 +2,9 @@
 tags:
   - equipment
 ---
-*Type (Note)*
+*Adventuring Gear*
 
 **Cost:** # GP
+**Weight:** X lb.
 
 Description

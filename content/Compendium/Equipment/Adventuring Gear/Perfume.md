@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 GP
+**Weight:** -
+
+[[Perfume]] comes in a 4-ounce vial. For 1 hour after applying [[Perfume]] to yourself, you have [[Advantage]] on Charisma ([[Persuasion]]) checks made to influence an Indifferent Humanoid within 5 feet of yourself.

@@ -21,7 +21,7 @@ Equipment is the common non-magical items that can purchased or crafted fairly e
 | ----------------------- | ------ |
 | [[Artisan's Tools]]     | Varies |
 | [[Gaming Sets]]         | Varies |
-| [[Musical Instruments]] | Varies |
+| [[Musical Instrument]] | Varies |
 | [[Disguise Kit]]        | 25 GP  |
 | [[Forgery Kit]]         | 15 GP  |
 | [[Herbalism Kit]]       | 5 GP   |

@@ -3,11 +3,16 @@ tags:
   - magicitem/common
   - consumable
 ---
-*Wondrous Item (Consumable), Common*
+*Wondrous Item, Common*
 
-*This small wooden totem has a resin-like texture and is blessed by the gods to help mortals rest.*
+**Attunement:** No
+**Cost:** 50 GP
+**Weight:** 1 lb.
+**Uses:** Single Use
 
-Performing a 10-minute ritual with the [[Totem of Sanctuary]] creates a 30-foot [[Emanation]] for 2-hours. Creatures can gain the benefits of a [[Short Rest|Night's Rest]] by staying within the Emanation for 1 hour.
+*This small wooden totem has a resin-like coating filled sprinkled with gold flakes and is blessed by the gods to help mortals rest.*
+
+**Resting Ritual.** Performing a 10-minute ritual with the [[Totem of Sanctuary]] creates a 30-foot [[Emanation]] for 2-hours. Creatures can gain the benefits of a [[Short Rest|Night's Rest]] by staying within the Emanation for 1 hour.
 
 Rolling [[Initiative]], taking damage, casting a spell other than a cantrip, or leaving the Emanation for more than 5 minutes interrupts the rest.
 

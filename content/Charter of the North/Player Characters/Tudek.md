@@ -10,7 +10,7 @@
 [[Shield of Dazzling]]
 
 #### Other Magic Items
-[[Everburn Lantern]]
+[[Everburn Hooded Lantern]]
 1x [[Totem of Sanctuary]]
 
 #### Tools and Proficiencies

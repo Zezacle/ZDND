@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 GP
+**Weight:** 4 lb.
+
+As a [[Utilize]] action, you can throw the [[Grappling Hook]] at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity ([[Acrobatics]]) check. If you tied a [[Rope]] to the hook, you can then climb it.

@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|# GP]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|1 GP))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 50 GP
+**Weight:** -
+
+As a Bonus Action, you can drink a vial of [[Antitoxin]] to gain [[Advantage]] on saving throws to avoid or end the [[Poisoned]] condition for 1 hour.

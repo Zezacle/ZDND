@@ -12,7 +12,7 @@ You grew up close to the land. Years tending animals and cultivating the earth r
 - [[Carpenter's Tools]]
 - [[Sickle]]
 - [[Healer's Kit]]
-- [[Iron Pot]]
+- [[Metal Pot]]
 - [[Shovel]]
 - [[Traveler's Clothes]]
 - 30 GP

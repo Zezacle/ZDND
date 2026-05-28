@@ -1,10 +1,15 @@
+---
+tags:
+  - new
+  - feat/general
+---
 *General Feat (Prerequisite: Level 4+)*
 
 You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity, Intelligence or Wisdom score by 1, to a maximum of 20.
 
-**Tattoo Artistry.** You gain proficiency with a [[Tattooing Kit]].
+**Tattoo Artistry.** You gain proficiency with a [[Tattooist's Tools]].
 
 **Inksmith.** You can craft a vial of [[Enchanted Tattoo Ink]] with Tattoo Ink and 100 GP over the course of 4 hours.
 

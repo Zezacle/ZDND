@@ -11,6 +11,7 @@ Evil Tree Heart
 
 ### Foundry
 - add sfx
+	- Hunt Showdown, sound clips
 - add more music: 
 	- ADD INSCRYPTION
 

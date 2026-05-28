@@ -1,3 +1,8 @@
+---
+tags:
+  - new
+  - feat
+---
 *General Feat (Prerequisite: Level 4+)*
 
 You gain the following benefits.

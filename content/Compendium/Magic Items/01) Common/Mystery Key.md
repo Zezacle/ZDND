@@ -5,4 +5,11 @@ tags:
 ---
 _Wondrous Item, Common_
 
-A question mark is worked into the head of this key. The key has a 5 percent chance of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.
+**Attunement:** Yes (Wizards only)
+**Cost:** 25 GP
+**Weight:** -
+**Uses:** Single Use
+
+*A question mark is worked into the head of this key.*
+
+**Lucky Locksmithing.** The key has a 5 percent chance (Nat 20) of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.

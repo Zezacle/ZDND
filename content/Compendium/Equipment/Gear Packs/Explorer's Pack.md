@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 10 GP
 
-An Explorer's Pack contains the following items:
+An [[Explorer's Pack]] contains the following items:
 - [[Backpack]]
 - [[Bedroll]]
 - 2 Flask of [[Oil]]

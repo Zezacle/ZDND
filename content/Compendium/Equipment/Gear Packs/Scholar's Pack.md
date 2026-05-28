@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 40 GP
 
-A Scholar's Pack contains the following items:
+A [[Scholar's Pack]] contains the following items:
 - [[Backpack]]
 - [[Book]]
 - [[Ink]]

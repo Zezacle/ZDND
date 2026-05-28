@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 sp
+**Weight:** -
+
+[[String]] is 10 feet long. You can tie a knot in it as a [[Utilize]] action.

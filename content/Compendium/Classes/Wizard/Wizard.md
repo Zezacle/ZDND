@@ -9,7 +9,7 @@
 | **Skill Proficiencies**                    | *Choose 2:*  [[Arcana]], [[History]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], [[Religion]] |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                               |
 | **Armor Training**                         | None                                                                                                         |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Arcane Focus]] ([[Quarterstaff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP  |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP  |
 |                                            | (B) [[Spellbook]] and 60 GP                                                                                  |
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
@@ -76,7 +76,7 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Wizard spells. 
 
-**Spellcasting Focus.** You can use an [[Arcane Focus]] or your [[Spellbook]] as a Spellcasting Focus for your Wizard spells.
+**Spellcasting Focus.** You can use an [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] or your [[Spellbook]] as a Spellcasting Focus for your Wizard spells.
 
 >[!tip] Expanding and Replacing a Spellbook
 >The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook. 

@@ -17,7 +17,7 @@ You gain the following benefits.
 | [[Leatherworker's Tools]] | [[Map or Scroll Case]], [[Pouch]]                                             |
 | [[Mason's Tools]]         | [[Block and Tackle]]                                                          |
 | [[Potter's Tools]]        | [[Jug]], [[Lamp]]                                                             |
-| [[Smith's Tools]]         | [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Grappling Hook]], [[Iron Pot]] |
+| [[Smith's Tools]]         | [[Ball Bearings]], [[Bucket]], [[Caltrops]], [[Grappling Hook]], [[Metal Pot]] |
 | [[Tinker's Tools]]        | [[Bell]], [[Shovel]], [[Tinderbox]]                                           |
 | [[Weaver's Tools]]        | [[Basket]], [[Rope]], [[Net]], [[Tent]]                                       |
 | [[Woodcarver's Tools]]    | [[Club]], [[Greatclub]], [[Quarterstaff]]                                            |

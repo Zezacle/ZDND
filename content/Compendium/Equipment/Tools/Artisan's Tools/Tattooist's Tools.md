@@ -9,4 +9,3 @@ tags:
 **Craft:**
 - Tattoo
 - Tattoo Ink
-- [[Magical Tattoos|Magical Tattoo]] Design (must have one to apply a tattoo)

@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 GP
+**Weight:** 2 lb.
+
+A [[Hooded Lantern]] burns [[Oil]] as fuel to cast [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to [[Dim Light]] in a 5-foot radius, or raise it again.

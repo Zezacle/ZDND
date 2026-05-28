@@ -18,6 +18,6 @@ tags:
 - [[Crowbar]]
 - [[Firearm Bullets]]
 - [[Grappling Hook]]
-- [[Iron Pot]]
+- [[Metal Pot]]
 - [[Iron Spikes]]
 - [[Sling Bullets]]

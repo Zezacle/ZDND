@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 sp
+**Weight:** 1 lb.
+
+A [[Lamp]] burns [[Oil]] as fuel to cast [[Bright Light]] in a 15-foot radius and [[Dim Light]] for an additional 30 feet.

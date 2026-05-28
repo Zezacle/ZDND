@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 25 GP
+**Weight:** 5 lb.
+
+A [[Book]] contains fiction or nonfiction. If you consult an accurate nonfiction [[Book]] about its topic, you gain a +5 bonus to Intelligence ([[Arcana]], [[History]], [[Nature]], or [[Religion]]) checks you make about that topic.

@@ -51,7 +51,7 @@ Goji, the halfling merchant is known for taking requests for items that can be f
 - 1x [[Rope of Mending]] - (100 GP)
 - 1x [[Spell Scroll]] of [[Arcane Eye]] - (350 GP)
 - 1x [[Bag of Holding]] - (400 GP)
-- 1x [[Everburn Lantern]] - (60 GP)
+- 1x [[Everburn Hooded Lantern]] - (60 GP)
 - 1x [[Hat of Wizardry]] - (50 GP)
 - 1x [[Mystery Key]] - (50 GP)
 - 1x [[Lens of the Identifier]] - (200 GP)

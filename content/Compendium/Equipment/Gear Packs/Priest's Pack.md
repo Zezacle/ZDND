@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 28 GP
 
-A Priest's Pack contains the following items:
+A [[Priest's Pack]] contains the following items:
 - [[Backpack]]
 - [[Blanket]]
 - 2x [[Holy Water]]

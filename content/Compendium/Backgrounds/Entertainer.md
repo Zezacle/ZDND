@@ -6,9 +6,9 @@ You spent much of your youth following roving fairs and carnivals, performing od
 
 **Feat:** [[Musician]]
 **Skill Proficiencies:** [[Acrobatics]] and [[Performance]]
-**Tool Proficiency:** Choose one [[Musical Instruments|Musical Instrument]]
+**Tool Proficiency:** Choose one [[Musical Instrument|Musical Instrument]]
 **Equipment:** *Choose 50 GP or:*
-- 2 [[Musical Instruments]] (same as above)
+- 2 [[Musical Instrument]] (same as above)
 - 2 [[Costume|Costumes]]
 - [[Mirror]]
 - [[Perfume]]

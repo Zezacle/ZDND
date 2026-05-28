@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 16 GP
 
-A Burglar's Pack contains the following items:
+A [[Burglar's Pack]] contains the following items:
 - [[Backpack]]
 - [[Ball Bearings]]
 - [[Bell]]

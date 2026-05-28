@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 sp
+**Weight:** 1 lb.
+
+A [[Tinderbox]] is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [[Candle]], [[Lamp]], Lantern, or [[Torch]]—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.

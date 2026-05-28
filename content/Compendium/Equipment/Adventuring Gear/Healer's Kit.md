@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 5 GP
+**Weight:** 3 lb.
+
+A [[Healer's Kit]] has ten uses. As a [[Utilize]] action, you can expend one of its uses to stabilize an [[Unconscious]] creature that has 0 [[Hit Points]] without needing to make a Wisdom ([[Medicine]]) check.

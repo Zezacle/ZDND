@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 12 GP
 
-A Dungeoneer's Pack contains the following items:
+A [[Dungeoneer's Pack]] contains the following items:
 - [[Backpack]]
 - [[Caltrops]]
 - [[Crowbar]]

@@ -4,7 +4,7 @@ tags:
 ---
 **Cost:** 39 GP
 
-A Diplomat's Pack contains the following items:
+A [[Diplomat's Pack]] contains the following items:
 - [[Chest]]
 - [[Fine Clothes]]
 - [[Ink]]

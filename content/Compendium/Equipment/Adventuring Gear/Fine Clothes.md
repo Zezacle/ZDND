@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 15 GP
+**Weight:** 6 lb.
+
+[[Fine Clothes]] are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.

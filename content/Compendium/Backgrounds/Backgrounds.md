@@ -13,7 +13,7 @@ Finally, your background affords you some starting **Equipment.** Or you can ele
 | [[Artisan]]                                     | [[Crafter]]                 | [[Investigation]] and [[Persuasion]]   | 2x [[Artisan's Tools]]                      |
 | [[Charlatan]]                                   | [[Skilled]]                 | [[Deception]] and [[Sleight of Hand]]  | [[Forgery Kit]]                             |
 | [[Criminal]]                                    | [[Alert]]                   | [[Sleight of Hand]] and [[Stealth]]    | [[Thieves' Tools]]                          |
-| [[Entertainer]]                                 | [[Musician]]                | [[Acrobatics]] and [[Performance]]     | [[Musical Instruments\|Musical Instrument]] |
+| [[Entertainer]]                                 | [[Musician]]                | [[Acrobatics]] and [[Performance]]     | [[Musical Instrument\|Musical Instrument]] |
 | [[Executioner]]                                 | [[Skilled]]                 | [[Intimidation]] and [[Stealth]]       | [[Poisoner's Kit]]                          |
 | [[Explorer]]                                    | [[Tough]]                   | [[Athletics]] and [[Survival]]         | [[Cartographer's Tools]]                    |
 | [[Farmer]]                                      | [[Tough]]                   | [[Animal Handling]] and [[Nature]]     | [[Carpenter's Tools]]                       |

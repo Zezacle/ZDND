@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 4 GP
+**Weight:** 25 lb.
+
+You can use a [[Portable Ram]] to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you [[Advantage]] on this check.

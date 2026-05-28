@@ -12,9 +12,9 @@ tags:
 - [[Greatclub]]
 - [[Quarterstaff]]
 - Ranged weapons (except Sling)
-- [[Arcane Focus]]
+- [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]]
 - [[Arrows]]
 - [[Bolts]]
-- [[Druidic Focus]]
+- [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]]
 - [[Ink Pen]]
 - [[Needles]]

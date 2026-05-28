@@ -1,8 +1,12 @@
 ---
 aliases:
   - Torches
+tags:
+  - equipment
 ---
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 2 cp
+**Weight:** 1 lb.
+
+A [[Torch]] burns for 1 hour, casting [[Bright Light]] in a 20-foot radius and [[Dim Light]] for an additional 20 feet. When you take the [[Attack]] action, you can attack with the [[Torch]], using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.

@@ -8,7 +8,7 @@ tags:
 **Ability:** Intelligence
 [[Utilize]]: Identify a substance (DC 15), or start a fire (DC 15)
 **Craft:** 
-- [[Acid]]
+- [[Acid Vial]]
 - [[Alchemist's Fire]]
 - [[Component Pouch]]
 - [[Oil]]

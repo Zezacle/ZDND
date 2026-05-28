@@ -4,7 +4,7 @@ tags:
   - equipment/ammunition
 ---
 **Cost:** 1 GP / 10 pack
-**Weight:** 1 lb. / 10 pack
+**Weight:** 0.5 lb. / 10 pack
 
 [[Compact Bolts]] are used with a [[Hand Crossbow]] to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition.
 

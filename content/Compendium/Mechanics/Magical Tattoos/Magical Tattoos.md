@@ -13,7 +13,7 @@ Magical Tattoos are made of magical ink, with intricate patterns and runes woven
 Magical Tattoos are broken into two categories, **Greater** and **Lesser** Tattoos, each requiring [[Enchanted Tattoo Ink]] for application.
 
 #### Application of Magical Tattoos
-Applying a Tattoo to a body part, magical or not, requires 4 hours of work by someone proficient with a [[Tattooing Kit]].  You can only self-apply tattoos to your chest, arms and legs. 
+Applying a Tattoo to a body part, magical or not, requires 4 hours of work by someone proficient with a [[Tattooist's Tools]].  You can only self-apply tattoos to your chest, arms and legs. 
 
 [[Enchanted Tattoo Ink]] applied as part of a Magical Tattoo adheres to scales, bone and fur like a permanent dye. Once a Greater Magical Tattoo is complete, the bearer automatically attunes to it. Incomplete Greater Tattoos occupy the body part but do not consume an [[Attunement]] slot until complete. 
 

@@ -4,6 +4,7 @@ tags:
   - magicitem
 aliases:
   - Spell Scroll
+  - Spell Scrolls
 ---
 A Spell Scroll bears the words of a single spell, written in a mystical cipher. If you succeed on an [[Arcana]] check or study the scroll for an amount of time equal to 10 minutes times the spell's level (minimum 10 min), you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. The DC for the [[Arcana]] check is 10 + the spell's level and you have [[Advantage]] if the spell is in your class' spell list. You automatically succeed this check if you already know the spell.
 

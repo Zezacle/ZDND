@@ -5,8 +5,10 @@ tags:
 ---
 *Wondrous Item, Common*
 
-**Base Item / Stored Spell:** [[Hooded Lantern]] / [[Continual Flame]]
+**Attunement:** No
+**Cost:** 75 GP
 **Weight:** 2 lb.
+**Uses:** N/A
 
 *A hooded lantern with a everburning flame inside.*
 

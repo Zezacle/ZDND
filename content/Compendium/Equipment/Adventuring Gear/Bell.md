@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|# GP]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|1 GP))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 GP
+**Weight:** -
+
+When rung as a [[Utilize]] action, a Bell produces a sound that can be heard up to 60 feet away.

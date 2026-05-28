@@ -11,13 +11,13 @@
 [[Arm Shield]]
 
 #### Other Magic Items
-Enchanted Tattoo Ink
+[[Enchanted Tattoo Ink]]
 
 #### Tools and Proficiencies
-?
+Ornate [[Tattooist's Tools]] (Not Proficient)
 
 #### Languages
-[[Beast Tongue]]
+[[Beast Tongue]] (Illiterate)
 
 ### Stats
 

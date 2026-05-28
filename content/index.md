@@ -23,6 +23,13 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-05-24:
+- Updated all Adventuring Gear in [[Equipment]] section.
+- New Crafting Rules for [[Enchanted Tattoo Ink]]
+- Added [[Size]] and [[Magic Schools]] to Glossary
+	- Updated [[Damage Types]]
+- Filling out Missing SRD Content
+
 Update 2026-05-10:
 - Updated [[Spells]] page
 - Added rules to [[Magical Tattoos]] for "Lesser" Magical Tattoos
@@ -37,7 +44,7 @@ Update 2026-05-10:
 Update 2026-05-09:
 - Added [[Magical Tattoos]] rules
 	- 13 magic tattoos
-	- [[Tattooing Kit]] tool
+	- [[Tattooist's Tools]] tool
 	- [[Tattoo Artist]] feat
 	- [[Enchanted Tattoo Ink]]
 - Added [[Totem of Sanctuary]]

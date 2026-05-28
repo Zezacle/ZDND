@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 10 GP
+**Weight:** 2 lb.
+
+A [[Bullseye Lantern]] burns [[Oil]] as fuel to cast [[Bright Light]] in a 60-foot [[Cone]] and [[Dim Light]] for an additional 60 feet.

@@ -7,11 +7,11 @@
 | **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                 |
 | **Saving Throw Proficiencies**             | Dexterity and Charisma                                                                                             |
 | **Skill Proficiencies**                    | Choose any 3 skills                                                                                                |
-| **Tool Proficiencies**                     | Choose any 3 [[Musical Instruments]]                                                                               |
+| **Tool Proficiencies**                     | Choose any 3 [[Musical Instrument]]                                                                               |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                                     |
 | **Armor Training**                         | [[Light Armor]]                                                                                                    |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Arming Sword]], [[Musical Instruments\|Musical Instrument]] of your choice, [[Entertainer's Pack]], and 5 GP |
-|                                            | (B) [[Musical Instruments\|Musical Instrument]] of your choice and 55 GP                                           |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Arming Sword]], [[Musical Instrument\|Musical Instrument]] of your choice, [[Entertainer's Pack]], and 5 GP |
+|                                            | (B) [[Musical Instrument\|Musical Instrument]] of your choice and 55 GP                                           |
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
@@ -112,7 +112,7 @@ If another Bard feature gives you spells that you always have prepared, those sp
 
 **Spellcasting Ability.** Charisma is your spellcasting ability for your Bard spells.
 
-**Spellcasting Focus.** You can use your [[Musical Instruments]] as a Spellcasting Focus for your Bard spells.
+**Spellcasting Focus.** You can use your [[Musical Instrument]] as a Spellcasting Focus for your Bard spells.
 
 ### Level 2: Expertise
 

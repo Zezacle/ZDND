@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|# GP]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|1 GP))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 GP
+**Weight:** 7 lb.
+
+A [[Bedroll]] sleeps one Small or Medium creature. While in a [[Bedroll]], you automatically succeed on saving throws against extreme cold.

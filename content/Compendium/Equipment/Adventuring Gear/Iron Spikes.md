@@ -1,4 +1,10 @@
-#### Name [[Equipment (template)|(# GP)]] <- Change Equipment in the backlink to match the Name. I.e. this will say "Ball Bearings ((Ball Bearings|(1 GP)))" for the Ball Bearings Page
-Description
+---
+tags:
+  - equipment
+---
+*Adventuring Gear*
 
-#equipment 
+**Cost:** 1 GP
+**Weight:** 5 lb.
+
+[[Iron Spikes]] come in bundles of ten. As a [[Utilize]] action, you can use a blunt object, such as a [[Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[Rope]] or [[Chain]] to the spike.
