@@ -16,12 +16,12 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 #### Draconic Spells
 
-| Sorcerer Level | Spells                                                              |
-| -------------- | ------------------------------------------------------------------- |
-| 3              | [[Alter Self]], [[Chromatic Orb]], [[Command]], [[Dragon's Breath]] |
-| 5              | [[Fear]], [[Fly]]                                                   |
-| 7              | [[Arcane Eye]], [[Charm Monster]]                                   |
-| 9              | [[Legend Lore]], [[Summon Dragon]]                                  |
+| Sorcerer Level | Spells                                                             |
+| -------------- | ------------------------------------------------------------------ |
+| 3              | [[Alter Self]], [[Command]], [[Dragon's Breath]], [[Ring of Fire]] |
+| 5              | [[Fear]], [[Fly]]                                                  |
+| 7              | [[Arcane Eye]], [[Charm Monster]]                                  |
+| 9              | [[Legend Lore]], [[Summon Dragon]]                                 |
 
 ### Level 6: Elemental Affinity
 

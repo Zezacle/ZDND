@@ -1,7 +1,7 @@
 #### Male [[Humans|Human]]
 
 ### Level 4 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List|(Spell List)]]
-0/3 [[Keystones Progression|Keystones]]
+1/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Arming Sword]] (Pact of the Blade)

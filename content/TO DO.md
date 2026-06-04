@@ -3,8 +3,6 @@ draft: true
 tags:
 ---
 ### Charter of the North
-Macro Icons: https://foundryvtt.com/packages/icon-picker/
-
 Evil Tree Heart
 - Add picture
 - Create things for it

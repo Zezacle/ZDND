@@ -1,7 +1,7 @@
 #### Female [[Firbolgs|Firbolg]]
 
 ### Level 4 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Shortbow]]

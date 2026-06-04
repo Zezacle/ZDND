@@ -72,7 +72,7 @@ concentration: false
 |   1   | [[Animal Friendship]]             | Enchantment   | —       |
 |   1   | [[Arcane Dash]]*                  | Conjuration   | —       |
 |   1   | [[Arcane Shield]]                 | Abjuration    | —       |
-|   1   | [[Armor of Agathys]]              | Abjuration    | —       |
+|   1   | [[Armor of Rimefrost]]              | Abjuration    | —       |
 |   1   | [[Arms of the Aberrant]]          | Conjuration   | —       |
 |   1   | [[Bane]]                          | Enchantment   | C       |
 |   1   | [[Bard's Accompaniment]]*         | Illusion      | C, R    |
@@ -199,6 +199,7 @@ concentration: false
 |   2   | [[Prayer of Healing]]        | Abjuration    | —       |
 |   2   | [[Protection from Poison]]   | Abjuration    | —       |
 |   2   | [[Ray of Enfeeblement]]      | Necromancy    | C       |
+|   2   | [[Ring of Fire]]             | Evocation     | M       |
 |   2   | [[Rope Trick]]               | Transmutation | —       |
 |   2   | [[Scorching Ray]]            | Evocation     | —       |
 |   2   | [[See Invisibility]]         | Divination    | —       |

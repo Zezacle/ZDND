@@ -71,7 +71,7 @@ Your practice of martial arts gives you mastery of combat styles that use your [
 - [[Sling]]
 - [[Throwing Knife]]
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing [[Armor]] or wielding a [[Shields|Shield]].
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing [[Armor]] or wielding a [[Shields|Shield]].
 
 **Bonus Unarmed Strike.** You can make an [[Unarmed Strike]] as a Bonus Action.
 

@@ -41,6 +41,7 @@ tags:
 |   2   | [[Magic Weapon]]           | Transmutation | —       |
 |   2   | [[Prayer of Healing]]      | Abjuration    | —       |
 |   2   | [[Protection from Poison]] | Abjuration    | —       |
+|   2   | [[Ring of Fire]]           | Evocation     | M       |
 |   2   | [[Shining Smite]]          | Transmutation | C       |
 |   2   | [[Sparring Ward]]*         | Abjuration    | R       |
 |   2   | [[Warding Bond]]           | Abjuration    | M       |

@@ -32,7 +32,7 @@ Your Slayer's Guidance die changes when you reach certain Warlock levels. The di
 #### Crimson Flow
 When you reduce a creature to 0 [[Hit Points]] with a weapon attack, you can use your Reaction to move up to half your [[Speed]] and make an additional weapon attack against a different target. This movement does not provoke [[Opportunity Attacks]].
 
-### Level 10: Slayer’s Mind
+### Level 10: Slayer's Mind
 You gain [[Resistance]] to Psychic damage and [[Immunity]] to the [[Frightened]] condition.
 
 ### Level 10: Slayer's Defiance

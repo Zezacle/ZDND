@@ -1,7 +1,7 @@
 #### Male [[Turtlefolk]]
 
 ### Level 4 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]

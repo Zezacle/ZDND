@@ -11,4 +11,4 @@ tags:
 
 *A bubble of steam rises from this everburning candle.*
 
-**Waterfire.** The flame of this candle isn’t extinguished when immersed in water and does not burn down. It gives off light and heat like a normal [[Candle]].
+**Waterfire.** The flame of this candle isn't extinguished when immersed in water and does not burn down. It gives off light and heat like a normal [[Candle]].

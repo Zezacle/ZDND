@@ -3,7 +3,6 @@ tags:
   - spell
   - spell-list/sorcerer
   - spell-list/wizard
-  - spell-list/sorcerer/draconic-sorcery
 school: Evocation
 spell_level: "1"
 ritual: false

@@ -23,6 +23,9 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-06-03:
+- Backend campaign stuff and secrets
+
 Update 2026-05-24:
 - Updated all Adventuring Gear in [[Equipment]] section.
 - New Crafting Rules for [[Enchanted Tattoo Ink]]
