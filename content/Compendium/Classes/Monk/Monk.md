@@ -1,17 +1,17 @@
 ##### Core Monk Traits
-|                                            |                                                                                                                                                                            |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                                       |
-| **Hit Point Die**                          | d8 per Monk level                                                                                                                                                          |
-| **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                  |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                         |
-| **Saving Throw Proficiencies**             | Strength and Wisdom                                                                                                                                                        |
-| **Skill Proficiencies**                    | *Choose 2:* [[Acrobatics]], [[Athletics]], [[History]], [[Insight]], [[Religion]], [[Stealth]]                                                                             |
+|                                            |                                                                                                                                                                           |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                                      |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                 |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                        |
+| **Hit Point Die**                          | d8 per Monk level                                                                                                                                                         |
+| **Saving Throw Proficiencies**             | Strength and Wisdom                                                                                                                                                       |
+| **Skill Proficiencies**                    | *Choose 2:* [[Acrobatics]], [[Athletics]], [[History]], [[Insight]], [[Religion]], [[Stealth]]                                                                            |
 | **Tool Proficiencies**                     | Choose one type of [[Artisan's Tools]] or [[Musical Instrument\|Musical Instrument]]                                                                                      |
-| **Weapon Proficiencies**                   | [[Baton]], [[Bola]], [[Quarterstaff]], [[Hook Sword]], [[Meteor Hammer]], [[Nunchuks]], [[Rope Dart]], [[Blowpipe]], [[Sling]], [[Throwing Knife]]                         |
-| **Armor Training**                         | -                                                                                                                                                                          |
+| **Weapon Proficiencies**                   | [[Baton]], [[Bola]], [[Quarterstaff]], [[Hook Sword]], [[Meteor Hammer]], [[Nunchuks]], [[Rope Dart]], [[Blowpipe]], [[Sling]], [[Throwing Knife]]                        |
+| **Armor Training**                         | -                                                                                                                                                                         |
 | **Starting Equipment**<br>*Choose A or B:* | (A) 2 [[Baton\|Batons]], [[Bola]], [[Artisan's Tools]] or [[Musical Instrument\|Musical Instrument]] chosen for the tool proficiency above, [[Explorer's Pack]] and 19 GP |
-|                                            | (B) 50 GP                                                                                                                                                                  |
+|                                            | (B) 50 GP                                                                                                                                                                 |
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.
 

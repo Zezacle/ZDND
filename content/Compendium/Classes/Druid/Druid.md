@@ -1,17 +1,17 @@
 ##### Core Druid Traits
-|                                            |                                                                                                                                |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Primary Ability**                        | Wisdom                                                                                                                         |
-| **Hit Point Die**                          | d8 per Druid level                                                                                                             |
-| **Starting HP**                            | 8 + Constitution modifier                                                                                                      |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                             |
-| **Saving Throw Proficiencies**             | Intelligence and Wisdom                                                                                                        |
-| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Animal Handling]], [[Insight]], [[Medicine]], [[Nature]], [[Perception]], [[Religion]], [[Survival]] |
-| **Tool Proficiencies**                     | [[Herbalism Kit]]                                                                                                              |
-| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                 |
-| **Armor Training**                         | [[Light Armor]], [[Shields]]                                                                                                   |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]] ([[Quarterstaff]]), [[Explorer's Pack]], [[Herbalism Kit]], and 24 GP      |
-|                                            | (B) 50 GP                                                                                                                      |
+|                                            |                                                                                                                                                                               |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                        | Wisdom                                                                                                                                                                        |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                     |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                            |
+| **Hit Point Die**                          | d8 per Druid level                                                                                                                                                            |
+| **Saving Throw Proficiencies**             | Intelligence and Wisdom                                                                                                                                                       |
+| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Animal Handling]], [[Insight]], [[Medicine]], [[Nature]], [[Perception]], [[Religion]], [[Survival]]                                                |
+| **Tool Proficiencies**                     | [[Herbalism Kit]]                                                                                                                                                             |
+| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                                                                |
+| **Armor Training**                         | [[Light Armor]], [[Shields]]                                                                                                                                                  |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]] ([[Quarterstaff]]), [[Explorer's Pack]], [[Herbalism Kit]], and 24 GP |
+|                                            | (B) 50 GP                                                                                                                                                                     |
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
 

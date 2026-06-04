@@ -1,14 +1,14 @@
 ##### Core Warlock Traits
-|                                            |                                                                                                                               |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Primary Ability**                        | Charisma                                                                                                                      |
-| **Hit Point Die**                          | d8 per Warlock level                                                                                                          |
-| **Starting HP**                            | 8 + Constitution modifier                                                                                                     |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                            |
-| **Saving Throw Proficiencies**             | Wisdom and Charisma                                                                                                           |
-| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[History]], [[Intimidation]], [[Investigation]], [[Nature]], [[Religion]]             |
-| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                |
-| **Armor Training**                         | [[Light Armor]]                                                                                                               |
+|                                            |                                                                                                                                                                                  |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                        | Charisma                                                                                                                                                                         |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                        |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                               |
+| **Hit Point Die**                          | d8 per Warlock level                                                                                                                                                             |
+| **Saving Throw Proficiencies**             | Wisdom and Charisma                                                                                                                                                              |
+| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[History]], [[Intimidation]], [[Investigation]], [[Nature]], [[Religion]]                                                                |
+| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                                                                   |
+| **Armor Training**                         | [[Light Armor]]                                                                                                                                                                  |
 | **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Dagger]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (crystal), [[Book]] (occult lore), [[Scholar's Pack]] and 7 GP |
 |                                            | (B) [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (crystal) and 80 GP                                                                                      |
 

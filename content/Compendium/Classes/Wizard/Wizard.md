@@ -1,16 +1,16 @@
 ##### Core Wizard Traits 
-|                                            |                                                                                                              |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| **Primary Ability**                        | Intelligence                                                                                                 |
-| **Hit Point Die**                          | d6 per Wizard level                                                                                          |
-| **Starting HP**                            | 6 + Constitution modifier                                                                                    |
-| **Level Up HP**                            | 4 (or 1d6) + Constitution modifier                                                                           |
-| **Saving Throw Proficiencies**             | Intelligence and Wisdom                                                                                      |
-| **Skill Proficiencies**                    | *Choose 2:*  [[Arcana]], [[History]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], [[Religion]] |
-| **Weapon Proficiencies**                   | Simple Weapons                                                                                               |
-| **Armor Training**                         | None                                                                                                         |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP  |
-|                                            | (B) [[Spellbook]] and 60 GP                                                                                  |
+|                                            |                                                                                                                                                                |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                        | Intelligence                                                                                                                                                   |
+| **Starting HP**                            | 6 + Constitution modifier                                                                                                                                      |
+| **Level Up HP**                            | 4 (or 1d6) + Constitution modifier                                                                                                                             |
+| **Hit Point Die**                          | d6 per Wizard level                                                                                                                                            |
+| **Saving Throw Proficiencies**             | Intelligence and Wisdom                                                                                                                                        |
+| **Skill Proficiencies**                    | *Choose 2:*  [[Arcana]], [[History]], [[Insight]], [[Investigation]], [[Medicine]], [[Nature]], [[Religion]]                                                   |
+| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                                                 |
+| **Armor Training**                         | None                                                                                                                                                           |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Dagger]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] ([[Quarterstaff]]), [[Robe]], [[Spellbook]], [[Scholar's Pack]], and 12 GP |
+|                                            | (B) [[Spellbook]] and 60 GP                                                                                                                                    |
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 

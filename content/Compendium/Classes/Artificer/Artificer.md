@@ -2,9 +2,9 @@
 |                                            |                                                                                                                             |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Intelligence                                                                                                                |
-| **Hit Point Die**                          | d8 per Artificer level                                                                                                      |
 | **Starting HP**                            | 8 + Constitution modifier                                                                                                   |
 | **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                          |
+| **Hit Point Die**                          | d8 per Artificer level                                                                                                      |
 | **Saving Throw Proficiencies**             | Constitution and Intelligence                                                                                               |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], [[Sleight of Hand]]       |
 | **Tool Proficiencies**                     | [[Thieves' Tools]], [[Tinker's Tools]], and one type of [[Artisan's Tools]] of your choice                                  |

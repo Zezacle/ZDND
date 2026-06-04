@@ -2,6 +2,7 @@
 tags:
   - condition
 aliases:
+  - Grapples
 ---
 While you have the Grappled condition, you experience the following effects.
 

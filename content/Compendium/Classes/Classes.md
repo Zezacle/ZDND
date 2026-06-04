@@ -1,3 +1,7 @@
+---
+aliases:
+  - Class
+---
 Your Class is the biggest part of how your character plays. It will determine the majority of your capabilities and your primary progression path for the character mechanically.
 
 Choosing your class is about finding what archetype of skills fits your hero fantasy. Warrior? Mage? Thief? 

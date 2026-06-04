@@ -33,6 +33,8 @@ When it comes to managing your character sheet, you can do it old-school with pe
 - Adobe Acrobat (Paid)
 - Mozilla Firefox browser
 - Google Chrome browser
+- [Obsidian.md](https://obsidian.md/) with **PDF++** Plugin
+	- Obsidian is the note-taking app I use to make this website! Its super versatile and can act as a rudimentary PDF editor and note hub if you don't mind learning a new program.
 
 Using a browser can sometimes run into issues of things not saving, so its not recommended.
 
@@ -42,8 +44,8 @@ Using a browser can sometimes run into issues of things not saving, so its not r
 > Also, USE A PENCIL. You will need to change some things over time.
 
 
-
-
+#### [[01) Choose a Class|Step 1: Choose a Class -->]]
+****
 
 
 

@@ -32,7 +32,7 @@ If you do resume a [[Long Rest]], the rest requires 1 additional hour per interr
 #### Safe Haven
 A **Safe Haven** is a location where the party is safe from all but the most extreme dangers. Example Safe Havens include:
 - In a town or allied fort
-- In a location that has been secured by the party for at least five consecutive days
+- In a location that has been secured by the party for at least three consecutive days
 - Locations protected by the [[Private Sanctum]] or [[Hallow]] spell
 - Inside the [[Magnificent Mansion]]
 

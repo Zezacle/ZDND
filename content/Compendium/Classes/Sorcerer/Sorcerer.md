@@ -1,16 +1,16 @@
 ##### Core Sorcerer Traits
-|                                            |                                                                                                    |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| **Primary Ability**                        | Charisma                                                                                           |
-| **Hit Point Die**                          | d6 per Sorcerer level                                                                              |
-| **Starting HP**                            | 6 + Constitution modifier                                                                          |
-| **Level Up HP**                            | 4 (or 1d6) + Constitution modifier                                                                 |
-| **Saving Throw Proficiencies**             | Constitution and Charisma                                                                          |
-| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Religion]] |
-| **Weapon Proficiencies**                   | Simple Weapons                                                                                     |
-| **Armor Training**                         | -                                                                                                  |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Club]], 2 [[Dagger\|Daggers]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (orb), [[Dungeoneer's Pack]], and 24 GP      |
-|                                            | (B) [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (orb) and 60 GP                                                               |
+|                                            |                                                                                                                                                  |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Primary Ability**                        | Charisma                                                                                                                                         |
+| **Starting HP**                            | 6 + Constitution modifier                                                                                                                        |
+| **Level Up HP**                            | 4 (or 1d6) + Constitution modifier                                                                                                               |
+| **Hit Point Die**                          | d6 per Sorcerer level                                                                                                                            |
+| **Saving Throw Proficiencies**             | Constitution and Charisma                                                                                                                        |
+| **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Religion]]                                               |
+| **Weapon Proficiencies**                   | Simple Weapons                                                                                                                                   |
+| **Armor Training**                         | -                                                                                                                                                |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Club]], 2 [[Dagger\|Daggers]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (orb), [[Dungeoneer's Pack]], and 24 GP |
+|                                            | (B) [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (orb) and 60 GP                                                          |
 
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can't name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby's birth or the strike of lightning from a clear sky might spark a Sorcerer's gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
 

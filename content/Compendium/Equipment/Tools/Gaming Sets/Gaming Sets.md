@@ -1,6 +1,8 @@
 ---
 tags:
   - equipment
+aliases:
+  - Gaming Set
 ---
 ####  Gaming Set [[Gaming Sets|(Varies)]]
 **Ability:** Wisdom **Weight:** -

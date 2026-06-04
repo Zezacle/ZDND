@@ -1,3 +1,7 @@
+---
+aliases:
+  - Keystones
+---
 To level up, characters must accumulate a certain number of "Keystones." 
 
 Keystones are essentially XP chunks, where as XP might be awarded for killing a monster, a Keystone is awarded for clearing a dungeon, or killing a boss, completing a quest, etc.

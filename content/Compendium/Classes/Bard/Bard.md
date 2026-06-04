@@ -1,15 +1,15 @@
 ##### Core Bard Traits
-|                                            |                                                                                                                    |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **Primary Ability**                        | Charisma                                                                                                           |
-| **Hit Point Die**                          | d8 per Bard level                                                                                                  |
-| **Starting HP**                            | 8 + Constitution modifier                                                                                          |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                 |
-| **Saving Throw Proficiencies**             | Dexterity and Charisma                                                                                             |
-| **Skill Proficiencies**                    | Choose any 3 skills                                                                                                |
+|                                            |                                                                                                                   |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Primary Ability**                        | Charisma                                                                                                          |
+| **Starting HP**                            | 8 + Constitution modifier                                                                                         |
+| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                |
+| **Hit Point Die**                          | d8 per Bard level                                                                                                 |
+| **Saving Throw Proficiencies**             | Dexterity and Charisma                                                                                            |
+| **Skill Proficiencies**                    | Choose any 3 skills                                                                                               |
 | **Tool Proficiencies**                     | Choose any 3 [[Musical Instrument]]                                                                               |
-| **Weapon Proficiencies**                   | Simple Weapons                                                                                                     |
-| **Armor Training**                         | [[Light Armor]]                                                                                                    |
+| **Weapon Proficiencies**                   | Simple Weapons                                                                                                    |
+| **Armor Training**                         | [[Light Armor]]                                                                                                   |
 | **Starting Equipment**<br>*Choose A or B:* | (A) [[Arming Sword]], [[Musical Instrument\|Musical Instrument]] of your choice, [[Entertainer's Pack]], and 5 GP |
 |                                            | (B) [[Musical Instrument\|Musical Instrument]] of your choice and 55 GP                                           |
 

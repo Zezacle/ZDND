@@ -2,9 +2,9 @@
 |                                            |                                                                                                            |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Strength                                                                                                   |
-| **Hit Point Die**                          | d12 per Barbarian level                                                                                    |
 | **Starting HP**                            | 12 + Constitution modifier                                                                                 |
 | **Level Up HP**                            | 7 (or 1d12) + Constitution modifier                                                                        |
+| **Hit Point Die**                          | d12 per Barbarian level                                                                                    |
 | **Saving Throw Proficiencies**             | Strength and Constitution                                                                                  |
 | **Skill Proficiencies**                    | *Choose 2:* [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]], [[Survival]] |
 | **Weapon Proficiencies**                   | Simple Weapons, Martial Weapons                                                                            |
