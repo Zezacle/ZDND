@@ -12,6 +12,9 @@
 
 #### Other Magic Items
 [[Enchanted Tattoo Ink]]
+[[Rope of Mending]]
+[[Hodd's Mask]]
+[[Mystery Key]]
 
 #### Tools and Proficiencies
 Ornate [[Tattooist's Tools]] (Not Proficient)
@@ -34,3 +37,9 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 - **Time:** 30 hours
 - **Difficulty:** 14
 - Progress: 4 hours
+
+#### Learning to Tattoo
+**Reward:** +1 Keystone, Tattooist Tools Proficiency
+- **Time:** 40 hours
+- **Difficulty:** 15
+- Progress: 12 hours

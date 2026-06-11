@@ -15,9 +15,11 @@ The benefits of a [[Short Rest]] is slightly different as well.
 
 When you finish the rest, you gain the following benefits:
 
-**Spend Hit Point Dice.** You can spend one or more of your [[Hit Point Dice]] to regain [[Hit Points]]. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
+   **Potential Exhaustion Reduced.** If you have the [[Exhaustion]] condition, roll a Constitution save (DC 15) and on a success, its level decreases by 1.
 
-**Special Feature.** Some features are recharged by a [[Short Rest]]. If you have such a feature, it recharges in the way specified in its description.
+   **Spend Hit Point Dice.** You can spend one or more of your [[Hit Point Dice]] to regain [[Hit Points]]. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
+
+   **Special Feature.** Some features are recharged by a [[Short Rest]]. If you have such a feature, it recharges in the way specified in its description.
 
 
 ### Standard Resting: Short Rest

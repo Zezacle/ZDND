@@ -35,4 +35,4 @@
 **Reward:** +1 Keystone, [[Brewer's Supplies]] Proficiency
 - **Time:** 30 hours
 - **Difficulty:** 12
-- Progress: 4 hours
+- Progress: 12 hours

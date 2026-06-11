@@ -33,4 +33,4 @@
 **Reward:** +1 Keystone, ???
 - **Time:** 40 hours
 - **Difficulty:** 16
-- Progress: 4 hours
+- Progress: 16 hours

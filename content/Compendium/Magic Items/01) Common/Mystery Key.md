@@ -5,7 +5,7 @@ tags:
 ---
 _Wondrous Item, Common_
 
-**Attunement:** Yes (Wizards only)
+**Attunement:** No
 **Cost:** 25 GP
 **Weight:** -
 **Uses:** Single Use
