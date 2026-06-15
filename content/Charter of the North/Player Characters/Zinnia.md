@@ -12,9 +12,10 @@
 
 #### Other Magic Items
 [[Wood Chisel of Waking]]
++1 Arrows (x18)
 
 #### Tools and Proficiencies
-?
+[[Woodcarver's Tools]]
 
 #### Languages
 [[Giant]]
@@ -33,4 +34,4 @@
 **Reward:** +1 Keystone, ???
 - **Time:** 40 hours
 - **Difficulty:** 16
-- Progress: 16 hours
+- Progress: 24 hours

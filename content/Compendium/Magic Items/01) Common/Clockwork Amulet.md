@@ -7,7 +7,7 @@ _Wondrous Item, Common_
 **Attunement:** No
 **Cost:** 100 GP
 **Weight:** -
-**Uses:** Once per [[Holy Dawn]]
+**Uses:** Once per dusk
 
 *This copper amulet contains tiny interlocking gears and is powered by magic from a plane of clockwork predictability. Faint ticking and whirring noises emanate from within.*
 

@@ -12,6 +12,8 @@
 #### Other Magic Items
 [[Everburn Hooded Lantern]]
 1x [[Totem of Sanctuary]]
+[[Charlatan's Die]]
+[[Clockwork Amulet]]
 
 #### Tools and Proficiencies
 [[Brewer's Supplies]] (Not Proficient)
@@ -35,4 +37,4 @@
 **Reward:** +1 Keystone, [[Brewer's Supplies]] Proficiency
 - **Time:** 30 hours
 - **Difficulty:** 12
-- Progress: 12 hours
+- Progress: 16 hours

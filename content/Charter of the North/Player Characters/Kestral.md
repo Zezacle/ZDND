@@ -15,6 +15,8 @@
 [[Rope of Mending]]
 [[Hodd's Mask]]
 [[Mystery Key]]
+[[Cloak of Many Fashions]]
+[[Gleaming Enchantment|Gleaming]] [[Fine Clothes of Mending]]
 
 #### Tools and Proficiencies
 Ornate [[Tattooist's Tools]] (Not Proficient)
@@ -42,4 +44,4 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 **Reward:** +1 Keystone, Tattooist Tools Proficiency
 - **Time:** 40 hours
 - **Difficulty:** 15
-- Progress: 12 hours
+- Progress: 20 hours

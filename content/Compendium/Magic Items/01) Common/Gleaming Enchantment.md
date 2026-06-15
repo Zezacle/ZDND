@@ -2,6 +2,8 @@
 tags:
   - magicitem/common
   - enchantment
+aliases:
+  - Gleaming
 ---
 _Enchantment, Common_
 

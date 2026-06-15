@@ -37,4 +37,4 @@
 **Reward:** ???
 - **Time:** 60 hours
 - **Difficulty:** 15
-- Progress: 0 hours
+- Progress: 8 hours
