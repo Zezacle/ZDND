@@ -5,10 +5,7 @@ tags:
 *Shield, Uncommon*
 
 **Attunement:** Required, one slot
-**Charges Left:** Recharge at Dusk
-> [!checks|no-title clean]
-> -
->  - [ ] %% %%
+**Charges Left:** One Charge, Recharge at Dusk
 
 This round [[Arm Shield]] features a wooden core, and iron rim with a large metal plate in the center engraved with a unique rune. Speaking the rune's name while wielding the shield causes it to emit a concussive blast.
 
