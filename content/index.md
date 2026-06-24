@@ -23,6 +23,11 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-06-23
+- Removed Rolling for Level Up Health, Forced to take Avg. of Hit Die
+	- Its just easier to balance around, manage, etc.
+- Finished out [[00) Creating a Character|Create a Character]] tutorial pages
+
 Update 2026-06-03:
 - Backend campaign stuff and secrets
 

@@ -1,16 +1,16 @@
 ##### Core Ranger Traits
-|                                            |                                                                                                                                                                                                                  |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                                                                             |
-| **Starting HP**                            | 10 + Constitution modifier                                                                                                                                                                                       |
-| **Level Up HP**                            | 6 (or 1d10) + Constitution modifier                                                                                                                                                                              |
-| **Hit Point Die**                          | d10 per Ranger level                                                                                                                                                                                             |
-| **Saving Throw Proficiencies**             | Strength and Dexterity                                                                                                                                                                                           |
-| **Skill Proficiencies**                    | *Choose 3:* [[Animal Handling]], [[Athletics]], [[Insight]], [[Investigation]], [[Nature]], [[Perception]], [[Stealth]], [[Survival]]                                                                            |
-| **Weapon Proficiencies**                   | Simple Weapons, Martial Weapons                                                                                                                                                                                  |
-| **Armor Training**                         | [[Light Armor]], [[Medium Armor]], [[Shields]]                                                                                                                                                                   |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Handaxe]], [[Dagger]], [[Shortbow]], 20 [[Arrows]], [[Quiver]], [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]] (sprig of mistletoe), [[Explorer's Pack]] and 9 GP |
-|                                            | (B) 50 GP                                                                                                                                                                                                        |
+|                                            |                                                                                                                                                              |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                         |
+| **Starting HP**                            | 10 + Constitution modifier                                                                                                                                   |
+| **Level Up HP**                            | 6 + Constitution modifier                                                                                                                          |
+| **Hit Point Die**                          | d10 per Ranger level                                                                                                                                         |
+| **Saving Throw Proficiencies**             | Strength and Dexterity                                                                                                                                       |
+| **Skill Proficiencies**                    | *Choose 3:* [[Animal Handling]], [[Athletics]], [[Insight]], [[Investigation]], [[Nature]], [[Perception]], [[Stealth]], [[Survival]]                        |
+| **Weapon Proficiencies**                   | Simple Weapons, Martial Weapons                                                                                                                              |
+| **Armor Training**                         | [[Light Armor]], [[Medium Armor]], [[Shields]]                                                                                                               |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Handaxe]], [[Dagger]], [[Shortbow]], 20 [[Arrows]], [[Quiver]], [[Druidic Focus]] (sprig of mistletoe), [[Explorer's Pack]] and 9 GP |
+|                                            | (B) 50 GP                                                                                                                                                    |
 
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
@@ -91,7 +91,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 **Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
 
-**Spellcasting Focus.** You can use a [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]] as a Spellcasting Focus for your Ranger spells.
+**Spellcasting Focus.** You can use a [[Druidic Focus]] as a Spellcasting Focus for your Ranger spells.
 
 ### Level 1: Favored Enemy
 

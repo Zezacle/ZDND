@@ -1,7 +1,7 @@
 #### Male Brass [[Dragonborn]]
 
 ### Level 4 [[Abjurer]] | [[Wizard]] [[Wizard Spell List|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]

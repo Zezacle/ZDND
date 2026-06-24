@@ -3,7 +3,7 @@
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Charisma                                                                                                          |
 | **Starting HP**                            | 8 + Constitution modifier                                                                                         |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                |
+| **Level Up HP**                            | 5 + Constitution modifier                                                                                |
 | **Hit Point Die**                          | d8 per Bard level                                                                                                 |
 | **Saving Throw Proficiencies**             | Dexterity and Charisma                                                                                            |
 | **Skill Proficiencies**                    | Choose any 3 skills                                                                                               |

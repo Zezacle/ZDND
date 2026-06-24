@@ -10,7 +10,7 @@ You spent time in the Sacred Groves of Druids, learning of the Old Faith and its
 **Tool Proficiency:** [[Potter's Tools]]
 **Equipment:** *Choose 50 GP or:*
 - [[Potter's Tools]]
-- [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]]
+- [[Druidic Focus]]
 - [[Sickle]]
 - [[Robe]]
 - 10 GP

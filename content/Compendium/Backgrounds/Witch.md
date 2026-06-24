@@ -10,7 +10,7 @@ You were raised in a witch's hut, learning ancient secrets of the forest and str
 **Tool Proficiency:** [[Herbalism Kit]]
 **Equipment:** *Choose 50 GP or:*
 - [[Herbalism Kit]]
-- [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]]
+- [[Arcane Focus]]
 - [[Traveler's Clothes]]
 - 10 [[Candle|Candles]]
 - [[Metal Pot]]

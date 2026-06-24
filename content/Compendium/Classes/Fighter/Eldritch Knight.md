@@ -18,7 +18,7 @@ The number of spells on your list increases as you gain Fighter levels, as shown
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Wizard spells.
 
-**Spellcasting Focus.** You can use an [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] as a Spellcasting Focus for your Wizard spells.
+**Spellcasting Focus.** You can use an [[Arcane Focus]] as a Spellcasting Focus for your Wizard spells.
 
 #### Eldritch Knight Spellcasting
 

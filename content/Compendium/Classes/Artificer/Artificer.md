@@ -3,7 +3,7 @@
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Intelligence                                                                                                                |
 | **Starting HP**                            | 8 + Constitution modifier                                                                                                   |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                          |
+| **Level Up HP**                            | 5 + Constitution modifier                                                                                                   |
 | **Hit Point Die**                          | d8 per Artificer level                                                                                                      |
 | **Saving Throw Proficiencies**             | Constitution and Intelligence                                                                                               |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], [[Sleight of Hand]]       |
@@ -159,7 +159,7 @@ If an item that you created with this feature is a container, such as a [[Bag of
 | [[Returning Weapon]]                                                                                                                                                                                    | No         |
 | [[Rope of Climbing]]                                                                                                                                                                                    | No         |
 | [[Sending Stones]]                                                                                                                                                                                      | No         |
-| [[Compendium/Magic Items/00) Varies/Armor, +1, +2, or +3/Shield, +1]]                                                                                                                                                                                          | No         |
+| [[Shield, +1]]                                                                                                                                                                                          | No         |
 | [[Wand of Magic Detection]]                                                                                                                                                                             | No         |
 | [[Wand of Secrets]]                                                                                                                                                                                     | No         |
 | [[Wand of the War Mage, +1]]                                                                                                                                                                            | Yes        |
@@ -203,7 +203,7 @@ If an item that you created with this feature is a container, such as a [[Bag of
 | [[Ring of Feather Falling]]                                                                                                                                                           | Yes        |
 | [[Ring of Jumping]]                                                                                                                                                                   | Yes        |
 | [[Ring of Mind Shielding]]                                                                                                                                                            | Yes        |
-| [[Compendium/Magic Items/00) Varies/Armor, +1, +2, or +3/Shield, +2]]                                                                                                                                                                        | No         |
+| [[Shield, +2]]                                                                                                                                                                        | No         |
 | Uncommon Wondrous Item that isn't cursed <br>(you can learn this option multiple times and must select <br>a different item each time; each item selected counts as a different plan) | Varies     |
 | [[Wand of the War Mage, +2]]                                                                                                                                                          | Yes        |
 | [[Weapon, +1, +2, or +3\|Weapon, +2]]                                                                                                                                                 | No         |

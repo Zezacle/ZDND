@@ -3,7 +3,7 @@
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Dexterity and Wisdom                                                                                                                                                      |
 | **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                 |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                        |
+| **Level Up HP**                            | 5 + Constitution modifier                                                                                                                                        |
 | **Hit Point Die**                          | d8 per Monk level                                                                                                                                                         |
 | **Saving Throw Proficiencies**             | Strength and Wisdom                                                                                                                                                       |
 | **Skill Proficiencies**                    | *Choose 2:* [[Acrobatics]], [[Athletics]], [[History]], [[Insight]], [[Religion]], [[Stealth]]                                                                            |

@@ -3,7 +3,7 @@
 | ------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Wisdom                                                                                       |
 | **Starting HP**                            | 8 + Constitution modifier                                                                    |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                           |
+| **Level Up HP**                            | 5 + Constitution modifier                                                           |
 | **Hit Point Die**                          | d8 per Cleric level                                                                          |
 | **Saving Throw Proficiencies**             | Wisdom and Charisma                                                                          |
 | **Skill Proficiencies**                    | *Choose 2:* [[History]], [[Insight]], [[Medicine]], [[Persuasion]], [[Religion]]             |

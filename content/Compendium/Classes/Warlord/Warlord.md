@@ -2,7 +2,7 @@
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**            | Intelligence                                                                                                                                         |
 | **Starting HP**                | 10 + Constitution modifier                                                                                                                           |
-| **Level Up HP**                | 6 (or 1d10) + Constitution modifier                                                                                                                  |
+| **Level Up HP**                | 6 + Constitution modifier                                                                                                                            |
 | **Hit Point Die**              | d10 per Warlord level                                                                                                                                |
 | **Saving Throw Proficiencies** | Intelligence and Wisdom                                                                                                                              |
 | **Skill Proficiencies**        | Choose 3: [[Athletics]], [[Deception]], [[History]], [[Insight]], [[Intimidation]], [[Investigation]], [[Nature]], [[Perception]], or [[Persuasion]] |

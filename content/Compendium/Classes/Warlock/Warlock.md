@@ -3,14 +3,14 @@
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                        | Charisma                                                                                                                                                                         |
 | **Starting HP**                            | 8 + Constitution modifier                                                                                                                                                        |
-| **Level Up HP**                            | 5 (or 1d8) + Constitution modifier                                                                                                                                               |
+| **Level Up HP**                            | 5 + Constitution modifier                                                                                                                                               |
 | **Hit Point Die**                          | d8 per Warlock level                                                                                                                                                             |
 | **Saving Throw Proficiencies**             | Wisdom and Charisma                                                                                                                                                              |
 | **Skill Proficiencies**                    | *Choose 2:* [[Arcana]], [[Deception]], [[History]], [[Intimidation]], [[Investigation]], [[Nature]], [[Religion]]                                                                |
 | **Weapon Proficiencies**                   | Simple Weapons                                                                                                                                                                   |
 | **Armor Training**                         | [[Light Armor]]                                                                                                                                                                  |
-| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Dagger]], [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (crystal), [[Book]] (occult lore), [[Scholar's Pack]] and 7 GP |
-|                                            | (B) [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] (crystal) and 80 GP                                                                                      |
+| **Starting Equipment**<br>*Choose A or B:* | (A) [[Padded Armor]], [[Sickle]], [[Dagger]], [[Arcane Focus]] (crystal), [[Book]] (occult lore), [[Scholar's Pack]] and 7 GP |
+|                                            | (B) [[Arcane Focus]] (crystal) and 80 GP                                                                                      |
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
@@ -111,7 +111,7 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 **Spellcasting Ability.** Charisma is the spellcasting ability for your Warlock spells.
 
-**Spellcasting Focus.** You can use an [[Compendium/Equipment/Adventuring Gear/Arcane Focus/Arcane Focus]] as a Spellcasting Focus for your Warlock spells.
+**Spellcasting Focus.** You can use an [[Arcane Focus]] as a Spellcasting Focus for your Warlock spells.
 
 ### Level 2: Magical Cunning
 

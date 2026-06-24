@@ -22,7 +22,7 @@ Your body has been tempered to withstand the rigors of your patron's eternal cru
 Additionally, you can use any weapon you are proficient with as a Spellcasting Focus for your Warlock spells.
 
 ### Level 6: Slayer's Spirit
-You can channel the Slayer's Spirit to fuel magical effects. Two effects are available to you: *Slayer's Guidance* and *Crimson Flow*. You can channel the Slayer's Spirit a number of times equal to your Charisma Bonus (minimum once) per Short Rest.
+You can channel the Slayer's Spirit to fuel magical effects. Two effects are available to you: *Slayer's Guidance* and *Crimson Flow*. You can channel the Slayer's Spirit a number of times equal to your Charisma Bonus (minimum once) per [[Short Rest]].
 
 #### Slayer's Guidance
 When you make a weapon attack roll, you can add 1d6 to the roll.

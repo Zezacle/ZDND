@@ -3,7 +3,7 @@
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Primary Ability**                           | Strength and Charisma                                                                                |
 | **Starting HP**                               | 10 + Constitution modifier                                                                           |
-| **Level Up HP**                               | 6 (or 1d10) + Constitution modifier                                                                  |
+| **Level Up HP**                               | 6 + Constitution modifier                                                                  |
 | **Hit Point Die**                             | d10 per Paladin level                                                                                |
 | **Saving Throw Proficiencies**                | Wisdom and Charisma                                                                                  |
 | **Skill Proficiencies**                       | *Choose 2:* [[Athletics]], [[Insight]], [[Intimidation]], [[Medicine]], [[Persuasion]], [[Religion]] |

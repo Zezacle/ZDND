@@ -6,6 +6,8 @@ tags:
 Evil Tree Heart
 - Add picture
 - Create things for it
+  
+  [[Arcane Vigor]] buff
 
 ### Foundry
 - add sfx

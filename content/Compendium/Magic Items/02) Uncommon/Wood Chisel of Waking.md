@@ -1,5 +1,6 @@
 ---
 tags:
+  - new
   - magicitem/uncommon
 ---
 *Wondrous Item, Uncommon*

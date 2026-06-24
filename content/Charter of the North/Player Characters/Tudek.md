@@ -1,7 +1,7 @@
 #### Male [[Turtlefolk]]
 
-### Level 4 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 5 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]
@@ -26,9 +26,9 @@
 
 | Stat        |         | Passives          |     |
 | ----------- | ------- | ----------------- | --- |
-| **Health**  | 42      | **Perception**    | 16  |
-| **Defense** | 12 - 19 | **Investigation** | 10  |
-|             |         | **Insight**       | 13  |
+| **Health**  | 54      | **Perception**    | 17  |
+| **Defense** | 14 - 19 | **Investigation** | 10  |
+| Shield      | Yes     | **Insight**       | 13  |
 
 
 ### Active Downtime Tasks

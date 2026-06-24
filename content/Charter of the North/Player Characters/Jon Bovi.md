@@ -1,7 +1,7 @@
 #### Male [[Godkin]]
 
-### Level 4 [[College of Valor]] | [[Bard]] [[Bard Spell List|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 5 [[College of Valor]] | [[Bard]] [[Bard Spell List|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Spear]]
@@ -23,9 +23,9 @@
 
 | Stat        |         | Passives          |     |
 | ----------- | ------- | ----------------- | --- |
-| **Health**  | 26      | **Perception**    | 9   |
-| **Defense** | 12 - 14 | **Investigation** | 14  |
-|             |         | **Insight**       | 13  |
+| **Health**  | 33      | **Perception**    | 9   |
+| **Defense** | 12 - 14 | **Investigation** | 15  |
+|             |         | **Insight**       | 14  |
 
 ### Active Downtime Tasks
 

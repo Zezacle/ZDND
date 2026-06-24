@@ -10,7 +10,7 @@ Only Available through [[Backgrounds]].
 Available at Levels 4, 8, 12, and 16.
 
 ### [[Fighting Style Feats]]
-Available through the Fighting Style class feature or the [[Fighting Style]] General Feat.
+Available through the Fighting Style class feature or the [[Fighting Initiate]] General Feat.
 
 ### [[Epic Boon Feats]]
 Available at Level 19.

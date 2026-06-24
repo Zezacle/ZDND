@@ -8,5 +8,5 @@ tags:
 **Ability:** Wisdom
 [[Utilize]]: Paint a recognizable image of something you've seen (DC 10)
 **Craft:**
-- [[Compendium/Equipment/Adventuring Gear/Druidic Focus/Druidic Focus]]
+- [[Druidic Focus]]
 - [[Holy Symbol]]

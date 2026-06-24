@@ -12,7 +12,7 @@ Choosing your class is about finding what archetype of skills fits your hero fan
 | [[Barbarian]]                             | A rage-filled warrior. Get angry and smack 'em real hard.             | Strength             | Frontline Melee     | Rage               |
 | [[Bard]]                                  | A charismatic magician capable of manipulation, good and bad.         | Charisma             | Buffs + Debuffs     | Bardic Inspiration |
 | [[Cleric]]                                | A holy warrior of a God. Bestow holy magic unto the masses.           | Wisdom               | Healing/Damage      | Channel Divinity   |
-| [[Compendium/Classes/Druid/Druid\|Druid]] | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility      | Wildshape          |
+| [[Druid]] | A nature magician who can turn into animals.                          | Wisdom               | Spells/Utility      | Wildshape          |
 | [[Fighter]]                               | A warrior trained in all kinds of fighting. Versatile and relentless. | Strength / Dexterity | Consistent Damage   | Extra Everything   |
 | [[Monk]]                                  | A fighter of honed spirituality. Strike with magic and grace.         | Dexterity + Wisdom   | Nimble Melee        | Focus Points       |
 | [[Paladin]]                               | A warrior who protects their friends and delivers righteous strikes.  | Strength + Charisma  | Tanking/Damage      | Divine Smite       |
@@ -37,7 +37,7 @@ Each class has many things to consider when playing them, but some are far easie
 | [[Warlord]]                               | ★★☆☆       | Must pay attention at all times during combat.                        |
 | [[Bard]]                                  | ★★★☆       | Lots of different spells all with specific use cases.                 |
 | [[Cleric]]                                | ★★★☆       | Like a Paladin but with way more spells.                              |
-| [[Compendium/Classes/Druid/Druid\|Druid]] | ★★★☆       | Spells, Wildshapes uses, Wildshape forms, etc.                        |
+| [[Druid]] | ★★★☆       | Spells, Wildshapes uses, Wildshape forms, etc.                        |
 | [[Monk]]                                  | ★★★☆       | Hitting things, but with Abilities! Not as durable as other martials. |
 | [[Wizard]]                                | ★★★☆       | Lots of spells, and really fragile.                                   |
 | [[Artificer]]                             | ★★★★       | Spells, Magic Item Crafting, Subclasses with Intricacies              |

@@ -1,7 +1,7 @@
 #### Female [[Firbolgs|Firbolg]]
 
-### Level 4 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 5 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Shortbow]]
@@ -11,6 +11,7 @@
 [[Padded Armor]]
 
 #### Other Magic Items
+[[Jotun's Eye (Dormant)]]
 [[Wood Chisel of Waking]]
 +1 Arrows (x18)
 

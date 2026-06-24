@@ -15,7 +15,7 @@
 | [[Elemental Adept]]           | Yes        |
 | [[Ever Ready]]                |            |
 | [[Fey Touched]]               |            |
-| [[Fighting Style]]            |            |
+| [[Fighting Initiate]]            |            |
 | [[Flash Recall]]              |            |
 | [[Grappler]]                  |            |
 | [[Great Weapon Master]]       |            |

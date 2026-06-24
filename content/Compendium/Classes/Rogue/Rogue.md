@@ -88,12 +88,12 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 
 ### Level 3: Rogue Subclass
 
-You gain a Rogue subclass of your choice: [[Arcane Trickster]], [[Compendium/Classes/Rogue/Assassin|Assassin]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
+You gain a Rogue subclass of your choice: [[Arcane Trickster]], [[Assassin]], [[Soulknife]], or [[Thief]]. A Subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
 | Roguish Archetype (Subclass)                    |                                           |
 | ----------------------------------------------- | ----------------------------------------- |
 | [[Arcane Trickster]]                            | Enhance Stealth with Arcane Spells        |
-| [[Compendium/Classes/Rogue/Assassin\|Assassin]] | Practice the Grim Art of Death            |
+| [[Assassin]] | Practice the Grim Art of Death            |
 | [[Soulknife]]                                   | Strike Foes with Psionic Blades           |
 | [[Thief]]                                       | Hunt for Treasure as a Classic Adventurer |
 

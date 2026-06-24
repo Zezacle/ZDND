@@ -1,7 +1,7 @@
 #### Male [[Humans|Human]]
 
 ### Level 4 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Arming Sword]] (Pact of the Blade)
@@ -29,8 +29,8 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 | Stat        |       | Passives          |     |
 | ----------- | ----- | ----------------- | --- |
 | **Health**  | 48    | **Perception**    | 12  |
-| **Defense** | 15-17 | **Investigation** | 12  |
-|             |       | **Insight**       | 10  |
+| **Defense** | 14-16 | **Investigation** | 12  |
+| Shield      | Yes   | **Insight**       | 10  |
 
 ### Active Downtime Tasks
 
