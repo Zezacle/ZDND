@@ -9,6 +9,8 @@ Evil Tree Heart
   
   [[Arcane Vigor]] buff
 
+CREATE CHEAT SHEET FOR KRISTINA
+
 ### Foundry
 - add sfx
 	- Hunt Showdown, sound clips
