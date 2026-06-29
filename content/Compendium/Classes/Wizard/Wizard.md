@@ -66,7 +66,7 @@ The book contains the level 1+ spells you know. It starts with six level 1 Wizar
 
 **Spell Slots.** The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]]. 
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ Wizard spells that are available for you to cast with this feature. To do so, choose four Wizard spells from your spellbook. The chosen spells must be of a level for which you have spell slots. You cannot prepare non-Wizard spells you have transcribed into your [[Spellbook]].
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ Wizard spells that are available for you to cast with this feature. To do so, choose three Wizard spells from your spellbook. The chosen spells must be of a level for which you have spell slots. You cannot prepare non-Wizard spells you have transcribed into your [[Spellbook]].
 
 The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook. 
 
@@ -78,7 +78,7 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 **Spellcasting Focus.** You can use an [[Arcane Focus]] or your [[Spellbook]] as a Spellcasting Focus for your Wizard spells.
 
-**Spellbook Casting.** With your Spellbook equipped in both hands, you can cast directly from it's pages, allowing you to cast non-prepared spells. When casting non-prepared spells, casting times increase from Action to Action AND Bonus Action, and from Bonus Action to Action.
+**Spellbook Casting.** With your [[Spellbook]] equipped in both hands, you can cast directly from it's pages, allowing you to cast non-prepared spells. When casting non-prepared spells, casting times increase from Action to Action AND Bonus Action, and from Bonus Action to Action.
 
 >[!tip] Expanding and Replacing a Spellbook
 >The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Spell Scroll, for example, and then copy it into your spellbook. 
@@ -125,11 +125,13 @@ Whenever you finish a [[Short Rest]], you can study your spellbook and replace o
 
 ### Level 7: Spellbook Mastery
 
-Whenever casting from your spellbook, it automatically flips it's pages to the spell you intend to cast. Casting non-prepared spells uses their normal casting time.
+Whenever casting from your spellbook, it automatically flips it's pages to the spell you intend to cast, allowing you to cast non-prepared spells using their normal casting time.
 
 ### Level 9: Diverse Magician
 
-You can now prepare one non-Wizard spell from your Spellbook. The number of non-Wizard spells you can prepare increases to three at Level 13, and five at level 17
+You can now prepare one non-Wizard spell from your spellbook. 
+
+The number of non-Wizard spells you can prepare increases to three at Level 13, and five at level 17
 
 ### Level 18: Spell Mastery
 
