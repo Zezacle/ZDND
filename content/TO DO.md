@@ -6,10 +6,7 @@ tags:
 Evil Tree Heart
 - Add picture
 - Create things for it
-  
-  [[Arcane Vigor]] buff
 
-CREATE CHEAT SHEET FOR KRISTINA
 
 ### Foundry
 - add sfx
@@ -17,7 +14,6 @@ CREATE CHEAT SHEET FOR KRISTINA
 - add more music: 
 	- ADD INSCRYPTION
 
-Polish [[00) Creating a Character]]
 
 Polish [[index|Homepage]]
 

@@ -59,6 +59,7 @@ tags:
 |   3   | [[Daylight]]              | Evocation   | —       |
 |   3   | [[Dispel Magic]]          | Abjuration  | —       |
 |   3   | [[Magic Circle]]          | Abjuration  | M       |
+|   3   | [[Mortal Mirror]]*        | Abjuration  | M       |
 |   3   | [[Power Nap]]*            | Enchantment | C       |
 |   3   | [[Remove Curse]]          | Abjuration  | —       |
 |   3   | [[Revivify]]              | Necromancy  | M       |

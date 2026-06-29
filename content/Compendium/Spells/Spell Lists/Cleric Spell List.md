@@ -94,6 +94,7 @@ tags:
 |   3   | [[Magic Circle]]           | Abjuration    | M       |
 |   3   | [[Mass Healing Word]]      | Abjuration    | —       |
 |   3   | [[Meld into Stone]]        | Transmutation | R       |
+|   3   | [[Mortal Mirror]]*         | Abjuration    | M       |
 |   3   | [[Power Nap]]*             | Enchantment   | C       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |

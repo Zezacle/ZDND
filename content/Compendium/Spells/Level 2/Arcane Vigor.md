@@ -5,6 +5,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - spell/added
+  - edited
 school: Abjuration
 spell_level: "2"
 ritual: false

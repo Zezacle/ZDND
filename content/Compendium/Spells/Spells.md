@@ -252,6 +252,7 @@ concentration: false
 |   3   | [[Major Image]]            | Illusion      | C       |
 |   3   | [[Mass Healing Word]]      | Abjuration    | —       |
 |   3   | [[Meld into Stone]]        | Transmutation | R       |
+|   3   | [[Mortal Mirror]]*         | Abjuration    | M       |
 |   3   | [[Nondetection]]           | Abjuration    | M       |
 |   3   | [[Penetrating Blast]]*     | Evocation     | —       |
 |   3   | [[Phantom Steed]]          | Illusion      | R       |

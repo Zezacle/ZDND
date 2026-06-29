@@ -1,7 +1,7 @@
 #### Male [[Godkin]]
 
 ### Level 5 [[College of Valor]] | [[Bard]] [[Bard Spell List|(Spell List)]]
-0/3 [[Keystones Progression|Keystones]]
+1/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Spear]]

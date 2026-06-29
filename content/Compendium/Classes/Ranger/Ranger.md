@@ -172,6 +172,8 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 Your Superiority Die becomes a d8.
 
+Additionally, when you roll [[Initiative]] you regain two expended Superiority Dice.
+
 ### Level 13: Relentless Hunter
 
 Taking damage can't break your [[Concentration]] on [[Hunter's Mark]].

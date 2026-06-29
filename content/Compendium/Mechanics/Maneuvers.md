@@ -70,10 +70,13 @@ When you hit a creature with an attack roll using a weapon or an [[Unarmed Strik
 
 
 ### Level 4: Combat Superiority
+
 You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
 
-You learn an additional maneuver of your choice when you reach levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+You learn an additional maneuver of your choice when you reach Class levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
 
-**Superiority Dice.** You have one Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+
+You gain an additional Superiority Die when you reach Class levels 8, 12 and 16.
 
 **Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.

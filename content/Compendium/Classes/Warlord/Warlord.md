@@ -45,7 +45,7 @@ As a Warlord, you gain the following class features when you reach the specified
 |   9   |        +4         | Invincible Will (one use)                                |
 |  10   |        +4         | Subclass Feature                                         |
 |  11   |        +4         | Insightful Order (no limit), Military Insight (improved) |
-|  12   |        +4         | Combat Superiority, General Feat                         |
+|  12   |        +4         | General Feat, Improved Combat Superiority                |
 |  13   |        +5         | Invincible Will (two uses)                               |
 |  14   |        +5         | Subclass Feature                                         |
 |  15   |        +5         | Stalwart Defiance                                        |
@@ -65,7 +65,7 @@ You can use your insights to power the following procedures. In order to execute
 
 **Reactive Adaptation.** When another friendly creature within 60 ft. of you uses their reaction, you may use your reaction and spend an insight to grant the creature an additional reaction until the start of their next turn.
 
-**Evasive Maneuver.** When another friendly creature within 60 ft. of you is hit by an attack, you may use your reaction and spend an insight to roll a d8 and increase the creature's [[Evasion Class|EC]] against that attack by an amount equal to the number you roll.
+**Evasive Maneuver.** When another friendly creature within 60 ft. of you is hit by an attack, you may use your reaction and spend an insight to roll a d8 and increase the creature's [[Evasion Class|EC]] and [[Armor Class|AC]] against that attack by an amount equal to the number you roll.
 
 Starting at level 11, if the attack still hits, the target has resistance against the attack\'s damage.
 
@@ -106,9 +106,9 @@ You gain a Warlord subclass of your choice: [[Exemplar]], [[Tactician]], or [[Wa
 
 You learn two [[Maneuvers]] of your choice that are fueled by special dice called Superiority Dice. Maneuvers are used to enhance an attack in some way. You can use only one maneuver per attack.
 
-You learn two additional maneuvers of your choice when you reach Warlord levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
+You learn an additional maneuver of your choice when you reach Warlord levels 8, 12 and 16. Each time you learn a new maneuver, you can also replace one maneuver you know with a different one.
 
-**Superiority Dice.** You have three Superiority Dice, which are d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
+**Superiority Dice.** You have two Superiority Dice, which are d6s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a [[Short Rest|Short]] or [[Long Rest]].
 
 You gain an additional Superiority Die when you reach Warlord levels 8, 12 and 16.
 
@@ -137,6 +137,12 @@ You gain [[Expertise]] in two of your skill proficiencies of your choice.
 You have [[Advantage]] on all saving throws to avoid being [[Frightened]] or [[Charmed]].
 
 Additionally, whenever you fail an Intelligence, Wisdom or Charisma saving throw, you may choose to succeed instead. You cannot do so again until you finish a [[Long Rest]], but gain additional uses at 13th and 17th level.
+
+### Level 12: Improved Combat Superiority
+
+When issuing a Battlefield Order, you can expend a Superiority Die to allow your ally to perform a maneuver you know.
+
+Additionally, you learn the Commanding Presence and Tactical Assessment maneuvers. These do not count against your max number of known [[Maneuvers]], and they cannot be unlearned. If you already have one or both of these maneuvers, you learn a different one of your choice.
 
 ### Level 15: Stalwart Defiance 
 

@@ -23,6 +23,27 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-06-29
+- Barbarian, Fighter, Monk, Paladin, Ranger, Rogue, Warlord
+	- Added extra stuff to Improved Combat Superiority (Lv12)
+		- Different for each class
+- [[Quick Toss]] Bonus Action
+	- Added explicit rules for throwing things to allies and them catching it
+- [[Brace]] Action reworked into a Reaction: 
+	- Spend next turn's Action to get benefits now
+	- Speed Halved instead of 0.
+	- Evasion Class is reduced ***by*** 5, instead of reduced ***to*** 5.
+	- Dexterity saves become STR or CON saves (DM's Choice)
+- Spell Changes:
+	- Buffed [[Warding Bond]]: Increased Range from 60ft to 90ft, added clause for damage taken while Warded creature has 0 HP
+	- New Level 3 Abjuration Spell: [[Mortal Mirror]] for Clerics, Paladins, Sorcerers
+- Wizard Changes:
+	- Copying spells into a [[Spellbook]] doesn't cost GP
+	- Wizards can copy Non-Wizard [[Spell Scroll|Spell Scrolls]] into their [[Spellbook]]
+	- Spellbook Casting: Special rules for casting non-prepared spells directly from the Spellbook
+		- New Class Features: Spellbook Mastery (Lv7), Diverse Magician (Lv9)
+	- Reduced Number of Prepared Spells
+
 Update 2026-06-23
 - Removed Rolling for Level Up Health, Forced to take Avg. of Hit Die
 	- Its just easier to balance around, manage, etc.

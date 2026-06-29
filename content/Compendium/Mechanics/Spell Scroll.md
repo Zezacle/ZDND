@@ -26,4 +26,7 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 |      7      | Very Rare |   18    |     +10      |
 |      8      | Very Rare |   18    |     +10      |
 |      9      | Legendary |   19    |     +11      |
-***Copying a Scroll into a Spellbook.*** A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an [[Arcana]] check with a DC equal to 10 plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
+
+### Wizard Things!
+
+**Copying a Spell Scroll into a Spellbook.** A [[Spell Scroll]] can be copied into a [[Spellbook]]. When a spell is copied in this way, the copier must succeed on an [[Arcana]] check with a DC equal to 10 plus the spell's level. On a successful check, the copying the spell takes a number of hours equal to the spell's level. Afterwards, it is copied and you can prepare the spell like the other spells in your spellbook. Whether the check succeeds or fails, the [[Spell Scroll]] is destroyed.

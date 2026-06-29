@@ -129,6 +129,7 @@ tags:
 |   2   | [[Suggestion]]            | Enchantment   | C       |
 |   2   | [[Web]]                   | Conjuration   | C       |
 
+
 ### Level 3 Spells
 
 | Level | Spell                      | School        | Special |

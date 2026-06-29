@@ -1,7 +1,7 @@
 #### Male [[Turtlefolk]]
 
 ### Level 5 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List|(Spell List)]]
-0/3 [[Keystones Progression|Keystones]]
+1/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]
@@ -38,3 +38,9 @@
 - **Time:** 30 hours
 - **Difficulty:** 12
 - Progress: 16 hours
+
+#### Fry am the Egg Man!
+**Reward:** Baby Gator?
+- Time: ??
+- Difficulty: ??
+- Progress: 4 hours

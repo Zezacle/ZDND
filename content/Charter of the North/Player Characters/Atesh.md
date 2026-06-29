@@ -1,7 +1,7 @@
 #### Male Brass [[Dragonborn]]
 
-### Level 4 [[Abjurer]] | [[Wizard]] [[Wizard Spell List|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 5 [[Abjurer]] | [[Wizard]] [[Wizard Spell List|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]
@@ -22,8 +22,8 @@
 
 | Stat        |         | Passives          |     |
 | ----------- | ------- | ----------------- | --- |
-| **Health**  | 20      | **Perception**    | 11  |
-| **Defense** | 11 - 12 | **Investigation** | 14  |
+| **Health**  | 32      | **Perception**    | 11  |
+| **Defense** | 11 - 12 | **Investigation** | 16  |
 |             |         | **Insight**       | 11  |
 ### Active Downtime Tasks
 
@@ -31,7 +31,7 @@
 **Reward:** +1 Keystone, ???
 - **Time:** 40 hours
 - **Difficulty:** 13
-- Progress: 8 hours
+- Progress: 12 hours
 
 #### Study the Blackscale Tome
 **Reward:** ???

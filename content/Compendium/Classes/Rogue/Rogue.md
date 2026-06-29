@@ -33,28 +33,28 @@ Some Rogues began their careers as criminals, while other used their cunning to 
 As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
 ##### Rogue Features
-| Level | Proficiency <br>Bonus | Class Features                                           | Sneak Attack |
-| :---: | :-------------------: | -------------------------------------------------------- | :----------: |
-|   1   |          +2           | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery   |     1d6      |
-|   2   |          +2           | Cunning Action                                           |     1d6      |
-|   3   |          +2           | Rogue Subclass, Steady Aim                               |     2d6      |
-|   4   |          +2           | Combat Superiority, General Feat                         |     2d6      |
-|   5   |          +3           | Cunning Strike, Uncanny Dodge                            |     3d6      |
-|   6   |          +3           | Expertise                                                |     3d6      |
-|   7   |          +3           | Evasion, Reliable Talent                                 |     4d6      |
-|   8   |          +3           | Combat Superiority, General Feat                         |     4d6      |
-|   9   |          +4           | Subclass Feature                                         |     5d6      |
-|  10   |          +4           | -                                                        |     5d6      |
-|  11   |          +4           | Improved Cunning Strike                                  |     6d6      |
-|  12   |          +4           | Combat Superiority, Conservative Maneuvers, General Feat |     6d6      |
-|  13   |          +5           | Subclass Feature                                         |     7d6      |
-|  14   |          +5           | Devious Strikes                                          |     7d6      |
-|  15   |          +5           | Slippery Mind                                            |     8d6      |
-|  16   |          +5           | Combat Superiority, General Feat                         |     8d6      |
-|  17   |          +6           | Subclass Feature                                         |     9d6      |
-|  18   |          +6           | Elusive                                                  |     9d6      |
-|  19   |          +6           | Epic Boon                                                |     10d6     |
-|  20   |          +6           | Stroke of Luck                                           |     10d6     |
+| Level | Proficiency <br>Bonus | Class Features                                         | Sneak Attack |
+| :---: | :-------------------: | ------------------------------------------------------ | :----------: |
+|   1   |          +2           | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery |     1d6      |
+|   2   |          +2           | Cunning Action                                         |     1d6      |
+|   3   |          +2           | Rogue Subclass, Steady Aim                             |     2d6      |
+|   4   |          +2           | Combat Superiority, General Feat                       |     2d6      |
+|   5   |          +3           | Cunning Strike, Uncanny Dodge                          |     3d6      |
+|   6   |          +3           | Expertise                                              |     3d6      |
+|   7   |          +3           | Evasion, Reliable Talent                               |     4d6      |
+|   8   |          +3           | Combat Superiority, General Feat                       |     4d6      |
+|   9   |          +4           | Subclass Feature                                       |     5d6      |
+|  10   |          +4           | -                                                      |     5d6      |
+|  11   |          +4           | Improved Cunning Strike                                |     6d6      |
+|  12   |          +4           | General Feat, Improved Combat Superiority              |     6d6      |
+|  13   |          +5           | Subclass Feature                                       |     7d6      |
+|  14   |          +5           | Devious Strikes                                        |     7d6      |
+|  15   |          +5           | Slippery Mind                                          |     8d6      |
+|  16   |          +5           | Combat Superiority, General Feat                       |     8d6      |
+|  17   |          +6           | Subclass Feature                                       |     9d6      |
+|  18   |          +6           | Elusive                                                |     9d6      |
+|  19   |          +6           | Epic Boon                                              |     10d6     |
+|  20   |          +6           | Stroke of Luck                                         |     10d6     |
 
 ### Level 1: Expertise
 
@@ -147,11 +147,11 @@ Whenever you make an ability check that uses one of your skill or tool proficien
 
 You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
 
-### Level 12: Conservative Maneuvers
+### Level 12: Improved Combat Superiority
 
-When you roll a 1 on a Superiority Die while performing a maneuver, the die is not expended.
+When you roll a 1 or 2 on a Superiority Die while performing a maneuver, the die is not expended.
 
-Additionally, you learn one additional maneuver of your choice.
+Additionally, you learn the Ambush maneuver. This does not count against your max number of known [[Maneuvers]], and it cannot be unlearned. If you already have this maneuver, you learn another one of your choice.
 
 ### Level 14: Devious Strikes
 

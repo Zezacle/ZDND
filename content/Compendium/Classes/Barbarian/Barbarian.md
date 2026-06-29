@@ -164,6 +164,8 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 Your Superiority Die becomes a d8.
 
+Additionally, you learn the Menacing Attack maneuver. This does not count against your max number of known [[Maneuvers]], and it cannot be unlearned. If you already have this maneuver, you learn another one of your choice.
+
 ### Level 13: Improved Brutal Strike
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.

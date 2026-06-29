@@ -188,6 +188,8 @@ In addition, forgoing food and drink doesn't give you levels of [[Exhaustion]].
 
 Your Superiority Die becomes a d8.
 
+You can expend a Focus Point to reroll a Superiority Die. You can do so after seeing the roll but before the roll's outcome is determined.
+
 ### Level 13: Deflect Energy
 
 You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.

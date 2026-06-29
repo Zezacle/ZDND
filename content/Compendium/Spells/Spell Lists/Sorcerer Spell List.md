@@ -111,6 +111,7 @@ tags:
 |   3   | [[Hypnotic Pattern]]       | Illusion      | C       |
 |   3   | [[Lightning Bolt]]         | Evocation     | —       |
 |   3   | [[Major Image]]            | Illusion      | C       |
+|   3   | [[Mortal Mirror]]*         | Abjuration    | M       |
 |   3   | [[Penetrating Blast]]*     | Evocation     | —       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
 |   3   | [[Shadow Clone]]*          | Conjuration   | C       |

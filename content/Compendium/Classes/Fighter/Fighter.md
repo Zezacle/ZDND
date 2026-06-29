@@ -67,6 +67,8 @@ You can use this feature twice. You regain one expended use when you finish a [[
 
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 
+Beginning at Level 4, when you use this feature you regain one expended Superiority Die.
+
 ### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [[Long Rest]], you can practice weapon drills and change one of those weapon choices.
@@ -138,6 +140,8 @@ You can attack three times instead of once whenever you take the [[Attack]] acti
 ### Level 12: Improved Combat Superiority
 
 Your Superiority Die becomes a d10.
+
+Additionally, if the result of your Superiority Die's roll is 9 or higher, it is not expended.
 
 ### Level 14: Studied Attacks
 

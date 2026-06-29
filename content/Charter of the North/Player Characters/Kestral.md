@@ -1,7 +1,7 @@
 #### Male [[Humans|Human]]
 
-### Level 4 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 5 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Arming Sword]] (Pact of the Blade)
@@ -28,8 +28,8 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 
 | Stat        |       | Passives          |     |
 | ----------- | ----- | ----------------- | --- |
-| **Health**  | 48    | **Perception**    | 12  |
-| **Defense** | 14-16 | **Investigation** | 12  |
+| **Health**  | 53    | **Perception**    | 13  |
+| **Defense** | 14-16 | **Investigation** | 13  |
 | Shield      | Yes   | **Insight**       | 10  |
 
 ### Active Downtime Tasks
@@ -44,4 +44,4 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 **Reward:** +1 Keystone, Tattooist Tools Proficiency
 - **Time:** 40 hours
 - **Difficulty:** 15
-- Progress: 20 hours
+- Progress: 28 hours

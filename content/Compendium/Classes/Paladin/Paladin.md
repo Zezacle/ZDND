@@ -201,6 +201,8 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 Your Superiority Die becomes a d8.
 
+Additionally, you learn the Rally maneuver. This does not count against your max number of known [[Maneuvers]], and it cannot be unlearned. If you already have this maneuver, you learn another one of your choice.
+
 ### Level 14: Restoring Touch
 
 When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[Blinded]], [[Charmed]], [[Dazed]], [[Deafened]], [[Frightened]], [[Paralyzed]], or [[Stunned]]. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.

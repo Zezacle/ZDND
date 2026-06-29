@@ -22,16 +22,19 @@ Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less dama
 - [[Two Weapon Fighting]] Style allows attacking with two [[Light]] weapons as part of a single [[Attack]] action.
 - [[Dual Wielder]] feat allows one of your two weapons to not have the [[Light]] property.
 - "Nick" weapon mastery replaced with [[Offhand]] which allows you to add your ability modifier to damage roll of your extra attack.
+  
+## Combat Superiority For Martials
+The Battle Master Fighter subclass has been removed and Combat Superiority has been extended to all Martial classes. Each class has its own quirks regarding their Combat Superiority.
 
 ## Action Changes
 - **ACTIONS**
 	- NEW [[Disarm]]: Attempt to make a target drop what they are holding, including weapons.
 	- [[Dodge]]: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
-	- NEW [[Brace]]: Almost guarantee taking a hit, but reduce the damage and resist effects.
+	- NEW [[Brace]]: Stand still to take the brunt of a hit, but resist effects.
 - **BONUS ACTIONS**
-	- [[Dash]] as a Bonus Action: Gain additional Speed equal to half your normal Speed. (eg. 30ft -> 45ft)
-	- [[Disengage]] as a Bonus Action: Allows you to not provoke Opportunity Attacks from a single target.
-	- NEW [[Quick Toss]]: Recklessly throw an object up to 30 feet at [[Disadvantage]]. Get to chuckin'!
+	- [[Dash]] as a Bonus Action: Gain additional [[Speed]] equal to half your normal Speed. (eg. 30ft -> 45ft)
+	- [[Disengage]] as a Bonus Action: Allows you to not provoke [[Opportunity Attacks]] from a single target.
+	- NEW [[Quick Toss]]: Toss something to an ally or recklessly throw an improvised weapon up to 30 feet at [[Disadvantage]]. Get to chuckin'!
 
 ## Excursion Resting (Campaign Specific)
 Standard D&D 5e Resting rules are balanced around 6-8 encounters per day, which doesn't make sense in most stories that aren't constant dungeon crawls or brawls through the frontline of a battlefield. 
@@ -53,6 +56,11 @@ Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
 - MANY new Backgrounds.
 
 # New Stuff!
+
+## New Class!
+- [[Warlord]] class by Mystic Arts
+	- Martial class about commanding the battlefield!
+	- Three distinct subclasses!
 
 ## New Subclass!
 - [[Path of the Voice]] Barbarian *(Skyrim inspired subclass by Ginger2996)*
