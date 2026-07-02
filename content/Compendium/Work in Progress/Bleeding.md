@@ -2,7 +2,6 @@
 tags:
   - new
   - condition
-draft: true
 ---
 While you have the Bleeding condition, you experience the following effects.
 
