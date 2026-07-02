@@ -8,6 +8,10 @@ Evil Tree Heart
 - Create things for it
 
 
+Finish [[Ray of Rending]]
+
+
+
 ### Foundry
 - add sfx
 	- Hunt Showdown, sound clips

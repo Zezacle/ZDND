@@ -30,11 +30,12 @@ The Battle Master Fighter subclass has been removed and Combat Superiority has b
 - **ACTIONS**
 	- NEW [[Disarm]]: Attempt to make a target drop what they are holding, including weapons.
 	- [[Dodge]]: Allows you to add your Proficiency Bonus to your [[Evasion Class|EC]].
-	- NEW [[Brace]]: Stand still to take the brunt of a hit, but resist effects.
 - **BONUS ACTIONS**
 	- [[Dash]] as a Bonus Action: Gain additional [[Speed]] equal to half your normal Speed. (eg. 30ft -> 45ft)
 	- [[Disengage]] as a Bonus Action: Allows you to not provoke [[Opportunity Attacks]] from a single target.
 	- NEW [[Quick Toss]]: Toss something to an ally or recklessly throw an improvised weapon up to 30 feet at [[Disadvantage]]. Get to chuckin'!
+- **REACTIONS**
+	- NEW [[Brace]]: Spend next turn's Action to resist the effects of an incoming attack.
 
 ## Excursion Resting (Campaign Specific)
 Standard D&D 5e Resting rules are balanced around 6-8 encounters per day, which doesn't make sense in most stories that aren't constant dungeon crawls or brawls through the frontline of a battlefield. 

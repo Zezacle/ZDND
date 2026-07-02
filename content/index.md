@@ -3,7 +3,6 @@ title: ZD&D Homepage
 aliases:
   - Homepage
 ---
-
 # Welcome to Zee's Homebrew Compendium!
 This is basically a Wiki for D&D 5.5e, but with all the changes and additions I use in my games!
 
@@ -23,6 +22,17 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-07-02
+- Converted [[Burning]] from [[Hazard]] to [[Condition]]
+	- Increased damage from 1d4 Fire to 1d6 Fire
+- New [[Bleeding]] condition
+	- Can have multiple levels, each dealing 1d4 Necrotic
+- New [[Critical Hit]] rule
+	- Deal max damage roll + another roll or extra effect based on damage type dealt
+- Reworked [[Crusher]], [[Slasher]], [[Piercer]] feats
+- Reworked [[Hobgoblins]] Species Traits
+- New Level 3 Necromancy Spell: [[Ray of Rending]] for Clerics, Warlocks, Wizards
+
 Update 2026-06-29
 - Barbarian, Fighter, Monk, Paladin, Ranger, Rogue, Warlord
 	- Added extra stuff to Improved Combat Superiority (Lv12)
@@ -31,9 +41,6 @@ Update 2026-06-29
 	- Added explicit rules for throwing things to allies and them catching it
 - [[Brace]] Action reworked into a Reaction: 
 	- Spend next turn's Action to get benefits now
-	- Speed Halved instead of 0.
-	- Evasion Class is reduced ***by*** 5, instead of reduced ***to*** 5.
-	- Dexterity saves become STR or CON saves (DM's Choice)
 - Spell Changes:
 	- Buffed [[Warding Bond]]: Increased Range from 60ft to 90ft, added clause for damage taken while Warded creature has 0 HP
 	- New Level 3 Abjuration Spell: [[Mortal Mirror]] for Clerics, Paladins, Sorcerers

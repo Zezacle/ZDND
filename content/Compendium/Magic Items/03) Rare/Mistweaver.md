@@ -7,11 +7,11 @@ tags:
 *Weapon ([[Recurve Bow]]), Rare*
 
 **Attunement:** One Slot
-**Cost:** 500 GP
+**Cost:** 1250 GP
 **Weight:** 2 lb.
 **Uses:** 1 charge, recharges at Dusk
 
-*This ornately crafted [[Recurve Bow]] bears engravings of the Feywild and emits a thin veil of mist.*
+*This ornately crafted [[Recurve Bow]] bears green painted wood with fine engravings of frost, leaves and flowers and emits a thin veil of mist. Paired with it, is a wood and leather holster with straps for wearing on one's back or hip. The outward face depicts a lake scene with a temple projecting a white-dyed beam into the sky.*
 
 **Masterwork Weapon.** This weapon grants a +1 bonus to attack and damage rolls made with it.
 
@@ -24,5 +24,9 @@ tags:
 **Misty Shot.** As an Action, you can consume a charge to touch a willing creature and then choose a point within 300 ft. that you could theoretically hit with an arrow. The creature will be teleported to wherever the arrow lands. 
 
   Make a ranged attack roll (at [[Disadvantage]] if beyond 60 ft.) If the result is over 15, you hit your intended target. Below 15, and the target is displaced 5 ft. for every 1 under 15.
+
+**Mist Quiver.** This leather-bound bow holster doubles as a quiver when the Mistweaver is not carried inside it. Any arrows placed inside it dissolve into mist, becoming weightless. An attuned creature can reconstitute and draw an arrow from this quiver as part of an attack.
+
+  The Mist Quiver can hold up to 30x [[Arrows]].
 
 

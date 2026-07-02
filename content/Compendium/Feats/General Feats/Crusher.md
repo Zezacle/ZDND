@@ -8,6 +8,8 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Constitution score by 1, to a maximum of 20.
 
-**Push.** Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+**Bludgeoning Master.** Once per turn, when you deal Bludgeoning damage, you can apply either the [[Push]] or [[Sap]] Mastery property. You cannot apply multiple Mastery properties to the same attack.
 
-**Enhanced Critical.** When you score a [[Critical Hit]] that deals bludgeoning damage to a creature, attack rolls against that creature have [[Advantage]] until the start of your next turn.
+**Siege Strikes.** All Bludgeoning strikes have the [[Siege]] weapon property.
+
+**Enhanced Critical.** When you score a [[Critical Hit]] that deals Bludgeoning damage to a creature, you can roll one additional damage die when determining the Bludgeoning damage the target takes.
