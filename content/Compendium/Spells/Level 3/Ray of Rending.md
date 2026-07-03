@@ -2,6 +2,9 @@
 tags:
   - new
   - spell
+  - spell-list/cleric
+  - spell-list/warlock
+  - spell-list/wizard
 school: Necromancy
 spell_level: "3"
 ritual: false

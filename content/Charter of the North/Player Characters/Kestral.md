@@ -29,7 +29,7 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 | Stat        |       | Passives          |     |
 | ----------- | ----- | ----------------- | --- |
 | **Health**  | 53    | **Perception**    | 13  |
-| **Defense** | 14-16 | **Investigation** | 13  |
+| **Defense** | 15-17 | **Investigation** | 13  |
 | Shield      | Yes   | **Insight**       | 10  |
 
 ### Active Downtime Tasks
