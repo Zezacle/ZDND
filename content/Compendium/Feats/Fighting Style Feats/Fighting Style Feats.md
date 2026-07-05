@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fighting Style Feat
+---
 Fighting Styles improve or add abilities to martial fighting. Some features that grant Fighting Styles allow you to change them based on certain conditions.
 
 - [[Blind Fighting]]

@@ -82,6 +82,7 @@ tags:
 |   3   | [[Magic Circle]]           | Abjuration    | M       |
 |   3   | [[Major Image]]            | Illusion      | C       |
 |   3   | [[Penetrating Blast]]*     | Evocation     | —       |
+|   3   | [[Ray of Rending]]*        | Necromancy    | —       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Shadow Clone]]*          | Conjuration   | C       |
 |   3   | [[Spell Steal]]*           | Abjuration    | —       |

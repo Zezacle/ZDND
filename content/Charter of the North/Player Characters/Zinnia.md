@@ -20,6 +20,7 @@
 
 #### Languages
 [[Giant]]
+[[Elvish]]
 
 ### Stats
 

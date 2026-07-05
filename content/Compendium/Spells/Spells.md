@@ -259,6 +259,7 @@ concentration: false
 |   3   | [[Plant Growth]]           | Transmutation | —       |
 |   3   | [[Power Nap]]*             | Enchantment   | C       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
+|   3   | [[Ray of Rending]]*        | Necromancy    | —       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Revivify]]               | Necromancy    | M       |
 |   3   | [[Sending]]                | Divination    | —       |

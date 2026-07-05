@@ -156,6 +156,7 @@ tags:
 |   3   | [[Nondetection]]           | Abjuration    | M       |
 |   3   | [[Phantom Steed]]          | Illusion      | R       |
 |   3   | [[Protection from Energy]] | Abjuration    | C       |
+|   3   | [[Ray of Rending]]*        | Necromancy    | —       |
 |   3   | [[Remove Curse]]           | Abjuration    | —       |
 |   3   | [[Sending]]                | Divination    | —       |
 |   3   | [[Shadow Clone]]*          | Illusion      | C       |

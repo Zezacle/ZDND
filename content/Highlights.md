@@ -2,7 +2,7 @@
 tags:
   - 
 ---
-**This is a list of all the major changes that I implement as part of my rules.**
+**This is a list of all the major changes that I implement as part of my ZD&D rules.**
 Or you can [go here full a list](https://zezacle.github.io/ZDND/tags/new) of everything "new" :)
 
 # Big Rules
@@ -20,7 +20,7 @@ Balance regarding this new system is still WIP.
 ## Improved Dual Wielding
 Dual wielding weapons sucks in D&D 5e. Requires a Bonus Action to deal less damage than a [[Two-Handed]] weapon. These changes are designed to bring them in-line with Great Weapon users:
 - [[Two Weapon Fighting]] Style allows attacking with two [[Light]] weapons as part of a single [[Attack]] action.
-- [[Dual Wielder]] feat allows one of your two weapons to not have the [[Light]] property.
+- [[Dual Wielder]] Feat allows use of [[Light]] property when one of your two weapons doesn't have it.
 - "Nick" weapon mastery replaced with [[Offhand]] which allows you to add your ability modifier to damage roll of your extra attack.
   
 ## Combat Superiority For Martials
@@ -80,7 +80,7 @@ Some [[Species]] have been renamed and reorganized. Most 5e Races persist.
 
 ## Feats
 - New General Feats!
-	- [[Ever Ready]], [[One Man Army]], [[Magic Manipulator]] and [[Wild Artist]] more!
+	- [[Ever Ready]], [[One Man Army]], [[Magic Manipulator]], [[Wild Artist]] and more!
 - New and improved Fighting Styles!
 	- [[Dirty Fighting]], [[Mariner]], [[Pugilism]] and more!
 
