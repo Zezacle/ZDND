@@ -1,0 +1,33 @@
+properties:
+  file.name:
+    displayName: Spell Name
+  note.school:
+    displayName: School
+  note.spell_level:
+    displayName: Spell Level
+  note.ritual:
+    displayName: Ritual
+  note.material_component:
+    displayName: Materials
+  note.concentration:
+    displayName: Concentration
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("spell-list/artificer")
+    groupBy:
+      property: spell_level
+      direction: ASC
+    order:
+      - spell_level
+      - file.name
+      - school
+      - concentration
+      - ritual
+      - material_component
+      - tags
+    sort: []
+    columnSize:
+      note.spell_level: 117

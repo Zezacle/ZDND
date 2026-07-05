@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Left-sidebar frame: left sidebar only, center spans the freed right column
+.page[data-frame="left-sidebar"] > #quartz-body {
+  grid-template-columns: #{$sidePanelWidth} auto;
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "grid-sidebar-left grid-header"
+    "grid-sidebar-left grid-center"
+    "grid-sidebar-left grid-footer";
+  @media all and ($tablet) {
+    grid-template-columns: auto;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-footer";
+  }
+  & .center.left-sidebar {
+    max-width: 100%;
+    min-width: 100%;
+  }
+}
