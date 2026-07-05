@@ -22,6 +22,9 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-07-05
+WEBSITE UPDATE TO QUARTZ v5
+
 Update 2026-07-02
 - Converted [[Burning]] from [[Hazard]] to [[Condition]]
 	- Increased damage from 1d4 Fire to 1d6 Fire
