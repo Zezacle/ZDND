@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: zezacle.github.io
+  baseUrl: zezacle.github.io/ZDND
   ignorePatterns:
     - private
     - templates
