@@ -22,6 +22,10 @@ If you need to [[00) Creating a Character|Create a Character]] I have a page for
 
 ****
 ### Patch Notes (Recent First)
+Update 2026-07-06
+- Replaced Spell Lists with Databases
+	- Only a lil bit buggy lmao
+
 Update 2026-07-05
 WEBSITE UPDATE TO QUARTZ v5
 
