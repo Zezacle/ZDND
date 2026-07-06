@@ -8,13 +8,17 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: Special
+new: false
 ---
 *Transmutation Cantrip (Cleric)*
 
 **Casting Time:** Action
 **Range:** 30 feet
 **Components:** V
-**Duration:** Up to 1 minute
+**Duration:** Special
 
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
 

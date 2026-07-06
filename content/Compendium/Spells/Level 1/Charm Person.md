@@ -14,6 +14,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: 1 hour
+new: false
 ---
 *Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 

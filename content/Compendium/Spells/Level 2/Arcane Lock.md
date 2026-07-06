@@ -8,6 +8,10 @@ spell_level: "2"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 2 Abjuration (Artificer, Wizard)*
 

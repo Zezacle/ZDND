@@ -13,6 +13,10 @@ spell_level: "3"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Necromancy (Artificer, Cleric, Druid, Paladin, Ranger)*
 

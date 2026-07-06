@@ -8,6 +8,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: Instantaneous
+new: false
 ---
 *Level 1 Transmutation (Cleric, Druid)*
 

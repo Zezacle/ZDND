@@ -7,8 +7,12 @@ tags:
 school: Illusion
 spell_level: "1"
 ritual: true
-material_component: false
+material_component: true
 concentration: false
+cast-time: 1 minute
+range: Touch
+duration: 10 days
+new: false
 ---
 *Level 1 Illusion (Bard, Warlock, Wizard)*
 

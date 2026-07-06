@@ -2,9 +2,13 @@
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 ### Class Spell Lists
-- [[Artificer Spell List]]
+- [[Artificer Spell List.base]]
 - [[Bard Spell List]]
 - [[Cleric Spell List]]
 - [[Druid Spell List]]

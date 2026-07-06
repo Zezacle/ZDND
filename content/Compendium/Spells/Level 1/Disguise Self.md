@@ -12,6 +12,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Self
+duration: 1 hour
+new: false
 ---
 *Level 1 Illusion (Artificer, Bard, Sorcerer, Wizard)*
 

@@ -11,7 +11,6 @@
 
 #### Other Magic Items
 [[Everburn Hooded Lantern]]
-1x [[Totem of Sanctuary]]
 [[Charlatan's Die]]
 [[Clockwork Amulet]]
 

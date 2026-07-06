@@ -10,6 +10,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Action
+range: Touch
+duration: Up to 1 minute
+new: false
 ---
 *Abjuration Cantrip (Artificer, Cleric, Druid)*
 

@@ -14,6 +14,10 @@ spell_level: "5"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 5 Enchantment (Artificer, Cleric, Sorcerer, Warlock, Wizard)*
 

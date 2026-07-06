@@ -16,6 +16,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Touch
+duration: Instantaneous
+new: false
 ---
 *Level 1 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 

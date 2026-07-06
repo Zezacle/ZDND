@@ -12,6 +12,10 @@ spell_level: "4"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 4 Evocation (Cleric, Druid, Paladin, Warlock)*
 

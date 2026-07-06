@@ -11,6 +11,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: Instantaneous
+new: false
 ---
 *Necromancy Cantrip (Artificer, Druid, Sorcerer, Warlock, Wizard)*
 

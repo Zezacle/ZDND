@@ -11,6 +11,10 @@ spell_level: "4"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 4 Conjuration (Bard, Cleric, Warlock)_
 

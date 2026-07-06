@@ -13,6 +13,10 @@ spell_level: "2"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 2 Transmutation (Artificer, Paladin, Ranger, Sorcerer, Wizard)*
 

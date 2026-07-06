@@ -10,6 +10,10 @@ spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 3 Necromancy (Cleric, Warlock, Wizard)*
 

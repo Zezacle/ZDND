@@ -10,6 +10,10 @@ spell_level: "3"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 

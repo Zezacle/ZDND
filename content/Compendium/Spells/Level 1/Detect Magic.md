@@ -17,6 +17,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: true
+cast-time: Action
+range: Self
+duration: Up to 10 minutes
+new: false
 ---
 *Level 1 Divination (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 

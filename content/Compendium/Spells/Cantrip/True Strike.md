@@ -10,6 +10,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Self
+duration: Instantaneous
+new: false
 ---
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 

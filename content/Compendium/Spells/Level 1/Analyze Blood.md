@@ -12,6 +12,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: false
+cast-time: Action
+range: Touch
+duration: Instantaneous
+new: true
 ---
 *Level 1 Necromancy (Cleric, Druid, Ranger, Warlock, Wizard)*
 

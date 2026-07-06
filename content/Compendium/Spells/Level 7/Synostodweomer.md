@@ -9,6 +9,10 @@ spell_level: "7"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 7 Transmutation (Sorcerer, Wizard)_
 

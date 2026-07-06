@@ -11,6 +11,10 @@ spell_level: "3"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 

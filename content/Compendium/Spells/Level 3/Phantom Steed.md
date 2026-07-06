@@ -7,6 +7,10 @@ spell_level: "3"
 ritual: true
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Illusion (Wizard)*
 

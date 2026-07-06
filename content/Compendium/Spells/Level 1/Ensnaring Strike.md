@@ -9,6 +9,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Bonus Action
+range: Self
+duration: Up to 1 minute
+new: false
 ---
 *Level 1 Conjuration (Ranger)*
 

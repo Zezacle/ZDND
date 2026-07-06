@@ -10,6 +10,10 @@ spell_level: "8"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 8 Evocation (Cleric, Wizard)_
 

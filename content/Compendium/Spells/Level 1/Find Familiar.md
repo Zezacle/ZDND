@@ -7,6 +7,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: false
+cast-time: 1 hour
+range: 10 feet
+duration: Instantaneous
+new: false
 ---
 *Level 1 Conjuration (Wizard)*
 

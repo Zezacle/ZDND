@@ -8,13 +8,17 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Self
+duration: 1 hour
+new: false
 ---
 _Level 1 Abjuration (Warlock)_
 
 **Casting Time:** Bonus Action  
 **Range:** Self  
 **Components:** V, S, M (a shard of blue glass)  
-**Duration:** 1 Hour
+**Duration:** 1 hour
 
 Protective magical frost surrounds you. You gain 5 [[Temporary Hit Points]]. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no [[Temporary Hit Points]].
 

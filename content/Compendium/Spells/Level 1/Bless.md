@@ -10,6 +10,10 @@ spell_level: "1"
 ritual: false
 material_component: true
 concentration: true
+cast-time: Action
+range: 30 feet
+duration: Up to 1 minute
+new: false
 ---
 *Level 1 Enchantment (Cleric, Paladin)*
 

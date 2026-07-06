@@ -10,8 +10,12 @@ tags:
 school: Necromancy
 spell_level: "1"
 ritual: false
-material_component: false
+material_component: true
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: Instantaneous
+new: true
 ---
 *Level 1 Necromancy (Cleric, Druid, Ranger, Warlock, Wizard)*
 

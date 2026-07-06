@@ -8,6 +8,10 @@ spell_level: "5"
 ritual: true
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 5 Divination (Cleric)*
 

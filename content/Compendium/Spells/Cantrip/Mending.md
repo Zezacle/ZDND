@@ -12,6 +12,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: 1 minute
+range: Touch
+duration: Instantaneous
+new: false
 ---
 *Transmutation Cantrip (Artificer, Bard, Cleric, Druid, Sorcerer, Wizard)*
 

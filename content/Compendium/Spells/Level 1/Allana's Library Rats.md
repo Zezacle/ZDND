@@ -12,6 +12,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: false
+cast-time: Action
+range: 30 feet
+duration: 10 minutes
+new: true
 ---
 *Level 1 Divination (Artificer, Bard, Cleric, Druid, Wizard)*
 

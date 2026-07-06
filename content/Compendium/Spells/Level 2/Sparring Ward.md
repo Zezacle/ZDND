@@ -11,6 +11,10 @@ spell_level: "2"
 ritual: true
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 2 Abjuration (Bard, Cleric, Paladin, Wizard)*
 

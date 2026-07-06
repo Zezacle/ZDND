@@ -9,6 +9,10 @@ spell_level: "5"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 5 Illusion (Artificer, Sorcerer, Wizard)*
 

@@ -9,6 +9,10 @@ spell_level: "2"
 ritual: false
 material_component: true
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 2 Conjuration (Druid, Ranger)_
 

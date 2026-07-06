@@ -10,6 +10,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 60 feet
+duration: Instantaneous
+new: false
 ---
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 

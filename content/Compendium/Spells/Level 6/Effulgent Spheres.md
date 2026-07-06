@@ -10,6 +10,10 @@ spell_level: "6"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 6 Evocation (Druid, Sorcerer, Wizard)_
 

@@ -16,6 +16,10 @@ spell_level: "5"
 ritual: false
 material_component: true
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
 

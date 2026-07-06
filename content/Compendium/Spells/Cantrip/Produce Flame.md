@@ -7,6 +7,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Self
+duration: 10 minutes
+new: false
 ---
 *Conjuration Cantrip (Druid)*
 

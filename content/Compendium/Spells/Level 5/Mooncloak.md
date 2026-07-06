@@ -12,6 +12,10 @@ spell_level: "5"
 ritual: false
 material_component: true
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 5 Abjuration (Bard, Druid, Ranger, Wizard)_
 

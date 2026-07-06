@@ -10,6 +10,10 @@ spell_level: "6"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 6 Enchantment (Bard, Cleric)_
 

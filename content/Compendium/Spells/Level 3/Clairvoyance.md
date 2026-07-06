@@ -13,6 +13,10 @@ spell_level: "3"
 ritual: false
 material_component: true
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
 

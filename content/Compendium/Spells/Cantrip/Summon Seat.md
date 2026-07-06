@@ -12,6 +12,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Self
+duration: Until Dispelled
+new: true
 ---
 *Conjuration Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 

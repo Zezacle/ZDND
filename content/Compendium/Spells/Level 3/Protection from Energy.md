@@ -17,6 +17,10 @@ spell_level: "3"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 3 Abjuration (Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 

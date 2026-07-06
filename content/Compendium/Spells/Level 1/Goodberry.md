@@ -8,6 +8,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Self
+duration: 24 hours
+new: false
 ---
 *Level 1 Conjuration (Druid, Ranger)*
 

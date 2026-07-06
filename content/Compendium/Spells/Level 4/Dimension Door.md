@@ -13,6 +13,10 @@ spell_level: "4"
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 

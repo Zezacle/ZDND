@@ -13,6 +13,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Action
+range: 60 feet
+duration: Up to 1 minute
+new: false
 ---
 *Level 1 Evocation (Artificer, Bard, Druid)*
 

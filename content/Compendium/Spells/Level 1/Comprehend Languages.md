@@ -12,6 +12,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: false
+cast-time: Action
+range: Self
+duration: 1 hour
+new: false
 ---
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 

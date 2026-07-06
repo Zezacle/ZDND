@@ -13,6 +13,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Self
+duration: Instantaneous
+new: false
 ---
 _Evocation Cantrip (Artificer, Bard, Druid, Sorcerer, Warlock, Wizard)_
 

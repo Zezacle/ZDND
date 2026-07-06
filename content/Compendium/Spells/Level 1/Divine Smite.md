@@ -7,6 +7,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Self
+duration: Instantaneous
+new: false
 ---
 *Level 1 Evocation (Paladin)*
 

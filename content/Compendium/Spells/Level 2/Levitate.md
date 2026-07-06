@@ -10,6 +10,10 @@ spell_level: "2"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 2 Transmutation (Artificer, Sorcerer, Wizard)*
 

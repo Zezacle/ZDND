@@ -11,10 +11,14 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: Touch
+duration: Instantaneous
+new: true
 ---
 *Level 1 Divination (Bard, Paladin, Ranger, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 **Range:** Touch
 **Components:** S, M (a weapon)
 **Duration:** Instantaneous

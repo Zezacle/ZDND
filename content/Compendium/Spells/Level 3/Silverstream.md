@@ -10,6 +10,10 @@ spell_level: "3"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 3 Evocation (Cleric, Sorcerer, Wizard)_
 

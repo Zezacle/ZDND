@@ -11,6 +11,10 @@ spell_level: "9"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 9 Conjuration (Sorcerer, Warlock, Wizard)_
 

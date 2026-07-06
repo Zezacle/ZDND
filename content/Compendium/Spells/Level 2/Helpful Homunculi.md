@@ -9,6 +9,10 @@ spell_level: "2"
 ritual: true
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 2 Conjuration (Cleric, Wizard)_  
 

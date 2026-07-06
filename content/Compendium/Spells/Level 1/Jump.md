@@ -11,6 +11,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Touch
+duration: 1 minute
+new: false
 ---
 *Level 1 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 

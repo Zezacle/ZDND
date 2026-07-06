@@ -9,6 +9,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Action
+range: Self
+duration: Up to 10 minutes
+new: false
 ---
 *Level 1 Divination (Cleric, Paladin)*
 

@@ -14,6 +14,10 @@ spell_level: "2"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 

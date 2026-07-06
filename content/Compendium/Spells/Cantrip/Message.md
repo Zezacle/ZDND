@@ -11,6 +11,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 120 feet
+duration: 1 round
+new: false
 ---
 *Transmutation Cantrip (Artificer, Bard, Druid, Sorcerer, Wizard)*
 

@@ -12,6 +12,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 10 feet
+duration: Instantaneous
+new: true
 ---
 *Level 1 Conjuration (Bard, Paladin, Ranger, Warlock)*
 

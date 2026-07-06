@@ -77,7 +77,7 @@ As a Artificer, you gain the following class features when you reach the specifi
 |  20   |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
 ### Level 1: Spellcasting
 
-You have learned how to channel magical energy through objects. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer Spell List]].
+You have learned how to channel magical energy through objects. The information below details how you use those rules with Artificer spells, which appear in the [[Artificer Spell List.base|Artificer Spell List]].
 
 **Tools Required.** You produce your Artificer spells through tools. You can use [[Thieves' Tools]], [[Tinker's Tools]], or another kind of [[Artisan's Tools]] with which you have proficiency as a Spellcasting Focus, and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an M component when you cast it).
 

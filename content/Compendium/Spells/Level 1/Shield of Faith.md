@@ -11,6 +11,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Bonus Action
+range: 60 feet
+duration: Up to 10 minutes
+new: false
 ---
 *Level 1 Abjuration (Cleric, Paladin)*
 

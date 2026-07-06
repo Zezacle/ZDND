@@ -9,6 +9,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Bonus Action
+range: 90 feet
+duration: Up to 1 hour
+new: false
 ---
 *Level 1 Enchantment (Warlock)*
 

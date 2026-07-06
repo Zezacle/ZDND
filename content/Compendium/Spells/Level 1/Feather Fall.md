@@ -10,6 +10,10 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Reaction
+range: 60 feet
+duration: 1 minute
+new: false
 ---
 *Level 1 Transmutation (Artificer, Bard, Sorcerer, Wizard)*
 

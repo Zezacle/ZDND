@@ -8,10 +8,14 @@ spell_level: "1"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Bonus Action
+range: Self
+duration: 1 minute
+new: false
 ---
 _Level 1 Necromancy (Paladin)_
 
-**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike  
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an [[Unarmed Strike]]  
 **Range:** Self  
 **Components:** V  
 **Duration:** 1 minute

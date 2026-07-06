@@ -8,8 +8,12 @@ tags:
 school: Divination
 spell_level: "1"
 ritual: true
-material_component: false
+material_component: true
 concentration: false
+cast-time: 1 minute
+range: Touch
+duration: Instantaneous
+new: false
 ---
 *Level 1 Divination (Artificer, Bard, Wizard)*
 

@@ -9,6 +9,10 @@ spell_level: "2"
 ritual: true
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 2 Necromancy (Cleric, Paladin, Wizard)*
 

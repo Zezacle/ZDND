@@ -8,6 +8,10 @@ spell_level: "1"
 ritual: false
 material_component: true
 concentration: false
+cast-time: Action
+range: 90 feet
+duration: Instantaneous
+new: false
 ---
 *Level 1 Evocation (Sorcerer, Wizard)*
 

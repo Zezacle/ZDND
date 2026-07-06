@@ -11,6 +11,10 @@ spell_level: "4"
 ritual: false
 material_component: true
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 4 Conjuration (Druid, Ranger, Wizard)_
 

@@ -7,6 +7,10 @@ spell_level: "6"
 ritual: true
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 6 Conjuration (Wizard)*
 

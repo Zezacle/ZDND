@@ -12,6 +12,10 @@ spell_level: "2"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 _Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 

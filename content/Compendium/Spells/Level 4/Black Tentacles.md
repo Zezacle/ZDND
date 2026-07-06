@@ -9,6 +9,10 @@ spell_level: "4"
 ritual: false
 material_component: false
 concentration: true
+cast-time:
+range:
+duration:
+new: false
 ---
 *Level 4 Conjuration (Wizard)*
 

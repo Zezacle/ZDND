@@ -10,6 +10,10 @@ spell_level: "4"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 4 Evocation (Sorcerer, Warlock, Wizard)*
 

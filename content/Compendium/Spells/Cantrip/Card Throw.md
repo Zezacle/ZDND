@@ -10,6 +10,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: false
+cast-time: Action
+range: 60 feet
+duration: Instantaneous
+new: true
 ---
 *Evocation Cantrip (Bard, Warlock, Wizard)*
 

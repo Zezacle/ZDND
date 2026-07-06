@@ -11,6 +11,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Action
+range: 120 feet
+duration: Up to 1 minute
+new: false
 ---
 *Illusion Cantrip (Artificer, Bard, Sorcerer, Wizard)*
 

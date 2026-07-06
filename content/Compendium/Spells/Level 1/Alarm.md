@@ -10,6 +10,10 @@ spell_level: "1"
 ritual: true
 material_component: false
 concentration: false
+cast-time: 1 minute
+range: 30 feet
+duration: 8 hours
+new: false
 ---
 *Level 1 Abjuration (Artificer, Ranger, Wizard)*
 

@@ -9,6 +9,10 @@ spell_level: "2"
 ritual: false
 material_component: true
 concentration: false
+cast-time:
+range:
+duration:
+new: true
 ---
 *Level 2 Evocation (Paladin)*
 

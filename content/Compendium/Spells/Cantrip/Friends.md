@@ -12,6 +12,10 @@ spell_level: "0"
 ritual: false
 material_component: false
 concentration: true
+cast-time: Action
+range: 10 feet
+duration: Up to 1 minute
+new: false
 ---
 _Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
