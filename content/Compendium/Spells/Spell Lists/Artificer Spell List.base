@@ -30,11 +30,11 @@ views:
       - spell_level
       - file.name
       - school
-      - ritual
-      - cast-time
       - range
-      - concentration
+      - cast-time
+      - ritual
       - duration
+      - concentration
       - material_component
     sort: []
     columnSize:
