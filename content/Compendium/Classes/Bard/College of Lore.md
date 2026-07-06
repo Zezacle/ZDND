@@ -10,7 +10,7 @@ You learn to use your wit to supernaturally distract, confuse, and otherwise sap
 
 ### Level 6: Magical Discoveries
 
-You learn two spells of your choice. These spells can come from the [[Cleric Spell List]], [[Druid Spell List]], or [[Wizard Spell List]] or any combination thereof. A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
+You learn two spells of your choice. These spells can come from the [[Cleric Spell List.base|Cleric Spell List]], [[Druid Spell List.base|Druid Spell List]], or [[Wizard Spell List.base|Wizard Spell List]] or any combination thereof. A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
 
 You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements.
 

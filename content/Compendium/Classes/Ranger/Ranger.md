@@ -77,13 +77,13 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to channel the magical essence of nature to cast spells. The Information below details how you use those rules with Ranger spells, which appear in the [[Ranger Spell List]].
+You have learned to channel the magical essence of nature to cast spells. The Information below details how you use those rules with Ranger spells, which appear in the [[Ranger Spell List.base|Ranger Spell List]].
 
 **Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [[Cure Wounds]] and [[Ensnaring Strike]] are recommended.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the [[Ranger Spell List.base|Ranger Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 

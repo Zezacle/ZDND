@@ -1,14 +1,18 @@
 properties:
-  note.material component:
-    displayName: material_component
-  note.concentration:
-    displayName: C
+  file.name:
+    displayName: Spell Name
+  note.school:
+    displayName: School
+  note.spell_level:
+    displayName: Spell Level
   note.ritual:
-    displayName: R
+    displayName: Ritual
   note.material_component:
-    displayName: M
+    displayName: Material Component
+  note.concentration:
+    displayName: Concentration
   note.cast-time:
-    displayName: Cast Time
+    displayName: Casting Time
   note.range:
     displayName: Range
   note.duration:
@@ -24,21 +28,17 @@ views:
       direction: ASC
     order:
       - spell_level
-      - school
-      - concentration
-      - ritual
-      - material_component
       - file.name
+      - school
       - cast-time
       - range
       - duration
-      - new
+      - concentration
+      - ritual
+      - material_component
       - file.tags
     sort:
-      - property: file.name
-        direction: ASC
-      - property: file.tags
-        direction: ASC
+      - property: spell_level
+        direction: DESC
     columnSize:
-      note.spell_level: 30
-      file.tags: 830
+      note.spell_level: 117

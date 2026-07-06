@@ -4,7 +4,7 @@ Some Rogues enhance their fine-honed skills of stealth and agility with spells, 
 
 You have learned to cast spells.
 
-**Cantrips.** You know three cantrips: [[Mage Hand]] and two other cantrips of your choice from the [[Wizard Spell List]]. [[Mind Sliver]] and [[Minor Illusion]] are recommended.
+**Cantrips.** You know three cantrips: [[Mage Hand]] and two other cantrips of your choice from the [[Wizard Spell List.base|Wizard Spell List]]. [[Mind Sliver]] and [[Minor Illusion]] are recommended.
 
 Whenever you gain a Rogue level, you can replace one of your cantrips, except [[Mage Hand]], with another Wizard cantrip of your choice.
 

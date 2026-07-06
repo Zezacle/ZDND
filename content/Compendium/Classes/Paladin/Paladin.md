@@ -88,13 +88,13 @@ You can also expend 5 [[Hit Points]] from the pool of healing power to remove th
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. The Information below details how you use those rules with Paladin spells, which appear in the [[Paladin Spell List]].
+You have learned to cast spells through prayer and meditation. The Information below details how you use those rules with Paladin spells, which appear in the [[Paladin Spell List.base|Paladin Spell List]].
 
 **Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [[Heroism]] and [[Searing Smite]] are recommended.
 
-The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional spells from the [[Paladin Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional spells from the [[Paladin Spell List.base|Paladin Spell List]] until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
 If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
 

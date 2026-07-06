@@ -10,7 +10,7 @@ The primal and ever-changing power of the moon flows through you, granting you t
 
 ### Level 3: Primal Lore
 
-You learn [[Druidic]] and one cantrip from the [[Druid Spell List]]. It counts as a Bard spell for you but doesn't count against the number of cantrips you know. Whenever you gain a Bard level, you can replace this cantrip with another cantrip of your choice from the [[Druid Spell List]].
+You learn [[Druidic]] and one cantrip from the [[Druid Spell List.base|Druid Spell List]]. It counts as a Bard spell for you but doesn't count against the number of cantrips you know. Whenever you gain a Bard level, you can replace this cantrip with another cantrip of your choice from the [[Druid Spell List.base|Druid Spell List]].
 
 Additionally, choose one of the following skills: [[Animal Handling]], [[Insight]], [[Medicine]], [[Nature]], [[Perception]], or [[Survival]]. You have proficiency in that skill.
 

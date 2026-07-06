@@ -22,7 +22,7 @@ views:
     name: Table
     filters:
       and:
-        - file.hasTag("spell-list/artificer")
+        - file.hasTag("spell-list/warlock")
     groupBy:
       property: spell_level
       direction: ASC
@@ -36,6 +36,8 @@ views:
       - concentration
       - ritual
       - material_component
-    sort: []
+    sort:
+      - property: spell_level
+        direction: DESC
     columnSize:
       note.spell_level: 117

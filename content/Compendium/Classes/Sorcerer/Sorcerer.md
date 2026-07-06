@@ -79,7 +79,7 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ### Level 1: Spellcasting
 
-Drawing from your innate magic, you can cast spells. The information below details how you use those rules with Sorcerer spells, which appear in the [[Sorcerer Spell List]].
+Drawing from your innate magic, you can cast spells. The information below details how you use those rules with Sorcerer spells, which appear in the [[Sorcerer Spell List.base|Sorcerer Spell List]].
 
 **Cantrips.** You know four Sorcerer cantrips of your choice. [[Emit Light]], [[Prestidigitation]], [[Shocking Grasp]], and [[Sorcerous Burst]] are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
