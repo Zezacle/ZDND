@@ -9,3 +9,4 @@ tags:
 **Craft:**
 - Tattoo
 - Tattoo Ink
+- [[Enchanted Tattoo Ink]] (needs materials)
