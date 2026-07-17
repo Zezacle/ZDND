@@ -1,7 +1,7 @@
 #### Female [[Firbolgs|Firbolg]]
 
 ### Level 5 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Shortbow]]
@@ -11,7 +11,7 @@
 [[Padded Armor]]
 
 #### Other Magic Items
-[[Jotun's Eye (Dormant)]]
+[[Jotun's Eye (Awakened)]]
 [[Wood Chisel of Waking]]
 +1 Arrows (x18)
 
@@ -32,8 +32,4 @@
 
 ### Active Downtime Tasks
 
-#### Understand Foresight
-**Reward:** +1 Keystone, ???
-- **Time:** 40 hours
-- **Difficulty:** 16
-- Progress: 24 hours
+??

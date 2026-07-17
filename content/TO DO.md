@@ -3,20 +3,18 @@ draft: true
 tags:
 ---
 ### Charter of the North
+- Make Human Reinforcements?
+
+Make Waterguard Barracks building with [[The Assassin]]
+- Finish Assassin
+- 
+
+
+
 Evil Tree Heart
 - Add picture
 - Create things for it
 
-
-Create `.base` spell lists, put in class folders, relink where necessary
-
-
-
-### Foundry
-- add sfx
-	- Hunt Showdown, sound clips
-- add more music: 
-	- ADD INSCRYPTION
 
 
 Polish [[index|Homepage]]

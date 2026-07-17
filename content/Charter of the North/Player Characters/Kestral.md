@@ -38,10 +38,10 @@ Ornate [[Tattooist's Tools]] (Not Proficient)
 **Reward:** +1 Keystone
 - **Time:** 30 hours
 - **Difficulty:** 14
-- Progress: 4 hours
+- Progress: 12 hours
 
 #### Learning to Tattoo
 **Reward:** +1 Keystone, Tattooist Tools Proficiency
 - **Time:** 40 hours
 - **Difficulty:** 15
-- Progress: 28 hours
+- Progress: 36 hours

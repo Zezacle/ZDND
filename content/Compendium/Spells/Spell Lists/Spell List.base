@@ -23,6 +23,7 @@ views:
     filters:
       and:
         - file.hasTag("spell")
+        - school == "Divination"
     groupBy:
       property: spell_level
       direction: ASC
@@ -38,6 +39,8 @@ views:
       - material_component
       - file.tags
     sort:
+      - property: school
+        direction: ASC
       - property: spell_level
         direction: DESC
     columnSize:

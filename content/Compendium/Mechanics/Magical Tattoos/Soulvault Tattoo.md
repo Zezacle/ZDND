@@ -1,7 +1,7 @@
 ---
 tags:
   - magicitem/tattoo/special
-draft: true
+draft: false
 ---
 **Body Part Requirements:**
 - Level 1: Any Torso

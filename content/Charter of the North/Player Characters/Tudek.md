@@ -36,10 +36,10 @@
 **Reward:** +1 Keystone, [[Brewer's Supplies]] Proficiency
 - **Time:** 30 hours
 - **Difficulty:** 12
-- Progress: 16 hours
+- Progress: 20 hours
 
 #### Fry am the Egg Man!
 **Reward:** Baby Gator?
 - Time: ??
 - Difficulty: ??
-- Progress: 4 hours
+- Progress: 8 hours

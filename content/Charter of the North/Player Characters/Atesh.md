@@ -31,10 +31,10 @@
 **Reward:** +1 Keystone, ???
 - **Time:** 40 hours
 - **Difficulty:** 13
-- Progress: 12 hours
+- Progress: 20 hours
 
 #### Study the Blackscale Tome
 **Reward:** ???
 - **Time:** 60 hours
 - **Difficulty:** 15
-- Progress: 8 hours
+- Progress: 12 hours
