@@ -7,15 +7,10 @@ tags:
 
 Make Waterguard Barracks building with [[The Assassin]]
 - Finish Assassin
-- 
-
-
 
 Evil Tree Heart
 - Add picture
 - Create things for it
-
-
 
 Polish [[index|Homepage]]
 

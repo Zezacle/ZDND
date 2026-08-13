@@ -1,6 +1,6 @@
 #### Male [[Humans|Human]]
 
-### Level 5 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List|(Spell List)]]
+### Level 5 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List.base|(Spell List)]]
 1/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
@@ -17,6 +17,8 @@
 [[Mystery Key]]
 [[Cloak of Many Fashions]]
 [[Gleaming Enchantment|Gleaming]] [[Fine Clothes of Mending]]
+[[Charlatan's Die]]
+[[Eldritch Claw Tattoo]]
 
 #### Tools and Proficiencies
 Ornate [[Tattooist's Tools]]
@@ -36,6 +38,6 @@ Ornate [[Tattooist's Tools]]
 
 #### Understanding Runic Tattoos
 **Reward:** +1 Keystone
-- **Time:** 30 hours
+- **Time:** 32 hours
 - **Difficulty:** 14
-- Progress: 12 hours
+- Progress: 16 hours

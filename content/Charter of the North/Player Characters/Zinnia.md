@@ -1,6 +1,6 @@
 #### Female [[Firbolgs|Firbolg]]
 
-### Level 5 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List|(Spell List)]]
+### Level 5 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List.base|(Spell List)]]
 2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
@@ -13,7 +13,7 @@
 #### Other Magic Items
 [[Jotun's Eye (Awakened)]]
 [[Wood Chisel of Waking]]
-+1 Arrows (x18)
+[[Feyflower Haze]]
 
 #### Tools and Proficiencies
 [[Woodcarver's Tools]]

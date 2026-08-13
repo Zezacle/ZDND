@@ -1,6 +1,6 @@
 #### Male Brass [[Dragonborn]]
 
-### Level 5 [[Abjurer]] | [[Wizard]] [[Wizard Spell List|(Spell List)]]
+### Level 5 [[Abjurer]] | [[Wizard]] [[Wizard Spell List.base|(Spell List)]]
 0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
@@ -10,7 +10,8 @@
 [[Padded Armor]]
 
 #### Other Magic Items
-[[Blackscale Tome (Dormant)]]
+[[Scroll Case of Sealing]]
+[[Audiostone]]
 
 #### Tools and Proficiencies
 [[Calligrapher's Supplies]]
@@ -31,10 +32,10 @@
 **Reward:** +1 Keystone, ???
 - **Time:** 40 hours
 - **Difficulty:** 13
-- Progress: 20 hours
+- Progress: 28 hours
 
 #### Study the Blackscale Tome
-**Reward:** ???
+**Reward:** +1 Keystone
 - **Time:** 60 hours
 - **Difficulty:** 15
-- Progress: 12 hours
+- Progress: 16 hours

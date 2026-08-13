@@ -1,6 +1,6 @@
 #### Male [[Turtlefolk]]
 
-### Level 5 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List|(Spell List)]]
+### Level 5 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List.base|(Spell List)]]
 1/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
@@ -11,11 +11,11 @@
 
 #### Other Magic Items
 [[Everburn Hooded Lantern]]
-[[Charlatan's Die]]
 [[Clockwork Amulet]]
+[[Mudbrew]] x1
 
 #### Tools and Proficiencies
-[[Brewer's Supplies]] (Not Proficient)
+[[Brewer's Supplies]]
 
 #### Languages
 [[Beast Tongue]]
@@ -32,11 +32,11 @@
 
 ### Active Downtime Tasks
 
-#### Perfecting the Mudbrew
-**Reward:** +1 Keystone, [[Brewer's Supplies]] Proficiency
-- **Time:** 30 hours
-- **Difficulty:** 12
-- Progress: 20 hours
+#### Mudshine
+**Reward:** +1 Keystone, Mudshine Recipe
+- **Time:** 40 hours
+- **Difficulty:** 15
+- Progress: 0 hours
 
 #### Fry am the Egg Man!
 **Reward:** Baby Gator?
