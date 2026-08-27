@@ -33,29 +33,8 @@ Lickle does not currently accept commissions due to the high demand of his servi
 - 1x [[Buckler Shield]] (15 GP)
 
 
-## The Flying Calf
-The smallest of three ships that are part of Goji's merchant fleet. It docks daily to buy and sell various goods, then anchors in the bay alongside the Flying Whale for security.
-
-Goji, the halfling merchant is known for taking requests for items that can be found readily back in the kingdom, however his fee varies wildly, and his visits to Windscape are often at least 2 months apart.
-
-### Current Stock
-
-#### Armor and Weapons
-- 1x [[Blowpipe]] + [[Needles]] x20 - (3 GP)
-- 1x [[Chain Shirt]] - (150 GP)
-- 1x [[Good and Evil]] (Pair of Knuckles) - (200 GP)
-
-#### Magic Items
-- 1x [[Bracelet of the Banquet]] - (50 GP)
-- 3x [[Blade Bite]] Poison - (25 GP)
-- 1x [[Rope of Mending]] - (100 GP)
-- 1x [[Spell Scroll]] of [[Arcane Eye]] - (350 GP)
-- 1x [[Bag of Holding]] - (400 GP)
-- 1x [[Everburn Hooded Lantern]] - (60 GP)
-- 1x [[Hat of Wizardry]] - (50 GP)
-- 1x [[Mystery Key]] - (50 GP)
-- 1x [[Lens of the Identifier]] - (200 GP)
-- 1x [[Spell Scroll]] of [[Rope Trick]] - (200 GP)
+## The Flying Whales
+Goji's Merchant Fleet selling magical wares. Supposedly to return around 2 months from now.
 
 
 ## Game Lodge's Artisans
@@ -68,8 +47,8 @@ The Game Lodge houses a number of leatherworkers, woodworkers and fletchers who 
 - [[Leather Armor]] (45 GP) - 7 day commission
 - [[Studded Leather Armor]] (75 GP) - 14 day commission
 - [[Hide Armor]] (23 GP) - 5 day commission
-- [[Brigandine]] (38 GP) - 3 day commission
-- [[Ringmail]] (75 GP) - 14 day commission
+- 1x [[Brigandine]] (38 GP) - 3 day commission
+- 1x [[Ringmail]] (75 GP) - 14 day commission
 - [[Arm Shield]] (3 GP)
 - [[Tower Shield]] (15 GP)
 

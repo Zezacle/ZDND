@@ -1,7 +1,7 @@
 #### Male [[Turtlefolk]]
 
 ### Level 5 [[Circle of the Sea]] | [[Druid]] [[Druid Spell List.base|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Quarterstaff]]
@@ -37,6 +37,11 @@
 - **Time:** 40 hours
 - **Difficulty:** 15
 - Progress: 0 hours
+
+#### Mudbrew Bulk Order
+Captain Hulweh will return to Windscape's Dock in 3-4 weeks expecting 20 (minimum) Jugs of [[Mudbrew]], paying 10 GP / Jug
+- **Difficulty:** 15 (Breakthoughs add progress to Mudshine)
+- **Progress:** 0 / 20 Jugs
 
 #### Fry am the Egg Man!
 **Reward:** Baby Gator?
