@@ -16,6 +16,6 @@ tags:
 
 **Mystic Visions.** Like Deja Vu, glimpses of the future begin to press on your awareness.
 
-**Harold of Futures.** You can cast [[Divination]] as a ritual using the Jotun's Eye once per [[Holy Dawn]].
+**Herald of Futures.** You can cast [[Divination]] as a [[Ritual]] using the Jotun's Eye once per [[Holy Dawn]].
 
 **Tongue of Time.** You learn [[Giant]]. You can telepathically speak to a creature you can see, but only in [[Giant]]. They hear your words as whispers in their mind.

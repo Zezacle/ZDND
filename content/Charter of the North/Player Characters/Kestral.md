@@ -11,7 +11,8 @@
 [[Arm Shield]]
 
 #### Other Magic Items
-[[Enchanted Tattoo Ink]]
+[[Soulvault Tattoo]] II
+
 [[Rope of Mending]]
 [[Hodd's Mask]]
 [[Mystery Key]]

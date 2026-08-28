@@ -1,0 +1,131 @@
+{
+	"nodes":[
+		{
+			"id":"ba219726e6f984b7",
+			"type":"text",
+			"text":"### [[Hunter's Mark]]\n#### Use Cost (Bonus Action)\n3x Free Uses or 1st Level Spell Slot\n- Recharge on [[Long Rest]]\n\n#### Effect\nOnce per turn, deal +1d6 Force Damage on Marked Target\n- If marked target dies, Bonus Action to move to new target\n\n",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-300,
+			"width":360,
+			"height":380
+		},
+		{
+			"id":"b2b2dc00d6d6c0fd",
+			"type":"text",
+			"text":"# Start of Turn",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-520,
+			"y":-360,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"590936e656baa457",
+			"type":"text",
+			"text":"### Combat Superiority\n#### Use Cost (One / Attack)\n2x Superiority Dice (d6)\n- Recharge on [[Short Rest|Short]] or [[Long Rest]]\n\n#### Maneuver Options\n- **One:** ???\n- **Two:** ???\n\n",
+			"styleAttributes":{},
+			"x":-520,
+			"y":80,
+			"width":360,
+			"height":294
+		},
+		{
+			"id":"57540624d9d1b61c",
+			"type":"text",
+			"text":"# On hit Augments\n###### Stack 'em!",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-120,
+			"y":-360,
+			"width":360,
+			"height":120
+		},
+		{
+			"id":"bb89f4538cc0e71b",
+			"type":"text",
+			"text":"### Dreadful Strike\n+1d4 Psychic Damage (Once per Turn)\n\n",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-240,
+			"width":360,
+			"height":100
+		},
+		{
+			"id":"8b454d017c42c53c",
+			"type":"text",
+			"text":"### Hunter's Mark\n- +1d6 Force Damage (Once per Turn, Marked Target Only)\n\n",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-240,
+			"width":360,
+			"height":130
+		},
+		{
+			"id":"a7358d7631695c21",
+			"type":"text",
+			"text":"### Dreadful Strike\n- +1d4 Psychic Damage (Once per Turn)\n\n",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-110,
+			"width":360,
+			"height":130
+		},
+		{
+			"id":"0d55cf7a737ec3b2",
+			"type":"text",
+			"text":"### Weapon Mastery\n#### [[Vex]] ([[Recurve Bow]])\nOn hit and damage with Bow, gain [[Advantage]] on next Attack Roll against that creature until end of next turn.\n#### [[Offhand]] ([[Handaxe]])\nWhen you make an extra attack with an [[Offhand]] weapon as a result of using the weapon's [[Light]] property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.\n\n",
+			"styleAttributes":{},
+			"x":-120,
+			"y":20,
+			"width":360,
+			"height":404
+		},
+		{
+			"id":"c20c75d54e81d159",
+			"type":"text",
+			"text":"# Extra Stuff",
+			"styleAttributes":{"textAlign":"center"},
+			"x":280,
+			"y":-360,
+			"width":360,
+			"height":60
+		},
+		{
+			"id":"4d0e9a454e23a137",
+			"type":"text",
+			"text":"### [[Jotun's Eye (Awakened)|Jotun's Eye]]\n#### Giant's Foresight\nWhenever you finish a [[Long Rest]], roll three d20s and record the numbers rolled. You can replace any [[D20 Test]] made by you or a creature that you can see with one of these foretelling rolls. You can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a [[Long Rest]], you lose any unused foretelling rolls.\n#### Herald of Futures\nYou can cast [[Divination]] as a [[Ritual]] using the Jotun's Eye once per [[Holy Dawn]].\n\n#### Tongue of Time\nYou learn [[Giant]]. You can telepathically speak to a creature you can see, but only in [[Giant]]. They hear your words as whispers in their mind.",
+			"styleAttributes":{},
+			"x":280,
+			"y":-300,
+			"width":360,
+			"height":611
+		},
+		{
+			"id":"3aeb428a9e1e5ac9",
+			"type":"text",
+			"text":"# Dusk\n### Mistweaver\n- Regain [[Mistweaver]] Charge\n\n# [[Short Rest]]\n### Health\nExpend to [[Hit Point Dice|Hit Dice]] to Heal\n### Combat Superiority\nRegain expended Superiority Dice\n\n# [[Long Rest]]\n### Health\nRegain missing [[Hit Points]]\nRegain expended [[Hit Point Dice|Hit Dice]]\n### Spells\nRegain expended Spell Slots\nChange One Prepared Spell\n\nRegain Free Uses of [[Hunter's Mark]]\n### Giant's Foresight\nRoll and Record new Foretelling Rolls\n### Weapon Mastery\nChange Mastered [[Weapons]]\n\n# [[Holy Dawn]]\nN/A",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":680,
+			"y":-360,
+			"width":360,
+			"height":993
+		},
+		{
+			"id":"4e54979a38fc400f",
+			"type":"text",
+			"text":"# Mistweaver\n1 charge, Recharges at Dusk\nHolds up to 30x [[Arrows]] in **Mist Quiver**.\n#### Mist Affinity\nExpend charge to cast [[Misty Step]].\n#### Misted Arrow\nAs an attack, you can consume a charge to conjure and fire a special arrow made of mist. The arrow travels up to 60 feet, creating a curtain of mist in its trail before dissipating. This curtain extends downward to the ground, and [[Heavily Obscured|Heavily Obscures]] anything perceived through it.\n\n  Creatures that attempt to pass through the curtain must succeed on a Wisdom saving throw equal to your Spell Save DC or become [[Blinded]] until the start of their next turn. You can allow any creature to automatically succeed this save.\n#### Misty Shot\nAs an Action, you can consume a charge to touch a willing creature and then choose a point within 300 ft. that you could theoretically hit with an arrow. The creature will be teleported to wherever the arrow lands. \n\n  Make a ranged attack roll (at [[Disadvantage]] if beyond 60 ft.) If the result is over 15, you hit your intended target. Below 15, and the target is displaced 5 ft. for every 1 under 15.\n",
+			"styleAttributes":{},
+			"x":-520,
+			"y":424,
+			"width":760,
+			"height":648
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

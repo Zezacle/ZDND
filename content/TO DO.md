@@ -3,7 +3,7 @@ draft: true
 tags:
 ---
 ### Charter of the North
-- Make Human Reinforcements?
+Rework Nunchuks for 2h
 
 Make Waterguard Barracks building with [[The Assassin]]
 - Finish Assassin
