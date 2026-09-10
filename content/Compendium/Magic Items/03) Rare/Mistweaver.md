@@ -13,7 +13,7 @@ tags:
 
 *This ornately crafted [[Recurve Bow]] bears green painted wood with fine engravings of frost, leaves and flowers and emits a thin veil of mist. Paired with it, is a wood and leather holster with straps for wearing on one's back or hip. The outward face depicts a lake scene with a temple projecting a white-dyed beam into the sky.*
 
-**Masterwork Weapon.** This weapon grants a +1 bonus to attack and damage rolls made with it.
+**Masterwork.** You have a +1 bonus to attack rolls and damage rolls made with this [[+1 Weapon]].
 
 **Mist Affinity.** While attuned to this item, you always have the [[Misty Step]] spell prepared and can cast it using a charge.
 
