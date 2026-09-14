@@ -5,6 +5,7 @@ tags:
   - concentration
   - spell/added
   - spell-list/bard-college-of-valor
+  - spell-list/paladin-oath-of-the-crown
 school: Enchantment
 spell_level: "1"
 ritual: false

@@ -8,6 +8,7 @@ tags:
   - spell-list/cleric-knowledge
   - spell-list/sorcerer-draconic
   - spell-list/warlock-fiend-patron
+  - spell-list/paladin-oath-of-the-crown
 school: Enchantment
 spell_level: "1"
 ritual: false

@@ -7,6 +7,7 @@ tags:
   - spell-list/wizard
   - concentration
   - spell/added
+  - spell-list/paladin-oath-of-the-crown
 school: Abjuration
 spell_level: "5"
 ritual: false

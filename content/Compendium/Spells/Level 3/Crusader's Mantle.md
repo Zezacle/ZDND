@@ -4,6 +4,7 @@ tags:
   - spell-list/paladin
   - concentration
   - spell-list/cleric-war-domain
+  - spell-list/paladin-oath-of-the-crown
 school: Evocation
 spell_level: "3"
 ritual: false

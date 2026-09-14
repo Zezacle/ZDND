@@ -16,7 +16,7 @@ When you finish the rest, you gain the following benefits:
 
    **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
 
-   **Exhaustion Reduced.** If you have the [[Exhaustion]] condition, its level decreases by 1.
+   **Exhaustion Reduced.** If you have the [[Exhaustion]] condition, its level decreases by 2.
 
    **Special Feature.** Some features are recharged by a [[Long Rest]]. If you have such a feature, it recharges in the way specified in its description.
 

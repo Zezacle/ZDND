@@ -17,7 +17,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | Paladin Level | Spells                                                 |
 | ------------- | ------------------------------------------------------ |
 | 3             | [[Protection from Good and Evil]], [[Shield of Faith]] |
-| 5             | [[Aid]], [[Zone of Truth]]                             |
+| 5             | [[Warding Bond]], [[Prayer of Healing]]                |
 | 9             | [[Beacon of Hope]], [[Dispel Magic]]                   |
 | 13            | [[Freedom of Movement]], [[Guardian of Faith]]         |
 | 17            | [[Commune]], [[Flame Strike]]                          |
@@ -44,7 +44,7 @@ The aura has this benefit until the start of your next turn.
 
 As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Holy Ward.** You have [[Advantage]] on any saving throw you are forced to make by a Fiend or an Undead.
+**Holy Ward.** You and your allies within your Aura of Protection have [[Advantage]] on any saving throw you are forced to make by a Fiend or an Undead.
 
 **Radiant Damage.** Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.
 

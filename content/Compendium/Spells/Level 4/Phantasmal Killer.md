@@ -4,6 +4,7 @@ tags:
   - spell-list/bard
   - spell-list/wizard
   - concentration
+  - spell-list/paladin-oath-of-vengeance
 school: Illusion
 spell_level: "4"
 ritual: false

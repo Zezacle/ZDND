@@ -7,6 +7,7 @@ tags:
   - spell-list/paladin
   - spell-list/wizard
   - spell-list/warlock-fiend-patron
+  - spell-list/paladin-oath-of-the-crown
 school: Enchantment
 spell_level: "5"
 ritual: false

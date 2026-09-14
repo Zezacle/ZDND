@@ -12,6 +12,7 @@
 #### Other Magic Items
 [[Scroll Case of Sealing]]
 [[Audiostone]]
+[[Cloak of Focus]]
 
 #### Tools and Proficiencies
 [[Calligrapher's Supplies]]

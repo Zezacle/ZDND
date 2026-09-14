@@ -17,11 +17,23 @@ You can navigate using the File Tree on the left, or use these page links below:
 To read the major changes I made, visit the [[Highlights]] page.
 
 ### Creating a Character
-If you need to [[00) Creating a Character|Create a Character]] I have a page for that too! (wip)
-
+If you need to [[00) Creating a Character|Create a Character]] I have a page for that too!
 
 ****
+
 ### Patch Notes (Recent First)
+Update 2026-9-13
+- Added [[Dying]] as explicit counterpart to [[Stable]].
+	- No longer [[Unconscious]] by default at 0 HP, allowing you to crawl and speak.
+	- Gain +1 [[Exhaustion]] Level each time you hit 0 HP.
+		- Debuff to discourage die -> heal -> die -> heal, *ad infinitum.*
+	- When Stable and conscious, you can roll CON Save to heal 1 HP.
+	- Updated Misc. Rules related to [[Stable|Stabilizing]], mostly changing "Unconscious" to "Dying"
+- New Paladin Subclass: [[Oath of the Crown]]
+- New Paladin Spell: [[Swift Smite]]
+- Unnested Subclass Spell List tags
+  - prevents them being listed in the Class Spell Lists
+
 Update 2026-07-06
 - Replaced Spell Lists with Databases
 	- Only a lil bit buggy lmao

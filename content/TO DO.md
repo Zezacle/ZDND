@@ -20,10 +20,5 @@ Edit Level 7-9 Spells (oh god)
 - Remove titles
 - add links
 
-Fill out Spell Lists
-
-Fill in Equipment
-- Adventuring Gear
-
 Make new meta images
 - how 2 favicon

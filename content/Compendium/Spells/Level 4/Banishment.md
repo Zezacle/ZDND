@@ -9,7 +9,7 @@ tags:
   - concentration
   - spell-list/artificer-cartographer
   - spell-list/cleric-knowledge
-  - spell-list/paladin-oath-of-vengeance
+  - spell-list/paladin-oath-of-the-crown
 school: Abjuration
 spell_level: "4"
 ritual: false

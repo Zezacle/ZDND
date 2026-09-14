@@ -6,6 +6,7 @@ tags:
   - concentration
   - spell-list/sorcerer-aberrant
   - spell-list/warlock-archfey-patron
+  - spell-list/paladin-oath-of-the-crown
 school: Enchantment
 spell_level: "2"
 ritual: false

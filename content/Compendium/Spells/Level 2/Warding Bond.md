@@ -5,6 +5,7 @@ tags:
   - spell-list/paladin
   - spell-list/artificer-battle-smith
   - edited
+  - spell-list/paladin-oath-of-devotion
 school: Abjuration
 spell_level: "2"
 ritual: false

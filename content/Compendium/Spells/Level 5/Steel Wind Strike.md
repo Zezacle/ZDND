@@ -4,6 +4,7 @@ tags:
   - spell-list/ranger
   - spell-list/wizard
   - spell-list/cleric-war-domain
+  - spell-list/paladin-oath-of-vengeance
 school: Conjuration
 spell_level: "5"
 ritual: false

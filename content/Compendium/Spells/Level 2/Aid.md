@@ -8,7 +8,6 @@ tags:
   - spell-list/paladin
   - spell-list/ranger
   - spell-list/cleric-life-domain
-  - spell-list/paladin-oath-of-devotion
   - spell-list/sorcerer-clockwork
   - spell-list/warlock-celestial-patron
 school: Abjuration

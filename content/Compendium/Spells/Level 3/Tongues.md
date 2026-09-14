@@ -7,6 +7,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - spell-list/cleric-knowledge
+  - spell-list/paladin-oath-of-the-crown
 school: Divination
 spell_level: "3"
 ritual: false

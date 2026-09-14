@@ -2,6 +2,7 @@
 tags:
   - spell
   - spell-list/wizard
+  - spell-list/paladin-oath-of-the-crown
 school: Conjuration
 spell_level: "4"
 ritual: false

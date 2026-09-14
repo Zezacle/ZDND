@@ -3,6 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
+  - spell-list/paladin-oath-of-devotion
 school: Abjuration
 spell_level: "2"
 ritual: false
