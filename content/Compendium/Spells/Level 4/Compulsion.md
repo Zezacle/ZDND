@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/bard
   - concentration
-  - spell-list/paladin/oath-of-glory
+  - spell-list/paladin-oath-of-glory
 school: Enchantment
 spell_level: "4"
 ritual: false

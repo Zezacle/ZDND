@@ -4,9 +4,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/fighter/psi-warrior
-  - spell-list/sorcerer/aberrant-sorcery
-  - spell-list/warlock/great-old-one-patron
+  - spell-list/fighter-psi-warrior
+  - spell-list/sorcerer-aberrant
+  - spell-list/warlock-great-old-one-patron
 school: Transmutation
 spell_level: "5"
 ritual: false

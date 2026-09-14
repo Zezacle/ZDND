@@ -1,11 +1,15 @@
 ---
 tags:
+  - new
   - spell
 school:
 spell_level:
 ritual: false
 material_component: false
 concentration: false
+cast-time:
+range:
+duration:
 ---
 *Level # School Cantrip (Class, Class)*
 

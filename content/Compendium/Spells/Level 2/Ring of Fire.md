@@ -3,7 +3,7 @@ tags:
   - new
   - spell
   - spell-list/paladin
-  - spell-list/sorcerer/draconic-sorcery
+  - spell-list/sorcerer-draconic
 school: Evocation
 spell_level: "2"
 ritual: false

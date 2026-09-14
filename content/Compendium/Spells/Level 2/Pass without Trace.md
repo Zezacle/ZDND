@@ -4,7 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/ranger
   - concentration
-  - spell-list/cleric/trickery-domain
+  - spell-list/cleric-trickery-domain
 school: Abjuration
 spell_level: "2"
 ritual: false

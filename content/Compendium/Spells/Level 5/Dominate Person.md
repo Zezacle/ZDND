@@ -5,8 +5,8 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/cleric/trickery-domain
-  - spell-list/warlock/archfey-patron
+  - spell-list/cleric-trickery-domain
+  - spell-list/warlock-archfey-patron
 school: Enchantment
 spell_level: "5"
 ritual: false

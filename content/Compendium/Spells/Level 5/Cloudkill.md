@@ -4,7 +4,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/artificer/alchemist
+  - spell-list/artificer-alchemist
 school: Conjuration
 spell_level: "5"
 ritual: false

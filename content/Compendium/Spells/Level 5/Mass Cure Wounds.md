@@ -4,9 +4,9 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/druid
-  - spell-list/artificer/battle-smith
-  - spell-list/cleric/life-domain
-  - spell-list/druid/circle-of-the-moon
+  - spell-list/artificer-battle-smith
+  - spell-list/cleric-life-domain
+  - spell-list/druid-circle-of-the-moon
 school: Abjuration
 spell_level: "5"
 ritual: false

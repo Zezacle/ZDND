@@ -6,9 +6,9 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/cleric/war-domain
-  - spell-list/druid/circle-of-the-sea
-  - spell-list/paladin/oath-of-vengeance
+  - spell-list/cleric-war-domain
+  - spell-list/druid-circle-of-the-sea
+  - spell-list/paladin-oath-of-vengeance
 school: Enchantment
 spell_level: "5"
 ritual: false

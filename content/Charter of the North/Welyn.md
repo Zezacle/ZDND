@@ -11,12 +11,12 @@ tags:
 
 |         |     | MOD | SAVE |         |     | MOD | SAVE |
 | :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: |
-| **STR** |  9  | -1  |  -1  | **INT** | 12  | +1  |  +3  |
-| **DEX** | 15  | +2  |  +4  | **WIS** | 13  | +1  |  +1  |
+| **STR** |  9  | -1  |  -1  | **INT** | 11  | +0  |  +2  |
+| **DEX** | 15  | +2  |  +4  | **WIS** |  9  | -1  |  -1  |
 | **CON** | 11  | +0  |  +0  | **CHA** | 14  | +2  |  +2  |
 
 **Skills:** [[Acrobatics]] +4, [[Sleight of Hand]] +4, [[Performance]] +4
-**Senses:** [[Passive Perception]] 11
+**Senses:** [[Passive Perception]] 9
 **Languages:** Common, [[Dvergarian]] (Illiterate)
 **Level:** 4 (PB +2)
 

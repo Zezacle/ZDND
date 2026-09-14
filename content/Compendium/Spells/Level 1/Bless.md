@@ -4,7 +4,7 @@ tags:
   - spell-list/cleric
   - spell-list/paladin
   - concentration
-  - spell-list/cleric/life-domain
+  - spell-list/cleric-life-domain
 school: Enchantment
 spell_level: "1"
 ritual: false

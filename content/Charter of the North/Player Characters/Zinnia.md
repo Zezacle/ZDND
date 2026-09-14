@@ -1,7 +1,7 @@
 #### Female [[Firbolgs|Firbolg]]
 
-### Level 5 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List.base|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 6 [[Fey Wanderer]] | [[Ranger]] [[Ranger Spell List.base|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Shortbow]]
@@ -32,4 +32,5 @@
 
 ### Active Downtime Tasks
 
-??
+#### Learning Undercommon
+**Reward:**

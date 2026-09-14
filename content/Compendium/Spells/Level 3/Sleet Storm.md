@@ -5,7 +5,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/druid/circle-of-the-land/polar
+  - spell-list/druid-circle-of-the-land/polar
 school: Conjuration
 spell_level: "3"
 ritual: false

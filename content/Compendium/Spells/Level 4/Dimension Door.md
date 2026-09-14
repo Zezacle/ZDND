@@ -5,9 +5,9 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
-  - spell-list/cleric/trickery-domain
-  - spell-list/paladin/oath-of-vengeance
-  - spell-list/ranger/fey-wanderer
+  - spell-list/cleric-trickery-domain
+  - spell-list/paladin-oath-of-vengeance
+  - spell-list/ranger-fey-wanderer
 school: Conjuration
 spell_level: "4"
 ritual: false

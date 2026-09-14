@@ -4,7 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/wizard
   - concentration
-  - spell-list/druid/circle-of-the-sea
+  - spell-list/druid-circle-of-the-sea
 school: Conjuration
 spell_level: "5"
 ritual: false

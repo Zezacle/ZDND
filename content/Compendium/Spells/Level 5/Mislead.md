@@ -5,7 +5,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/ranger/fey-wanderer
+  - spell-list/ranger-fey-wanderer
 school: Illusion
 spell_level: "5"
 ritual: false

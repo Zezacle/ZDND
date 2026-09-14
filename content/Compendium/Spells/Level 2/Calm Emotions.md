@@ -4,8 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - concentration
-  - spell-list/sorcerer/aberrant-sorcery
-  - spell-list/warlock/archfey-patron
+  - spell-list/sorcerer-aberrant
+  - spell-list/warlock-archfey-patron
 school: Enchantment
 spell_level: "2"
 ritual: false

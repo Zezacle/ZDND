@@ -4,9 +4,9 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/wizard
-  - spell-list/cleric/knowledge-domain
-  - spell-list/paladin/oath-of-glory
-  - spell-list/sorcerer/draconic-sorcery
+  - spell-list/cleric-knowledge
+  - spell-list/paladin-oath-of-glory
+  - spell-list/sorcerer-draconic
 school: Divination
 spell_level: "5"
 ritual: false

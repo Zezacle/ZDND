@@ -1,7 +1,7 @@
 #### Male [[Humans|Human]]
 
 ### Level 5 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List.base|(Spell List)]]
-1/3 [[Keystones Progression|Keystones]]
+2/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 [[Arming Sword]] (Pact of the Blade)
@@ -41,4 +41,4 @@ Ornate [[Tattooist's Tools]]
 **Reward:** +1 Keystone
 - **Time:** 32 hours
 - **Difficulty:** 14
-- Progress: 16 hours
+- Progress: 28 hours

@@ -2,7 +2,7 @@
 tags:
   - spell
   - spell-list/ranger
-  - spell-list/artificer/battle-smith
+  - spell-list/artificer-battle-smith
 school: Conjuration
 spell_level: "3"
 ritual: false

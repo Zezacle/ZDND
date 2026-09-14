@@ -4,7 +4,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
-  - spell-list/sorcerer/aberrant-sorcery
+  - spell-list/sorcerer-aberrant
 school: Enchantment
 spell_level: "0"
 ritual: false

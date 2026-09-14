@@ -4,8 +4,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/sorcerer/aberrant-sorcery
-  - spell-list/warlock/great-old-one-patron
+  - spell-list/sorcerer-aberrant
+  - spell-list/warlock-great-old-one-patron
 school: Conjuration
 spell_level: "4"
 ritual: false

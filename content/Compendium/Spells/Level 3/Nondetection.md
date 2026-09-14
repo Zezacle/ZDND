@@ -4,8 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/ranger
   - spell-list/wizard
-  - spell-list/cleric/knowledge-domain
-  - spell-list/cleric/trickery-domain
+  - spell-list/cleric-knowledge
+  - spell-list/cleric-trickery-domain
 school: Abjuration
 spell_level: "3"
 ritual: false

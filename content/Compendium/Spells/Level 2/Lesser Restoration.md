@@ -7,11 +7,11 @@ tags:
   - spell-list/druid
   - spell-list/paladin
   - spell-list/ranger
-  - spell-list/artificer/alchemist
-  - spell-list/cleric/life-domain
-  - spell-list/sorcerer/clockwork-sorcery
-  - spell-list/sorcerer/spellfire-sorcery
-  - spell-list/warlock/celestial-patron
+  - spell-list/artificer-alchemist
+  - spell-list/cleric-life-domain
+  - spell-list/sorcerer-clockwork
+  - spell-list/sorcerer-spellfire
+  - spell-list/warlock-celestial-patron
 school: Abjuration
 spell_level: "2"
 ritual: false

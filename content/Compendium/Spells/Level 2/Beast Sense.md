@@ -4,7 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/ranger
   - concentration
-  - spell-list/barbarian/path-of-the-wild-heart
+  - spell-list/barbarian-path-of-the-wild-heart
 school: Divination
 spell_level: "2"
 ritual: true

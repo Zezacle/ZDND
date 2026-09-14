@@ -6,7 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
-  - spell-list/cleric/knowledge-domain
+  - spell-list/cleric-knowledge
 school: Divination
 spell_level: "3"
 ritual: false

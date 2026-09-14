@@ -5,7 +5,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/warlock
   - spell-list/wizard
-  - spell-list/artificer/cartographer
+  - spell-list/artificer-cartographer
 school: Conjuration
 spell_level: "5"
 ritual: false

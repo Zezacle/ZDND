@@ -2,7 +2,7 @@
 tags:
   - spell
   - spell-list/cleric
-  - spell-list/barbarian/path-of-the-voice
+  - spell-list/barbarian-path-of-the-voice
 school: Transmutation
 spell_level: "0"
 ritual: false

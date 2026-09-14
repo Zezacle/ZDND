@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/warlock
   - concentration
-  - spell-list/warlock/great-old-one-patron
+  - spell-list/warlock-great-old-one-patron
 school: Enchantment
 spell_level: "1"
 ritual: false

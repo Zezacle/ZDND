@@ -6,7 +6,7 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/druid/circle-of-the-land/arid
+  - spell-list/druid-circle-of-the-land/arid
 school: Evocation
 spell_level: "5"
 ritual: false

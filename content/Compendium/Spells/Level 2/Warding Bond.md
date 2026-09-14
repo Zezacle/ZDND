@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/cleric
   - spell-list/paladin
-  - spell-list/artificer/battle-smith
+  - spell-list/artificer-battle-smith
   - edited
 school: Abjuration
 spell_level: "2"

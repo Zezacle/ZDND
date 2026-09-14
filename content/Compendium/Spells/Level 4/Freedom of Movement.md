@@ -6,11 +6,11 @@ tags:
   - spell-list/cleric
   - spell-list/druid
   - spell-list/ranger
-  - spell-list/cleric/war-domain
-  - spell-list/druid/circle-of-the-land/temperate
-  - spell-list/paladin/oath-of-devotion
-  - spell-list/paladin/oath-of-glory
-  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/cleric-war-domain
+  - spell-list/druid-circle-of-the-land/temperate
+  - spell-list/paladin-oath-of-devotion
+  - spell-list/paladin-oath-of-glory
+  - spell-list/sorcerer-clockwork
 school: Abjuration
 spell_level: "4"
 ritual: false

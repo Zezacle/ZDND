@@ -6,8 +6,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/ranger/gloom-stalker
-  - spell-list/sorcerer/draconic-sorcery
+  - spell-list/ranger-gloom-stalker
+  - spell-list/sorcerer-draconic
 school: Illusion
 spell_level: "3"
 ritual: false

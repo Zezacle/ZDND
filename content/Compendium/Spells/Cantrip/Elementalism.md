@@ -4,7 +4,7 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - spell-list/wizard
-  - spell-list/monk/warrior-of-the-elements
+  - spell-list/monk-warrior-of-the-elements
 school: Transmutation
 spell_level: "0"
 ritual: false

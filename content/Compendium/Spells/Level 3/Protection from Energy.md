@@ -8,10 +8,10 @@ tags:
   - spell-list/sorcerer
   - spell-list/wizard
   - concentration
-  - spell-list/paladin/oath-of-glory
-  - spell-list/paladin/oath-of-the-ancients
-  - spell-list/paladin/oath-of-vengeance
-  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/paladin-oath-of-glory
+  - spell-list/paladin-oath-of-the-ancients
+  - spell-list/paladin-oath-of-vengeance
+  - spell-list/sorcerer-clockwork
 school: Abjuration
 spell_level: "3"
 ritual: false

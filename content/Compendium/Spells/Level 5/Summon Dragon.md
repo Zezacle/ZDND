@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/wizard
   - concentration
-  - spell-list/sorcerer/draconic-sorcery
+  - spell-list/sorcerer-draconic
 school: Conjuration
 spell_level: "5"
 ritual: false

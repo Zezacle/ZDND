@@ -3,8 +3,8 @@ tags:
   - spell/ritual
   - spell-list/druid
   - spell-list/ranger
-  - spell-list/barbarian/path-of-the-wild-heart
-  - spell-list/paladin/oath-of-the-ancients
+  - spell-list/barbarian-path-of-the-wild-heart
+  - spell-list/paladin-oath-of-the-ancients
 school: Divination
 spell_level: "5"
 ritual: true

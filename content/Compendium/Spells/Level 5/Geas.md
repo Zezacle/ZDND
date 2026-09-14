@@ -6,7 +6,7 @@ tags:
   - spell-list/druid
   - spell-list/paladin
   - spell-list/wizard
-  - spell-list/warlock/fiend-patron
+  - spell-list/warlock-fiend-patron
 school: Enchantment
 spell_level: "5"
 ritual: false

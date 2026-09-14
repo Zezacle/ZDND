@@ -4,7 +4,7 @@ tags:
   - spell-list/paladin
   - concentration
   - spell/added
-  - spell-list/bard/college-of-valor
+  - spell-list/bard-college-of-valor
 school: Enchantment
 spell_level: "1"
 ritual: false

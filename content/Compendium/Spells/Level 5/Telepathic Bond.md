@@ -3,7 +3,7 @@ tags:
   - spell/ritual
   - spell-list/bard
   - spell-list/wizard
-  - spell-list/sorcerer/aberrant-sorcery
+  - spell-list/sorcerer-aberrant
 school: Divination
 spell_level: "5"
 ritual: true

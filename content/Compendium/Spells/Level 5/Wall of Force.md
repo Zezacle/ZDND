@@ -3,9 +3,9 @@ tags:
   - spell
   - spell-list/wizard
   - concentration
-  - spell-list/artificer/armorer
-  - spell-list/artificer/artillerist
-  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/artificer-armorer
+  - spell-list/artificer-artillerist
+  - spell-list/sorcerer-clockwork
 school: Evocation
 spell_level: "5"
 ritual: false

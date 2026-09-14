@@ -4,7 +4,7 @@ tags:
   - spell-list/artificer
   - spell-list/ranger
   - spell-list/wizard
-  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/sorcerer-clockwork
 school: Abjuration
 spell_level: "1"
 ritual: true

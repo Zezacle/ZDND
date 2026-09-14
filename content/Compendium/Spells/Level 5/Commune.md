@@ -2,7 +2,7 @@
 tags:
   - spell/ritual
   - spell-list/cleric
-  - spell-list/paladin/oath-of-devotion
+  - spell-list/paladin-oath-of-devotion
 school: Divination
 spell_level: "5"
 ritual: true

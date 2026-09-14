@@ -4,9 +4,9 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - spell-list/wizard
-  - spell-list/artificer/artillerist
-  - spell-list/druid/circle-of-the-land/polar
-  - spell-list/ranger/winter-walker
+  - spell-list/artificer-artillerist
+  - spell-list/druid-circle-of-the-land/polar
+  - spell-list/ranger-winter-walker
 school: Evocation
 spell_level: "5"
 ritual: false

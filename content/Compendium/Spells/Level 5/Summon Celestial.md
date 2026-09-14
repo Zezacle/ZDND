@@ -4,7 +4,7 @@ tags:
   - spell-list/cleric
   - spell-list/paladin
   - concentration
-  - spell-list/warlock/celestial-patron
+  - spell-list/warlock-celestial-patron
 school: Conjuration
 spell_level: "5"
 ritual: false

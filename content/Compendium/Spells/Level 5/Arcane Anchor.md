@@ -8,7 +8,7 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/paladin/oath-of-vengeance
+  - spell-list/paladin-oath-of-vengeance
 school: Enchantment
 spell_level: "5"
 ritual: false

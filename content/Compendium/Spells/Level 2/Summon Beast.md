@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/druid
   - spell-list/ranger
-  - spell-list/wizard/illusionist
+  - spell-list/wizard-illusionist
 school: Conjuration
 spell_level: "2"
 ritual: false

@@ -2,7 +2,7 @@
 tags:
   - spell
   - spell-list/wizard
-  - spell-list/artificer/armorer
+  - spell-list/artificer-armorer
 school: Transmutation
 spell_level: "5"
 ritual: false

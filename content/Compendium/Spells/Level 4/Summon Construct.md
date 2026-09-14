@@ -4,7 +4,7 @@ tags:
   - spell-list/artificer
   - spell-list/wizard
   - concentration
-  - spell-list/sorcerer/clockwork-sorcery
+  - spell-list/sorcerer-clockwork
 school: Conjuration
 spell_level: "4"
 ritual: false

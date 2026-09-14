@@ -2,9 +2,9 @@
 tags:
   - spell
   - spell-list/cleric
-  - spell-list/cleric/light-domain
-  - spell-list/paladin/oath-of-devotion
-  - spell-list/sorcerer/spellfire-sorcery
+  - spell-list/cleric-light-domain
+  - spell-list/paladin-oath-of-devotion
+  - spell-list/sorcerer-spellfire
 school: Evocation
 spell_level: "5"
 ritual: false

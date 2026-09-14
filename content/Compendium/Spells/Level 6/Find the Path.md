@@ -5,7 +5,7 @@ tags:
   - spell-list/cleric
   - spell-list/druid
   - concentration
-  - spell-list/artificer/cartographer
+  - spell-list/artificer-cartographer
 school: Divination
 spell_level: "6"
 ritual: false

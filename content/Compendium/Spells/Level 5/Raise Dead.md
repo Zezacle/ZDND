@@ -4,7 +4,7 @@ tags:
   - spell-list/bard
   - spell-list/cleric
   - spell-list/paladin
-  - spell-list/artificer/alchemist
+  - spell-list/artificer-alchemist
 school: Necromancy
 spell_level: "5"
 ritual: false

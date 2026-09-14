@@ -5,8 +5,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/artificer/cartographer
-  - spell-list/cleric/knowledge-domain
+  - spell-list/artificer-cartographer
+  - spell-list/cleric-knowledge
 school: Divination
 spell_level: "2"
 ritual: false

@@ -54,28 +54,28 @@ As a Warlock, you gain the following class features when you reach the specified
 |  19   |          +6           | Epic Boon                        |            10            |
 |  20   |          +6           | Eldritch Master                  |            10            |
 
-| Level | Cantrips | Prepared Spells | Spell Slots | Slot Level |
-| :---: | :------: | :-------------: | :---------: | :--------: |
-|   1   |    2     |        2        |      1      |     1      |
-|   2   |    2     |        3        |      2      |     1      |
-|   3   |    2     |        4        |      2      |     2      |
-|   4   |    3     |        5        |      2      |     2      |
-|   5   |    3     |        6        |      2      |     3      |
-|   6   |    3     |        7        |      2      |     3      |
-|   7   |    3     |        8        |      2      |     4      |
-|   8   |    3     |        9        |      2      |     4      |
-|   9   |    3     |       10        |      2      |     5      |
-|  10   |    4     |       10        |      2      |     5      |
-|  11   |    4     |       11        |      3      |     5      |
-|  12   |    4     |       11        |      3      |     5      |
-|  13   |    4     |       12        |      3      |     5      |
-|  14   |    4     |       12        |      3      |     5      |
-|  15   |    4     |       13        |      3      |     5      |
-|  16   |    4     |       13        |      3      |     5      |
-|  17   |    4     |       14        |      4      |     5      |
-|  18   |    4     |       14        |      4      |     5      |
-|  19   |    4     |       15        |      4      |     5      |
-|  20   |    4     |       15        |      4      |     5      |
+| Level | Cantrips | Known Spells | Spell Slots | Slot Level |
+| :---: | :------: | :----------: | :---------: | :--------: |
+|   1   |    2     |      2       |      1      |     1      |
+|   2   |    2     |      3       |      2      |     1      |
+|   3   |    2     |      4       |      2      |     2      |
+|   4   |    3     |      5       |      2      |     2      |
+|   5   |    3     |      6       |      2      |     3      |
+|   6   |    3     |      7       |      2      |     3      |
+|   7   |    3     |      8       |      2      |     4      |
+|   8   |    3     |      9       |      2      |     4      |
+|   9   |    3     |      10      |      2      |     5      |
+|  10   |    4     |      10      |      2      |     5      |
+|  11   |    4     |      11      |      3      |     5      |
+|  12   |    4     |      11      |      3      |     5      |
+|  13   |    4     |      12      |      3      |     5      |
+|  14   |    4     |      12      |      3      |     5      |
+|  15   |    4     |      13      |      3      |     5      |
+|  16   |    4     |      13      |      3      |     5      |
+|  17   |    4     |      14      |      4      |     5      |
+|  18   |    4     |      14      |      4      |     5      |
+|  19   |    4     |      15      |      4      |     5      |
+|  20   |    4     |      15      |      4      |     5      |
 
 ### Level 1: Eldritch Invocations
 
@@ -101,7 +101,7 @@ When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of you
 
 For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [[Witch Bolt]], you must spend one of those slots, and you cast it as a level 3 spell.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[Hex]] are recommended.
+**Known Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [[Charm Person]] and [[Hex]] are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 

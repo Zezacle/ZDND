@@ -4,8 +4,8 @@ tags:
   - spell-list/bard
   - spell-list/wizard
   - concentration
-  - spell-list/cleric/trickery-domain
-  - spell-list/warlock/great-old-one-patron
+  - spell-list/cleric-trickery-domain
+  - spell-list/warlock-great-old-one-patron
 school: Enchantment
 spell_level: "5"
 ritual: false

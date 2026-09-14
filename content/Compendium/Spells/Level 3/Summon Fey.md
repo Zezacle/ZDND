@@ -6,8 +6,8 @@ tags:
   - spell-list/warlock
   - spell-list/wizard
   - concentration
-  - spell-list/ranger/fey-wanderer
-  - spell-list/wizard/illusionist
+  - spell-list/ranger-fey-wanderer
+  - spell-list/wizard-illusionist
 school: Conjuration
 spell_level: "3"
 ritual: false

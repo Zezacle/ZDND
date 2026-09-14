@@ -4,8 +4,8 @@ tags:
   - spell-list/druid
   - spell-list/ranger
   - concentration
-  - spell-list/druid/circle-of-the-land/temperate
-  - spell-list/paladin/oath-of-the-ancients
+  - spell-list/druid-circle-of-the-land/temperate
+  - spell-list/paladin-oath-of-the-ancients
 school: Conjuration
 spell_level: "5"
 ritual: false

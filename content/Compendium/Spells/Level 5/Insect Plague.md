@@ -5,8 +5,8 @@ tags:
   - spell-list/druid
   - spell-list/sorcerer
   - concentration
-  - spell-list/druid/circle-of-the-land/tropical
-  - spell-list/warlock/fiend-patron
+  - spell-list/druid-circle-of-the-land/tropical
+  - spell-list/warlock-fiend-patron
 school: Conjuration
 spell_level: "5"
 ritual: false

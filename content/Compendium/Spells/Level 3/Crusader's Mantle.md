@@ -3,7 +3,7 @@ tags:
   - spell
   - spell-list/paladin
   - concentration
-  - spell-list/cleric/war-domain
+  - spell-list/cleric-war-domain
 school: Evocation
 spell_level: "3"
 ritual: false
