@@ -31,7 +31,7 @@ tags:
 ****
 
 ### Traits
-**Feature Name.** Description
+***Feature Name.*** Description
 
 ***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the creature fails a saving throw, it can choose to succeed instead.
 > [!checks|no-title]
@@ -45,11 +45,11 @@ tags:
 
 ### Actions
 
-**Melee.** Melee Attack Roll: `dice: 1d20 +X` (+#) to hit, reach # ft.
-- Hit: `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
+***Melee.*** *Melee Attack Roll:* `dice: 1d20 +X` (+#) to hit, reach # ft.
+- *Hit:* `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
 
-**Ranged.** Ranged Weapon Attack: `dice: 1d20 +X` (+#) to hit, range ##/##, single target
-- Hit: `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
+***Ranged.*** *Ranged Weapon Attack:* `dice: 1d20 +X` (+#) to hit, range ##/##, single target
+- *Hit:* `dice: xdx +x` (NdS + X) type damage. (Avg. Y)
 
 ### Bonus Actions
 

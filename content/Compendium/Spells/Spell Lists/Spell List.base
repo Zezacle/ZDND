@@ -38,11 +38,11 @@ views:
       - material_component
       - file.tags
     sort:
+      - property: school
+        direction: DESC
       - property: material_component
         direction: ASC
       - property: file.name
-        direction: ASC
-      - property: school
         direction: ASC
       - property: spell_level
         direction: DESC

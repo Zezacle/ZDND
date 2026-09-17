@@ -20,7 +20,7 @@ Halflings are a sociable and communal race. Due to their small stature, they are
 
 **Halfling Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
 
-**Luck.** When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll. You can use this ability a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [[Long Rest]].
+**Luck.** When you roll a 1 on the d20 of a [[D20 Test]], you can reroll the die, and you must use the new roll. You can use this ability a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
 **Multi-Tongued.** You can speak, but not read or write, one additional non-exotic language of your choice.
 

@@ -78,9 +78,9 @@ aliases:
 
 ### Martial Ranged
 
-| Cost  | Weapon                       |     Damage      |                                        **[[Weapon Properties]]** |  Mastery |
-| :---- | :---------------------------------- | :-------------: | ---------------------------------------------------------------: | -------: |
-| 10 GP | [[Shortbow]]                        |   1d8 piercing   |                                                   [[Ammunition]] (60/300), [[Two-Handed]] |     [[Vex]] |
-| 30 GP | [[Recurve Bow]]                     |   1d8 piercing   |                                        [[Ammunition]] (60/300), [[Quick]], [[Two-Handed]] |     [[Vex]] |
-| 20 GP | [[Longbow]]                         |  1d12 piercing   |            [[Ammunition]] (100/400), [[Finesse]], [[Heavy]], [[Sluggish]], [[Two-Handed]] |    [[Slow]] |
-| 50 GP | [[War Bow]]                         |   3d4 piercing   |              [[Ammunition]] (150/600), *Special*, [[Heavy]], [[Sluggish]], [[Two-Handed]] |    [[Push]] |
+| Cost  | Weapon          |    Damage     |                                                      **[[Weapon Properties]]** |  Mastery |
+| :---- | :-------------- | :-----------: | -----------------------------------------------------------------------------: | -------: |
+| 10 GP | [[Shortbow]]    | 1d8 piercing  |                                        [[Ammunition]] (60/300), [[Two-Handed]] |  [[Vex]] |
+| 30 GP | [[Recurve Bow]] | 1d8 piercing  |                             [[Ammunition]] (60/300), [[Quick]], [[Two-Handed]] |  [[Vex]] |
+| 20 GP | [[Longbow]]     | 1d10 piercing | [[Ammunition]] (100/400), [[Finesse]], [[Heavy]], [[Sluggish]], [[Two-Handed]] | [[Slow]] |
+| 50 GP | [[War Bow]]     | 3d4 piercing  |   [[Ammunition]] (150/600), *Special*, [[Heavy]], [[Sluggish]], [[Two-Handed]] | [[Push]] |

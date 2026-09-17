@@ -5,7 +5,7 @@ tags:
 #### [[Longbow]] (20 GP)
 *Martial Ranged, 20 GP, 2 lb.*
 
-**Damage:** 1d8 piercing
+**Damage:** 1d10 piercing
 **Mastery:** [[Slow]]
 **Properties:** 
 - [[Ammunition]] (100/400; [[Arrows|Arrow]])
