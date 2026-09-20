@@ -10,6 +10,8 @@ When you take the [[Dash]] action, you gain extra movement for the current turn.
 If you have a special speed, such as a [[Flying|Fly Speed]] or [[Swimming|Swim Speed]], you can use that speed instead of your Speed when you take this action. You choose which speed to use each time you take it.
 
 #### As a Bonus Action
-When you take the [[Dash]] action, you gain extra movement for the current turn. The increase equals half your [[Speed]] (rounded down 5 feet) after applying any modifiers. With a Speed of 30 feet, for example, you can move up to 45 feet on your turn if you Dash as a Bonus Action. If your Speed of 30 feet is reduced to 15 feet, you can move up to 20 feet this turn if you Dash as a Bonus Action.
+When you take the [[Dash]] Bonus Action, you gain extra movement for the current turn. The increase equals half your [[Speed]] (rounded down 5 feet) after applying any modifiers. With a Speed of 30 feet, for example, you can move up to 45 feet on your turn if you Dash as a Bonus Action. If your Speed of 30 feet is reduced to 15 feet, you can move up to 20 feet this turn if you Dash as a Bonus Action.
 
 If you have a special speed, such as a [[Flying|Fly Speed]] or [[Swimming|Swim Speed]], you can use that speed instead of your Speed when you take this bonus action. You choose which speed to use each time you take it.
+
+You cannot take the Dash Bonus Action in the same turn you take the [[Sprint]] Action.

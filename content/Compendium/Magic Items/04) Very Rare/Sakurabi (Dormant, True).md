@@ -2,7 +2,7 @@
 tags:
   - new
   - magicitem/very_rare
-password: Ryoichi
+password: ouch
 unlisted: true
 ---
 *[[Longsword]], Very Rare*
@@ -17,6 +17,8 @@ unlisted: true
 **Masterwork.** You have a +1 bonus to attack rolls and damage rolls made with this [[+1 Weapon]].
 
 **Searing Grip.** Every time you deal damage with this weapon, the grip sears your hands and you take 1 Fire damage.
+
+1/10
 
 #### Katana (Longsword)
 **Mastery:** [[Sap]]

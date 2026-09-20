@@ -4,7 +4,7 @@ tags:
 aliases:
   - Death Saving Throws
 ---
-Whenever you start your turn with 0 [[Hit Points]] and are [[Dying]], you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn't tied to an ability score. You're in the hands of fate now.
+ saving throw saving throw saving throw saving throw saving throwWhenever you start your tu saving throwit Points]] and are [[Dying]], you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn't tied to an ability score. You're in the hands of fate now.
 
 ***Three Successes/Failures.*** Roll 1d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become [[Stable]]. On your third failure, you [[Dead|die]]. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any [[Hit Points]] or become [[Stable]].
 

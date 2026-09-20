@@ -50,7 +50,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > 
 > ## Traits
 > **Heated Body (Metal Only).** A creature that hits the spirit with a melee attack or that starts its turn in a grapple with the spirit takes 1d10 Fire damage.
-> **Stony Lethargy (Stone Only).** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can't make [[Opportunity Attacks]], and its [[Speed]] is halved.
+> **Stony Lethargy (Stone Only).** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom saving throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can't make [[Opportunity Attacks]], and its [[Speed]] is halved.
 > 
 > ## Actions
 > **Multiattack.** The spirit makes a number of Slam attacks equal to half this spell's level (round down).

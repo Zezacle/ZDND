@@ -21,6 +21,7 @@ On your turn in combat, you can take one action. Choose which action to take fro
 - [[Magic]] - Cast Spells and use other forms of Magic
 - [[Ready]] - Delay a different action until a triggering circumstance is met
 - [[Search]] - Use your senses to look for something
+- [[Sprint]] - Risk [[Exhaustion]] for maximum speed
 - [[Study]] - Attempt to understand or recall something
 - [[Utilize]] - Interact with something
 

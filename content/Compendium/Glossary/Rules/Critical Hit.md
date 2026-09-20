@@ -18,7 +18,7 @@ Critical Hits deal the maximum roll of the attack's damage dice, plus one of the
 | Lightning         | Permanently reduce [[Evasion Class\|EC]] by 2                                                               |
 | Necrotic          | Inflict a level of [[Bleeding]]                                                                             |
 | Piercing          | Permanently reduce [[Armor Class\|AC]] by 1                                                                 |
-| Poison            | Inflict [[Poisoned]]: DC 15 Constitution Saving Throw at the end of each of target's turns to end condition |
+| Poison            | Inflict [[Poisoned]]: DC 15 Constitution saving throw at the end of each of target's turns to end condition |
 | Psychic           | Inflict [[Blinded]] until start of your next turn                                                           |
 | Radiant           | Inflict [[Blinded]] until start of your next turn                                                           |
 | Slashing          | Inflict a level of [[Bleeding]]                                                                             |

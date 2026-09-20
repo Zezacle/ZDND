@@ -15,16 +15,16 @@ It is assumed that through travelling or shopping, Tudek collects the necessary 
 #### Effects
 ##### Tudek
 Accustomed to it's effects, Tudek is less hindered by the effects of Mudbrew, but they don't last as long.
-- Advantage on Strength Checks and Saving Throws for 30 minutes.
-- Advantage on Charisma Checks and Saving Throws for 30 minutes.
+- Advantage on Strength Checks and saving throws for 30 minutes.
+- Advantage on Charisma Checks and saving throws for 30 minutes.
 - Roll a d4, receive one of the effects for 30 minutes.
 	- 1: -1 Dexterity
 	- 2: -1 Intelligence
 	- 3-4: No ill effect
 
 ##### Not Tudek
-Roll a DC 10 Constitution Saving Throw. On a failure, you vomit up the Mudbrew, and suffer no positive or negative effects. If the creature is a [[Lizardfolk]], [[Turtlefolk]] or species of Goblinoid, they automatically succeed.
-- Advantage on Strength Checks and Saving Throws for 1 hour.
+Roll a DC 10 Constitution saving throw. On a failure, you vomit up the Mudbrew, and suffer no positive or negative effects. If the creature is a [[Lizardfolk]], [[Turtlefolk]] or species of Goblinoid, they automatically succeed.
+- Advantage on Strength Checks and saving throws for 1 hour.
 - Roll a d4, receive one of the effects for 1 hour.
 	- 1: -1 Dexterity
 	- 2: -1 Intelligence

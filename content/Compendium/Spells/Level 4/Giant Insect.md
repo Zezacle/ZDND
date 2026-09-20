@@ -58,4 +58,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ### Bonus Actions
 
-***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [[Poisoned]] condition until the start of the insect's next turn.
+***Venomous Spew (Centipede Only).*** *Constitution saving throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [[Poisoned]] condition until the start of the insect's next turn.

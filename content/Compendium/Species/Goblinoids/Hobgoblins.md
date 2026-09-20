@@ -18,7 +18,7 @@ Capable of greater discipline than their other Goblinoid cousins, Hobgoblins are
 
 **Darkvision.** You have [[Darkvision]] with a range of 30 feet.
 
-**Steadfast.** You gain proficiency in one Saving Throw of your choice.
+**Steadfast.** You gain proficiency in one saving throw of your choice.
 
 **Saving Face.** Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 

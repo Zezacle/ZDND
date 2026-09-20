@@ -48,7 +48,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > **CR** None (PB equals your Proficiency Bonus)
 > 
 > ## Traits
-> **Festering Aura (Putrid Only).** Constitution Saving Throw: DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [[Emanation]] originating from the spirit. Failure: The creature has the [[Poisoned]] condition until the start of its next turn.
+> **Festering Aura (Putrid Only).** Constitution saving throw: DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [[Emanation]] originating from the spirit. Failure: The creature has the [[Poisoned]] condition until the start of its next turn.
 > **Incorporeal Passage (Ghostly Only).** The spirit can move through other creatures and objects as if they were [[Difficult Terrain]]. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.
 > 
 > ## Actions

@@ -50,7 +50,7 @@ The creature is an ally to you and your allies. In combat, it shares your Initia
 > 
 > ## Traits
 > **Regeneration (Slaad Only).** The spirit regains 5 [[Hit Points]] at the start of its turn if it has at least 1 Hit Point.
-> **Whispering Aura (Mind Flayer Only).** At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the [[Incapacitated]] condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage.
+> **Whispering Aura (Mind Flayer Only).** At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the [[Incapacitated]] condition. *Wisdom saving throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage.
 > 
 > ## Actions
 > **Multiattack.** The spirit makes a number of attacks equal to half this spell's level (round down).

@@ -49,7 +49,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > **CR** None (PB equals your Proficiency Bonus)
 > 
 > ## Traits
-> **Death Throes (Demon Only).** When the spirit drops to 0 [[Hit Points]] or the spell ends, the spirit explodes. Dexterity Saving Throw: DC equals your spell save DC, each creature in a 10-foot [[Emanation]] originating from the spirit. Failure: 2d10 plus this spell's level Fire damage. Success: Half damage.
+> **Death Throes (Demon Only).** When the spirit drops to 0 [[Hit Points]] or the spell ends, the spirit explodes. Dexterity saving throw: DC equals your spell save DC, each creature in a 10-foot [[Emanation]] originating from the spirit. Failure: 2d10 plus this spell's level Fire damage. Success: Half damage.
 > **Devil's Sight (Devil Only).** Magical [[Darkness]] doesn't impede the spirit's [[Darkvision]].
 > **Magic Resistance.** The spirit has [[Advantage]] on saving throws against spells and other magical effects.
 > 

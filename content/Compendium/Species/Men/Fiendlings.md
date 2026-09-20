@@ -25,7 +25,7 @@ Sometimes fiends will attempt to impart their chaos upon mortal races. Men are t
 - **Level 3:** [[Hellish Rebuke]]
 - **Level 5:** [[Emit Darkness]]
 
-**Infernal Resistance.** You have [[Resistance]] to Fire damage. You have [[Advantage]] on Saving Throws against Psychic damage.
+**Infernal Resistance.** You have [[Resistance]] to Fire damage. You have [[Advantage]] on saving throws against Psychic damage.
 
 **Multi-Tongued.** You can speak, but not read or write, one additional non-exotic language of your choice.
 

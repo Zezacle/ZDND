@@ -26,7 +26,7 @@
 
 | Stat        |         | Passives          |     |
 | ----------- | ------- | ----------------- | --- |
-| **Health**  | 44      | **Perception**    | 12  |
+| **Health**  | 52      | **Perception**    | 12  |
 | **Defense** | 10 - 11 | **Investigation** | 11  |
 |             |         | **Insight**       | 12  |
 

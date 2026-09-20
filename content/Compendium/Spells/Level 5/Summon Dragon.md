@@ -53,4 +53,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > ## Actions
 > **Multiattack.** The spirit makes a number of Rend attacks equal to half the spell's level (round down), and it uses Breath Weapon.
 > **Rend.** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 feet. *Hit:* 1d6 + 4 + the spell's level Piercing damage.
-> **Breath Weapon.** *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [[Cone]]. *Failure:* 2d6 damage of a type this spirit has [[Resistance]] to (your choice when you cast the spell). *Success:*  Half damage.
+> **Breath Weapon.** *Dexterity saving throw:* DC equals your spell save DC, each creature in a 30-foot [[Cone]]. *Failure:* 2d6 damage of a type this spirit has [[Resistance]] to (your choice when you cast the spell). *Success:*  Half damage.

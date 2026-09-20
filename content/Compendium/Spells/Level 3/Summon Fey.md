@@ -57,5 +57,5 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 > ## Bonus Actions
 > **Fey Step.** The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit's chosen mood:
 > **Fuming.** The spirit has [[Advantage]] on the next attack roll it makes before the end of this turn.
-> **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [[Charmed]] by you and the spirit for 1 minute or until the target takes any damage.
+> **Mirthful.** *Wisdom saving throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [[Charmed]] by you and the spirit for 1 minute or until the target takes any damage.
 > **Tricksy.** The spirit fills a 10-foot [[Cube]] within 5 feet of it with magical [[Darkness]], which lasts until the end of its next turn.
