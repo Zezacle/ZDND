@@ -40,3 +40,4 @@ tags:
 - **Damage Resistance:** [[Resistance]] against Bludgeoning, Piercing and Slashing damage.
 - **Extra Damage:** +2 damage on hit.
 - **Strength Advantage:** [[Advantage]] on Strength checks and Strength saving throws.
+.

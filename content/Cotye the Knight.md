@@ -47,3 +47,4 @@ tags:
 
 ***[[Divine Smite]].*** On melee hit expend a spell slot to deal an additional 2d8 Radiant damage. Upcasting adds 1d8 / additional slot level.
 
+.

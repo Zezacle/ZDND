@@ -40,3 +40,5 @@ tags:
 ### Reactions
 
 ***Evasive Maneuver.*** When an ally within 60 ft. of Herris is hit by an attack, he may use his Reaction and spend an Insight to roll a d8 and increase the creature's EC and AC against that attack by an amount equal to the number he roll.
+
+.
