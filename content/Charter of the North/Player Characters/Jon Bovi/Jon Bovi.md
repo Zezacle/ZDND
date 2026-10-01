@@ -1,3 +1,6 @@
+---
+draft: true
+---
 #### Male [[Godkin]]
 
 ### Level 5 [[College of Valor]] | [[Bard]] [[Bard Spell List|(Spell List)]]

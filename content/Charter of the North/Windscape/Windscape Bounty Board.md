@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 ## Barracks Bounty Office
 The Bounty Board is located just inside the Northeastern entrance to the Windscape Keep's Barracks building. The bounties posted here are issued by the Barony, as part of their ongoing efforts to expand the Kingdom's influence in the North.
