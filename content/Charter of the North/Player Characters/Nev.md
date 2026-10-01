@@ -1,13 +1,13 @@
 #### Female [[Harefolk]]
 
-### Level 6 [[Warrior of the Open Hand]] [[Monk]]
+### Level 6 [[Warrior of the Open Hand]] | [[Monk]]
 0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
 +1 [[Meteor Hammer]]
 
 #### Armor
--
+None
 
 #### Other Magic Items
 [[Ring of Water Walking]]

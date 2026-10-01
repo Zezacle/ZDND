@@ -23,6 +23,7 @@ views:
     filters:
       and:
         - file.hasTag("spell")
+        - '!file.hasTag("spell-list/warlock")'
     groupBy:
       property: spell_level
       direction: ASC

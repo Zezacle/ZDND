@@ -36,7 +36,7 @@
 **Reward:** +1 Keystone, Mudshine Recipe
 - **Time:** 40 hours
 - **Difficulty:** 15
-- Progress: 0 hours
+- Progress: 4 hours
 
 #### Mudbrew Bulk Order
 Captain Hulweh will return to Windscape's Dock in 3-4 weeks expecting 20 (minimum) Jugs of [[Mudbrew]], paying 10 GP / Jug

@@ -46,7 +46,7 @@ aliases:
 | 10 GP | [[Battleaxe]], 1h |   1d8 slashing   |                                                                [[Vicious]], [[Versatile]] |  [[Topple]] |
 | 10 GP | [[Battleaxe]], 2h |  1d10 slashing   |                                     [[Siege]], [[Two-Handed]], [[Vicious]], [[Versatile]] |  [[Topple]] |
 | 75 GP | [[Claymore]]      |   3d4 slashing   |                                        [[Heavy]], [[Reach]], [[Sluggish]], [[Two-Handed]] |   [[Graze]] |
-| 10 GP | [[Flail]]         | 2d4 bludgeoning  |                                                                      *Special*, [[Heavy]] |     [[Sap]] |
+| 10 GP | [[Flail]]         | 1d8 bludgeoning  |                                                                      *Special*, [[Heavy]] |     [[Sap]] |
 | 20 GP | [[Glaive]]        |  1d12 slashing   |                                                      [[Heavy]], [[Reach]], [[Two-Handed]] |   [[Graze]] |
 | 30 GP | [[Greataxe]]      |  1d12 slashing   |                                         [[Heavy]], [[Siege]], [[Two-Handed]], [[Vicious]] |  [[Cleave]] |
 | 50 GP | [[Greatsword]]    |   2d6 slashing   |                                                                 [[Heavy]], [[Two-Handed]] |   [[Graze]] |

@@ -47,7 +47,7 @@ It is recommended that your highest score be the **Primary Ability Score** of yo
 
 *(You may wish to take your racial bonuses into account to make the most of an Ability Score!)*
 
-#### Standard Array
+#### [[Standard Array]]
 The Standard Array is a set of numbers that you assign to ability scores as you see fit. The numbers are: **15, 14, 13, 12, 10 and 8.**
 
 #### Point Buy

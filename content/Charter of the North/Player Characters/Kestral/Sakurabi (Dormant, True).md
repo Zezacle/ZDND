@@ -1,7 +1,7 @@
 ---
 tags:
   - new
-  - magicitem/very_rare
+  - magicitem
 password: ouch
 unlisted: false
 ---
