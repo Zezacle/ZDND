@@ -1,3 +1,6 @@
+---
+password: god2
+---
 You play Ryoichi, an Onibi (Fire Demon) from Muspelheim (Infernal Realm) contracted by the Slayer (Grim's Warlock Patron) to aid in his growth of power.
 
 Ryoichi believes Kestrel (Grim's character) to be weak and unworthy of the task of slaying the last of the Aesir Gods. (Infernals are a kind of Jotun, Aesir and old Jotuns hate each other).

@@ -1,7 +1,7 @@
 ---
 tags:
   - creature
-unlisted:
+unlisted: true
 ---
 # Ryoichi
 *Medium Fiend (Demon), Chaotic Evil*

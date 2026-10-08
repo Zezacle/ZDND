@@ -1,7 +1,7 @@
 ---
 tags:
   - creature
-unlisted:
+unlisted: true
 ---
 # Ryoichi
 *Huge Fiend (Demon), Chaotic Evil*
