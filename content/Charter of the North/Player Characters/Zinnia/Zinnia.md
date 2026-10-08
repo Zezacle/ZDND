@@ -33,4 +33,7 @@
 ### Active Downtime Tasks
 
 #### Learning Undercommon
-**Reward:**
+**Reward:** Undercommon 
+- **Time:** 80 hours
+- **Difficulty:** 15
+- Progress: 44 hours

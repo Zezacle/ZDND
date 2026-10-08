@@ -36,15 +36,15 @@
 **Reward:** +1 Keystone, Mudshine Recipe
 - **Time:** 40 hours
 - **Difficulty:** 15
-- Progress: 4 hours
+- Progress: 16 hours
 
 #### Mudbrew Bulk Order
 Captain Hulweh will return to Windscape's Dock in 3-4 weeks expecting 20 (minimum) Jugs of [[Mudbrew]], paying 10 GP / Jug
 - **Difficulty:** 15 (Breakthoughs add progress to Mudshine)
-- **Progress:** 1 / 20 Jugs
+- **Progress:** 14 / 20 Jugs
 
 #### Fry am the Egg Man!
 **Reward:** Baby Gator?
 - Time: ??
 - Difficulty: ??
-- Progress: 8 hours
+- Progress: 36 hours

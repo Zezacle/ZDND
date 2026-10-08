@@ -56,7 +56,6 @@ You regain all expended uses of Slayer's Spirit, and the available effects are a
 #### Possessed Soul
 You have [[Immunity]] to the [[Charmed]] condition.
 
-
 Once this feature's effects end, you gain a level of [[Exhaustion]] and you cannot use this feature again until you finish a [[Long Rest]].
 
 Starting at 18th level, you no longer suffer [[Exhaustion]] from using this feature.

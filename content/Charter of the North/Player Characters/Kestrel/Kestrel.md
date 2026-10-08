@@ -1,10 +1,10 @@
 #### Male [[Humans|Human]]
 
-### Level 5 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List.base|(Spell List)]]
-2/3 [[Keystones Progression|Keystones]]
+### Level 6 [[WIP - Fallen Slayer (Warlock Subclass)|Fallen Slayer]] | [[Warlock]] [[Warlock Spell List.base|(Spell List)]]
+0/3 [[Keystones Progression|Keystones]]
 
 #### Weapons
-[[Arming Sword]] (Pact of the Blade)
+[[Sakurabi (Dormant)]]
 
 #### Armor
 [[Hide Armor]]
@@ -31,14 +31,8 @@ Ornate [[Tattooist's Tools]]
 
 | Stat        |       | Passives          |     |
 | ----------- | ----- | ----------------- | --- |
-| **Health**  | 53    | **Perception**    | 13  |
+| **Health**  | 63    | **Perception**    | 13  |
 | **Defense** | 15-17 | **Investigation** | 13  |
 | Shield      | Yes   | **Insight**       | 10  |
 
 ### Active Downtime Tasks
-
-#### Understanding Runic Tattoos
-**Reward:** +1 Keystone
-- **Time:** 32 hours
-- **Difficulty:** 14
-- Progress: 28 hours
